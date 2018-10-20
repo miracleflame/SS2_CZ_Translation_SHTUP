@@ -1,0 +1,240 @@
+EmailName15:"POLITOVA 12.CVC.14\nre: Poskozeni lodi\n"
+EmailPortrait15:"Polito"
+EmailIcon15:"OpsIcon"
+EmailText15:"Pozor... Z radarove anteny za oknem prichazeji nejake zvlastni udaje.  Stava se nestabilni protoze...  Utikej!  Kryj se!\n"
+
+
+EmailName1:"POLITOVA 12.CVC.14\nre: Pokles tlaku v sektoru\n"
+EmailPortrait1:"Polito"
+EmailIcon1:"OpsIcon"
+EmailText1:"V celem sektoru se snizuje tlak a modre vakuove stity to uz dlouho nevydrzi.  Dostan se za hermeticky uzaver driv, nez te to vysaje do vesmiru.  Delej!\n"
+
+
+EmailName2:"POLITOVA 12.CVC.14\nre: Vstupni kody\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Nektere z dveri jsou zamceny kodovymi zamky.  Telo lezici pred tebou patrilo udrzbari tohoto sektoru.  Mozna ma ten ciselny kod u sebe.  Nebud haklivy a prohledej jeho telo.  Jemu to uz vadit nebude.\n"
+
+
+EmailName9:"POLITOVA 12.CVC.14\nre: Vybity clanek\n"
+EmailPortrait9:"Polito"
+EmailIcon9:"OpsIcon"
+EmailText9:"Ten clanek je vybity.  Nekde pobliz by mela byt dobijeci stanice...  pouzij ji a ona dobije vsechny energeticke zarizeni ktere mas u sebe.  Az clanek nabijes, vloz ho do zalozniho napajeni u dveri.  Tim by se mel otevrit hermeticky uzaver.  Pospes si s tim, vakuova tesneni uz to dele nevydrzi.\n"
+
+
+EmailName21:"POLITOVA 12.CVC.14\nre: Vylepsovani\n"
+EmailPortrait21:"Polito"
+EmailIcon21:"OpsIcon"
+EmailText21:"Vyborne!  Dostal jsi se pryc driv, nez cely prostor ztratil tlak.   Pridala jsem ti nekolik kybernetickych modulu.  Muzes je pouzit ke zlepseni tve kyberneticke vybavy pomoci zlepsovacich jednotek.  Ve vedlejsi mistnosti jsou jich ctyri druhy - pro kazdy subsystem tveho kybernetickeho vybaveni: Stats, PSI, Zbrane a Tech.   Ale pouzivej moduly s rozvahou... tezko se obstaravaji.\n"
+
+
+EmailName13:"POLITOVA 12.CVC.14\nre: Vylepsovaci jednotky\n"
+EmailPortrait13:"Polito"
+EmailIcon13:"OpsIcon"
+EmailText13:"Tyto kyberneticke moduly se pouzivaji ke vylepsovani jednotlivych subsystemu tvych neuralnich vylepseni.  Pamatuj, jsou 4 ruzne druhy vylepsovacich jednotek, takze nevyplytvej vsechny sve moduly u jedine - tedy pokud jsi nejsi opravdu jist ze chces zlepsit svuj hardware jenom v jedne oblasti.\n"
+
+
+EmailName3:"POLITOVA 12.CVC.14\nre: Zablokovane vytahy\n"
+EmailPortrait3:"Polito"
+EmailIcon3:"OpsIcon"
+EmailText3:"Ten nanicovaty pocitac Xerxes odpojil i vsechny vytahy.  V blizkosti reaktoru, na 1. palube, bys mohl zapojit nouzove napajeni, ktere by je vsechny zase zprovoznilo.  Jenze vytahem se tam ted nedostanes.  Pockat...  je tady nejaky druh udrzbarskeho pristupu, prave z teto chodby.  Tudy bys se mohl dostat na 1. palubu.  Jenze vstup je zamcen a Xerxes mi nechce prozradit vstupni kod.  Mel by ho ale mit i Dr. Watts.  Bude nejspis nekde v odeleni pro posadku.  Vstupni kartu tam ma Grassi, ale ten je zase nekde v lekarskych prostorech, zrejme pobliz pitevny.  Bez co nejdriv do prostoru Kliniky a najdi Grassiho.\n"
+
+
+EmailName17:"POLITOVA 12.CVC.14\nre: Napajeni dveri\n"
+EmailPortrait17:"Polito"
+EmailIcon17:"OpsIcon"
+EmailText17:"Sakra!  Vypadek napajeni vyradil i dvere teto prepazky.  Je jen jeden zpusob, jak se dostat do lekarskeho oddeleni.  Vezmi clanek, lezici na podlaze, a najdi dobijeci stanici.  Obavam se ze ta, kterou jsi pouzil predtim je uz vakuu, ale na teto palube by mel byt jeste jeden.  Az ten clanek nabijes, vloz ho do zalozniho napajeni.\n"
+
+
+EmailName19:"POLITOVA 12.CVC.14\nre: Biorekonstruce\n"
+EmailPortrait19:"Polito"
+EmailIcon19:"OpsIcon"
+EmailText19:"Na vetsine palub muzes najit biorekonstrukcni zarizeni.  Xerxes je vsechny odpojil, ale ja jsem je zase zapojila.  Zarizenie musis aktivovat, abys mu poskytl soubor tkanovych vzorku.  Az to udelas, bude toto zarizeni schopno restaurovat tve telo i z nepatrneho zbytku.  Neni to sice nic prijemneho, ale stale lepsi, nez pomaly rozklad.\n"
+
+
+EmailName10:"POLITOVA 12.CVC.14\nre: Bezpecnostni system\n"
+EmailPortrait10:"Polito"
+EmailIcon10:"OpsIcon"
+EmailText10:"Xerxes kontroluje bezpecnostni systemy.  Vyhybej se kameram, nebo je znic.  Pokud na to stacis, muzes hackovat bezpecnostni pocitace, cimz se kamery na cas vypnou.  Ale pozor, pokud sto spackas, spusti se poplach.  A jako mrtvola mi nejsi k nicemu.\n"
+
+
+EmailName22:"POLITOVA 12.CVC.14\nre: Chemicke sklady\n"
+EmailPortrait22:"Polito"
+EmailIcon22:"OpsIcon"
+EmailText22:"Na kazde palube je umisten chemicky sklad, kde muzes najit chemikalie, potrebne k vyzkumu nalezenych artefaktu.  Nesnaz se u sebe nosit vsechny chemikalie najednou.  Je to neprakticke a zbytecne.  Tvuj vyzkumny software ti vzdy vcas sdeli, kterou chemikalii potrebuje.\n"
+
+
+EmailName4:"POLITOVA 12.CVC.14\nre: Wattsova karta\n"
+EmailPortrait4:"Polito"
+EmailIcon4:"OpsIcon"
+EmailText4:"Vyborne.  Dostal jsi se na Kliniku.  Najdi Grassiho a ziskej vstupni kartu do sektoru posadky.  Grassi se staral o tvuj kryogenicky spanek, tak se mozna bude chtit k tebe pridat...  pokud ovsem neni na kousky.\n"
+
+
+EmailName7:"POLITOVA 12.CVC.14\nre: Karta do R&D\n"
+EmailPortrait7:"Polito"
+EmailIcon7:"OpsIcon"
+EmailText7:"Fajn.  Uz jsi v sektoru posadky.  Ted najdi kajutu Dr. Wattse...\n"
+
+
+EmailName20:"POLITOVA 12.CVC.14\nre: Duchove\n"
+EmailPortrait20:"Polito"
+EmailIcon20:"OpsIcon"
+EmailText20:"Mozna se stanes svedkem zvlastniho jevu.  Tve experimentalni kyberneticke vybaveni tridy R ma zesilene vnimani, ktere by teoreticky mohlo zachytit zbytky psychickych emisi.  Tyto emise obvykle pochazeji od nedavno zemrelych.  Literatura je oznacuje jako duchy.  Ja jim rikam autohypnoticke poruchy v jednotce R.  Nenecht se jimi rozptylovat pri tvem poslani.\n"
+
+
+EmailName5:"POLITOVA 12.CVC.14\nre: Hackovani replikatoru\n"
+EmailPortrait5:"Polito"
+EmailIcon5:"OpsIcon"
+EmailText5:"Muzes hackovat i replikatory, cimz ziskas nadstandardni predmety.  Vyuzij to.  Vyuzij jakoukoliv moznost, abys se dostal na 4. palubu.  Tohle neni hra.\n"
+
+
+EmailName18:"POLITOVA 12.CVC.14\nre: Karta R&D\n"
+EmailPortrait18:"Polito"
+EmailIcon18:"OpsIcon"
+EmailText18:"Watts tu neni.  Nejspis bude ve sve pracovne v sektoru R&D.  Ale mozna, ze tu ma nekde zalozni R&D kartu.  Rozhledni se kolem.\n"
+
+
+EmailName14:"POLITOVA 12.CVC.14\nre: Najdi Dr. Wattse\n"
+EmailPortrait14:"Polito"
+EmailIcon14:"OpsIcon"
+EmailText14:"Dr. Watts je ve sve pracovne a stale zije.  Mel by znat pristupovy kod udrzbarske sachty.  Pospes si, je tezce zranen.  Nenech ho umrit, dokud ti nerekne to cislo!\n\n"
+
+
+EmailName6:"POLITOVA 12.CVC.14\nre: Pristup na 1. palubu\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"Neztracej cas samochvalou.  Slez sachtou dolu do Techniky a znovu spust hlavni Reaktor.  Obnovis tim napajeni vytahu a budes konecne schopen se dostat na 4. palubu.  Do toho!\n"
+
+
+LogName32:"Chemicky zaznam:\nMedi/Veda\n"
+LogPortrait32:"Chem"
+LogIcon32:"MedIcon"
+LogText32:"Inventar laboratorniho skladu: Medi/Veda mistnost 143\n\nAntimon (Sb) : 2\nBarium (Ba) : 1\nKalifornium (Cf) : 2\nFermium (Fm) : 2\nGallium (Ga) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnicium (Tc) : 1\nTellur (Te) : 2\nYttrium (Y) : 2\n\nTento inventurni seznam je vyzadovan bezpecnostni vyhlaskou UNN #134882 o skladech nebezpecnych chemikalii.  \"Sklad\" je definovan vyhlaskou UNN #195331 o vsech prostorach obsahujicich nebezpecne chemikalie (viz predpis #093355) ulozene v mnozstvi vetsim, nez 50g na 10 ctverecnych stop a trvani delsim nez 24 hodin.\n"
+
+
+LogName18:"DIEGO 17.BRE.14\nre: Mam toho dost\n"
+LogPortrait18:"Diego"
+LogIcon18:"RickIcon"
+LogText18:"To: Korenchkin, Anatoly\nAnatolyi, ja opravdu vydrzim hodne nez se stanu precitlivelym, ale co je moc to je moc - takze to reknu jednoduse a uprimne.  Nemame radi jeden druheho.  Kazdy z nas mame sve vlastni duvody k prevzeti teto mise, takze vam dam male varovani.  Nenecham se obejit, nenecham se oklamat, nenecham se zmanipulovat a nenecham se koupit.  Jednejte se mnou na rovinu a sve rafinovane manipulace si schovejte pro pristi schuzi Rady.  Fakt ze se muj otec nechal zkorumpovat neznamena ze se necham i ja.\n" 
+
+
+LogName21:"DELACROIX 04.DUB.14\nre: Xerxes\n"
+LogPortrait21:"Delacroix"
+LogIcon21:"EngIcon"
+LogText21:"Proc me jen nikdo neposloucha?  Bezpecnostni protokoly Xerxesova systemu nestoji za nic.  Nejaky idiot se minulou noc naboural do primarni databaze a primel Xerxese zpivat pisne Elvise Presleyho pres tri hodiny.  Nakonec jsem musela odpojit cely hlasovy subsystem.  Co by se mohlo stat, kdyby se do nej dostal nekdo se skutecnym planem?\n"
+
+
+LogName22:"GRASSI 12.KVE.14\nre: Zatraceny opice\n"
+LogPortrait22:"Grassi"
+LogIcon22:"MedIcon"
+LogText22:"Koho skvely napad to byl, prinest na palubu 150 opic?  Ze zajem vedy?  A co takhle zajem hygieny?  Dokaze si nekdo predstavit, kolik sracek denne nadela 150 laboratornich opic?  Chudaci opice... nalodili je na palubu nejuzasnejsi vypravy v historii, aby je nakonec ve jmenu pokroku rozkrajeli na maly kousky.\n"
+
+
+LogName6:"KORENCHKIN 14.CVN.14\nre: Prvni kontakt\n"
+LogPortrait6:"Korench"
+LogIcon6:"ComIcon"
+LogText6:"To: Zhukov, Vladimir\nZaznamenali jsme vysilani z povrchu Tau Ceti 5.  Vyjednaval jsem s kapitanem Diegem z Rickenbackeru a po jistem...  natlaku svolil k vysadku na planetu, coby spolecne akci.  Predstav si, ze by se tato historicka mise stala jeste vice historickou.  Prvni kontakt!  A kdo by ziskal vyhradni prava pro vsechna media, patenty a granty ?  TriOptimum!  Miro, rikam ti, ze to bude stat za to.\n"
+
+
+LogName19:"SUAREZ 20.CVN.14\nre: 100% muceni\n"
+LogPortrait19:"Suarez"
+LogIcon19:"RickIcon"
+LogText19:"To: Sidonsova, Rebecca\nWow... ty jsi uzasna, vis to?  Snazil na tebe nemyslet.  Ja pitomec.  Miluju te Rebecco.  A uz mam plan.  Presvedcoval jsem kapitana, aby me prelozil z Rickenbackera do spolupracujiciho timu na Von Braunovi.  Zanedlouho nas od sebe uz nic nerozdeli.\n"
+
+
+LogName1:"GRASSI 20.CVN.14\nre: Sama prace, zadna zabava\n"
+LogPortrait1:"Grassi"
+LogIcon1:"MedIcon"
+LogText1:"Okolo 04:30 me zavolali, abych pomohl vylozit cluny co se vratily z Tau Ceti.  Korenchkin u toho byl sam.  Jezisi, co se to s nim stalo?  Ztratil vetsinu vlasu a kdybyste videli ty boule po stranach jeho krku...  A ten zapach...  Rekl jsem mu, ze by mel vyhledat Dr Wattse, ale odsekl, at se staram sam o sebe.  Tak fajn, la-di-da.\n"
+
+
+LogName12:"POLITOVA 25.CVN.14\nre: Zvlastni UI\n"
+LogPortrait12:"Polito"
+LogIcon12:"OpsIcon"
+LogText12:"To: Delacroix, Dr. Marie\nMarie... Je mi lito, ze jsem nebyla k zastizeni, ale pracovala jsem na tom artefaktu, ktery Bayliss privezl z Tau Ceti 5.  Udelala jsem analyzu 3. stupne...  Myslim, ze je to nejaky druh Umele Inteligence.  Dokazala jsem z jeji pameti vytahnout zvukovy soubor...  Posouzeni necham na tobe Marie...   Ale ja myslim, ze mluvi anglicky...\n"
+
+
+LogName23:"GRASSI 26.CVN.14\nre: Zvireci prava?\n"
+LogPortrait23:"Grassi"
+LogIcon23:"MedIcon"
+LogText23:"Jakmile jsme dosahli Tau Ceti, zacaly se laboratorni opice chovat divne.  Sestra Loesserova jednu vytahla z klece, aby ji odnesla k vivisekci a ty ostatni, myslim tim celou skupinu, se postavily na zadni a zacaly skucet.  To nebyl jen nejaky nahodny ukaz, to byl protest.\n"
+
+
+LogName24:"WATTS 30.CVN.14\nre: Nesmysl\n"
+LogPortrait24:"Watts"
+LogIcon24:"MedIcon"
+LogText24:"To: Loesserova, Angela\nAngelo, i kdyz se vam muze zdat, ze laboratorni opice komunikuji jedna s druhou, rucim za to, ze je to zhola nemozne.  Tvrdite, ze jedna z opic predala vstupni kod od komory s jidlem jine opici, a ta ho pak pouzila k otevreni.  Jak jiste vite, v literature jsou tisice studii inteligence primatu, ale nikde neni zminka ani vzdalene podobna takto dumyslnemu chovani.  Budto jste vlastnorucne pokorila cele siroke pole odborniku na zvireci chovani, nebo zoufale nutne potrebujete dovolenou.\n"
+
+
+LogName9:"WATTS 01.CVN.14\nre: Pacient Watson\n"
+LogPortrait9:"Watts"
+LogIcon9:"MedIcon"
+LogText9:"Od te doby, co se vratil z povrchu Tau Ceti 5, prochazi pacient mnozstvim neobvyklych zmen. Dokazuji to zanicene vyrustky na uzlinach a pritomnost velkeho cervoviteho parazita.  Dnes rano tento parazit prorazil pacientovu hrud...  primo zevnitr...  a jednim svym koncem se prichytil k pacientovu celu.  Kdybych ho odstranil, mohl bych ho zabit.  Kdyz ho ale necham...  Konecna diagnoza: Nemam tuseni.  Rad bych to probral s Madorskym z CDC, ale ten je bohuzel 67 trilionu mil odsud.\n"
+
+
+LogName15:"CURTIZ 02.CVC.14\nre: Antiradiacni sera\n"
+LogPortrait15:"Curtiz"
+LogIcon15:"EngIcon"
+LogText15:"Lekarske oddeleni vravi ze replikovali celou kopu antiradiacnich ser.  Seberu je a rozdam technickemu personalu driv, nez nekoho napadne neco jineho.  Watts me take vybidl, abych zkontroloval replikator v odpocivarne posadky...  Prej ze je to raj hackeru.\n"
+
+
+LogName4:"CURTIZ 06.CVC.14\nre: Unik chladiva\n"
+LogPortrait4:"Curtiz"
+LogIcon4:"EngIcon"
+LogText4:"To: Delacroix, Dr. Marie\nMarie, musel jsem zakazat pristup do Techniky, dokud neprijdeme na to co tam dole delat.  Je tam prilis horko.  Nevim, kam se podely vsechny ochranne obleky, takze jedine tam muzu prinest je naruc antiradiacnich ser.  Z tech zatracenych veci me vzdy rozboli hlava.\n"
+
+
+LogName7:"GRASSI 07.CVC.14\nre: Implantovani\n"
+LogPortrait7:"Grassi"
+LogIcon7:"MedIcon"
+LogText7:"To: Politova, Dr. Janice\nHele doktorko, zjevil se tu bezpecnostni robot s rozkazem umistit toho chlapka do Kryo-zotaveni.  Nejsem zadnej kyberdoktor, ale poznam implantacnou praci kdyz ji vidim.  Doufam, ze vite, ze po fiasku na stanici Citadel postavili vsechna kyberneticka vylepseni typu R mimo zakon...  ale ja tady jenom pracuju, ok?\n"
+
+
+LogName20:"AMANPOUR 07.CVC.14\nre: Novy kod\n"
+LogPortrait20:"Amanpour"
+LogIcon20:"MedIcon"
+LogText20:"Skvele.  Zase musim zmenit vstupni kod do CRYO A !  Jako bych nemel nic lepsiho na praci.  Myslim ze Grassiho bavi jen tak mi pridelavat robotu.  Novy kod nastavim na 45100.  To by se mohlo dobre pamatovat.\n"
+
+
+LogName10:"WATTS 07.CVC.14\nre: Pacient Watson 2\n"
+LogPortrait10:"Watts"
+LogIcon10:"MedIcon"
+LogText10:"Pacient Watson zemrel z blize neurcitelnych pricin kolem 02:40.  Navzdory nulove dychaci a mozkove aktivite, vykazuje telo, stejne jako parazit, setrvavajici nezavisle pohybove funkce.  Kolem 08:47 pacient dokonce promluvil na jednu ze sester.  Pitva byla stanovena na 16:30.  Pak uvidime, co s tim Lazarem trepe...\n"
+
+
+LogName5:"CURTIZ 07.CVC.14\nre: Dalsi potize\n"
+LogPortrait5:"Curtiz"
+LogIcon5:"EngIcon"
+LogText5:"Nebyl jsem schopen kontaktovat Delacroix...  tohle misto se rozpadava...  clenove me skupiny mizeji...  Prosakovani ve ventilacnich sachtach zkratovalo  primarni pristupovy okruh...  Coz znamena, ze vsichni pojedem na zalozni zdroje, dokud se nam ho nepodari zase nahodit.  Taky to znamena ze nefunguje zadny vytah...  Marie, kde k certu vezis?\n"
+
+
+LogName8:"CURTIZ 07.CVC.14\nre: Nefunkcni vytahy\n"
+LogPortrait8:"Curtiz"
+LogIcon8:"EngIcon"
+LogText8:"Nedari se mi kontaktovat nikoho z Techniky.  Bez funkcnich vytahu se tam budu muset dostat nouzovym prulezem ve vedeckem kridle.  Myslim, ze vstupni kod je ve Wattsove laboratori.\n"
+
+
+LogName14:"WATTS 07.CVC.14\nre: Udrzbarsky prulez\n"
+LogPortrait14:"Watts"
+LogIcon14:"MedIcon"
+LogText14:"To: Curtiz, Juan\nV poradku, jen klid...  Vstupni kod do prulezu je 12451.  V 16:30 delam pitvu, ale hned potom si zajdem na pivo do Rekreacni paluby.  Nezni to slibne?\n"
+
+
+LogName16:"TURNBULOVA 07.CVC.14\nre: Procedury\n"
+LogPortrait16:"Turnbull"
+LogIcon16:"OpsIcon"
+LogText16:"Sefka Bronsonova a jeji stupidni procedury.  Zase zmenila kod od prirucni zbrojnice v Medi/Veda.  Ted abych se trmacela na 4. palubu a zjistovala novou kombinaci...  Nekdo ji raz zahlusi...\n"
+
+
+LogName11:"WATTS 07.CVC.14\nre: Watsonova pitva\n"
+LogPortrait11:"Watts"
+LogIcon11:"MedIcon"
+LogText11:"Je 16:30.  Objekt pitvy: A. Watson.  Nyni ucinime prvni rez v ob...  Pridrzte ho, sestro!  Sestro!  Drzte ho!  Aahhh!!!  Hej!  AAAHHH!!!\n"
+
+
+LogName2:"DELACROIX 08.CVC.14\nre: Nejsme pripraveni\n"
+LogPortrait2:"Delacroix"
+LogIcon2:"EngIcon"
+LogText2:"To: Korenchkin, Anatoly\nTato lod mela byt dana dohromady jeste nez jsme opustili Zemi.  Nejsme schopni zvladnout ani unik reaktoroveho chladiva na 1. palube.  Vydala jsem prikaz, aby si kazdy oblekl ochranny oblek.  Vim, ze to zpusobi paniku, ale je to lepsi, nez aby nekdo dostal nemoc z ozareni, nemyslite?\n"
+
+

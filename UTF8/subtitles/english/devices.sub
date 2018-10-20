@@ -1,0 +1,7 @@
+SUB1
+
+{
+	type "convo"
+	descr "Telephone"
+	sub telephon { text "This device is temporarily out of order." }
+}

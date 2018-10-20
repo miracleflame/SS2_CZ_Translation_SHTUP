@@ -1,0 +1,34 @@
+SUB1
+
+{
+	type "player"
+	descr "Info"
+	sub psiadrac { text "Adrenaline activated." }
+	sub psiadrde { text "Adrenaline deactivated." }
+	sub psiagiac { text "Agility activated." }
+	sub psiagide { text "Agility deactivated." }
+	sub psiapsac { text "Shield activated." }
+	sub psiapsde { text "Shield deactivated." }
+	sub psiaurac { text "Shield activated." }
+	sub psiaurde { text "Shield deactivated." }
+	sub psiendac { text "Endurance activated." }
+	sub psiendde { text "Endurance deactivated." }
+	sub psientac { text "Anti-Entropy activated." }
+	sub psientde { text "Anti-Entropy deactivated." }
+	sub psiinvac { text "Invisibility activated." }
+	sub psiinvde { text "Invisibility deactivated." }
+	sub psiradac { text "Radiation Shield activated." }
+	sub psiradde { text "Radiation Shield deactivated." }
+	sub psirecac { text "Recursive Psi activated." }
+	sub psirecde { text "Recursive Psi deactivated." }
+	sub psirefac { text "Reflex activated." }
+	sub psirefde { text "Reflex deactivated." }
+	sub psiscrac { text "Psi Shield activated." }
+	sub psiscrde { text "Psi Shield deactivated." }
+	sub psistrac { text "Strength activated." }
+	sub psistrde { text "Strength deactivated." }
+	sub psitoxac { text "Toxin Shield activated." }
+	sub psitoxde { text "Toxin Shield deactivated." }
+	sub psiwavac { text "Wave Manipulation activated." }
+	sub psiwavde { text "Wave Manipulation deactivated." }
+}

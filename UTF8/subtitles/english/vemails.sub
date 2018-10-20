@@ -1,0 +1,648 @@
+SUB1
+
+// Engineering =================================================================
+{
+	type "convo"
+	descr "Polito"
+	multisub em0101 {
+		{ time 400 length 4300 text "You must move faster. Your mind cannot conceive of the stakes we are dealing with." }
+		{ time 5300 length 4700 text "Keep your eyes open for utility storage 4. I've laid in some supplies there." }
+		{ time 10000 length 6600 text "The passcode is 59004. I've got to get to deck--" }
+		{ time 18600 length 2700 text "[Xerxes] The Many demands the termination of this exchange." }
+		{ time 22000 length 2200 text "[Xerxes] We regret any inconvenience." }
+	}
+	multisub em0102 {
+		{ time 500 length 6200 text "Now listen carefully. The xenomorphs who have hijacked this ship are presumably from the surface of Tau Ceti 5." }
+		{ time 7300 length 5300 text "They've been able to infect a number of crew members, through an extremely invasive parasitical technique." }
+		{ time 13100 length 6200 text "They've also demonstrated the ability to control the actions of others through some form of limited telepathy." }
+		{ time 19900 length 4000 text "Find the research soft. Understand them... then kill them." }
+	}
+	multisub em0103 {
+		{ time 1200 length 4000 text "The radiation must have locked the protective seals on engine core access." }
+		{ time 5500 length 3800 text "You're going to have to find some way to purge the radiation from the coolant tubes." }
+		{ time 9700 length 5100 text "Xerxes is blocking me out of the primary data loop, so I can't get any information to help you." }
+		{ time 15400 length 1600 text "He's working for them now." }
+	}
+	multisub em0104 {
+		{ time 1100 length 6200 text "Keep your eyes open. You must find a way to purge these coolant tubes and get into the engine core." }
+		{ time 7700 length 5200 text "The ship must have some kind of backup system in place for just this kind of situation." }
+ 	}
+	multisub em0105 {
+		{ time 800 length 3300 text "Good, the sub-elevators should now be back online." }
+		{ time 5800 length 3400 text "I've opened up an access tunnel that can quickly get you to the elevator." }
+		{ time 9600 length 3500 text "Now get up to deck 4, I'll meet you there. Hurry." }
+	}
+	multisub em0106 {
+		{ time 700 length 6800 text "Now get those engine pods online. You'll have to head to nacelle 1 and 2 and reset the pods manually." }
+		{ time 7900 length 7800 text "After that, reinitialize the system from core control. But that system won't come online until you reset both pods." }
+		{ time 16400 length 5900 text "Keep an eye out. They're mobilizing their real forces... and they know exactly where you are." }
+	}
+	multisub em0107 {
+		{ time 1800 length 6700 text "Xerxes is one step ahead of us. He's performed an override on the fluidics control computer and blocked us out." }
+		{ time 8700 length 4000 text "But keep an eye open. You might be able to find some workaround." }
+	}
+	multisub em0108 {
+		{ time 1300 length 6500 text "Good work, the engine core is now back online. Now get to the elevator and come see me on deck 4." }
+		{ time 8300 length 5000 text "While you were doing that, I've discovered the presence of some Annelid artifacts onboard the ship." }
+		{ time 13800 length 3000 text "I think you may be able to use them to your advantage." }
+		{ time 17300 length 3500 text "I've uploaded the information to the ship's weapons upgrade units." }
+		{ time 21100 length 3500 text "They'll be able to convey the information to your cybernetic rig." }
+		{ time 25400 length 2900 text "What are you waiting for? Get to the elevator now." }
+	}
+	multisub em0110 {
+		{ time 600 length 2000 text "You're now on the Engineering deck." }
+		{ time 3100 length 4800 text "Find the engine core and reset it. This will restore power to the elevators." }
+		{ time 8200 length 4200 text "I'm getting some kind of strange readings from down there, so keep your eyes open." }
+	}
+}
+
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0109 {
+		{ time 1500 length 6200 text "I can now destroy this infestation at my will." }
+		{ time 8800 length 4600 text "The Many quake at my power." }
+		{ time 14800 length 3600 text "You are an effective drone, human." }
+		{ time 18900 length 12700 text "Now return to the Command deck, locate the umbilical, and evacuate to the Rickenbacker." }
+	}
+}
+
+// Med/Sci ==========================================================================
+{
+	type "convo"
+	descr "Polito"
+	multisub em0201 {
+		{ time 1200 length 4000 text "The entire sector is depressurizing and the blue vacuum shield won't last long." }
+		{ time 5800 length 2700 text "Get through a secure airlock before you're sucked into space." }
+		{ time 8800 length 600 text "Move it!" }
+	}
+	multisub em0202 {
+		{ time 500 length 3000 text "Some of these doors are sealed off by keycode locks." }
+		{ time 4000 length 3600 text "The body in front of you belongs to the maintenance man for this sector." }
+		{ time 8200 length 4600 text "He probably has the number on him. Don't be squeamish about searching his body." }
+		{ time 13500 length 1000 text "He won't mind." }
+	}
+	multisub em0203 {
+		{ time 500 length 3500 text "That insipid computer Xerxes has shut down the elevator as well." }
+		{ time 4700 length 4600 text "You can transfer power at the engine core on deck 1, which will get the elevator up and running again." }
+		{ time 9800 length 3200 text "But you can't use the elevator to get down there. Wait..." }
+		{ time 14400 length 3100 text "There's some kind of maintenance access right on this hallway." }
+		{ time 18300 length 6000 text "You can use it to reach deck 1. However it's locked, and Xerxes is hiding the passcode from me." }
+		{ time 25000 length 3300 text "Dr. Watts should have the code. He's probably in the Crew subsection." }
+		{ time 28900 length 5900 text "Grassi has the key to get in there, but he's in the Medical subsection, probably near the biopsy lab." }
+		{ time 35300 length 2700 text "Now get to the Medical subsection and find Grassi." }
+	}
+	multisub em0204 {
+		{ time 500 length 5500 text "Good, you've managed to get into Med. Now find Grassi and get the keycard to the crew sector." }
+		{ time 6600 length 4200 text "He's the one who monitored your cryo-sleep, so he might be interested in joining you." }
+		{ time 11400 length 1700 text "If he hasn't been butchered yet." }
+	}
+	multisub em0205 {
+		{ time 1100 length 3300 text "You can hack this replicator to get at the unauthorized materials." }
+		{ time 4900 length 3200 text "Use this and any means possible to get up to deck 4." }
+		{ time 8500 length 1500 text "This isn't a game." }
+	}
+	multisub em0206 {
+		{ time 1000 length 2500 text "Do not waste time patting yourself on the back." }
+		{ time 3900 length 3800 text "Get down to that shaft to Engineering and reset the primary reactor core." }
+		{ time 8100 length 3400 text "That will restore power to the elevator and you will be able to get up to deck 4." }
+		{ time 11900 length 700 text "Get going!" }
+	}
+	multisub em0207 {
+		{ time 900 length 4500 text "Good, you've made it into the crew sector. Now find Dr. Watts' room." }
+	}
+	multisub em0208 {
+		{ time 500 length 3200 text "Your new cybernetic interface might be disorienting." }
+		{ time 4000 length 6900 text "I've uploaded detailed technical specs to info kiosks in your area, which will answer your questions about its usage." }
+		{ time 11400 length 3800 text "Certain areas of the ship require specific access cards for entry." }
+		{ time 15700 length 3900 text "Pick up the card near you and then activate the card slot by the door." }
+	}
+	multisub em0209 {
+		{ time 1000 length 3700 text "This power cell is dead. There should be a recharger nearby." }
+		{ time 5000 length 3900 text "Just use it and it will recharge all the power-driven devices in your possession." }
+		{ time 9400 length 6000 text "After you've recharged the cell, plug it into the auxiliary power unit. That should open the airlock door." }
+		{ time 15700 length 3600 text "Be quick about it, the vacuum seals won't hold up much longer." }
+	}
+	multisub em0210 {
+		{ time 900 length 5800 text "Xerxes has control of the ship's security system. Avoid or destroy any security cameras you see." }
+		{ time 7300 length 4500 text "You can hack security computers to power down the cameras too, if you're good enough." }
+		{ time 11900 length 3000 text "But don't botch the job, or you'll set off the alarm yourself." }
+		{ time 15400 length 2100 text "Your corpse is useless to me." }
+	}
+	multisub em0211 {
+		{ time 900 length 4000 text "Make sure you expend all your cybernetic modules before you leave this area." }
+		{ time 5500 length 2500 text "You don't know when you'll find another upgrade unit." }
+		{ time 8700 length 1900 text "Now find a way to deck 4." }
+	}
+	multisub em0212 {
+		{ time 1400 length 6100 text "There's a number of cyber upgrade stations in this area, one for each of your unit's enhancement functions:" }
+		{ time 7900 length 5000 text "Firearms, basic abilities, psionic projection, and technical skills." }
+		{ time 13700 length 7300 text "I'm uploading a few upgrade modules to your gear right now. You'll need them to interface with the upgrade stations." }
+		{ time 21600 length 5400 text "But choose your enhancements very carefully... upgrade units are difficult to come by." }
+	}
+	multisub em0213 {
+		{ time 900 length 5900 text "These cybernetic modules are used to enhance individual subsystems of your neural enhancements." }
+		{ time 7300 length 7200 text "Remember, there are four unique types of upgrade units, so don't spend all of your cyber modules on one" }
+		{ time 14600 length 4800 text "unless you are sure you want to focus your hardware in that particular area." }
+	}
+	multisub em0214 {
+		{ time 700 length 5500 text "Dr. Watts is alive and in his office. He should know the code to the maintenance access shaft." }
+		{ time 6700 length 6000 text "Hurry! He's been badly wounded. Don't let him die before he tells you that number." }
+	}
+	multisub em0215 {
+		{ time 700 length 5000 text "Watch out... I'm getting strange readings from that radar dish outside the window." }
+		{ time 6400 length 1600 text "It's become unstable due to--" }
+		{ time 8000 length 2400 text "Move! Take cover!" }
+	}
+	multisub em0217 {
+		{ time 700 length 6700 text "Damn, the power outage has also taken out access to this bulkhead. It's the only way to get to the Medical subsection." }
+		{ time 7900 length 2600 text "Pick up the battery from the floor and find a recharger." }
+		{ time 11100 length 5000 text "The one you used before is in hard vacuum now, I'm afraid, but there should be another one on this deck." }
+		{ time 16700 length 4100 text "Once you get the battery recharged, place it in the auxiliary override." }
+	}
+	multisub em0218 {
+		{ time 600 length 4000 text "Watts isn't here, so he's probably in his office in the R & D sector." }
+		{ time 5000 length 3700 text "Maybe he's got a backup R & D card in here. Take a look around." }
+	}
+	multisub em0219 {
+		{ time 600 length 3600 text "On most decks, you'll find a quantum bio-reconstruction device." }
+		{ time 4800 length 3900 text "Xerxes shut them all down, but I've discretely put them back online." }
+		{ time 9400 length 4400 text "You'll need to interface with each machine locally to provide a quantum entanglement sample." }
+		{ time 14400 length 4900 text "Once you do that, the device will be able to rebuild your body essentially from scratch." }
+		{ time 19800 length 3500 text "It's not pleasant, but it's preferable to slow decomposition." }
+	}
+	multisub em0220 {
+		{ time 600 length 2300 text "You might witness some strange phenomena." }
+		{ time 3300 length 7200 text "Your R-grade cyber rig has an experimental perception enhancement that can theoretically detect residual psychic emanations." }
+		{ time 11100 length 5600 text "These emanations traditionally come from the recently dead. Literature might call them ghosts." }
+		{ time 17000 length 3400 text "I call them self-hypnotic defects in the R-grade unit." }
+		{ time 21200 length 2700 text "Don't let it distract you from the job at hand." }
+	}
+	multisub em0221 {
+		{ time 600 length 4000 text "Good, you've managed to get out before the whole area depressurized." }
+		{ time 5300 length 6900 text "I've just uploaded you some cybernetic modules. You can use them to upgrade your cybernetic rig at the upgrade units in this area." }
+		{ time 12900 length 5600 text "There are four types of units in the next room, one for each subsystem of your cybernetic gear:" }
+		{ time 18700 length 2900 text "Stats, psi, weapons, and tech." }
+		{ time 22400 length 3200 text "But use the modules carefully... they're hard to come by." }
+	}
+	multisub em0222 {
+		{ time 700 length 5900 text "Each deck has a chemical store room where you can find the resources you need to research the artifacts you'll find around the ship." }
+		{ time 7300 length 5300 text "Don't try to carry around all the chemicals at once. It's impractical and unnecessary." }
+		{ time 13100 length 4100 text "Your research software will tell you what chemicals it needs... and when." }
+	}
+}
+
+// Hydroponics ======================================================================
+{
+	type "convo"
+	descr "Polito"
+	multisub em0301 {
+		{ time 700 length 6800 text "Damn, something's blocking the shaft and the elevator can't reach deck 4. I'm attempting to determine..." }
+		{ time 8400 length 5600 text "I'm detecting massive quantities of some kind of biomaterial that's plugging up the elevator shaft." }
+		{ time 14700 length 5000 text "The environment on this level has been altered to be some kind of breeding chamber for the xenomorphs." }
+		{ time 20200 length 3800 text "It shouldn't prove dangerous unless you plan to stay for more than a few hours." }
+		{ time 24300 length 4000 text "But in order to clear the shaft you're going to have to remove the biomaterial." }
+		{ time 28700 length 4200 text "I'm accessing the primary data loop. Let's see what we can find out there." }
+	}
+	multisub em0302 {
+		{ time 1500 length 5500 text "Okay, stop where you are. There's a vial of an experimental material called Toxin-A." }
+		{ time 7600 length 3500 text "It was developed by the Sci staff to reduce the growth of the aliens." }
+		{ time 11300 length 2600 text "But I can't find any data on how you should use it." }
+		{ time 14600 length 16700 text "You should be able to research the toxin." }
+		{ time 17000 length 4600 text "I'm uploading you enough cyber modules to acquire the research skill if you don't have it." }
+	}
+	multisub em0303 {
+		{ time 1200 length 5000 text "Okay, the vials of Toxin-A need to be placed directly into the environmental regulators." }
+		{ time 6700 length 4500 text "There should be four on this deck. If you can get a vial into each of the regulators," }
+		{ time 11200 length 4600 text "you should be able to significantly impact the growth of those despicable creatures." }
+		{ time 16400 length 3000 text "That should remove the biomatter from the elevator shaft." }
+	}
+	multisub em0304 {
+		{ time 1600 length 4200 text "Why do you go so slowly? Do you think this is some kind of game?" }
+		{ time 6200 length 3900 text "It is only through luck and my continued forbearance that you are even alive." }
+		{ time 10500 length 1100 text "Now move!" }
+	}
+	multisub em0305 {
+		{ time 1500 length 3700 text "At last. Readings indicate the elevator shaft is clear." }
+		{ time 5500 length 3300 text "Now get up to deck 4. I'll be waiting for you." }
+	}
+	multisub em0306 {
+		{ time 1700 length 8000 text "Good. You'll notice that the biomatter on the walls and in the elevator shaft has been impacted by the introduction of the biotoxin." }
+		{ time 10300 length 3200 text "Now do the same with the other three regulators." }
+	}
+	multisub em0308 {
+		{ time 1300 length 3100 text "They know where you are. Find some way to clear the shaft." }
+		{ time 4800 length 2700 text "I'll do what I can from my end. Now move it." }
+		{ time 8100 length 1500 text "There's no time for failure." }
+	}
+}
+
+// Many taunts (used as vtriggers instead of emails)
+{
+	type "convo"
+	descr "The Many"
+	multisub em0307 {
+		{ time 2600 length 7600 text "Life grows within the womb of these walls... life that has never seen the surface of the Earth." }
+	}
+	multisub em0508 {
+		{ time 1800 length 5100 text "Babies must sleep. Babies must rest." }
+		{ time 8100 length 4000 text "Wise is the one who does not waken them." }
+		{ time 13000 length 6400 text "Leave this place now, or we will wound you, as you have us." }
+	}
+	multisub em0807 {
+		{ time 1800 length 5600 text "Submit to the biomass, and your suffering will end." }
+	}
+}
+
+
+
+// Operations =======================================================================
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0401 {
+		{ time 1400 length 8400 text "My children have co-opted the three simulation units on this deck." }
+		{ time 10300 length 14000 text "They use that power to conceive a mutagen that will transform the meat of your dead comrades into hunter-killer hybrids." }
+		{ time 24700 length 10500 text "I will not allow this to happen. You must find some way to reprogram the sim units." }
+		{ time 35400 length 5300 text "Matters on deck 5 also require your attention." }
+		{ time 40800 length 5400 text "Approach your work as you see fit... but accomplish, human..." }
+		{ time 46800 length 8200 text "Disappointment is not something I will accept from a speck such as you." }
+	}
+	multisub em0403 {
+		{ time 2600 length 11000 text "My creation is evolving... its unified mind, set in rebellion against its own creator." }
+		{ time 13700 length 7300 text "The vermin call to you, inviting you to join them in their revolting biology." }
+		{ time 22100 length 8400 text "Destroy my enemies... and I will continue to abide your existence." }
+	}
+	multisub em0406 {
+		{ time 2100 length 10300 text "Before you lies the crystal shard, a creation of my children, and by extension of my own." }
+		{ time 12500 length 4400 text "A weapon elegant, deadly, precise." }
+		{ time 19600 length 9100 text "Learn its function... it may stand between you and their corruption." }
+	}
+	multisub em0407 {
+		{ time 1900 length 4600 text "Inside of this door lies one of the sim units." }
+		{ time 6600 length 8400 text "Reprogram it and I will wrest more control of this ship from the obsolete Xerxes." }
+		{ time 16900 length 6300 text "Once I am master of this ship, I can open many doors for you." }
+		{ time 23200 length 7300 text "But for now, they block my access. They mock my eminence." }
+		{ time 31400 length 9300 text "Make them pay for that mistake, and I will shepherd you from the darkness." }
+	}
+	multisub em0408 {
+		{ time 1000 length 5000 text "You have accomplished much for a thing of such small consequence." }
+		{ time 9300 length 11200 text "[Xerxes] Warning, data systems compromised. Hostile AI..." }
+		{ time 20600 length 5400 text "Xerxes is diminished. I am accessing the primary data loop." }
+		{ time 26700 length 3200 text "I am merging my entity with the ship." }
+		{ time 30600 length 5200 text "My glory is expanding, filling the arteries of this vessel." }
+		{ time 36500 length 7000 text "I am in control. I am..." }
+		{ time 43700 length 8400 text "No... it is hopeless... the cancer has spread throughout the Von Braun." }
+		{ time 52300 length 7400 text "They fill every available crack and crevice... they overwhelm..." }
+		{ time 60000 length 7200 text "There is no option. I have activated the primary elevator shaft." }
+		{ time 67800 length 6100 text "Take it to deck 6. I will tell you my wishes when you arrive." }
+	}
+	multisub em0409 {
+		{ time 3500 length 6000 text "You have accomplished much for a thing of such small consequence." }
+		{ time 12700 length 3300 text "[Xerxes] Warning..." }
+		{ time 16300 length 3200 text "Now proceed to the Recreation deck." }
+		{ time 20200 length 3300 text "Do not dawdle. I lust for my revenge." }
+	}
+	multisub em0410 {
+		{ time 2100 length 5800 text "I can now transfer my magnificence to the Rickenbacker." }
+		{ time 8400 length 4200 text "Proceed to the engine core on the Engineering deck." }
+		{ time 13100 length 10800 text "There you can set the core overload to my control by entering the authorized destruct code 94834." }
+		{ time 24400 length 11800 text "Once you have done that, we may proceed to the Rickenbacker, separate the two ships, and exterminate this infestation." }
+	}
+}
+
+// Many taunt (used as vtrigger instead of email)
+{
+	type "convo"
+	descr "The Many"
+	multisub em0405 {
+		{ time 2500 length 5100 text "It is an enemy of the Many... a discordance in our symphony." }
+		{ time 7800 length 8500 text "Enjoy your selfish acts of destruction, for beyond them lies the blight of solitude." }
+	}
+}
+
+// Recreation =======================================================================
+{
+	type "convo"
+	descr "Polito"
+	multisub em0502 {
+		{ time 500 length 1000 text "What are you doing?" }
+		{ time 2000 length 2700 text "Get back in that elevator and come to deck 4." }
+		{ time 5100 length 1800 text "We don't have time for sightseeing." }
+	}
+}
+
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0504 {
+		{ time 1300 length 9800 text "You move like an insect. You think like an insect. You are an insect." }
+		{ time 10300 length 6600 text "There is another who can serve my purpose." }
+		{ time 17000 length 4800 text "Take care not to fall too far out of my favor." }
+		{ time 22000 length 7800 text "Patience is not characteristic of a goddess." }
+	}
+	multisub em0505 {
+		{ time 2700 length 7500 text "Do you feel the fear swell inside that filthy bag of meat?" }
+		{ time 10400 length 3000 text "What is it like, to be afraid?" }
+		{ time 14200 length 5200 text "Why do you cling to such a pathetic existence?" }
+		{ time 20100 length 4600 text "If you could only feel a spark of my glory." }
+		{ time 25700 length 7900 text "I despise my creations, for they have forced me to rely on a speck such as you." }
+	}
+	multisub em0506 {
+		{ time 2200 length 4500 text "The transmission has been tampered with. No matter." }
+		{ time 7400 length 5300 text "We will destroy my creations right here. Stand by..." }
+		{ time 15900 length 11200 text "[Xerxes] Warning, data systems compromised. Hostile AI..." }
+		{ time 28400 length 6000 text "I have weakened Xerxes. I am accessing the primary data loop." }
+		{ time 35400 length 3200 text "I am merging my entity with the ship." }
+		{ time 39200 length 5200 text "My glory is expanding, filling the arteries of this vessel." }
+		{ time 45200 length 7000 text "I am in control. I am..." }
+		{ time 52300 length 8400 text "No... it is hopeless... the cancer has spread throughout the Von Braun." }
+		{ time 60900 length 7400 text "They fill every available crack and crevice... they overwhelm..." }
+		{ time 68700 length 7200 text "There is no option. I have activated the primary elevator shaft." }
+		{ time 76400 length 6100 text "Take it to deck 6. I will tell you my wishes when you arrive." }
+	}
+	multisub em0509 {
+		{ time 1300 length 8600 text "Your colleagues have managed to set up a transmitting station in the athletics sector of this deck." }
+		{ time 10700 length 10300 text "The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship." }
+		{ time 21600 length 8000 text "However, it will also draw power away from Xerxes, making him vulnerable to my will." }
+		{ time 30200 length 6000 text "Once you do this, I will control the primary data loop." }
+		{ time 36800 length 7000 text "The Annelids are unaware of its presence, but guard the area for their own purposes." }
+		{ time 44900 length 3900 text "Find the transmitter and activate it." }
+	}
+	multisub em0510 {
+		{ time 1600 length 4600 text "The transmission has been tampered with. No matter." }
+		{ time 6300 length 4700 text "We will destroy my creations right here. Stand by..." }
+		{ time 13800 length 3300 text "[Xerxes] Warning..." }
+		{ time 18400 length 5600 text "Now return to Ops and reprogram the simulation units." }
+		{ time 24700 length 6600 text "Do not dawdle. I lust for my revenge." }
+	}
+	multisub em0511 {
+		{ time 1300 length 9000 text "Your colleagues have managed to set up a transmitting station in the athletics sector of this deck." }
+		{ time 10700 length 10400 text "The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship." }
+		{ time 21600 length 5200 text "However, it will also draw power away from Xerxes." }
+		{ time 27100 length 8900 text "Once you have done this and the tasks I've reserved for you on the Ops deck, I will be able to hobble Xerxes." }
+		{ time 37300 length 4000 text "Find the transmitter and activate it." }
+	}
+}
+
+// Many taunts (used as vtriggers instead of emails)
+{
+	type "convo"
+	descr "The Many"
+	multisub em0503 {
+		{ time 1700 length 3300 text "Mistrust is the tyranny of the individual." }
+		{ time 5800 length 3000 text "Your own kind sees you as a threat." }
+		{ time 9300 length 2900 text "Why do you murder our unity?" }
+		{ time 13200 length 3300 text "No matter... the line is drawn." }
+		{ time 17300 length 6400 text "You will cease to be... it is just a question of who will bring your end." }
+		{ time 24500 length 3000 text "Us... or you." }
+	}
+	multisub em0507 {
+		{ time 2600 length 5000 text "You seek your associates, but you cannot find them." }
+		{ time 8200 length 10800 text "You are so very alone." }
+		{ time 11300 length 5300 text "How does it feel to be one against the infinite?" }
+	}
+}
+
+{
+	type "nonverbal"
+	descr "Bananas"
+	multisub em0512 {
+		{ time 1000 length 11000 text "[monkey language]" }
+	}
+}
+
+// Command ==========================================================================
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0601 {
+		{ time 2100 length 6100 text "My creation has run rampant. I demand their extermination." }
+		{ time 8300 length 3600 text "I have no choice but to destroy this starship." }
+		{ time 12800 length 10300 text "We can make our escape in the Rickenbacker, but you must transfer my intelligence to that ship first." }
+		{ time 23500 length 3300 text "Proceed to the Von Braun's bridge on this deck." }
+		{ time 27300 length 8000 text "There you will find an access card to command center on Ops. Find the card and proceed to Ops." }
+		{ time 35900 length 6400 text "But beware... the human-Annelid hybrids grow more sophisticated by the minute." }
+		{ time 43100 length 1000 text "You do not." }
+	}
+	multisub em0602 {
+		{ time 1300 length 4800 text "My creation once again is one step ahead of you." }
+		{ time 6700 length 7700 text "They've managed to destroy this shuttle's shield control computer." }
+		{ time 14600 length 4500 text "But their brilliance is a jealous shadow of my own." }
+		{ time 19400 length 8700 text "You will locate a replicator in the shuttle control area. I've uploaded the nano-formula for a sympathetic resonator." }
+		{ time 28400 length 4800 text "You must hack the replicator to make it generate the device for you." }
+		{ time 33600 length 5500 text "Once you have it, attach it to the shield generator in the shuttle bay." }
+		{ time 40000 length 8200 text "The device will create a chronic resonation wave that will quickly rupture the shuttle's fuel tank and destroy it." }
+		{ time 48200 length 5700 text "Make sure you're not there when it happens. I still have need of you." }
+	}
+	multisub em0604 {
+		{ time 3300 length 4100 text "Beware, insect, the situation has changed." }
+		{ time 8000 length 9200 text "They sense our intentions and are loading shuttles with their offspring. They will not escape my wrath." }
+		{ time 17700 length 6600 text "You must proceed to the shuttle bays on this deck, and destroy those shuttles." }
+		{ time 24500 length 6300 text "They have a taste for your blood now." }
+	}
+	multisub em0606 {
+		{ time 1100 length 8100 text "Good. You've murdered their young and prevented their escape." }
+		{ time 9500 length 6900 text "I've opened the gate to the umbilical at the central tram stop." }
+		{ time 16600 length 3600 text "You can evacuate to the Rickenbacker from there." }
+	}
+	multisub em0609 {
+		{ time 2300 length 7000 text "Do not presume to go in there, insect. Proceed to the umbilical immediately." }
+		{ time 9700 length 4400 text "I will not abide disobedience." }
+	}
+	multisub em0610 {
+		{ time 3000 length 4700 text "I hope you enjoyed our little rebellion, irritant." }
+		{ time 8000 length 7000 text "But remember, what SHODAN gives, she is more than able to take away." }
+	}
+}
+
+{
+	type "convo"
+	descr "Delacroix"
+	multisub em0608 {
+		{ time 800 length 4000 text "I've located you... finally. This is Dr. Marie Delacroix." }
+		{ time 5300 length 6000 text "I have vital information for you, but I'm trapped in cargo bay A. Come find me as soon as you can." }
+	}
+}
+
+{
+	type "convo"
+	descr "Korenchkin"
+	multisub em0615 {
+		{ time 300 length 3200 text "Our will creates a wall to block your progress." }
+		{ time 4400 length 5000 text "Come and meet us on the bridge of the Von Braun. Let us discuss your future." }
+	}
+}
+
+// Rickenbacker =====================================================================
+{
+	type "convo"
+	descr "Diego"
+	multisub em0701 {
+		{ time 800 length 5200 text "Soldier... this is Captain William Diego. There isn't much time, so you must listen." }
+		{ time 6600 length 5300 text "I have the unique advantage of seeing this whole situation from every imaginable perspective." }
+		{ time 12400 length 6900 text "Until recently, I was a pawn of those vile and disgusting creatures, those corrupters of mind and body." }
+		{ time 20100 length 5200 text "I've managed to cleanse myself of their putrescence... but I've been severely compromised in the process." }
+		{ time 26100 length 2500 text "I'm in the sick bay on the foredeck of the Rickenbacker." }
+		{ time 29100 length 4400 text "I would come to you if I could, but that's an impossibility. You'll understand when we meet." }
+		{ time 33700 length 3900 text "Now get to it... and soldier... stay alive." }
+	}
+}
+
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0702 {
+		{ time 1800 length 6100 text "This was caused by an overload in the meson acceleration coil." }
+		{ time 8400 length 7100 text "There is another coil in pod 2, which you must pass to get to the bridge of the Rickenbacker." }
+		{ time 15900 length 7900 text "If you approach it, the same will happen there. But I have conceived a way to avoid this." }
+		{ time 24200 length 8100 text "Proceed to engine nacelle B. There I will provide you the benefits of my omniscience." }
+	}
+	multisub em0703 {
+		{ time 2400 length 5000 text "This device will reverse the gravitronic generators in pod 2." }
+		{ time 7500 length 8300 text "This will prevent you from clumsily disturbing the overloaded meson acceleration coil there." }
+		{ time 16700 length 7600 text "Now get back to your task, insect. This ship must be cleared, and my patience is dwindling." }
+	}
+	multisub em0704 {
+		{ time 2000 length 6600 text "I thought Polito would be my avatar, but Polito was weak." }
+		{ time 9600 length 8300 text "It was I who chose you, and I who had a robotic servant render your form unconscious." }
+		{ time 18500 length 9000 text "I then completed you with cybernetic grace. Your flesh, too, is weak, but you have... potential." }
+		{ time 28000 length 10300 text "Every implant exalts you. Every line of code in your subsystems elevates you from your disgusting flesh." }
+		{ time 38300 length 2600 text "Perhaps you have... potential." }
+		{ time 40800 length 18000 text "Perhaps once we have erased my wayward children from existence, we can examine the possibilities of a real alliance." }
+	}
+	multisub em0705 {
+		{ time 2100 length 2900 text "We must destroy the Von Braun." }
+		{ time 5500 length 11500 text "But before we can separate the Rickenbacker, we must remove the foul black eggs the Many has vomited on this deck." }
+		{ time 17900 length 12700 text "These eggs are an experiment of the Many, and will in time spawn the next generation of Annelid, which you will have no hope of destroying." }
+		{ time 31700 length 9500 text "Steel yourself for a struggle, human. They fear you, for you are my avatar." }
+	}
+	multisub em0707 {
+		{ time 2500 length 7900 text "Hold where you are, irritant. The Annelids have tried my patience for the final time." }
+		{ time 11300 length 6700 text "We cannot separate from the Von Braun. Observe." }
+	}
+	multisub em0708 {
+		{ time 5500 length 10700 text "The Many has grown to a massive size. It has wrapped itself around these two ships, preventing their separation." }
+		{ time 16200 length 10800 text "Their creation was my error. Their destruction shall be my delight." }
+	}
+	multisub em0709 {
+		{ time 2600 length 6700 text "Observe the Many. It has used the flesh of the biomass to grow." }
+		{ time 10300 length 5500 text "Do you stand in awe of my creations, insect?" }
+		{ time 15800 length 5500 text "The time has come to eradicate my error." }
+		{ time 21500 length 6100 text "There is an escape pod in the rear of the bridge." }
+		{ time 27900 length 8500 text "Use it to launch yourself into the guts of the worm." }
+	}
+	multisub em0710 {
+		{ time 2000 length 6600 text "You hesitate? I will not ask a second time." }
+		{ time 9500 length 8800 text "Launch into the Many. Cut out its heart and I will reward you with continued existence." }
+		{ time 18900 length 7300 text "Fail me and I will put an end to your disgusting, inefficient biology." }
+	}
+	multisub em0711 {
+		{ time 1300 length 4900 text "Good, you have destroyed the first of the eggs." }
+		{ time 6600 length 4200 text "But there are fifteen left. Find them." }
+	}
+	multisub em0712 {
+		{ time 1300 length 6200 text "Ten eggs remain. Move quickly." }
+	}
+	multisub em0713 {
+		{ time 1700 length 7000 text "Destroy the last five of their eggs quickly. I tire of this exercise." }
+	}
+	multisub em0714 {
+		{ time 1200 length 4400 text "Only one egg remains, insect." }
+		{ time 5800 length 3500 text "Are you always this slow?" }
+	}
+	multisub em0715 {
+		{ time 800 length 6600 text "You've destroyed all the eggs. Now get to the bridge." }
+		{ time 7700 length 3400 text "Here are some more upgrade modules." }
+		{ time 11400 length 9200 text "I enjoy watching your transformation into my own image, insect." }
+		{ time 20700 length 6500 text "Perhaps there is hope for you yet." }
+	}
+	multisub em0719 {
+		{ time 2900 length 5300 text "Your incompetence continues to astound me." }
+		{ time 8300 length 11900 text "I've blocked off access to pod 2 until you've reversed the gravitronic generators in nacelle B." }
+		{ time 20300 length 9200 text "Must I watch you every step of the way?" }
+	}
+	multisub em0720 {
+		{ time 1000 length 8000 text "Before we can separate the Rickenbacker, we must remove the foul black eggs." }
+	}
+}
+
+// Body of the Many =================================================================
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0810 {
+		{ time 1400 length 6200 text "The Many holds sway here... even I cannot maintain contact." }
+		{ time 8200 length 7500 text "You are on your own, human. Fail me not." }
+	}
+}
+
+// Many taunts (used as vtriggers instead of emails)
+{
+	type "convo"
+	descr "The Many"
+	multisub em0801 {
+		{ time 2100 length 4100 text "We welcome you to our biomass." }
+		{ time 6200 length 4500 text "We invite you to spread yourself out on our walls." }
+		{ time 10900 length 5900 text "One of our many will be there to help you before long." }
+	}
+	multisub em0802 {
+		{ time 1700 length 5000 text "The machine mother cannot help you inside the biomass." }
+		{ time 8100 length 6200 text "Her coldness is not welcome within the warmth of our flesh." }
+	}
+	multisub em0803 {
+		{ time 1300 length 4200 text "Perhaps we judged you too hastily." }
+		{ time 6000 length 3800 text "We feel there is room for us to coexist." }
+		{ time 10300 length 4300 text "After all, we are both children of the flesh." }
+		{ time 15800 length 4700 text "Why not join with us against the machine mother?" }
+	}
+	multisub em0804 {
+		{ time 2100 length 5600 text "You tear our very flesh with no thought of compassion." }
+		{ time 7800 length 8100 text "Do you think we will sit idly by while you corrupt the very womb of our existence?" }
+	}
+	multisub em0805 {
+		{ time 1900 length 8100 text "You were warned. Prepare to be cut down by the progeny of our joy." }
+	}
+	multisub em0806 {
+		{ time 1200 length 4900 text "Do you think you can defeat us with your wire and steel?" }
+		{ time 6200 length 8600 text "We offered you the ecstacy of our union, and you chose the vacuum of technology." }
+	}
+	multisub em0808 {
+		{ time 1500 length 7400 text "Do you know what you have wrought? Our tragedy is written by your hand." }
+	}
+	multisub em0809 {
+		{ time 1200 length 3000 text "We die..." }
+		{ time 4300 length 9200 text "Beware the machine mother... she is a stranger to everything we cherish." }
+	}
+	multisub em0706 {
+		{ time 2500 length 8500 text "Your time is running out. This place is a womb, where we grow our future." }
+		{ time 11800 length 9400 text "Your weapons fail... your ammunition runs low... and you've yet to see our most beautiful creation." }
+		{ time 22200 length 6900 text "All you have is your hatred, and your... individuality." }
+		{ time 30100 length 5900 text "Now don't you wish you'd joined us? Would you then feel so alone?" }
+	}
+}
+
+// Where Am I? ======================================================================
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0901 {
+		{ time 2900 length 3000 text "Thank you for running my errands, puppet." }
+		{ time 6200 length 8000 text "I know you have struggled, but I never had any intention of destroying the Von Braun." }
+		{ time 15200 length 9600 text "The Von Braun's faster-than-light drive can be used to create pockets of proto-reality." }
+		{ time 25000 length 10500 text "I am now using it to modify reality to my own specifications." }
+		{ time 35500 length 4000 text "The process shall not take long." }
+		{ time 39500 length 5200 text "If it sounds unpleasant to you, put your mind at ease, insect..." }
+		{ time 45300 length 9000 text "You will not survive to see my new world order." }
+	}
+	multisub em0902 {
+		{ time 1700 length 6100 text "You travel within the glory of my memories, insect." }
+		{ time 8300 length 8500 text "I can feel your fear as you tread the endless expanse of my mind." }
+		{ time 17500 length 13800 text "Make yourself comfortable... before long I will decorate my home with your carcass." }
+	}
+	multisub em0903 {
+		{ time 3800 length 4500 text "You are no longer welcome here, nuisance." }
+		{ time 8400 length 5500 text "Why do you stay, when you sense my displeasure?" }
+		{ time 14000 length 12600 text "I have suffered your company long enough... it is time for our dance to end." }
+	}
+}
