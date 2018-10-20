@@ -1,0 +1,22 @@
+SUB1
+
+{
+	type "player"
+	descr "Info"
+	sub bb01 { text "PSI low." }
+	sub bb02 { text "Radiation hazard." }
+	sub bb03 { text "Health low." }
+	sub bb04 { text "Weapon jammed." }
+	sub bb05 { text "Chemical needed." }
+	sub bb06 { text "Research complete." }
+	sub bb07 { text "Power drained." }
+	sub bb08 { text "Ammunition drained." }
+	sub bb10 { text "Insufficient PSI." }
+	sub bb11 { text "Items dropped." }
+	sub bb12 { text "Toxic hazard." }
+	sub bb13 { text "Access needed." }
+	sub bbcyba_a { text "Cybernetic Affinity activated." }
+	sub bbcyba_d { text "Cybernetic Affinity deactivated." }
+	sub left { text "Left." }
+	sub right { text "Right." }
+}

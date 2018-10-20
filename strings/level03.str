@@ -1,0 +1,144 @@
+EmailName1:"POLITOVA 12.CVC.14\nre: Zablokovana sachta\n"
+EmailPortrait1:"Polito"
+EmailIcon1:"OpsIcon"
+EmailText1:"Sakra!  Neco zablokovalo sachtu a vytah se nemuze dostat na 4. palubu.  Pokousim se to urcit...  Zjistila jsem ohromne mnozstvi nejakeho druhu biologickeho materialu, ktery pronikl do vytahove sachty.  Prostredi na teto palube bylo zmeneno na ohromnou lihen Xenomorfu.  Ale pokud zde nebudes pobyvat prilis dlouho, nemelo by to byt nebezpecne.  Bude ovsem treba odstranit ten biomaterial z vytahove sachty.  Vstupuji do hlavni databaze.  Zjistime, copak zajimaveho tam najdeme.\n"
+
+
+EmailName7:"POLITOVA 12.CVC.14\nre: Vycisteni sachty\n"
+EmailPortrait7:"Polito"
+EmailIcon7:"OpsIcon"
+EmailText7:"Uz vedi kde jsi.  Najdi najaky zpusob, jak uvolnit sachtu.  Ja tady udelam vse, co pujde.  Ted bez!  Na neuspech neni cas.\n"
+
+
+EmailName2:"POLITOVA 12.CVC.14\nre: Zkoumani Toxinu-A\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Ok, vydrz chvilku.  Je tu nadoba s experimentalnim materialem zvanym Toxin-A.  Vyvinula ho mistni skupina vedcu, snazici se potlacit rust vetrelcu.  Ale nemam zadne udaje o tom, jak ho spravne pouzit.  Mel bys byt schopen ho prozkoumat sam.  Posilam ti dost kybernetickych modulu, abys mohl ziskat dostatecnou uroven vyzkumu, pokud ji jeste nemas.\n"
+
+
+EmailName3:"POLITOVA 12.CVC.14\nre: Pouziti nadoby\n"
+EmailPortrait3:"Polito"
+EmailIcon3:"OpsIcon"
+EmailText3:"Fajn, Nadoby s Toxinem-A je treba umistit primo do klimatizacnich jednotek.  Na teto palube jsou celkem ctyri.  Pokud se vam podari nadoby umistit do vsech jednotek, melo by to znacne ovplyvnit rust tehle odpornych kreatur.  Rovnez by to melo odstranit i biomaterial ve vytahove sachte.\n"
+
+
+EmailName6:"POLITOVA 12.CVC.14\nre: Jen tak dal\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"Vyborne!  Je zjevne ze biomaterial na zdech a ve vytahove sachte je napadan rozptylovaym biotoxinem.  Ted to same udelej u dalsich tri klimatizacnich jednotek.\n"
+
+
+EmailName4:"POLITOVA 12.CVC.14\nre: Zdrzovani\n"
+EmailPortrait4:"Polito"
+EmailIcon4:"OpsIcon"
+EmailText4:"Proc jsi tak zoufale pomaly?!  Copak si myslis, ze je to jenom nejaka hra?  Jsi nazivu jen diky notne davce stesti a me nekonecne trpelivosti!  Hni sebou!\n"
+
+
+EmailName5:"POLITOVA 12.CVC.14\nre: Sachta je volna\n"
+EmailPortrait5:"Polito"
+EmailIcon5:"OpsIcon"
+EmailText5:"Konecne!  Pristroje ukazuji, ze je vytahova sachta volna.  Ted bez na 4. palubu.  Budu na tebe cekat.\n"
+
+
+LogName32:"Chemicky zaznam:\nHydroponika\n"
+LogPortrait32:"Chem"
+LogIcon32:"HydIcon"
+LogText32:"Inventar laboratorniho skladu: Hydroponicka laborator 008\n\nAntimon (Sb) : 2\nArzen (As) : 1\nBarium (Ba) : 1\nCesium (Cs) : 2 \nMed (Cu) : 1\nFermium (Fm) : 1\nGalium (Ga) : 2\nHassium (Hs) : 1\nIridium (Ir) : 2\nRadium (Ra) : 1\nTechnicium (Tc) : 2\nTelur (Te) : 2\nVanad (V) : 1\n\nTento inventarni seznam je vyzadovan bezpecnostni vyhlaskou UNN #134882 o skladech nebezpecnych chemikalii.  \"Sklad\" je definovan vyhlaskou UNN #195331 o vsech prostorach obsahujicich nebezpecne chemikalie (viz predpis #093355) ulozene v mnozstvi vetsim, nez 50g na 10 ctverecnych stop a trvani delsim nez 24 hodin.\n"
+
+
+LogName3:"MILLER 27.CVN.14\nre: Nase prace\n"
+LogPortrait3:"Miller"
+LogIcon3:"HydIcon"
+LogText3:"To: Renfro, Richard : Oxford University\nDicku, vim, ze si to neprectes, dokud se nevratime...  ale musim si zapsat, jak neuveritelne se citim.  Podarilo se nam to...  mame kontakt...  Muldoon a ja jsme se ucastnili pocatecnich praci...  Anatolyho jedina podminka byla ze o tom nesmim nikomu nic rict...  Ti tvorove jsou pozoruhodni...  jsou tak bezmocni...  nejak me to nuti je ochranovat...  je to uzasny objev...\n"
+
+
+LogName2:"KORENCHKIN 28.CVN.14\nre: Zazraky\n"
+LogPortrait2:"Korench"
+LogIcon2:"ComIcon"
+LogText2:"Tak ted, vsechny deticky jsou na palube.  Kapitan Diego a ja jsme izolovali 3. palubu.  Oba ted mame stejne myslenky...  take se meni i nase tela.  Obcas je to hrozne boli a jindy je to...  neco uzasneho...  Neco zazracneho se se mnou deje...\n"
+
+
+LogName4:"MILLER 29.CVN.14\nre: Deti\n"
+LogPortrait4:"Miller"
+LogIcon4:"HydIcon"
+LogText4: "Vzorky umiraji.  A my jim nedokazeme pomoci...  jsou vysoce toxicke.  Muldoon je nechtel nechat, a ted je mrtev.  Ale dnes rano jsem dostal...  vnuknuti...  Zacal jsem pracovat na specifikacich pro radikalni serii kybernetickeho vylepseni...  V pripade uspechu budu schopen udelat telo prakticky neznicitelnym...  a mysl zustane lidska, i chovani...  Nemam prilis mnoho casu...\n"
+
+
+LogName11:"MILLER 30.CVN.14\nre: Zazracna hracka\n"
+LogPortrait11:"Miller"
+LogIcon11:"HydIcon"
+LogText11:"Menim se.  Ma mysl je plna uzasnych napadu a experimentu...  oni maji tolik zazraku ke sdileni...  tolik znalosti k predani...  Rekli mi, jak vytvorit tento implantat...  rikaji, ze to vytvori ze mne me lepsi ja...  Pral bych si mit vice casu, abych jim to mohl oplatit...\n"
+
+
+LogName8:"MILLER 01.CVC.14\nre: Sestra Bloomeova\n"
+LogPortrait8:"Miller"
+LogIcon8:"HydIcon"
+LogText8: "Vybral jsem sestru Bloomeovou jako budouci matku nasich deti.  Je pekna a nezna, zdrava a dokonala ve sve profesi.  Na Zemi uz jedno dite ma.  Vi tudiz, co to znamena, starat se o mlade.  Ave Maria.  Kdyby jen vedela, co ji prinese budoucnost...  bude sdilet radosti Mnoha...\n"
+
+
+LogName5:"BLOOMEOVA 02.CVC.14\nre: Starosti\n"
+LogPortrait5:"Bloome"
+LogIcon5:"HydIcon"
+LogText5: "Ta schemata jsem nasla na stole Dr. Millera...  jsou to plany pro typ kybernetickeho vylepseni, ktere je uz ctyricet let zakazano...  to prece neni jeho styl...  Sla jsem si s nim o tom promluvit, ale pak jsem si vsimla...  DNA sekvence, pouzite v jeho prototypu...  jsou moje...\n"
+
+
+LogName6:"DELACROIX 03.CVC.14\nre: Probihaji zmeny\n"
+LogPortrait6:"Delacroix"
+LogIcon6:"EngIcon"
+LogText6:"To:  Polito, Dr. Janice\nDostala jsem e-mail od Anatolyho.  Neni v poradku.  Predpisy spolecnosti pripousteji odvolani vykonneho dustojnika, pokud neni schopen sluzby...  Ale co jeho spojenec kapitan Diego?  Ma u sebe na Rickenbackeru 120 opicaku, kteri ho poslouchaji na slovo...  Rikam si, co kdyz ta nekompletna UI, kterou jsme objevili na Tau Ceti 5, s tim nejak souvisi...\n"
+
+
+LogName7:"POLITOVA 04.CVC.14\nre: Hlasovy fragment UI\n"
+LogPortrait7:"Polito"
+LogIcon7:"OpsIcon"
+LogText7:"To: Delacroix, Dr. Marie\nMarie, tohle specha...  Vypada to, ze se UI z Tau Ceti integrovala do palubniho pocitace...  Dnes jsem ziskala tenhle fragment...  A to neni vse, o neco pozdeji jsem po navratu nasla svou laborator vyloupenou.  Musim te videt... Jsi jedina ktere ted verim.  Mam ohledne te UI jistou teorii.  Snazim se hledat informace o vsech tech ruznych povestech, tykajicich se udalosti na stanici Citadel.  Myslim ze jsem na neco prisla... <<ZPRAVA PRERUSENA>>\n"
+
+
+LogName1:"KORENCHKIN 05.CVC.14\nre: Novy zamer\n"
+LogPortrait1:"Korench"
+LogIcon1:"ComIcon"
+LogText1:"To: Delacroix, Dr. Marie  \nNemuzete pochopit mou radost Marie a ja vas nebudu nutit.  Citim se jako novy clovek...  Mam cil...  Mnohem dulezitejsi nez tahle mise, dokonce dulezitejsi nez TriOptimum...  Budu je chranit...  At se deje co se deje...  Budu je chranit...\n"
+
+
+LogName10:"LOESSEROVA 05.CVC.14\nre: Kde jsou?\n"
+LogPortrait10:"Loesser"
+LogIcon10:"MedIcon"
+LogText10:"To: Miller, Marc\nMarcu, co se deje?  Prislo mi to divny kdyz jsi mne pozadal o sestnact mych zenskych pracovnic...  ale...  Co jsi s nimi udelal?  Mam tady nedostatok pracovni sily.  A krome toho, nevis neco o Wattsovi, Sangerove nebo Politove?  Zda se, jako by si vsichni vzali dovolenou a neobtezovali se mi o tom rict.\n"
+
+
+LogName16:"LOESSEROVA 08.CVC.14\nre: Miller\n"
+LogPortrait16:"Loesser"
+LogIcon16:"MedIcon"
+LogText16:"Uz vim co chce Miller udelat.  Dnes rano...  dnes rano jsem videla Erin Bloomeovou...  Opatrovala nejaky druh vajec...  a byla takova...  zmenena, nejhroznejsim, neprirozenym zpusobem.  O osudu zbytku sveho personalu si muzu domyslet jen to nejhorsi.  Ten zkurvysyn.  Ten zkurvysyn!  Tohle mu jen tak neprojde.\n"
+
+
+LogName12:"KORENCHKIN 08.CVC.14\nre: Slava\n"
+LogPortrait12:"Korench"
+LogIcon12:"ComIcon"
+LogText12:  "Slava... slava Mnoha...  Jsem hlasem v jejich choru.\n"
+
+
+LogName13:"DIEGO 09.CVC.14\nre: Nase spojenectvi\n"
+LogPortrait13:"Diego"
+LogIcon13:"RickIcon"
+LogText13:"To: Korenchkin, Anatoly\nVerim, ze plany, ktere se mnou Mnoho ma, jsou vetsi, nez si dokazu predstavit.  Zmena uz probiha.  Ale tahle cesta je uzasnejsi, nez jsi dovedu predstavit.  Nezastavi se na pouhe proste mutaci...  Forma, ktera je mi prislibena je krasnejsi nez cokoli jineho...  Rikaji mi, ze budu plout vzduchem zasahovat proti nepratelum nasi biomasy svou mysli...  Nasi mysli...  Ma cise uz pretekla...\n"
+
+
+LogName15:"DELACROIX 09.CVC.14\nre: Zabijeni cervu\n"
+LogPortrait15:"Delacroix"
+LogIcon15:"EngIcon"
+LogText15:"Jiz je zrejme, ze ti cervi tvori urcity druh spolecenstva...  Nejsem jsi ista ci rozptyleny Toxin-A opravdu primo zabije pohyblive jedince, ale mel by zasahnout masu jejich spolecenstvi a odstranit porosty, ktere jsem pozorovala vyrustat na stenach a ve vytahove sachte.  Snad existuje jeste ucinnejsi slozeni, ktere by se dalo syntetizovat...\n"
+
+
+LogName14:"DELACROIX 10.CVC.14\nre: Paprsek nadeje\n"
+LogPortrait14:"Delacroix"
+LogIcon14:"EngIcon"
+LogText14:"Zabit deti nebude jednoduche.  Ale domnivam se, ze jsem na to prisla.  Biochemie tech cervu, kterym rikam Annelidy, reaguje na inverzni proteiny ako na toxiny.  S pomoci replikatoru v laboratori biologickeho vyzkumu se mi podarilo izolovat urcite mnozstvi inverznich proteinu a naplnit jimi nekolik nadob.  Smes s vychozimi slouceninami jeste ale neni uplne v poradku, takze stale potrebuji provest dalsi vyzkumy.  Az to udelam a pak primicham smes toxinu do vsech ctyr klimatizacnich jednotek...  No, muze to jenom pomoct.\n"
+
+
+LogName9:"TURNBULOVA 11.CVC.14\nre: Promeny\n"
+LogPortrait9:"Turnbull"
+LogIcon9:"RickIcon"
+LogText9:"Tak teda Bronsonova mela prece jen pravdu.  Myslim, ze mam tak hodinu...  ale zaznamenavam tuto...  transformaci v nadeji, ze by tato data mohla byt uzitecna nekomu jinemu...  Jsou tu nadory...  Na nohach a na zadech...  Muzu citit ty veci ve mne...  jak zvykaji, tloustnou.  Domnivam se, ze k dokonceni transformace potrebuji ziveho hostitele...  Zasrany Diego, zasrany Korenchkin, zasrana Tau Ceti 5.  Jestli tohle nekdo cte, nemusis mit zadne vycitky kdyz jsi mne dorazil,  stejne jsem uz byla pryc.\n"
+
+

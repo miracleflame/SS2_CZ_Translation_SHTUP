@@ -1,0 +1,263 @@
+Psi0:"Prvni uroven neuralni kapacity
+
+Je nezbytna pro pouziti PSI disciplin prvni urovne.  Zvysuje maximalni pocet psi bodu o 2.  Kazde pouziti disciplin prvni urovne odebere 1 psi bod."
+Psi1:"Psycho-reflective Screen
+
+Zadrzi 15% z kazdeho utoku.
+
+Trvani: 20 s. + 30 s. za PSI"
+Psi2:"Neuro-reflex Dampening
+
+Eliminuje zpetny raz zbrane.
+
+Trvani: 1 min. + 20 s. za PSI"
+Psi9:"Anti-entropic Field
+
+Pokud je tato schopnost aktivni, vase strelne zbrane se nezaseknou a ani se neopotrebovavaji.
+
+Trvani: 10 s. + 20 s. za PSI"
+Psi3:"Kinetic Redirection
+
+Pritahne k vam vetsinu objektu.
+
+Trvani: 1 s. za PSI"
+Psi4:"Psychogenic Agility
+
+Zvysi vasi obratnost (AGI) o 2.
+
+Trvani: 2 min. + 1 min. za PSI"
+Psi6:"Projected Cryokinesis
+
+Vystreli na cil projektil, absorbujici teplo.  Vyssi PSI zvysuje ucinnost."
+Psi5:"Psychogenic Cyber Affinity
+
+Zvysi vasi kybernetickou kompatibilitu (CYB) o 2.
+
+Trvani: 2 min. + 1 min. za PSI"
+Psi8:"Druha uroven neuralni kapacity
+
+Je nezbytna pro pouziti PSI disciplin druhe urovne.  Zvysuje maximalni pocet psi bodu o 4.  Kazde pouziti disciplin druhe urovne odebere 2 psi body."
+Psi11:"Neural Decontamination
+
+Zadrzi 80% okolni radiace.
+
+Trvani: 10 s. + 5 s. za PSI"
+Psi12:"Cerebro-stimulated Regeneration
+
+Regeneruje ztracene zdravi.
+
+Hodnota vyleceni: 2 body zdravi za PSI"
+Psi13:"Psychogenic Strength
+
+Zvysi vasi silu (STR) o 2.
+
+Trvani: 2 min. + 1 min. za PSI"
+Psi17:"Molecular Duplication
+
+Pouzije nanity k duplikaci zasobniku munice nebo sera.
+
+Sance na uspech: 30% + 10% za PSI"
+Psi14:"Recursive Psionic Amplification
+
+Zvysi vasi PSI schopnost (PSI) o 2. Behem trvani se zdvojnasobi spotreba psi bodu.
+
+Trvani: 10 s. + 10 s. za PSI"
+Psi18:"Electron Cascade
+
+Dobije jeden predmet nebo zbran.
+
+Hodnota dobiti: 20% za PSI, az do maxima daneho urovni vasi dovednosti Udrzba."
+Psi15:"Localized Pyrokinesis
+
+Zranuje vsechny tvory v okoli 5 stop.  Vyssi PSI zvysuje ucinnost vuci protivnikum.
+
+Trvani: 15 s. + 8 s. za PSI"
+Psi16:"Treti uroven neuralni kapacity
+
+Je nezbytna pro pouziti PSI disciplin treti urovne.  Zvysuje maximalni pocet psi bodu o 6.  Kazde pouziti disciplin treti urovne odebere 3 psi body."
+Psi19:"Energy Reflection
+
+Poskytne 50% imunitu vuci vsem energetickym zdrojum poskozeni.
+
+Trvani: 20 s. za PSI"
+Psi20:"Neural Toxin-blocker
+
+Poskytne 100% ochranu pred otravou toxiny.
+
+Trvani: 10 s. + 5 s. za PSI"
+Psi21:"Enhanced Motion Sensitivity
+
+Zobrazi umistneni vsech nestvur v blizkem okoli.
+
+Trvani: 30 s. za PSI"
+Psi22:"Projected Pyrokinesis
+
+Vystreli na cil ohnivy projektil. Vyssi PSI zvysuje ucinnost."
+Psi7:"Remote Electron Tampering
+
+Zpusobi rychlejsi vyprseni doby poplachu.
+
+Redukce casu: 5 s. + 5 s. za PSI"
+Psi10:"Adrenaline Overproduction
+
+Zvysuje ucinek boje na blizko o faktor rovnajici se PSI.
+
+Trvani: 10 s. za PSI"
+Psi23:"Psionic Hypnogenesis
+
+Pusobi na neroboticke cile.  Zasazeny tvor zustane nehybny, dokud neni napaden.
+
+Trvani: 20 s. za PSI."
+Psi24:"Ctvrta uroven neural. kapacity
+
+Je nezbytna pro pouziti PSI disciplin ctvrte urovne.  Zvysuje maximalni pocet psi bodu o 8.  Kazde pouziti disciplin ctvrte urovne odebere 4 psi body."
+Psi25:"Photonic Redirection
+
+Zneviditelni vas vsem nestvuram.  Vystrelem ze zbrane se tento efekt zrusi.
+
+Trvani: 5 s. + 5 s. za PSI"
+Psi26:"Remote Pattern Detection
+
+Zobrazi umistneni vsech uzitecnych predmetu v blizkem okoli (nanity, munice, sera, implantaty a audio logy).
+
+Trvani: 1 min. za PSI"
+Psi27:"Electron Suppression
+
+Znehybni roboticke cile.
+
+Trvani: 3 s. za PSI"
+Psi28:"Psychogenic Endurance
+
+Zvysi vasi odolnost (END) o 2.
+
+Trvani: 2 min. + 1 min. za PSI"
+Psi29:"Molecular Transmutation
+
+Premeni munici a sera na nanity."
+Psi30:"Remote Circuitry Manipulation
+
+Umozni vam psionicky hacking.  Pouzije polovinu hodnoty vasi urovne PSI namisto namisto dovednosti hackingu a CYB, a misto nanitu pouziva psi body."
+Psi31:"Cerebro-energetic Extension
+
+Zmeni vas Psi-Amp v ucinnou zbran zblizka.
+
+Trvani: 10 s. za PSI"
+Psi32:"Pata uroven neuralni kapacity
+
+Je nezbytna pro pouziti PSI disciplin pate urovne.  Zvysuje maximalni pocet psi bodu o 10.  Kazde pouziti disciplin pate urovne odebere 5 psi bodu."
+Psi33:"Advanced Cerebro-stimulated Regeneration
+
+Obnovi ztracene body zdravi.
+
+Hodnota vyleceni: 5 bodu zdravi + 5 bodu za PSI"
+Psi34:"Soma Transference
+
+Vysaje z kazdeho ziveho tvora jeho body zdravi a prida je vam."
+Psi35:"Instant Quantum Relocation
+
+Teleportuje vas do oznaceneho prostoru.  Neni-li zadny prostor oznacen, oznaci se vase soucasna pozice. Teleportacni znacku muzete smazat stisknutim Alt-T."
+Psi36:"Imposed Neural Restructuring
+
+Zasazeny neroboticky cil se zacne chovat nepratelsky vuci vsem nelidskym tvorum.
+
+Trvani: 10 s. za PSI, nebo dokud ho nezrani clovek."
+Psi37:"Metacreative Barrier
+
+Vytvori primo pred vami psionickou stenu.
+
+Odolnost zdi: 150 + 50 za kazdou uroven PSI nad 5
+Trvani: 4 min."
+Psi38:"External Psionic Detonation
+
+Vytvori psionickou minu, ktera nema zadny ucinek na roboty, ale dvojnasobny ucinek na psionicky vnimave tvory.
+
+Trvani: 4 min."
+Psi39:"Psycho-reflective Aura
+
+Ochrani vas proti 60% vsech poskozeni pri boji.
+
+Trvani: 10 s. + 20 s. za PSI"
+PsiIcon0:"picn00"
+PsiIcon1:"picn01"
+PsiIcon2:"picn02"
+PsiIcon3:"picn04"
+PsiIcon4:"picn05"
+PsiIcon5:"picn06"
+PsiIcon6:"picn07"
+PsiIcon7:"picn21"
+PsiIcon8:"picn08"
+PsiIcon9:"picn03"
+PsiIcon10:"picn22"
+PsiIcon11:"picn10"
+PsiIcon12:"picn11"
+PsiIcon13:"picn12"
+PsiIcon14:"picn13"
+PsiIcon15:"picn15"
+PsiIcon16:"picn16"
+PsiIcon17:"picn09"
+PsiIcon18:"picn14"
+PsiIcon19:"picn17"
+PsiIcon20:"picn18"
+PsiIcon21:"picn19"
+PsiIcon22:"picn20"
+PsiIcon23:"picn23"
+PsiIcon24:"picn24"
+PsiIcon25:"picn25"
+PsiIcon26:"picn26"
+PsiIcon27:"picn27"
+PsiIcon28:"picn28"
+PsiIcon29:"picn29"
+PsiIcon30:"picn30"
+PsiIcon31:"picn31"
+PsiIcon32:"picn32"
+PsiIcon33:"picn33"
+PsiIcon34:"picn34"
+PsiIcon35:"picn35"
+PsiIcon36:"picn36"
+PsiIcon37:"picn37"
+PsiIcon38:"picn38"
+PsiIcon39:"picn39"
+BuyText0:"Tato tlacitka prepinaji mezi urovnemi psionickych disciplin."
+BuyText2:"Zde se zobrazuje, kolik kyber modulu mate k dispozici."
+BuyText3:"Tato tlacitka prepinaji mezi ruznymi zobrazenimi MFD."
+AmpText0:"Tato tlacitka prepinaji mezi urovnemi psionickych disciplin."
+PsiShort0:"Toto je chyba"
+PsiShort1:"Psi Shield"
+PsiShort2:"Reflex"
+PsiShort9:"Anti-Entropy"
+PsiShort3:"Psi Pull"
+PsiShort4:"Agility"
+PsiShort5:"Cyber"
+PsiShort6:"Cryokinesis"
+PsiShort8:"Toto je chyba"
+PsiShort17:"Duplicate"
+PsiShort11:"Rad Shield"
+PsiShort12:"Regenerate"
+PsiShort13:"Strength"
+PsiShort14:"Recursive Psi"
+PsiShort18:"Electron"
+PsiShort15:"Pyro Field"
+PsiShort16:"Toto je chyba"
+PsiShort19:"Reflect"
+PsiShort20:"Toxin Sheld"
+PsiShort21:"Sense Motion"
+PsiShort22:"Pyrokinesis"
+PsiShort7:"Stop Alarm"
+PsiShort10:"Adrenaline"
+PsiShort23:"Hypnosis"
+PsiShort24:"Toto je chyba"
+PsiShort25:"Invisibility"
+PsiShort26:"Detect Items"
+PsiShort27:"Suppression"
+PsiShort28:"Endurance"
+PsiShort29:"Transmute"
+PsiShort30:"Psi Hack"
+PsiShort31:"Psi Weapon"
+PsiShort32:"Toto je chyba"
+PsiShort33:"Adv. Regen"
+PsiShort34:"Transfer"
+PsiShort35:"Relocation"
+PsiShort36:"Restructure"
+PsiShort37:"Barrier"
+PsiShort38:"Detonation"
+PsiShort39:"Aura"
