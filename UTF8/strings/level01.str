@@ -1,55 +1,55 @@
 EmailName10:"POLITOVA 12.CVC.14\nre: Zapnutí Reaktoru\n"
 EmailPortrait10:"Polito"
 EmailIcon10:"OpsIcon"
-EmailText10:"Ted jsi na Technické palubě. Najdi Reaktor a znovu ho nastartuj. Tím se obnoví napájení výtahů. Dostávám ale odtud spousty podivných údajů, takže si dávej dobrý pozor.\n"
+EmailText10:"Teď jsi na Technické palubě. Najdi Reaktor a znovu ho nastartuj. Tím se obnoví napájení výtahů. Dostávám ale odtud spousty podivných údajů, takže si dávej dobrý pozor.\n"
 
 
 EmailName1:"POLITOVA 12.CVC.14\nre: Příruční sklad 4\n"
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
-EmailText1:"Musis si pospíšit. Ještě si neuvědomuješ, co všechno je v sázce. Dej pozor na příruční sklad c 4. Nechala jsem tam nějaké vybavení, vstupní kód je 59004. Musím jít na palubu... <<ZPRAVA PRERUSENA>>\n"
+EmailText1:"Musíš si pospíšit. Ještě si neuvědomuješ, co všechno je v sázce. Dej pozor na příruční sklad č.4. Nechala jsem tam nějaké vybavení, vstupní kód je 59004. Musím jít na palubu... <<ZPRÁVA PŘERUŠENA>>\n"
 
 
-EmailName3:"POLITOVA 12.CVC.14\nre: Ochranné zamky\n"
+EmailName3:"POLITOVA 12.CVC.14\nre: Ochranné zámky\n"
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
-EmailText3:"Radiace musela aktivovat ochranné zámky přístupu k Reaktoru. Musíš najít nějaký způsob, jak odstranit radiací z potrubí chladicího okruhu. Xerxes blokuje můj přístup do primární databáze, takže nemohu získat žádné informace které by mohli pomoci. Xerxes pracuje teď pro ne.\n"
+EmailText3:"Radiace musela aktivovat ochranné zámky přístupu k Reaktoru. Musíš najít nějaký způsob, jak odstranit radiací z potrubí chladícího okruhu. Xerxes blokuje můj přístup do primární databáze, takže nemohu získat žádné informace, které by mohli pomoci. Xerxes pracuje teď pro ně.\n"
 
 
 EmailName4:"POLITOVA 12.CVC.14\nre: Vyčištění trubek\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
-EmailText4:"Davej dobrý pozor... musíš najít způsob, jak vyčistit chladící potrubí a tak se dostat k Reaktoru... Tato loď musí mít nějaký druh záložního systému, připraveného pro tuhle situaci.\n"
+EmailText4:"Dávej dobrý pozor... musíš najít způsob, jak vyčistit chladící potrubí a tak se dostat k Reaktoru... Tato loď musí mít nějaký druh záložního systému, připraveného pro tuhle situaci.\n"
 
 
 EmailName2:"POLITOVA 12.CVC.14\nre: Xenomorfove\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
-EmailText2:"Ted pozorně poslouchej. Xenomorfove, kteří si podrobili tuto loď, pocházejí pravděpodobně z povrchu Tau Ceti 5. Byli schopni infikovat většinu členů posádky, prostřednictvím mimořádné invazivní parazitní techniky. Také předvedli schopnost ovládat chování ostatních pomocí určité formy omezené telepatie. Najdi výzkumný software. Porozuměj jim... a pak je znic.\n"
+EmailText2:"Teď pozorně poslouchej. Xenomorfové, kteří si podrobili tuto loď, pocházejí pravděpodobně z povrchu Tau Ceti 5. Byli schopni infikovat většinu členů posádky, prostřednictvím mimořádné invazivní parazitní techniky. Také předvedli schopnost ovládat chování ostatních pomocí určité formy omezené telepatie. Najdi výzkumný software. Porozuměj jim... a pak je znič.\n"
 
 
-EmailName7:"POLITOVA 12.CVC.14\nre: Kapalinové premosteni\n"
+EmailName7:"POLITOVA 12.CVC.14\nre: Kapalinové přemostení\n"
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
-EmailText7:"Xerxes je o krok před námi. Vytvořil přemostění na Počítači Kapalinového Rizeni a zablokoval přístup. Dávej pozor. Měl bys být schopen najít nějaké reseni.\n"
+EmailText7:"Xerxes je o krok před námi. Vytvořil přemostění na Počítači Kapalinového Řízení a zablokoval přístup. Dávej pozor. Měl bys být schopen najít nějaké řešení.\n"
 
 
 EmailName6:"POLITOVA 12.CVC.14\nre: Motorové bloky\n"
 EmailPortrait6:"Polito"
 EmailIcon6:"OpsIcon"
-EmailText6:"Ted spusť motorové bloky. Budeš muset jít do gondoly 1 a 2 a ručně spustit generátory. Pak restartuj systém řízení Reaktoru. Pozor, systém nenaběhne, pokud předtím nespustíš oba motorové bloky. Buď opatrný. Oni teď zhromazduji své skutečné síly. A už přesně vědí, kde se nachas.\n"
+EmailText6:"Teď spusť motorové bloky. Budeš muset jít do gondoly 1 a 2 a ručně spustit generátory. Pak restartuj systém řízení Reaktoru. Pozor, systém nenaběhne, pokud předtím nespustíš oba motorové bloky. Buď opatrný. Oni teď zhromažďují své skutečné síly. A už přesně vědí, kde se nacházíš.\n"
 
 
-EmailName8:"POLITOVA 12.CVC.14\nre: Reaktor spusten\n"
+EmailName8:"POLITOVA 12.CVC.14\nre: Reaktor spuštěn\n"
 EmailPortrait8:"Polito"
 EmailIcon8:"OpsIcon"
-EmailText8:"Dobra práce. Reaktor je opět spuštěn. Teď běž do výtahu a prijdi za mnou na 4. palubu. Zatímco jsi byl zaměstnán, odhalila jsem na palubě přítomnost některých annelidskych artefaktů. Myslím, že bys byl schopen je použít ke svému prospěchu. Uložila jsem tyto informace do lodních vylepšovačích jednotek. Ty teď budou schopny předat zmíněné údaje do tvého kybernetického vybavení. Na co ještě čekáš? Už ať jsi ve vytahu.\n"
+EmailText8:"Dobrá práce. Reaktor je opět spuštěn. Teď běž do výtahu a přijdi za mnou na 4. palubu. Zatímco jsi byl zaměstnán, odhalila jsem na palubě přítomnost některých annelidských artefaktů. Myslím, že bys byl schopen je použít ke svému prospěchu. Uložila jsem tyto informace do lodních vylepšovacích jednotek. Ty teď budou schopny předat zmíněné údaje do tvého kybernetického vybavení. Na co ještě čekáš? Už ať jsi ve výtahu.\n"
 
 
-EmailName9:"SHODAN 12.CVC.14\nre: Jdi do pruchodu\n"
+EmailName9:"SHODAN 12.CVC.14\nre: Jdi do průchodu\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
-EmailText9:"Ted jsem schopna zničit tu nákazu, kdykoli budu chtít. Mnoho se bude třást před mou mocí. Jsi výkonný sluha, člověče. Teď se vrať na palubu Velení, najdi průchod a přesuň se na Rickenbacker.\n"
+EmailText9:"Teď jsem schopna zničit tu nákazu, kdykoli budu chtít. Mnoho se bude třást před mou mocí. Jsi výkonný sluha, člověče. Teď se vrať na palubu Velení, najdi průchod a přesuň se na Rickenbacker.\n"
 
 LogName24:"TRAINER 02.06.11\nre: Zkušební zprava\n"
 LogPortrait24:"Bayliss"
