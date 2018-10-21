@@ -47,7 +47,7 @@ Post16:"Zamereni mise: Laboratorni asistent
 Post17:"Zamereni mise: Vycvik preziti
 (prida: +2 odolnost)"
 Post18:"Zamereni mise: Trening v beztizi
-(prida: +2 obratnost)"
+(prida: +2 Hbitost)"
 Post19:"Zamereni mise: Sens Dep Tank 925/NP5: Kyber empatie
 (prida: 2. vrstvu PSI schopnosti, Cryokinesis a Psychogenic Cyber Affinity)"
 Post2:"Zamereni mise: Trening preziti
@@ -62,11 +62,11 @@ Post23:"Zamereni mise: Experimentalni laborator TOS Ki Luan
 (prida: +1 vyzkum)"
 Post24:"Zamereni mise: Takticky PSI vycvik/Kryti
 (prida: +2 odolnost)"
-Post25:"Zamereni mise: Polni operace, antiterorismus\n(prida: +1 sily, +1 obratnost, +1 Kyber-kompatibilita,\n a Psychogenic Agility)"
-Post26:"Zamereni mise: Polni operace, vyber skupin\n(prida: +1 sily, +1 obratnost, +1 Kyber-kompatibilita,\n a Neuro-Reflex Dampening)"
-Post27:"Zamereni mise: Polni operace, IO\n(prida: +1 sily, +1 obratnost, +1 Kyber-kompatibilita,\n a Remote Electron Tampering)"
+Post25:"Zamereni mise: Polni operace, antiterorismus\n(prida: +1 sily, +1 Hbitost, +1 Kyber-kompatibilita,\n a Psychogenic Agility)"
+Post26:"Zamereni mise: Polni operace, vyber skupin\n(prida: +1 sily, +1 Hbitost, +1 Kyber-kompatibilita,\n a Neuro-Reflex Dampening)"
+Post27:"Zamereni mise: Polni operace, IO\n(prida: +1 sily, +1 Hbitost, +1 Kyber-kompatibilita,\n a Remote Electron Tampering)"
 Post3:"Zamereni mise: Vycvik v beztizi
-(prida: +2 obratnost)"
+(prida: +2 Hbitost)"
 Post4:"Zamereni mise: Zbranova technika
 (prida: +1 energeticke zbrane a +1 Kyber-kompatibilita)"
 Post5:"Zamereni mise: Hlidka na asteroidech

@@ -5,8 +5,8 @@
 	descr "Info"
 	sub psiadrac { text "Adrenalín aktivován." }
 	sub psiadrde { text "Adrenalín deaktivován." }
-	sub psiagiac { text "Obratnost aktivována." }
-	sub psiagide { text "Obratnost deaktivována." }
+	sub psiagiac { text "Hbitost aktivována." }
+	sub psiagide { text "Hbitost deaktivována." }
 	sub psiapsac { text "Štít aktivován." }
 	sub psiapsde { text "Štít deaktivován." }
 	sub psiaurac { text "Štít aktivován." }
