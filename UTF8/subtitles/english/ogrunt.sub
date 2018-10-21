@@ -82,11 +82,11 @@ SUB1
 	sub og1att_4 { text "[yell]" }
 	sub og1att_5 { text "[yell]" }
 	sub og1att_6 { text "[yell]" }
-	sub og1bod_2 { text "[scream]" }
+	sub og1bod_2 { text "[výkřik]" }
 	sub og1chg_2 { text "[roar]" }
-	sub og1die_1 { text "[death scream]" }
-	sub og1die_2 { text "[death scream]" }
-	sub og1die_3 { text "[death scream]" }
+	sub og1die_1 { text "[smrtelný výkřik]" }
+	sub og1die_2 { text "[smrtelný výkřik]" }
+	sub og1die_3 { text "[smrtelný výkřik]" }
 	sub og1gr1 { text "[growl]" }
 	sub og1gr2 { text "[growl]" }
 	sub og1gr3 { text "[growl]" }
@@ -104,8 +104,8 @@ SUB1
 	sub og1hhi_1 { text "[grunt]" }
 	sub og1hhi_2 { text "[grunt]" }
 	sub og1hhi_3 { text "[grunt]" }
-	sub og1hlo_2 { text "[pain]" }
-	sub og1hlo_3 { text "[pain]" }
+	sub og1hlo_2 { text "[bolest]" }
+	sub og1hlo_3 { text "[bolest]" }
 }
 
 {

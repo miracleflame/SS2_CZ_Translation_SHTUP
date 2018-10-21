@@ -81,19 +81,19 @@ SUB1
 	sub pd1att5 { text "[approaching]" }
 	sub pd1att6 { text "[approaching]" }
 	sub pd1att7 { text "[approaching]" }
-	sub pd1die_1 { text "[destroyed]" }
-	sub pd1die_2 { text "[destroyed]" }
-	sub pd1hhi_5 { text "[damaged]" }
-	sub pd1hlo_4 { text "[damaged]" }
-	sub pd1hlo_5 { text "[damaged]" }
-	sub pd1nz0 { text "[idle]" }
-	sub pd1nz1 { text "[idle]" }
-	sub pd1nz2 { text "[idle]" }
-	sub pd1nz3 { text "[idle]" }
-	sub pd1nz4 { text "[idle]" }
-	sub pd1nz5 { text "[idle]" }
-	sub pd1nz6 { text "[idle]" }
-	sub pd1nz7 { text "[idle]" }
-	sub pd1nz8 { text "[idle]" }
-	sub pd1nz9 { text "[idle]" }
+	sub pd1die_1 { text "[zničena]" }
+	sub pd1die_2 { text "[zničena]" }
+	sub pd1hhi_5 { text "[poškozen]" }
+	sub pd1hlo_4 { text "[poškozen]" }
+	sub pd1hlo_5 { text "[poškozen]" }
+	sub pd1nz0 { text "[v klidu]" }
+	sub pd1nz1 { text "[v klidu]" }
+	sub pd1nz2 { text "[v klidu]" }
+	sub pd1nz3 { text "[v klidu]" }
+	sub pd1nz4 { text "[v klidu]" }
+	sub pd1nz5 { text "[v klidu]" }
+	sub pd1nz6 { text "[v klidu]" }
+	sub pd1nz7 { text "[v klidu]" }
+	sub pd1nz8 { text "[v klidu]" }
+	sub pd1nz9 { text "[v klidu]" }
 }

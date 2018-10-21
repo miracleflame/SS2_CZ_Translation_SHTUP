@@ -3,24 +3,24 @@ SUB1
 {
 	type "nonverbal"
 	descr "Rumbler"
-	sub rm1at0_1 { text "[idle]" } // AI_AT0, AI_BAK
-	sub rm1at0_2 { text "[idle]" } // AI_AT0, AI_BAK
-	sub rm1at0_3 { text "[idle]" } // AI_AT0
-	sub rm1at0_4 { text "[idle]" } // AI_AT0
-	sub rm1at0_5 { text "[idle]" } // AI_AT0, AI_LOS
-	sub rm1at2_1 { text "[searching]" } // AI_AT2, AI_AT3
-	sub rm1at2_2 { text "[searching]" } // AI_AT2, AI_AT3
-	sub rm1at2_3 { text "[searching]" } // AI_AT2
-	sub rm1at2_4 { text "[searching]" } // AI_AT2
-	sub rm1chg_1 { text "[attacking]" } // AI_CHG
-	sub rm1chg_2 { text "[attacking]" } // AI_CHG
-	sub rm1chg_3 { text "[attacking]" } // AI_ATT
-	sub rm1die_1 { text "[death scream]" } // AI_DIE
-	sub rm1die_2 { text "[death scream]" } // AI_DIE
-	sub rm1hhi_1 { text "[roar]" } // AI_ATT, AI_HHI
-	sub rm1to1_1 { text "[suspicious]" } // AI_TO1
-	sub rm1to1_2 { text "[suspicious]" } // AI_TO1
-	sub rm1to3_1 { text "[roar]" } // AI_TO3, AI_AT3
-	sub rm1to3_2 { text "[roar]" } // AI_TO3, AI_AT3, AI_ATT
-	sub rm1to3_3 { text "[roar]" } // AI_ATT
+	sub rm1at0_1 { text "[v klidu]" } // AI_AT0, AI_BAK
+	sub rm1at0_2 { text "[v klidu]" } // AI_AT0, AI_BAK
+	sub rm1at0_3 { text "[v klidu]" } // AI_AT0
+	sub rm1at0_4 { text "[v klidu]" } // AI_AT0
+	sub rm1at0_5 { text "[v klidu]" } // AI_AT0, AI_LOS
+	sub rm1at2_1 { text "[hledá]" } // AI_AT2, AI_AT3
+	sub rm1at2_2 { text "[hledá]" } // AI_AT2, AI_AT3
+	sub rm1at2_3 { text "[hledá]" } // AI_AT2
+	sub rm1at2_4 { text "[hledá]" } // AI_AT2
+	sub rm1chg_1 { text "[útočí]" } // AI_CHG
+	sub rm1chg_2 { text "[útočí]" } // AI_CHG
+	sub rm1chg_3 { text "[útočí]" } // AI_ATT
+	sub rm1die_1 { text "[smrtelný řev]" } // AI_DIE
+	sub rm1die_2 { text "[smrtelný řev]" } // AI_DIE
+	sub rm1hhi_1 { text "[řev]" } // AI_ATT, AI_HHI
+	sub rm1to1_1 { text "[podezírá]" } // AI_TO1
+	sub rm1to1_2 { text "[podezírá]" } // AI_TO1
+	sub rm1to3_1 { text "[řev]" } // AI_TO3, AI_AT3
+	sub rm1to3_2 { text "[řev]" } // AI_TO3, AI_AT3, AI_ATT
+	sub rm1to3_3 { text "[řev]" } // AI_ATT
 }

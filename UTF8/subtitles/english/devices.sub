@@ -3,5 +3,5 @@ SUB1
 {
 	type "convo"
 	descr "Telephone"
-	sub telephon { text "This device is temporarily out of order." }
+	sub telephon { text "Toto zařízení je dočasně mimo provoz." }
 }

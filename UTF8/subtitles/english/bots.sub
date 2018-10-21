@@ -129,47 +129,47 @@ SUB1
 {
 	type "nonverbal"
 	descr "Bot"
-	sub dr1at0_1 { text "[idle]" }
-	sub dr1at0_2 { text "[idle]" }
-	sub dr1at0_3 { text "[idle]" }
-	sub dr1at0_4 { text "[idle]" }
-	sub dr1at0_5 { text "[idle]" }
-	sub dr1at0_6 { text "[idle]" }
-	sub dr1at1_1 { text "[suspicious]" }
-	sub dr1at1_2 { text "[suspicious]" }
-	sub dr1at1_3 { text "[suspicious]" }
-	sub dr1at1_4 { text "[suspicious]" }
-	sub dr1at1_5 { text "[suspicious]" }
-	sub dr1at1_6 { text "[suspicious]" }
-	sub dr1at2_1 { text "[searching]" }
-	sub dr1at2_2 { text "[searching]" }
-	sub dr1at2_3 { text "[searching]" }
-	sub dr1at2_4 { text "[searching]" }
-	sub dr1at2_5 { text "[searching]" }
-	sub dr1at2_6 { text "[searching]" }
-	sub dr1at2_7 { text "[searching]" }
-	sub dr1at2_8 { text "[searching]" }
+	sub dr1at0_1 { text "[v klidu]" }
+	sub dr1at0_2 { text "[v klidu]" }
+	sub dr1at0_3 { text "[v klidu]" }
+	sub dr1at0_4 { text "[v klidu]" }
+	sub dr1at0_5 { text "[v klidu]" }
+	sub dr1at0_6 { text "[v klidu]" }
+	sub dr1at1_1 { text "[podezírá]" }
+	sub dr1at1_2 { text "[podezírá]" }
+	sub dr1at1_3 { text "[podezírá]" }
+	sub dr1at1_4 { text "[podezírá]" }
+	sub dr1at1_5 { text "[podezírá]" }
+	sub dr1at1_6 { text "[podezírá]" }
+	sub dr1at2_1 { text "[hledá]" }
+	sub dr1at2_2 { text "[hledá]" }
+	sub dr1at2_3 { text "[hledá]" }
+	sub dr1at2_4 { text "[hledá]" }
+	sub dr1at2_5 { text "[hledá]" }
+	sub dr1at2_6 { text "[hledá]" }
+	sub dr1at2_7 { text "[hledá]" }
+	sub dr1at2_8 { text "[hledá]" }
 	sub fdrospa4 { text "[firing spark]" }
 	sub fdrospa5 { text "[firing spark]" }
 	sub fdrofus1 { text "[firing fusion]" }
 	sub fdrofus2 { text "[firing fusion]" }
 	sub fdrofus3 { text "[firing fusion]" }
-	sub fdrolas1 { text "[firing laser]" }
-	sub fdrolas2 { text "[firing laser]" }
-	sub fdrolas3 { text "[firing laser]" }
-	sub md1die_1 { text "[destroyed]" }
-	sub md1die_2 { text "[destroyed]" }
-	sub md1hhi_1 { text "[damaged]" }
-	sub md1hhi_2 { text "[damaged]" }
-	sub md1hhi_3 { text "[damaged]" }
-	sub md1hhi_4 { text "[damaged]" }
-	sub md1hlo_1 { text "[damaged]" }
-	sub md1hlo_2 { text "[damaged]" }
-	sub sd1hhi_4 { text "[damaged]" }
-	sub sd1hhi_5 { text "[damaged]" }
-	sub sd1hhi_6 { text "[damaged]" }
-	sub sd1hlo_1 { text "[damaged]" }
-	sub sd1hlo_2 { text "[damaged]" }
-	sub sd1hlo_3 { text "[damaged]" }
-	sub sd1hlo_4 { text "[damaged]" }
+	sub fdrolas1 { text "[výstřel laseru]" }
+	sub fdrolas2 { text "[výstřel laseru]" }
+	sub fdrolas3 { text "[výstřel laseru]" }
+	sub md1die_1 { text "[zničena]" }
+	sub md1die_2 { text "[zničena]" }
+	sub md1hhi_1 { text "[poškozen]" }
+	sub md1hhi_2 { text "[poškozen]" }
+	sub md1hhi_3 { text "[poškozen]" }
+	sub md1hhi_4 { text "[poškozen]" }
+	sub md1hlo_1 { text "[poškozen]" }
+	sub md1hlo_2 { text "[poškozen]" }
+	sub sd1hhi_4 { text "[poškozen]" }
+	sub sd1hhi_5 { text "[poškozen]" }
+	sub sd1hhi_6 { text "[poškozen]" }
+	sub sd1hlo_1 { text "[poškozen]" }
+	sub sd1hlo_2 { text "[poškozen]" }
+	sub sd1hlo_3 { text "[poškozen]" }
+	sub sd1hlo_4 { text "[poškozen]" }
 }

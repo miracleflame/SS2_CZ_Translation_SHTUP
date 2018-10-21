@@ -3,11 +3,11 @@ SUB1
 {
 	type "convo"
 	descr "ValueRep"
-	sub replic1e { text "Hi there! Please make your selection." }
-	sub replic2e { text "Thank you for choosing ValueRep." }
+	sub replic1e { text "Ahoj! Prosím, vyberte si z ponuky." }
+	sub replic2e { text "Děkujeme vám, že používáte ValueRep." }
 	multisub replic3e {
-		{ time 00 length 2200 text "We hope you enjoyed replicating with us." }
-		{ time 2400 length 3000 text "Remember, Tuesdays are double rep days." }
+		{ time 00 length 2200 text "Doufáme, že jste si replikaci s námi užili." }
+		{ time 2400 length 3000 text "Pamatujte, v Úterí je double-rep den." }
 	}
 }
 
@@ -15,39 +15,39 @@ SUB1
 	type "convo"
 	descr ""
 	multisub comp_mal {
-		{ time 4900 length 1600 text "Computer malfunction." }
+		{ time 4900 length 1600 text "Zlyhání počítače." }
 	}
 }
 
 {
 	type "bark"
 	descr "SHODAN"
-	sub shodoor1 { text "Human." }
-	sub shodoor7 { text "Human." }
-	sub shodoor9 { text "Insect." }
+	sub shodoor1 { text "Člověk." }
+	sub shodoor7 { text "Človek." }
+	sub shodoor9 { text "Insekt." }
 }
 
 {
 	type "bark"
 	descr "Grunt"
-	sub grhelp1 { text "Help me." }
-	sub grhelp2 { text "Somebody help me." }
-	sub grhelp3 { text "Help me." }
+	sub grhelp1 { text "Pomozte mi." }
+	sub grhelp2 { text "Někdo mi pomozte." }
+	sub grhelp3 { text "Pomozte mi." }
 }
 
 {
 	type "nonverbal"
 	descr ""
-	sub baby1 { text "[baby crying]" }
-	sub baby2 { text "[baby crying]" }
+	sub baby1 { text "[dětský pláč]" }
+	sub baby2 { text "[dětský pláč]" }
 	sub classic { text "[classical music]" }
-	sub screamf1 { text "[woman screaming]" }
-	sub screamf2 { text "[woman screaming]" }
-	sub screamf3 { text "[woman screaming]" }
-	sub screamg1 { text "[woman screaming]" }
-	sub screamm1 { text "[man screaming]" }
-	sub screamm2 { text "[man screaming]" }
-	sub screamm3 { text "[man screaming]" }
-	sub toilet { text "[toilet flushing]" }
+	sub screamf1 { text "[ženský výkřik]" }
+	sub screamf2 { text "[ženský výkřik]" }
+	sub screamf3 { text "[ženský výkřik]" }
+	sub screamg1 { text "[ženský výkřik]" }
+	sub screamm1 { text "[mužský výkřik]" }
+	sub screamm2 { text "[mužský výkřik]" }
+	sub screamm3 { text "[mužský výkřik]" }
+	sub toilet { text "[spláchnutí toalety]" }
 }
 
