@@ -7,7 +7,7 @@ SUB1
 	sub replic2e { text "Děkujeme vám, že používáte ValueRep." }
 	multisub replic3e {
 		{ time 00 length 2200 text "Doufáme, že jste si replikaci s námi užili." }
-		{ time 2400 length 3000 text "Pamatujte, v Úterí je double-rep den." }
+		{ time 2400 length 3000 text "Pamatujte, v Úterí je dabl-rep den." }
 	}
 }
 
