@@ -68,14 +68,14 @@ SUB1
 	type "nonverbal"
 	descr "Midwife"
 	sub f_mwlas4 { text "[střílí]" }
-	sub mw1at0_5 { text "[humming]" }
+	sub mw1at0_5 { text "[pohmkávání]" }
 	sub mw1die_1 { text "[smrtelný výkřik]" }
 	sub mw1die_2 { text "[smrtelný výkřik]" }
-	sub mw1hhi_1 { text "[grunt]" }
-	sub mw1hhi_2 { text "[grunt]" }
-	sub mw1hhi_3 { text "[grunt]" }
-	sub mw1hhi_4 { text "[grunt]" }
-	sub mw1hhi_5 { text "[grunt]" }
+	sub mw1hhi_1 { text "[chrocht]" }
+	sub mw1hhi_2 { text "[chrocht]" }
+	sub mw1hhi_3 { text "[chrocht]" }
+	sub mw1hhi_4 { text "[chrocht]" }
+	sub mw1hhi_5 { text "[chrocht]" }
 	sub mw1hlo_1 { text "[bolest]" }
 	sub mw1hlo_2 { text "[bolest]" }
 	sub mw1hlo_3 { text "[bolest]" }

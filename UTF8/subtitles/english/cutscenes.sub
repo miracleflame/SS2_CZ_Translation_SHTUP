@@ -52,7 +52,7 @@ SUB1
 		{ time 32200 length 5500 text "Shuttle 8138, you have cleared for landing on the Von Braun in shuttle bay 2." }
 		{ time 37500 length 2500 text "Welcome aboard, soldier." }
 //		{ time 41500 length 5400 text "5 months later. UNN Von Braun. Near Tau Ceti V. 67 trillion miles from Earth." }
-//		{ time 69800 length 1000 text "[roar]" }
+//		{ time 69800 length 1000 text "[øev]" }
 //		{ time 73400 length 3000 text "[screaming]" }
 		{ time 78700 length 3200 text "Reinitializing memory strings." }
 		{ time 81700 length 2500 text "Restoring patient memory." }
