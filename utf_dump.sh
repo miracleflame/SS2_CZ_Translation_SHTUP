@@ -3,7 +3,7 @@
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 
-for i in `find 1250 ! -path *.crf*`; do
+for i in `find 1250 ! -wholename "*/fonts*"! -path *.crf*`; do
 
 	if [ -d "$i" ]
 		then
