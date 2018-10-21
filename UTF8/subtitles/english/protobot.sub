@@ -3,84 +3,84 @@ SUB1
 {
 	type "bark"
 	descr "Droid"
-	sub pd1amb_1 { text "Uh! What was that?" }
-	sub pd1amb_2 { text "Uh! Cease and desist." }
-	sub pd1amb_3 { text "Who did that?" }
-	sub pd1amb_4 { text "How unfriendly." }
-	sub pd1amb_5 { text "Stop that, please." }
-	sub pd1at0_1 { text "It's all a question of procedures, really. So many people don't seem to understand." }
-	sub pd1at0_2 { text "This place is a terrible mess." }
-	sub pd1at0_3 { text "Who chose these colors? I don't like them one bit." }
-	sub pd1at0_4 { text "I am a fully-registered TriOptimum service unit." }
-	sub pd1at2_1 { text "May I interest you in any of our personal care products?" }
-	sub pd1at2_2 { text "Hello. May I be of service?" }
-	sub pd1at2_3 { text "I could have sworn there was someone looking for me." }
-	sub pd1at2_4 { text "Pardon me. Please restate any requests." }
-	sub pd1at2_5 { text "Excuse me?" }
-	sub pd1at3_1 { text "Where did he go? Oh." }
-	sub pd1at3_2 { text "Sir, where are you?" }
-	sub pd1at3_3 { text "I'm sorry, I didn't see where you went." }
-	sub pd1at3_4 { text "Wait! Come back!" }
-	sub pd1at3_5 { text "Xerxes won't like this." }
-	sub pd1bak_1 { text "What a shame, what a shame." }
-	sub pd1bak_2 { text "There never does seem to be anyone nowadays." }
-	sub pd1bak_3 { text "No one. And I had so hoped to be useful." }
-	sub pd1bak_4 { text "I suppose they shall ring for me if they return." }
-	sub pd1bak_5 { text "Tsk, tsk. People are so shy." }
-	sub pd1bod_1 { text "Is a recharge needed?" }
-	sub pd1bod_2 { text "You seem to have suffered a minor malfunction." }
-	sub pd1bod_3 { text "Your performance seems non-optimal. May I help?" }
-	sub pd1bod_4 { text "Is this your desired operating condition?" }
-	sub pd1bod_5 { text "I don't mean to be rude, but something seems amiss." }
-	sub pd1bod_6 { text "May I help you up?" }
-	sub pd1chg_1 { text "That's the TriOptimum way!" }
-	sub pd1chg_2 { text "Right away, sir!" }
-	sub pd1chg_3 { text "Marvelous choice, if I do say so myself!" }
-	sub pd1chg_4 { text "Oh, very good, sir!" }
-	sub pd1chg_5 { text "I'm sure this is just what you were looking for!" }
-	sub pd1hhi_1 { text "Uh! I'm sure this is all just a misunderstanding." }
-	sub pd1hhi_2 { text "Uh! Good heavens!" }
-	sub pd1hhi_3 { text "Uh! Please don't do that again." }
-	sub pd1hhi_4 { text "Uh!" }
-	sub pd1hlo_1 { text "I-I-I beg your pardon." }
-	sub pd1hlo_2 { text "My performance will suffer soon." }
-	sub pd1hlo_3 { text "That is not helpful." }
-	sub pd1los_1 { text "I'm afraid I can't help you if you hide." }
-	sub pd1los_2 { text "Sir, sir! There's no charge. Come back." }
-	sub pd1los_3 { text "Aww, I've driven a client away. I'll likely be downgraded." }
-	sub pd1los_4 { text "This is terrible. This won't do at all." }
-	sub pd1los_5 { text "If my service was unsatisfactory, please note my ID number." }
-	sub pd1run_1 { text "Please halt." }
-	sub pd1run_2 { text "Just one moment, sir." }
-	sub pd1run_3 { text "Please wait right there, and a server will be with you shortly." }
-	sub pd1to1_1 { text "Is someone waiting for me?" }
-	sub pd1to1_2 { text "Hello?" }
-	sub pd1to1_3 { text "Yes?" }
-	sub pd1to1_4 { text "Is a client there?" }
-	sub pd1to1_5 { text "May I help you? Ah, is someone there?" }
-	sub pd1to2_1 { text "No need to lurk back there." }
-	sub pd1to2_2 { text "Come, come. There's not a queue." }
-	sub pd1to2_3 { text "Can I help you?" }
-	sub pd1to2_4 { text "Come right up. Don't be shy." }
-	sub pd1to2_5 { text "What can I do for-- Where are you sir?" }
-	sub pd1to3_1 { text "I am at your service." }
-	sub pd1to3_2 { text "Coming right up, sir!" }
-	sub pd1to3_3 { text "Welcome aboard!" }
-	sub pd1to3_4 { text "Do you need help finding something?" }
-	sub pd1to3_5 { text "Let me help you with that, sir." }
+	sub pd1amb_1 { text "Eh! Co to bylo?" }
+	sub pd1amb_2 { text "Eh! Zůstaňte stát." }
+	sub pd1amb_3 { text "Kdo to udělal?" }
+	sub pd1amb_4 { text "Jaké nepřívětivé." }
+	sub pd1amb_5 { text "Přestaňte s tím, prosím." }
+	sub pd1at0_1 { text "Všechno je to jen otázka procedúr, opravdu. Tak mnoho lidí to zjevně nechápe." }
+	sub pd1at0_2 { text "Tady je hrozný nepořádek." }
+	sub pd1at0_3 { text "Kdo si vybral takové farby? Nelíbí se mi ani trochu." }
+	sub pd1at0_4 { text "Jsem plně registrovaná servisní jednotka TriOptimum." }
+	sub pd1at2_1 { text "Smím vám nabítnout nějaký z našich produktů osobní péče?" }
+	sub pd1at2_2 { text "Ahoj. Můžu být nápomocen?" }
+	sub pd1at2_3 { text "Přísahal bych, že mě někdo hledal." }
+	sub pd1at2_4 { text "Omvluvte mě. Prosím zopakujte jakýkoliv požadavek." }
+	sub pd1at2_5 { text "Promiňte?" }
+	sub pd1at3_1 { text "Kam jste odešli? Ou." }
+	sub pd1at3_2 { text "Pane, Kde jste?" }
+	sub pd1at3_3 { text "Je mi líto, neviděl jsem, kam jste odešel." }
+	sub pd1at3_4 { text "Počkejte! Vraťte se!" }
+	sub pd1at3_5 { text "Xerxes nebude potěšen." }
+	sub pd1bak_1 { text "Jaká škoda, jaká škoda." }
+	sub pd1bak_2 { text "Poslední dny tady nikoho není." }
+	sub pd1bak_3 { text "Nikdo. A já tak doufal, že budu užitečný." }
+	sub pd1bak_4 { text "Předpokládam, že na mně zazvoní, když se vrátí." }
+	sub pd1bak_5 { text "Ts, ts. Lidé jsou tací plachí." }
+	sub pd1bod_1 { text "Je zapotřebí dobíjení?" }
+	sub pd1bod_2 { text "Zdá se, že jste utrpěl mírné poškození." }
+	sub pd1bod_3 { text "Vaše výkonnost zdá se být neoptimální. Mohu pomoci?" }
+	sub pd1bod_4 { text "Je tohle vaše požadovaná převádzková kondice?" }
+	sub pd1bod_5 { text "Nechci být neomalený, nečo tady není na pořádku." }
+	sub pd1bod_6 { text "Můžu poskytnout pomoc?" }
+	sub pd1chg_1 { text "Tohle jsou spůsoby TriOptimum!" }
+	sub pd1chg_2 { text "Okamžik, pane!" }
+	sub pd1chg_3 { text "Úchvatní volba, pokud sám mohu říci!" }
+	sub pd1chg_4 { text "Ou, velice dobře, pane!" }
+	sub pd1chg_5 { text "Jsem si jist, že tohle je právě, co jste hledal!" }
+	sub pd1hhi_1 { text "Ah! Jsem si jist, že tohle je jenom nedorozumění." }
+	sub pd1hhi_2 { text "Ah! Nebesa!" }
+	sub pd1hhi_3 { text "Ah! Nedělejte to už, ano?" }
+	sub pd1hhi_4 { text "Ah!" }
+	sub pd1hlo_1 { text "Já-já-já se omlouvám." }
+	sub pd1hlo_2 { text "Můj výkon brzy utrpí." }
+	sub pd1hlo_3 { text "To nepomáhá." }
+	sub pd1los_1 { text "Obávám se, že vám nemohu pomoci, pokud se budete ukrývat." }
+	sub pd1los_2 { text "Pane, pane! Je to zdarma. Vraťte se." }
+	sub pd1los_3 { text "Áááh, odplašil jsem klienta. Nejspíš mě downgradují." }
+	sub pd1los_4 { text "Tohle je příšerné. Takhle to vůbec nepůjde." }
+	sub pd1los_5 { text "Pokud byla moje služba neuspokojivá, poznačte si, prosím, mé číslo ID." }
+	sub pd1run_1 { text "Prosím. stůjte." }
+	sub pd1run_2 { text "Jenom na moment, pane." }
+	sub pd1run_3 { text "Prosím zůstaňte, kde jste a služební bude s vámi za okamžik." }
+	sub pd1to1_1 { text "Čeká na mě někdo?" }
+	sub pd1to1_2 { text "Haló?" }
+	sub pd1to1_3 { text "Ano?" }
+	sub pd1to1_4 { text "Je tu klient?" }
+	sub pd1to1_5 { text "Můžu vám pomoci? Ah, je tam někdo?" }
+	sub pd1to2_1 { text "Není potřeba se tam plížit." }
+	sub pd1to2_2 { text "Pojďte, pojďte. Nečeká s v řadě." }
+	sub pd1to2_3 { text "Mohu vám pomoct?" }
+	sub pd1to2_4 { text "Jenom pojďte. Neostíchejte se." }
+	sub pd1to2_5 { text "Co můžu pro-- Kde jste, pane?" }
+	sub pd1to3_1 { text "K vašim službám." }
+	sub pd1to3_2 { text "Už přicházím, pane!" }
+	sub pd1to3_3 { text "Vítejte na palubě!" }
+	sub pd1to3_4 { text "Potřebujete pomoct něco najít?" }
+	sub pd1to3_5 { text "Nechte mě vám s tím pomoct, pane." }
 }
 
 {
 	type "nonverbal"
 	descr "Droid"
-	sub pd1at0_5 { text "[humming]" }
-	sub pd1att1 { text "[approaching]" }
-	sub pd1att2 { text "[approaching]" }
-	sub pd1att3 { text "[approaching]" }
-	sub pd1att4 { text "[approaching]" }
-	sub pd1att5 { text "[approaching]" }
-	sub pd1att6 { text "[approaching]" }
-	sub pd1att7 { text "[approaching]" }
+	sub pd1at0_5 { text "[bzučení]" }
+	sub pd1att1 { text "[zaměřování]" }
+	sub pd1att2 { text "[zaměřování]" }
+	sub pd1att3 { text "[zaměřování]" }
+	sub pd1att4 { text "[zaměřování]" }
+	sub pd1att5 { text "[zaměřování]" }
+	sub pd1att6 { text "[zaměřování]" }
+	sub pd1att7 { text "[zaměřování]" }
 	sub pd1die_1 { text "[zničena]" }
 	sub pd1die_2 { text "[zničena]" }
 	sub pd1hhi_5 { text "[poškozen]" }
