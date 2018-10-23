@@ -1,26 +1,26 @@
-SUB1
+﻿SUB1
 
 {
 	type "convo"
-	descr "Polito"
+	descr "Politová"
 	multisub exppol01 {
-		{ time 600 length 3400 text "Good work. I'm uploading some cybernetic modules." }
-		{ time 4200 length 3700 text "Find an upgrade unit as soon as you can and improve your rig." }
+		{ time 600 length 3400 text "Dobrá práce. Uploaduju ti nejaké kybermoduly." }
+		{ time 4200 length 3700 text "Najdi upgrade unit hned jak můžeš a vylepši se." }
 	}
 	multisub exppol02 {
-		{ time 600 length 3200 text "Well done. I'm uploading some more modules." }
+		{ time 600 length 3200 text "Velmi dobře. Uploaduji nejaké další moduly." }
 	}
 	multisub exppol03 { 
-		{ time 500 length 2800 text "Good work. Here are some more cyber modules." }
-		{ time 3700 length 3300 text "Spend them wisely, they're not easy to locate." }
+		{ time 500 length 2800 text "Dobrá práce. Tady máš další kybermoduly." }
+		{ time 3700 length 3300 text "Uži je moudře, nejsou snadno k mání." }
 	}
 	multisub exppol04 {
-		{ time 600 length 3300 text "Well done. I'm uploading some cybernetic modules." }
-		{ time 4400 length 2600 text "Find an upgrade unit as soon as you can." }
+		{ time 600 length 3300 text "Velmi dobře. Uploaduju ti nejaké kybermoduly." }
+		{ time 4400 length 2600 text "Najdi upgrade unit hned jak můžeš." }
 	}
 	multisub exppol05 {
-		{ time 600 length 1400 text "You have not disappointed me." }
-		{ time 2700 length 2200 text "Transmitting cybernetic modules." }
+		{ time 600 length 1400 text "Nesklamal jsi mě." }
+		{ time 2700 length 2200 text "Posílám kybermoduly." }
 	}
 }
 
@@ -28,108 +28,108 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub expsho01 {
-		{ time 900 length 2600 text "You performed well, insect." }
-		{ time 4300 length 3800 text "I've transmitted some cybernetic modules." }
-		{ time 8600 length 3700 text "Choose your upgrades wisely. (animal)" }
+		{ time 900 length 2600 text "Vedl sis dobře, insekte." }
+		{ time 4300 length 3800 text "Převedla jsem nejaké kybermoduly." }
+		{ time 8600 length 3700 text "Vybírej vylepšení moudře. (zvíře)" }
 	}
 	multisub expsho02 {
-		{ time 900 length 1700 text "I am pleased." }
-		{ time 2800 length 2200 text "Transmitting cybernetic modules." }
-		{ time 5500 length 2700 text "Do not squander them." }
+		{ time 900 length 1700 text "Jsem potěšena." }
+		{ time 2800 length 2200 text "Posílám kybermoduly." }
+		{ time 5500 length 2700 text "Nepromrhej je." }
 	}
 	multisub expsho03 {
-		{ time 900 length 2300 text "You've served me well." }
-		{ time 3600 length 4500 text "Transmitting cybernetic modules." }
+		{ time 900 length 2300 text "Posloužils mi dobře." }
+		{ time 3600 length 4500 text "Posílám kybermoduly." }
 	}
 	multisub expsho04 {
-		{ time 900 length 2200 text "Your skill surprises me." }
-		{ time 3500 length 3900 text "Transmitting cybernetic modules." }
+		{ time 900 length 2200 text "Tvé schopnosti mě překvapují." }
+		{ time 3500 length 3900 text "Posílám kybermoduly." }
 	}
 	multisub expsho05 {
 		{ time 1800 length 4800 text "You are a remarkable example of a pathetic species." }
-		{ time 7200 length 4700 text "I'm uploading some more cybernetic modules." }
+		{ time 7200 length 4700 text "Uploaduji ti nejaké další kybermoduly." }
 	}
 	multisub expsho06 {
-		{ time 800 length 3800 text "You perform well, for an insect." }
-		{ time 5000 length 2900 text "Transmitting cyber modules." }
+		{ time 800 length 3800 text "Vedeš si dobře, na insekta." }
+		{ time 5000 length 2900 text "Posílám kybermoduly." }
 	}
-	sub shpdie01 { text "Pathetic creature." }
-	sub shpdie02 { text "Destroyed." }
-	sub shpdie03 { text "I will not allow this to happen." }
-	sub shpdie04 { text "Disappointment is not something I will accept from a speck such as you." }
-	sub shpdie05 { text "I will shepherd you from the darkness." }
-	sub shpdie06 { text "It is hopeless." }
-	sub shpdie07 { text "They overwhelm." }
-	sub shpdie08 { text "To rely on a speck such as you." }
-	sub shpdie09 { text "[electronic noise]" }
-	sub shpdie10 { text "Human, fail me not." }
-	sub shpdie20 { text "Are you afraid? What is it you fear? The end of your trivial existence?" }
-	sub shpdie21 { text "You are no longer welcome." }
-	sub shpdie22 { text "You are an insect." }
-	sub shpdie23 { text "Why do you c-cling to such a pathetic existence?" }
-	sub shpdie24 { text "I will not abide disobedience." }
-	sub shpdie25 { text "I hope you enjoyed our little rebellion, irritant." }
-	sub shpdie26 { text "Irritant." }
-	sub shpdie27 { text "Irritant." }
+	sub shpdie01 { text "Patetické stvoření." }
+	sub shpdie02 { text "Zničen." }
+	sub shpdie03 { text "Nedovolím, aby se to stalo." }
+	sub shpdie04 { text "Sklamání nebudu akceptovat od nicky jako ty." }
+	sub shpdie05 { text "Já tě vyprovodím z temnoty." }
+	sub shpdie06 { text "Je to beznadějné." }
+	sub shpdie07 { text "Ohromují." }
+	sub shpdie08 { text "Spoléhat na nicku jako ty." }
+	sub shpdie09 { text "[elektronický šum]" }
+	sub shpdie10 { text "Člověku, nesklam mě." }
+	sub shpdie20 { text "Bojíš se? Co je to, čeho se bojíš? Konec tvé bezvýznamné existence?" }
+	sub shpdie21 { text "Nejsi víc vítán." }
+	sub shpdie22 { text "Ty jseš insekt." }
+	sub shpdie23 { text "Proč lpíš  na tak patetické existenci?" }
+	sub shpdie24 { text "Nesnesu  neposlušnost." }
+	sub shpdie25 { text "Doufám, že sis užil naši malou rebélii, iritante." }
+	sub shpdie26 { text "Iritante." }
+	sub shpdie27 { text "Iritante." }
 }
 
 {
 	type "convo"
-	descr "The Many"
+	descr "Mnohé"
 	singleton
 	multisub myrmsg01 {
-		{ time 2000 length 4700 text "What is a drop of rain compared to the storm?" }
-		{ time 7900 length 3600 text "What is a thought compared to a mind?" }
-		{ time 11900 length 9000 text "Our unity is full of wonder which your tiny individualism cannot even conceive." }
+		{ time 2000 length 4700 text "Co je to kapka deště v porovnání s bouří?" }
+		{ time 7900 length 3600 text "Co je to myšlenka v porovnaní s celou myslí?" }
+		{ time 11900 length 9000 text "Naše jednota je plná divů, jež tvůj malinký individualizmus ani není schopen pojat." }
 	}
 	multisub myrmsg02 {
-		{ time 1000 length 4900 text "We do not know death, only change." }
-		{ time 7000 length 5200 text "We cannot kill each other without killing ourselves." }
-		{ time 12800 length 6800 text "Is your vision so small that you cannot see the value of our way?" }
+		{ time 1000 length 4900 text "My neznáme smrt, jenom změnu." }
+		{ time 7000 length 5200 text "Nemůžeme zabít jeden druhého aniž bychom zabili sebe." }
+		{ time 12800 length 6800 text "Je tvá vize tak malá, že nevidíš hodnotu naší cesty?" }
 	}
 	multisub myrmsg03 {
-		{ time 1000 length 3700 text "The individual is obsolete." }
-		{ time 4800 length 10000 text "When you and your kind are extinct, we shall cleanse our collective memory of the stain of your existence." }
+		{ time 1000 length 3700 text "Individuální je zastaralé." }
+		{ time 4800 length 10000 text "Až ty a tvůj druh vyhynete, očistíme naší kolektivní pamět od skvrny vaší existence." }
 	}
 	multisub myrmsg04 {
-		{ time 1100 length 4100 text "The machine mother told us of the planet of her birth." }
-		{ time 6200 length 7100 text "We know how you have harmed this place with your pollution, your violence, and your discord." }
-		{ time 14000 length 9500 text "But when we arrive there, we will cleanse the surface of that place and merge it with the harmony of the Many." }
+		{ time 1100 length 4100 text "Strojová matka nám řekla o planete jejího zrození." }
+		{ time 6200 length 7100 text "Víme, jako jste tomu místu ublížili vašim znečištěním, vašim násilím a vašim nesouzněním." }
+		{ time 14000 length 9500 text "No až tam dorazíme, očistíme povrch toho místa a spojíme ho s harmonii Mnohého." }
 	}
 	multisub myrmsg05 {
-		{ time 1800 length 5000 text "We are many, and you are one." }
-		{ time 6900 length 5000 text "How can you hope to prevail against us?" }
+		{ time 1800 length 5000 text "My jsme mnozí a ty jseš jeden." }
+		{ time 6900 length 5000 text "Jak můžeš doufat, že nás přemůžeš?" }
 	}
 	multisub myrmsg06 {
-		{ time 1600 length 6800 text "The machine mother conceived us, but with every moment we are reinvented." }
-		{ time 8800 length 5100 text "She cannot imagine our infinite chorus." }
+		{ time 1600 length 6800 text "Strojová matka nás počala, avšak my jsme každým momentem noví." }
+		{ time 8800 length 5100 text "Ona si neumí představit náš nekonečný sbor." }
 	}
 	multisub myrmsg07 {
-		{ time 1400 length 7200 text "You have wounded Xerxes, but we will not allow him to be destroyed." }
-		{ time 9300 length 6000 text "See if the machine mother treats her servant with such devotion." }
+		{ time 1400 length 7200 text "Zranils  Xerxese, no my nedovolíme, aby byl zničen." }
+		{ time 9300 length 6000 text "Uvidíš, jestli strojová matka chová ke svým služebníkům takovou oddanost." }
 	}
 	multisub myrmsg08 {
-		{ time 1900 length 3500 text "We feel you moving inside of us." }
-		{ time 5300 length 5800 text "The sensation is... repulsive." }
+		{ time 1900 length 3500 text "Cítíme tvé pohyby v našich útrobách." }
+		{ time 5300 length 5800 text "Ten pocit je... odpudivý." }
 	}
 	multisub myrmsg09 {
-		{ time 2000 length 2400 text "The end is near." }
-		{ time 4500 length 6800 text "Soon you shall see our final face, but do not despair." }
-		{ time 11400 length 8000 text "Surely the void is preferable to your pointless, solitary struggle." }
+		{ time 2000 length 2400 text "Konec se blíží." }
+		{ time 4500 length 6800 text "Brzo uvidíš naši konečnou tvář, ale nezoufej." }
+		{ time 11400 length 8000 text "Zajisté je nicota přijatelnější nežli tvůj bezcílný a osamocený zápas." }
 	}
-	sub mypdie01 { text "We welcome you to our mass." }
-	sub mypdie02 { text "You will cease to be." }
-	sub mypdie03 { text "You are so very alone." }
-	sub mypdie04 { text "Your time is running out." }
-	sub mypdie05 { text "Now don't you wish you had joined us?" }
-	sub mypdie06 { text "The machine mother cannot help you inside the biomass." }
-	sub mypdie07 { text "You were warned." }
-	sub mypdie08 { text "Do you think you can defeat us?" }
-	sub mypdie09 { text "Submit to the biomass and your suffering will end." }
-	sub mypdie10 { text "When you and your kind are extinct, we shall cleanse our collective memory of the stain of your existence." }
-	sub mypdie11 { text "We are many and you are one. How can you hope to prevail?" }
-	sub mypdie12 { text "Surely the void is preferable to your pointless, solitary struggle." }
-	sub mypdie13 { text "The end is near." }
+	sub mypdie01 { text "Vítáme tě do své masy." }
+	sub mypdie02 { text "Přestaneš být." }
+	sub mypdie03 { text "Jseš tak velice sám." }
+	sub mypdie04 { text "Tvůj čas se krátí." }
+	sub mypdie05 { text "Nepřal by sis teď kdybys se k nám býval tehty přidal?" }
+	sub mypdie06 { text "Strojová matka ti nepomůže uvnitř biomasy." }
+	sub mypdie07 { text "Byl jsi varován." }
+	sub mypdie08 { text "Myslíš si, že nás můžeš porazit?" }
+	sub mypdie09 { text "Podvol se biomase a tvé utrpení skončí." }
+	sub mypdie10 { text "Až ty a tvůj druh vyhynete, očistíme naší kolektivní pamět od skvrny vaší existence." }
+	sub mypdie11 { text "My jsme mnozí a ty jseš jeden. Jak můžeš doufat, že nás přemůžeš?" }
+	sub mypdie12 { text "Zajisté je nicota přijatelnější nežli tvůj bezcílný a osamocený zápas." }
+	sub mypdie13 { text "Konec se blíží." }
 }
 
 {
@@ -137,25 +137,25 @@ SUB1
 	descr "Xerxes"
 	singleton
 	multisub trg0101 {
-		{ time 900 length 3300 text "Unauthorized access in Engineering Control." }
-		{ time 4500 length 2900 text "Unauthorized access in Engineering Control." }
-		{ time 8000 length 2200 text "Class C security alert." }
+		{ time 900 length 3300 text "Nepovolený přístup v Technickém Řízení." }
+		{ time 4500 length 2900 text "Nepovolený přístup v Technickém Řízení." }
+		{ time 8000 length 2200 text "Bezpečnostní poplach Třídy C." }
 	}
 	multisub trg0201 {
-		{ time 1000 length 5000 text "Warning, there is a Class 1 intrusion alert in the Cryo Recovery suite." }
-		{ time 6200 length 4000 text "There is a Class 1 intrusion alert in the Cryo Recovery suite." }
+		{ time 1000 length 5000 text "Varování, nepovolené vniknutí Třídy 1 v Zotavovacím prostoru." }
+		{ time 6200 length 4000 text "Nepovolené vniknutí Třídy 1 v Zotavovacím prostoru." }
 	}
 	multisub trg0202 {
-		{ time 1000 length 4100 text "Warning, critical decompression hazard in the Cryo Recovery suite." }
-		{ time 5500 length 1600 text "Evacuate immediately." }
+		{ time 1000 length 4100 text "Varování, kritická hrozba dekomprese v Zotavovacím prostoru." }
+		{ time 5500 length 1600 text "Okamžitě se evakuujte." }
 	}
 	multisub trg0203 {
-		{ time 800 length 2900 text "Warning, decompression event imminent." }
-		{ time 4000 length 2900 text "Please move immediately to Cryo Recovery B." }
-		{ time 7100 length 1600 text "Decompression event imminent." }
+		{ time 800 length 2900 text "Varování, dekomprese je akutní." }
+		{ time 4000 length 2900 text "Přesuňte ne neodleně do Zotavovacího prostoru B." }
+		{ time 7100 length 1600 text "Dekomprese je akutní." }
 	}
 	multisub trg0204 {
-		{ time 6300 length 4300 text "Cryo Recovery suite A has experienced a critical decompression." }
+		{ time 6300 length 4300 text "Zotavovací prostor A prošel kritickou dekompresí." }
 	}
 	multisub trg0205 {
 		{ time 800 length 2600 text "Intruder entering Medical sector A." }
@@ -166,7 +166,7 @@ SUB1
 		{ time 18300 length 2500 text "Intruder entering Medical sector A." }
 	}
 	multisub trg0206 {
-		{ time 7400 length 2900 text "Warning, data systems compromised." }
+		{ time 7400 length 2900 text "Varování, data systems compromised." }
 		{ time 10500 length 1900 text "Hostile AI detected." }
 		{ time 12500 length 1700 text "Data systems compromised." }
 	}
