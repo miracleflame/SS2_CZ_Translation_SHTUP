@@ -11,7 +11,7 @@ SUB1
 		{ time 7400 length 3600 text "Rachel, deti... mrzí mě to." }
 	}
 	multisub cs1201 {
-		{ time 2100 length 2400 text "Nemáte rad hypo?" }
+		{ time 2100 length 2400 text "Nemáte antiradiáční sérum?" }
 		{ time 5400 length 3000 text "Je mi tak zle." }
 	}
 	multisub cs2201 {
