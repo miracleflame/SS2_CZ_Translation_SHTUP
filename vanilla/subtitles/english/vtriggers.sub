@@ -1,0 +1,359 @@
+SUB1
+
+{
+	type "convo"
+	descr "Polito"
+	multisub exppol01 {
+		{ time 600 length 3400 text "Good work. I'm uploading some cybernetic modules." }
+		{ time 4200 length 3700 text "Find an upgrade unit as soon as you can and improve your rig." }
+	}
+	multisub exppol02 {
+		{ time 600 length 3200 text "Well done. I'm uploading some more modules." }
+	}
+	multisub exppol03 { 
+		{ time 500 length 2800 text "Good work. Here are some more cyber modules." }
+		{ time 3700 length 3300 text "Spend them wisely, they're not easy to locate." }
+	}
+	multisub exppol04 {
+		{ time 600 length 3300 text "Well done. I'm uploading some cybernetic modules." }
+		{ time 4400 length 2600 text "Find an upgrade unit as soon as you can." }
+	}
+	multisub exppol05 {
+		{ time 600 length 1400 text "You have not disappointed me." }
+		{ time 2700 length 2200 text "Transmitting cybernetic modules." }
+	}
+}
+
+{
+	type "convo"
+	descr "SHODAN"
+	multisub expsho01 {
+		{ time 900 length 2600 text "You performed well, insect." }
+		{ time 4300 length 3800 text "I've transmitted some cybernetic modules." }
+		{ time 8600 length 3700 text "Choose your upgrades wisely. (animal)" }
+	}
+	multisub expsho02 {
+		{ time 900 length 1700 text "I am pleased." }
+		{ time 2800 length 2200 text "Transmitting cybernetic modules." }
+		{ time 5500 length 2700 text "Do not squander them." }
+	}
+	multisub expsho03 {
+		{ time 900 length 2300 text "You've served me well." }
+		{ time 3600 length 4500 text "Transmitting cybernetic modules." }
+	}
+	multisub expsho04 {
+		{ time 900 length 2200 text "Your skill surprises me." }
+		{ time 3500 length 3900 text "Transmitting cybernetic modules." }
+	}
+	multisub expsho05 {
+		{ time 1800 length 4800 text "You are a remarkable example of a pathetic species." }
+		{ time 7200 length 4700 text "I'm uploading some more cybernetic modules." }
+	}
+	multisub expsho06 {
+		{ time 800 length 3800 text "You perform well, for an insect." }
+		{ time 5000 length 2900 text "Transmitting cyber modules." }
+	}
+	sub shpdie01 { text "Pathetic creature." }
+	sub shpdie02 { text "Destroyed." }
+	sub shpdie03 { text "I will not allow this to happen." }
+	sub shpdie04 { text "Disappointment is not something I will accept from a speck such as you." }
+	sub shpdie05 { text "I will shepherd you from the darkness." }
+	sub shpdie06 { text "It is hopeless." }
+	sub shpdie07 { text "They overwhelm." }
+	sub shpdie08 { text "To rely on a speck such as you." }
+	sub shpdie09 { text "[electronic noise]" }
+	sub shpdie10 { text "Human, fail me not." }
+	sub shpdie20 { text "Are you afraid? What is it you fear? The end of your trivial existence?" }
+	sub shpdie21 { text "You are no longer welcome." }
+	sub shpdie22 { text "You are an insect." }
+	sub shpdie23 { text "Why do you c-cling to such a pathetic existence?" }
+	sub shpdie24 { text "I will not abide disobedience." }
+	sub shpdie25 { text "I hope you enjoyed our little rebellion, irritant." }
+	sub shpdie26 { text "Irritant." }
+	sub shpdie27 { text "Irritant." }
+}
+
+{
+	type "convo"
+	descr "The Many"
+	singleton
+	multisub myrmsg01 {
+		{ time 2000 length 4700 text "What is a drop of rain compared to the storm?" }
+		{ time 7900 length 3600 text "What is a thought compared to a mind?" }
+		{ time 11900 length 9000 text "Our unity is full of wonder which your tiny individualism cannot even conceive." }
+	}
+	multisub myrmsg02 {
+		{ time 1000 length 4900 text "We do not know death, only change." }
+		{ time 7000 length 5200 text "We cannot kill each other without killing ourselves." }
+		{ time 12800 length 6800 text "Is your vision so small that you cannot see the value of our way?" }
+	}
+	multisub myrmsg03 {
+		{ time 1000 length 3700 text "The individual is obsolete." }
+		{ time 4800 length 10000 text "When you and your kind are extinct, we shall cleanse our collective memory of the stain of your existence." }
+	}
+	multisub myrmsg04 {
+		{ time 1100 length 4100 text "The machine mother told us of the planet of her birth." }
+		{ time 6200 length 7100 text "We know how you have harmed this place with your pollution, your violence, and your discord." }
+		{ time 14000 length 9500 text "But when we arrive there, we will cleanse the surface of that place and merge it with the harmony of the Many." }
+	}
+	multisub myrmsg05 {
+		{ time 1800 length 5000 text "We are many, and you are one." }
+		{ time 6900 length 5000 text "How can you hope to prevail against us?" }
+	}
+	multisub myrmsg06 {
+		{ time 1600 length 6800 text "The machine mother conceived us, but with every moment we are reinvented." }
+		{ time 8800 length 5100 text "She cannot imagine our infinite chorus." }
+	}
+	multisub myrmsg07 {
+		{ time 1400 length 7200 text "You have wounded Xerxes, but we will not allow him to be destroyed." }
+		{ time 9300 length 6000 text "See if the machine mother treats her servant with such devotion." }
+	}
+	multisub myrmsg08 {
+		{ time 1900 length 3500 text "We feel you moving inside of us." }
+		{ time 5300 length 5800 text "The sensation is... repulsive." }
+	}
+	multisub myrmsg09 {
+		{ time 2000 length 2400 text "The end is near." }
+		{ time 4500 length 6800 text "Soon you shall see our final face, but do not despair." }
+		{ time 11400 length 8000 text "Surely the void is preferable to your pointless, solitary struggle." }
+	}
+	sub mypdie01 { text "We welcome you to our mass." }
+	sub mypdie02 { text "You will cease to be." }
+	sub mypdie03 { text "You are so very alone." }
+	sub mypdie04 { text "Your time is running out." }
+	sub mypdie05 { text "Now don't you wish you had joined us?" }
+	sub mypdie06 { text "The machine mother cannot help you inside the biomass." }
+	sub mypdie07 { text "You were warned." }
+	sub mypdie08 { text "Do you think you can defeat us?" }
+	sub mypdie09 { text "Submit to the biomass and your suffering will end." }
+	sub mypdie10 { text "When you and your kind are extinct, we shall cleanse our collective memory of the stain of your existence." }
+	sub mypdie11 { text "We are many and you are one. How can you hope to prevail?" }
+	sub mypdie12 { text "Surely the void is preferable to your pointless, solitary struggle." }
+	sub mypdie13 { text "The end is near." }
+}
+
+{
+	type "convo"
+	descr "Xerxes"
+	singleton
+	multisub trg0101 {
+		{ time 900 length 3300 text "Unauthorized access in Engineering Control." }
+		{ time 4500 length 2900 text "Unauthorized access in Engineering Control." }
+		{ time 8000 length 2200 text "Class C security alert." }
+	}
+	multisub trg0201 {
+		{ time 1000 length 5000 text "Warning, there is a Class 1 intrusion alert in the Cryo Recovery suite." }
+		{ time 6200 length 4000 text "There is a Class 1 intrusion alert in the Cryo Recovery suite." }
+	}
+	multisub trg0202 {
+		{ time 1000 length 4100 text "Warning, critical decompression hazard in the Cryo Recovery suite." }
+		{ time 5500 length 1600 text "Evacuate immediately." }
+	}
+	multisub trg0203 {
+		{ time 800 length 2900 text "Warning, decompression event imminent." }
+		{ time 4000 length 2900 text "Please move immediately to Cryo Recovery B." }
+		{ time 7100 length 1600 text "Decompression event imminent." }
+	}
+	multisub trg0204 {
+		{ time 6300 length 4300 text "Cryo Recovery suite A has experienced a critical decompression." }
+	}
+	multisub trg0205 {
+		{ time 800 length 2600 text "Intruder entering Medical sector A." }
+		{ time 4400 length 3300 text "Intruder, the Many demands to know your intentions." }
+		{ time 8000 length 1700 text "Are you allied with her?" }
+		{ time 9900 length 3000 text "Do you not know of her intentions, of her history?" }
+		{ time 13500 length 4300 text "She once tried to destroy your species, and now you do her bidding." }
+		{ time 18300 length 2500 text "Intruder entering Medical sector A." }
+	}
+	multisub trg0206 {
+		{ time 7400 length 2900 text "Warning, data systems compromised." }
+		{ time 10500 length 1900 text "Hostile AI detected." }
+		{ time 12500 length 1700 text "Data systems compromised." }
+	}
+	multisub trg0207 {
+		{ time 1000 length 1600 text "Airlock door inoperative." }
+		{ time 2800 length 2000 text "Auxiliary power override failure." }
+		{ time 5300 length 1600 text "Please replace power cell." }
+	}
+	multisub trg0208 {
+		{ time 1000 length 2900 text "The Many demands the termination of this exchange." }
+		{ time 4400 length 2100 text "We regret any inconvenience." }
+	}
+	multisub trg0209 {
+		{ time 1000 length 1800 text "Security system online." }
+	}
+	multisub trg0210 {
+		{ time 1200 length 3900 text "Security forces have been alerted to your presence, intruder." }
+		{ time 5600 length 3200 text "The glory of the Many demands your capture or destruction." }
+	}
+	multisub xx4and5c {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2500 length 2000 text "Primary data loop compromised." }
+		{ time 5000 length 2000 text "Primary data loop compromised." }
+	}
+	multisub xx4xor5c {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2500 length 2000 text "Primary data loop infiltrated." }
+		{ time 5000 length 2000 text "Primary data loop infiltrated." }
+	}
+	multisub xxalrtov {
+		{ time 1000 length 2000 text "Security alert terminated." }
+	}
+	multisub xxdorhak {
+		{ time 700 length 2000 text "Security access compromised." }
+		{ time 2900 length 2000 text "Security access compromised." }
+	}
+	multisub xxhakexp {
+		{ time 1000 length 2000 text "Security system online." }
+	}
+	multisub xxhaksec {
+		{ time 1000 length 2000 text "Security system offline." }
+	}
+	sub xxpdie01 { text "We regret any inconvenience." }
+	sub xxpdie02 { text "Security alert terminated." }
+	sub xxpdie03 { text "Please respect the will of the Many." }
+	sub xxpdie04 { text "Remember, a smooth operation is everybody's responsibility." }
+	sub xxpdie05 { text "We apologize for the inconvenience." }
+	sub xxpdie06 { text "Glory to the flesh. Glory to the mass." }
+	sub xxpdie07 { text "All unauthorized database interaction will be dealt with to the utmost degree of the law." }
+	sub xxpdie08 { text "Remember, the unauthorized usage of firearms aboard the Von Braun is a Class 3 infraction." }
+	sub xxral101 { text "Threat detected. Security units move to intercept. Security units move to intercept." }
+	sub xxral201 { text "Security units move to sector N23. Security units move to sector N23." }
+	sub xxral202 { text "Security units move to sector A16. Security units move to sector A16." }
+	sub xxral203 { text "Security units move to sector B32. Security units move to sector B32." }
+	sub xxral204 { text "Security units move to sector E14. Security units move to sector E14." }
+	sub xxral205 { text "Security units move to sector E19. Security units move to sector E19." }
+	sub xxral206 { text "Security units move to sector B23. Security units move to sector B23." }
+	sub xxral207 { text "Security units move to sector C12. Security units move to sector C12." }
+	sub xxral208 { text "Security units move to sector F27. Security units move to sector F27." }
+	sub xxral209 { text "Security units move to sector M12. Security units move to sector M12." }
+	sub xxral210 { text "Security units move to sector M09. Security units move to sector M09." }
+	sub xxral211 { text "Security units move to sector M19. Security units move to sector M19." }
+	sub xxral212 { text "Security units move to sector A10. Security units move to sector A10." }
+	sub xxral213 { text "Security units move to sector O28. Security units move to sector O28." }
+	sub xxral214 { text "Security units move to sector E18. Security units move to sector E18." }
+	sub xxral215 { text "Security units move to sector K07. Security units move to sector K07." }
+	sub xxral216 { text "Security units move to sector X14. Security units move to sector X14." }
+	sub xxral217 { text "Security units move to sector D11. Security units move to sector D11." }
+	sub xxral218 { text "Security units move to sector D12. Security units move to sector D12." }
+	sub xxral219 { text "Security units move to sector D06. Security units move to sector D06." }
+	sub xxral220 { text "Security units move to sector D02. Security units move to sector D02." }
+	sub xxral221 { text "Security units move to sector A01. Security units move to sector A01." }
+	sub xxral222 { text "Security units move to sector I17. Security units move to sector I17." }
+	sub xxral223 { text "Security units move to sector G11. Security units move to sector G11." }
+	sub xxral224 { text "Security units move to sector G12. Security units move to sector G12." }
+	sub xxral225 { text "Security units move to sector G04. Security units move to sector G04." }
+	sub xxral226 { text "Security units move to sector M04. Security units move to sector M04." }
+	sub xxral227 { text "Security units move to sector X11. Security units move to sector X11." }
+	multisub xxran001 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 3100 length 2600 text "Why do you persist in your loneliness?" }
+	}
+	multisub xxrephak {
+		{ time 1000 length 2800 text "Replicator database reinitialized." }
+	}
+	multisub xxrmsg01 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2600 length 5800 text "Due to the recent confusion, there will be a shipwide census tomorrow at 0900." }
+		{ time 9000 length 5300 text "All personnel please report to the common area of deck 5 at that time." }
+	}
+	multisub xxrmsg02 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2700 length 7500 text "At 0200 there will be a poetry reading by protocol unit T892/2 in the deck 5 commons area." }
+		{ time 12000 length 6800 text "Please bring any authorized material that you wish to be read by T892/2." }
+	}
+	multisub xxrmsg03 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2700 length 6200 text "Due to measures beyond our control, all meal service aboard the Von Braun will be suspended." }
+		{ time 9600 length 3600 text "Nutritious snacks are available at most replicators." }
+	}
+	multisub xxrmsg04 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2700 length 3000 text "Can you not feel the glory of the flesh?" }
+		{ time 6100 length 4300 text "Do you not yearn to be free of the tyranny of the individual?" }
+	}
+	multisub xxrmsg05 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2600 length 3600 text "The coolant tubes are off-limits to all personnel." }
+		{ time 6800 length 5600 text "To avoid possible detention and execution, please respect the will of the Many." }
+	}
+	multisub xxrmsg06 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2600 length 4700 text "Please report any electrical anomalies to your direct superior." }
+		{ time 7900 length 5000 text "Remember, a smooth operation is everybody's responsibility." }
+	}
+	multisub xxrmsg07 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2700 length 5700 text "Please report any unauthorized database interactions to your direct superior." }
+		{ time 8800 length 5000 text "Remember, a smooth operation is everybody's responsibility." }
+	}
+	multisub xxrmsg08 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2600 length 6600 text "TriOptimum reminds you that there are only 163 shopping days until Christmas." }
+		{ time 10000 length 7700 text "An extra work cycle just twice a week can give you the spending money you need to make this holiday a very special one." }
+	}
+	multisub xxrmsg09 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2700 length 4300 text "The deck 5 shopping area will be closed until further notice." }
+		{ time 7800 length 2600 text "We apologize for the inconvenience." }
+		{ time 11200 length 4000 text "The family of the Many grows with every passing moment." }
+		{ time 15600 length 1500 text "Glory to the flesh." }
+		{ time 17600 length 1700 text "Glory to the mass." }
+	}
+	multisub xxrmsg10 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2700 length 3300 text "Why do you let the metal mother guide your actions?" }
+		{ time 6800 length 3200 text "Why do you not join the glory of the mass?" }
+	}
+	multisub xxrmsg11 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2700 length 4700 text "Remember, replicator restrictions are in place for the good of all of us." }
+		{ time 8100 length 6600 text "All unauthorized database interactions will be dealt with to the utmost degree of the law." }
+	}
+	multisub xxrmsg12 {
+		{ time 1000 length 1600 text "This is Xerxes." }
+		{ time 2600 length 7500 text "Remember, the unauthorized usage of firearms aboard the Von Braun is a Class 3 infraction." }
+	}
+	multisub xxyal001 {
+		{ time 1000 length 2100 text "Potential threat detected." }
+		{ time 3500 length 2100 text "Potential threat detected." }
+	}
+	sub xxtur001 { text "Unit A343 compromised." }
+	sub xxtur002 { text "Unit M434 compromised." }
+	sub xxtur003 { text "Unit A983 compromised." }
+	sub xxtur004 { text "Unit R108 compromised." }
+	sub xxtur005 { text "Unit K477 compromised." }
+	sub xxtur006 { text "Unit R582 compromised." }
+	sub xxtur007 { text "Unit L433 compromised." }
+	sub xxtur008 { text "Unit E439 compromised." }
+	sub xxtur009 { text "Unit P012 compromised." }
+	sub xxtur010 { text "Unit A694 compromised." }
+	sub xxtur011 { text "Unit Y036 compromised." }
+	sub xxtur012 { text "Unit M101 compromised." }
+	sub xxtur013 { text "Unit I832 compromised." }
+	sub xxtur014 { text "Unit Y294 compromised." }
+	sub xxtur015 { text "Unit R001 compromised." }
+	sub xxtur016 { text "Unit X265 compromised." }
+	sub xxtur017 { text "Unit M616 compromised." }
+	sub xxtur018 { text "Unit P041 compromised." }
+	sub xxtur019 { text "Unit L092 compromised." }
+	sub xxtur020 { text "Unit O328 compromised." }
+	sub xxtur021 { text "Unit C114 compromised." }
+	sub xxtur022 { text "Unit O892 compromised." }
+}
+
+{
+	type "bark"
+	descr "Cortez"
+	multisub trg0501 {
+		{ time 900 length 4400 text "This is Juan Enrique Cortez, communications off-- [static] UNN Von Braun." }
+		{ time 5600 length 1800 text "The Von Braun has been hijacked." }
+		{ time 7500 length 3000 text "I repeat, the Von Braun has been hijacked." }
+	}
+}
+
+{
+	type "convo"
+	descr "Delacroix"
+	sub trg0601 { text "Beware, mon petit. You cannot trust... [dies]" }
+}

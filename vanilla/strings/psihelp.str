@@ -1,0 +1,257 @@
+Psi0:"First Tier Neural Capacity
+
+This is required for First Tier psionic disciplines.  It increases your maximum psi points by 2.  All First Tier disciplines cost 1 psi point per use."
+Psi1:"Psycho-reflective Screen
+
+Protects you from 15% of all combat damage.
+
+Duration: 20 seconds + 30 seconds per PSI"
+Psi2:"Neuro-reflex Dampening
+
+Eliminates all weapon kickback.
+
+Duration: 1 minute + 20 seconds per PSI"
+Psi9:"Anti-entropic Field
+
+While this discipline is active, your ranged weapons cannot break, and their condition will not degrade.
+Duration: 10 seconds + 20 seconds per PSI"
+Psi3:"Kinetic Redirection
+
+Pulls an object toward you.  
+
+Duration: 1 second per PSI"
+Psi4:"Psychogenic Agility
+
+Increases your Agility by 2.
+
+Duration: 2 minutes + 1 minute per PSI"
+Psi6:"Projected Cryokinesis
+
+Launches a heat-draining projectile at a target.  Higher PSI increases damage."
+Psi5:"Psychogenic Cyber Affinity
+
+Increases your CYB by 2.
+
+Duration: 2 minutes + 1 minute per PSI"
+Psi8:"Second Tier Neural Capacity
+
+This is required for Second Tier psionic disciplines.  It increases your maximum psi points by 4.  All Second Tier disciplines cost 2 psi points per use."
+Psi11:"Neural Decontamination
+
+Shields you from 80% of radiation damage.
+
+Duration: 10 seconds + 5 seconds per PSI"
+Psi12:"Cerebro-stimulated Regeneration
+
+Regenerates lost hit points.
+
+Amount Healed: 2 hit points per PSI"
+Psi13:"Psychogenic Strength
+
+Increases your Strength by 2.
+
+Duration: 2 minutes + 1 minute per PSI"
+Psi17:"Molecular Duplication
+
+Use some Nanites to duplicate one ammo clip or hypo.
+
+Chance of Success: 30% + 10% per PSI"
+Psi14:"Recursive Psionic Amplification
+
+Increases your Psionics by 2.  Psi point costs are doubled while active.
+
+Duration: 10 seconds + 10 seconds per PSI"
+Psi18:"Electron Cascade
+
+Recharges a single charged item or weapon.
+Recharge amount: 20% per point of PSI, up to the maximum allowed by your Maintenance skill."
+Psi15:"Localized Pyrokinesis
+Damages all creatures within a five foot radius.  Higher PSI increases damage to enemies.
+Duration: 15 seconds + 8 seconds per PSI"
+Psi16:"Third Tier Neural Capacity
+
+This is required for Third Tier psionic disciplines.  It increases your maximum psi points by 6.  All Third Tier disciplines cost 3 psi points per use."
+Psi19:"Energy Reflection
+
+Provides 50% immunity to all energy-based damage sources.
+
+Duration: 20 seconds per PSI"
+Psi20:"Neural Toxin-blocker
+
+Shields you from 100% of toxin absorption.
+
+Duration: 10 seconds + 5 seconds per PSI"
+Psi21:"Enhanced Motion Sensitivity
+
+Shows the location of all nearby creatures.
+
+Duration: 30 seconds per PSI"
+Psi22:"Projected Pyrokinesis
+
+Launches a fiery projectile at a target.  Higher PSI increases damage."
+Psi7:"Remote Electron Tampering
+
+Makes active alarms time out faster.
+
+Time Reduction: 5 seconds + 5 seconds per PSI"
+Psi10:"Adrenaline Overproduction
+
+Increases hand-to-hand damage by a factor equal to PSI.
+
+Duration: 10 seconds per PSI"
+Psi23:"Psionic Hypnogenesis
+
+Target non-robotic creature will stand still and docile.  If the creature takes damage, the effect ends.
+
+Duration: 20 seconds per PSI."
+Psi24:"Fourth Tier Neural Capacity
+
+This is required for Fourth Tier psionic disciplines.  It increases your maximum psi points by 8.  All Fourth Tier disciplines cost 4 psi points per use."
+Psi25:"Photonic Redirection
+
+Renders you invisible to all creatures.  Firing a weapon will end the effect.
+
+Duration: 5 seconds + 5 seconds per PSI"
+Psi26:"Remote Pattern Detection
+
+Shows the location of many useful items, including nanites, ammo, hypos, implants and audio logs.
+
+Duration: 1 minute per PSI"
+Psi27:"Electron Suppression
+
+Immobilizes any robotic target.
+
+Duration: 3 seconds per PSI"
+Psi28:"Psychogenic Endurance
+
+Increases your Endurance by 2.
+
+Duration: 2 minutes + 1 minute per PSI"
+Psi29:"Molecular Transmutation
+
+Turns ammunition and hypos into nanites."
+Psi30:"Remote Circuitry Manipulation
+
+Allows you to hack psionically.  Uses half your PSI stat (rounded up) in place of both Hacking skill and CYB stat, and costs psi points instead of nanites."
+Psi31:"Cerebro-energetic Extension
+
+Turns your Psi-Amp into a powerful melee weapon.
+
+Duration: 10 seconds per PSI"
+Psi32:"Fifth Tier Neural Capacity
+
+This is required for Fifth Tier psionic disciplines.  It increases your maximum psi points by 10.  All Fifth Tier disciplines cost 5 psi points per use."
+Psi33:"Advanced Cerebro-stimulated Regeneration
+
+Regenerates lost hit points.
+
+Amount Healed: 5 hit points + 5 hit points per PSI"
+Psi34:"Soma Transference
+
+Drains target non-robotic creature of hit points, and adds those hit points to your total."
+Psi35:"Instantaneous Quantum Relocation
+Teleports you to a marked location.  If there is no marked location, this will set a marker at your current position.  You can clear an obsolete teleport marker by hitting Alt-T."
+Psi36:"Imposed Neural Restructuring
+
+Causes a non-robotic target to become hostile toward all non-human creatures.
+
+Duration: 10 seconds per PSI, or until damaged by a human."
+Psi37:"Metacreative Barrier
+
+Creates a wall of psionic force directly in front of you.
+
+Wall's Hit Points: 150 + 50 per PSI over 5
+Duration: 4 minutes"
+Psi38:"External Psionic Detonation
+
+Drops a psionic proximity mine.  Does no damage to robots, and double damage to psionically sensitive creatures.
+Duration: 4 minutes"
+Psi39:"Psycho-reflective Aura
+
+Protects you from 60% of all combat damage.
+
+Duration: 10 seconds + 20 seconds per PSI"
+PsiIcon0:"picn00"
+PsiIcon1:"picn01"
+PsiIcon2:"picn02"
+PsiIcon3:"picn04"
+PsiIcon4:"picn05"
+PsiIcon5:"picn06"
+PsiIcon6:"picn07"
+PsiIcon7:"picn21"
+PsiIcon8:"picn08"
+PsiIcon9:"picn03"
+PsiIcon10:"picn22"
+PsiIcon11:"picn10"
+PsiIcon12:"picn11"
+PsiIcon13:"picn12"
+PsiIcon14:"picn13"
+PsiIcon15:"picn15"
+PsiIcon16:"picn16"
+PsiIcon17:"picn09"
+PsiIcon18:"picn14"
+PsiIcon19:"picn17"
+PsiIcon20:"picn18"
+PsiIcon21:"picn19"
+PsiIcon22:"picn20"
+PsiIcon23:"picn23"
+PsiIcon24:"picn24"
+PsiIcon25:"picn25"
+PsiIcon26:"picn26"
+PsiIcon27:"picn27"
+PsiIcon28:"picn28"
+PsiIcon29:"picn29"
+PsiIcon30:"picn30"
+PsiIcon31:"picn31"
+PsiIcon32:"picn32"
+PsiIcon33:"picn33"
+PsiIcon34:"picn34"
+PsiIcon35:"picn35"
+PsiIcon36:"picn36"
+PsiIcon37:"picn37"
+PsiIcon38:"picn38"
+PsiIcon39:"picn39"
+BuyText0:"These buttons select which Tier of psionic disciplines you wish to purchase."
+BuyText2:"This shows how many cyber modules you have available to spend."
+BuyText3:"These buttons navigate between various character MFDs."
+AmpText0:"These buttons switch between the different Tiers of psionic disciplines."
+PsiShort0:"This is a bug"
+PsiShort1:"Psi Shield"
+PsiShort2:"Reflex"
+PsiShort9:"Anti-Entropy"
+PsiShort3:"Psi Pull"
+PsiShort4:"Agility"
+PsiShort5:"Cyber"
+PsiShort6:"Cryokinesis"
+PsiShort8:"This is a bug"
+PsiShort17:"Duplicate"
+PsiShort11:"Rad Shield"
+PsiShort12:"Regenerate"
+PsiShort13:"Strength"
+PsiShort14:"Recursive Psi"
+PsiShort18:"Electron"
+PsiShort15:"Pyro Field"
+PsiShort16:"This is a bug"
+PsiShort19:"Reflect"
+PsiShort20:"Toxin Sheld"
+PsiShort21:"Sense Motion"
+PsiShort22:"Pyrokinesis"
+PsiShort7:"Stop Alarm"
+PsiShort10:"Adrenaline"
+PsiShort23:"Hypnosis"
+PsiShort24:"This is a bug"
+PsiShort25:"Invisibility"
+PsiShort26:"Detect Items"
+PsiShort27:"Suppression"
+PsiShort28:"Endurance"
+PsiShort29:"Transmute"
+PsiShort30:"Psi Hack"
+PsiShort31:"Psi Weapon"
+PsiShort32:"This is a bug"
+PsiShort33:"Adv. Regen"
+PsiShort34:"Transfer"
+PsiShort35:"Relocation"
+PsiShort36:"Restructure"
+PsiShort37:"Barrier"
+PsiShort38:"Detonation"
+PsiShort39:"Aura"

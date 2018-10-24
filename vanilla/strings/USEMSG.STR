@@ -1,0 +1,94 @@
+Air_Recirculator:"Insert Toxin-A."
+AuxPower:"Insert charged power cell."
+Bballbutton:"Basketball Court lights restored."
+Botcoming:"Cargo Lift Offline.  Maintenance Has Been Notified."
+Broken:"This lift is malfunctioning.  Maintenance will arrive shortly...  Please wait..."
+card1:"Using access card to open door."
+Closed:"Access Denied."
+Comp_Online:"Fluidics Control Computer Online."
+ElevQuest:"Access denied by Xerxes-level security."
+exp1:""
+free2:""
+Free3:""
+free4:""
+LIFTED:"Security Lockdown Lifted - Access Granted."
+LOCKDOWN:" Security Lockdown - Access Denied."
+Nac1OL:"Port Nacelle Online."
+Nacomp2_OL:"Starboard Nacelle Online."
+NeedOverride:"Hardware Override required."
+NotFrobbed:"Engine Nacelles Offline"
+Offline:"Fluidics Control Offline."
+Online:"Fluidics Control Online... Flushing Radiation."
+OpenHatch:"Maintenance hatch opened."
+Ops_Over:"Ops Override set."
+OutOfOrder:"This lift has been taken offline for repairs."
+Pad1:"Conduit Access Code required."
+pad2:"Sub-Armory Code required."
+Post1:"Mission Posting: Ordnance Master's Mate
+(Gain: +2 Strength)"
+Post10:"Mission Posting: Ship's Ops
+(Gain: +1 Hack and +1 Strength)"
+Post11:"Mission Posting: Engineer's Mate
+(Gain: +1 Repair and +1 Strength)"
+Post12:"Mission Posting: Military Police
+(Gain: +1 Modify and +1 Strength)"
+Post13:"Mission Posting: Navigator's Mate
+(Gain: +2 Cyber-affinity)"
+Post14:"Mission Posting: Ordnance Master
+(Gain: +1 Maintenance)"
+Post15:"Mission Posting: Tactical Training School
+(Gain: +2 Standard Weapons)"
+Post16:"Mission Posting: Lab Assistant
+(Gain: +1 Research)"
+Post17:"Mission Posting: Survival Training
+(Gain: +2 Endurance)"
+Post18:"Mission Posting: Zero-G Training
+(Gain: +2 Agility)"
+Post19:"Mission Posting: Sens Dep Tank 925/NP5: Cyber Empathy
+(Gain: Tier Two Psi Disciplines, Cryokinesis and Psychogenic Cyber Affinity)"
+Post2:"Mission Posting: Survival Training
+(Gain: +2 Endurance)"
+Post20:"Mission Posting: Sens Dep Tank 437/WH1: Kinetic Empathy
+(Gain: Tier Two Psi Disciplines, Cryokinesis and  Kinetic Redirection)"
+Post21:"Mission Posting: Sens Dep Tank 003/MU5: Mass Alteration
+(Gain: Tier Two Psi Disciplines, Cryokinesis and Psycho-reflective Screen)"
+Post22:"Mission Posting: Telepathic Interrogation/Engramanalysis
+(Gain: +2 Psionic Ability)"
+Post23:"Mission Posting: Experimental Lab, TOS Ki Luan
+(Gain: +1 Research)"
+Post24:"Mission Posting: Tactical Psionic Training/Deep Cover
+(Gain: +2 Endurance)"
+Post25:"Mission Posting: Field Operations, Anti-Terrorism\n(Gain: +1 Strength, +1 Agility, +1 Cyber-affinity,\n and Psychogenic Agility)"
+Post26:"Mission Posting: Field Operations, Selections Group\n(Gain: +1 Strength, +1 Agility, +1 Cyber-affinity,\n and Neuro-Reflex Dampening)"
+Post27:"Mission Posting: Field Operations, Io\n(Gain: +1 Strength, +1 Agility, +1 Cyber-affinity,\n and Remote Electron Tampering)"
+Post3:"Mission Posting: Zero-G Training
+(Gain: +2 Agility)"
+Post4:"Mission Posting: Gunnery Mate
+(Gain: +1 Energy Weapons and +1 Cyber-affinity)"
+Post5:"Mission Posting: Asteroid Pickets
+(Gain: +1 Heavy Weapons and +1 Cyber-affinity)"
+Post6:"Mission Posting: Staff Assistant, Weapons Range
+(Gain: +2 Standard Weapons)"
+Post7:"Mission Posting: Honor Guard, MP
+(Gain: +1 Maintenance)"
+Post8:"Mission Posting: Quash Rebellion
+(Gain: +1 Modify)"
+Post9:"Mission Posting: Ship's System Consultant
+(Gain: +1 Repair)"
+PowerOff:"Main Power Offline."
+Psi1:"Cybernetic Upgrade Unit for Psionic Projection"
+Rep1:"Replicator beyond repair."
+Rep2:"Replicator is unusable."
+Rep5:"Circuits Fried."
+Rep6:"Circuits Fried."
+seccrew1:"Crew Access required."
+ShieldBroken:"Shield Computer inoperative."
+ShieldOff:"Shuttle Shield deactivated."
+Stat1:"Cybernetic Upgrade Unit for Basic Abilities"
+Swimpad:"Enter code to open door."
+SympResInst:"Sympathetic Resonator Installed."
+tech1:"Cybernetic Upgrade Unit for Technical Skills"
+TrainingLog:"Press the \"U\" key to play the log you just picked up."
+Trap:"Local power restored."
+trip0201:"Most doors open as you approach them."
+Weap1:"Cybernetic Upgrade Unit for Weapon Skills"

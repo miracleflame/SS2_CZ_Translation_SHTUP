@@ -1,0 +1,6 @@
+No_Card:"Please insert hardware override."
+NeedChipA:"Quantum Simulation Chip required."
+NeedChipB:"Linear Simulation Chip required."
+NeedChipC:"Interpolated Simulation Chip required."
+NeedOps:"Ops Override access required."
+AuxPower:"Insert charged power cell."
