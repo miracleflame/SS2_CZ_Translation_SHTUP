@@ -5,7 +5,7 @@
 	descr "Politová"
 	multisub exppol01 {
 		{ time 600 length 3400 text "Dobrá práce. Uploaduju ti nejaké kybermoduly." }
-		{ time 4200 length 3700 text "Najdi upgrade unit hned jak můžeš a vylepši se." }
+		{ time 4200 length 3700 text "Najdi jednotku vylepšující dovednosti hned jak můžeš a vylepši se." }
 	}
 	multisub exppol02 {
 		{ time 600 length 3200 text "Velmi dobře. Uploaduji nejaké další moduly." }
@@ -16,7 +16,7 @@
 	}
 	multisub exppol04 {
 		{ time 600 length 3300 text "Velmi dobře. Uploaduju ti nejaké kybermoduly." }
-		{ time 4400 length 2600 text "Najdi upgrade unit hned jak můžeš." }
+		{ time 4400 length 2600 text "Najdi jednotku vylepšující dovednosti hned jak můžeš." }
 	}
 	multisub exppol05 {
 		{ time 600 length 1400 text "Nesklamal jsi mě." }
