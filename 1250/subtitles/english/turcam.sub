@@ -2,38 +2,38 @@ SUB1
 
 {
 	type "nonverbal"
-	descr "Camera"
-	sub camat2 { text "[searching]" }
-	sub camat3 { text "[alerted]" }
-	sub cambak { text "[backing down]" }
-	sub camdie1 { text "[destroyed]" }
-	sub camdie2 { text "[destroyed]" }
-	sub camdie3 { text "[destroyed]" }
-	sub camdie4 { text "[destroyed]" }
-//	sub camloop { text "[seeking]" }
-	sub camlos { text "[lost sight]" }
-//	sub camstop { text "[stopped]" }
-//	sub camto1 { text "[suspicious]" } // unused
-	sub camto2 { text "[suspicious]" }
-	sub camto3 { text "[alarm]" }
+	descr "Kamera"
+	sub camat2 { text "[hledá]" }
+	sub camat3 { text "[v pozoru]" }
+	sub cambak { text "[pohov]" }
+	sub camdie1 { text "[znièena]" }
+	sub camdie2 { text "[znièena]" }
+	sub camdie3 { text "[znièena]" }
+	sub camdie4 { text "[znièena]" }
+//	sub camloop { text "[hledá]" }
+	sub camlos { text "[cíl stracen]" }
+//	sub camstop { text "[zastavena]" }
+//	sub camto1 { text "[podezírá]" } // unused
+	sub camto2 { text "[podezírá]" }
+	sub camto3 { text "[poplach]" }
 }
 
 {
 	type "nonverbal"
 	descr "Turret"
-	sub fturlas1 { text "[firing laser]" }
-	sub fturlas2 { text "[firing laser]" }
-	sub fturlas3 { text "[firing laser]" }
-	sub fturrock { text "[firing rocket]" }
-	sub fturslu1 { text "[firing slug]" }
-	sub fturslu2 { text "[firing slug]" }
-	sub fturslu3 { text "[firing slug]" }
-//	sub fturslug { text "[firing slug]" } // unused
-	sub turclose { text "[closing]" }
-	sub turdie1 { text "[destroyed]" }
-	sub turdie2 { text "[destroyed]" }
-	sub turdie3 { text "[destroyed]" }
-//	sub turloop { text "[seeking]" }
-	sub turopen { text "[opening]" }
-//	sub turstop { text "[stopped]" }
+	sub fturlas1 { text "[výstøel laseru]" }
+	sub fturlas2 { text "[výstøel laseru]" }
+	sub fturlas3 { text "[výstøel laseru]" }
+	sub fturrock { text "[vypálena raketa]" }
+	sub fturslu1 { text "[výstøel brokù]" }
+	sub fturslu2 { text "[výstøel brokù]" }
+	sub fturslu3 { text "[výstøel brokù]" }
+//	sub fturslug { text "[výstøel brokù]" } // unused
+	sub turclose { text "[uzavírá se]" }
+	sub turdie1 { text "[znièena]" }
+	sub turdie2 { text "[znièena]" }
+	sub turdie3 { text "[znièena]" }
+//	sub turloop { text "[hledá]" }
+	sub turopen { text "[otevírá se]" }
+//	sub turstop { text "[zastavena]" }
 }

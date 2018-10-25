@@ -4,87 +4,87 @@ SUB1
 	type "bark"
 	descr "Midwife"
 	multisub mw1amb_1 {
-		{ time 600 length 1500 text "It hurts!" }
+		{ time 600 length 1500 text "To bolí!" }
 	}
-	sub mw1amb_2 { text "I'll make you stop it!" }
-	sub mw1amb_3 { text "Who dares?" }
-	sub mw1at0_1 { text "I worry so about my little ones." }
-	sub mw1at0_2 { text "Little ones need lots of meat to grow big and strong." }
-	sub mw1at0_3 { text "They grow up so fast." }
-	sub mw1at0_4 { text "Little ones need a lot of care." }
-	sub mw1at2_1 { text "Must be right under my nose." }
-	sub mw1at2_2 { text "Come out... come out... come out." }
-	sub mw1at2_3 { text "I'll hurt you." }
-	sub mw1at2_4 { text "No need to be afraid." }
-	sub mw1at2_5 { text "We will find you." }
-	sub mw1at3_1 { text "Where did he go?" }
-	sub mw1at3_2 { text "It's okay to come out." }
-	sub mw1at3_3 { text "Don't go near the children." }
-	sub mw1at3_4 { text "We won't hurt you so badly." }
-	sub mw1at3_5 { text "You're missing all the fun." }
-	sub mw1bak_1 { text "Not so much as a peep now." }
-	sub mw1bak_2 { text "Nothing there. Mama worries too much." }
-	sub mw1bak_3 { text "Peaceful now." }
-	sub mw1bak_4 { text "Where did it go?" }
+	sub mw1amb_2 { text "Donutím tì ukonèit to!" }
+	sub mw1amb_3 { text "Kto se opovauje?" }
+	sub mw1at0_1 { text "Dìlám si starosti o své dìátka." }
+	sub mw1at0_2 { text "Dìátka potøebují hodnì masa, aby aby vyrostli velcí a silní." }
+	sub mw1at0_3 { text "Rostou ako z vody." }
+	sub mw1at0_4 { text "Dìátka vyadují spoustu pìèe." }
+	sub mw1at2_1 { text "Musím ho mít pøímo pod nosem." }
+	sub mw1at2_2 { text "Vylez... Vylez... Vylez." }
+	sub mw1at2_3 { text "Ublíím ti." }
+	sub mw1at2_4 { text "Není nutno se bát." }
+	sub mw1at2_5 { text "My tì najdeme." }
+	sub mw1at3_1 { text "Kam šel?" }
+	sub mw1at3_2 { text "Je v poøádku ukázat se." }
+	sub mw1at3_3 { text "Nepøibliuj se k dìtem." }
+	sub mw1at3_4 { text "Zas tolik ti neublííme." }
+	sub mw1at3_5 { text "Pøicházíš o všechnu zábavu." }
+	sub mw1bak_1 { text "Není slyšet ani pípnutí." }
+	sub mw1bak_2 { text "Nic tady není. Máma je pøíliš starostlivá." }
+	sub mw1bak_3 { text "Teï je tu klid." }
+	sub mw1bak_4 { text "Kam to odešlo?" }
 	sub mw1bak_5 { text "Hmmm." }
-	sub mw1bod_1 { text "I'll kill it for this." }
-	sub mw1bod_2 { text "It will bleed for this." }
-	sub mw1bod_3 { text "I'll break it in two." }
-	sub mw1bod_4 { text "For this I'll cut it in half." }
-	sub mw1bod_5 { text "This is not acceptable." }
-	sub mw1chg_1 { text "For my little ones." }
-	sub mw1chg_2 { text "I'll tear out your spine." }
-	sub mw1chg_3 { text "Oh yes, come here." }
-	sub mw1chg_4 { text "You're mine... now." }
-	sub mw1chg_5 { text "I have your medication." }
-	sub mw1hit_1 { text "Get back!" }
-	sub mw1hit_2 { text "I'll rip you up!" }
-	sub mw1hit_3 { text "It hurts, doesn't it?" }
-	sub mw1hit_4 { text "Get away!" }
-	sub mw1hit_5 { text "How does that feel?" }
-	sub mw1los_1 { text "It fears us." }
-	sub mw1los_2 { text "It won't be back." }
-	sub mw1los_3 { text "It will pay for this." }
-	sub mw1los_4 { text "Nothing to worry about." }
-	sub mw1los_5 { text "It's my job to worry." }
-	sub mw1to1_1 { text "Something stinks." }
-	sub mw1to1_2 { text "What is that there?" }
-	sub mw1to1_3 { text "Mustn't disturb the little ones." }
-	sub mw1to1_4 { text "Is something there?" }
-	sub mw1to1_5 { text "Shhh. Who wakes my precious ones?" }
-	sub mw1to2_1 { text "This won't hurt a bit." }
-	sub mw1to2_2 { text "I can smell you." }
-	sub mw1to2_3 { text "Here I come." }
-	sub mw1to2_4 { text "The children don't like you." }
-	sub mw1to2_5 { text "Visiting hours are over." }
-	sub mw1to3_1 { text "I've brought something for you." }
-	sub mw1to3_2 { text "I'll cut you in half." }
-	sub mw1to3_3 { text "Time to test your reflexes." }
-	sub mw1to3_4 { text "Get away from the children." }
-	sub mw1to3_5 { text "I'll bleed you now." }
+	sub mw1bod_1 { text "Za tohle to zahubím." }
+	sub mw1bod_2 { text "Za tohle to bude krvácet." }
+	sub mw1bod_3 { text "Zlomím to vejpùl." }
+	sub mw1bod_4 { text "Za tohle to pøeøíznu vejpùl." }
+	sub mw1bod_5 { text "Tohle je nepøijatelné." }
+	sub mw1chg_1 { text "Za mé dìátka." }
+	sub mw1chg_2 { text "Vyrvu ti páteø." }
+	sub mw1chg_3 { text "Ó áno, pøijï sem." }
+	sub mw1chg_4 { text "Teï... si mùj." }
+	sub mw1chg_5 { text "Mám po tebe medicínu." }
+	sub mw1hit_1 { text "Ustup!" }
+	sub mw1hit_2 { text "Rozøíznu tì!" }
+	sub mw1hit_3 { text "Bolí to, e ano?" }
+	sub mw1hit_4 { text "Zmizni!" }
+	sub mw1hit_5 { text "Jak to cítíš?" }
+	sub mw1los_1 { text "Bojí se nás to." }
+	sub mw1los_2 { text "U se to nevrátí." }
+	sub mw1los_3 { text "Za tohle to zaplatí." }
+	sub mw1los_4 { text "Není se èeho obávat." }
+	sub mw1los_5 { text "To je moje práce dìlat si starosti." }
+	sub mw1to1_1 { text "Nìco tady smrdí." }
+	sub mw1to1_2 { text "Copak to tam je?" }
+	sub mw1to1_3 { text "Nevyrušovat dìátka!" }
+	sub mw1to1_4 { text "Je tam nìco?" }
+	sub mw1to1_5 { text "Šššš. Kto budí mé drahoušky?" }
+	sub mw1to2_1 { text "Toto ani neucítíš." }
+	sub mw1to2_2 { text "Cítím tvùj pach." }
+	sub mw1to2_3 { text "U jedu." }
+	sub mw1to2_4 { text "Dìtem se nelíbíš." }
+	sub mw1to2_5 { text "Návštìvnı hodiny skonèili." }
+	sub mw1to3_1 { text "Nìco sem ti pøinesla." }
+	sub mw1to3_2 { text "Pøeøíznu tì vejpùl!" }
+	sub mw1to3_3 { text "Èas otestovat tvé reflexy." }
+	sub mw1to3_4 { text "Vypadni od dìtí!" }
+	sub mw1to3_5 { text "Zakrvácím tì!" }
 }
 
 {
 	type "nonverbal"
 	descr "Midwife"
-	sub f_mwlas4 { text "[firing]" }
-	sub mw1at0_5 { text "[humming]" }
-	sub mw1die_1 { text "[death scream]" }
-	sub mw1die_2 { text "[death scream]" }
-	sub mw1hhi_1 { text "[grunt]" }
-	sub mw1hhi_2 { text "[grunt]" }
-	sub mw1hhi_3 { text "[grunt]" }
-	sub mw1hhi_4 { text "[grunt]" }
-	sub mw1hhi_5 { text "[grunt]" }
-	sub mw1hlo_1 { text "[pain]" }
-	sub mw1hlo_2 { text "[pain]" }
-	sub mw1hlo_3 { text "[pain]" }
-	sub mw1hlo_4 { text "[pain]" }
-	sub mwservo1 { text "[idle]" }
-	sub mwservo2 { text "[idle]" }
-	sub mwservo3 { text "[idle]" }
-	sub mwservo4 { text "[idle]" }
-	sub mwservo5 { text "[idle]" }
-	sub mwservo6 { text "[idle]" }
-	sub mwservo7 { text "[idle]" }
+	sub f_mwlas4 { text "[støílí]" }
+	sub mw1at0_5 { text "[pohmkávání]" }
+	sub mw1die_1 { text "[smrtelnı vıkøik]" }
+	sub mw1die_2 { text "[smrtelnı vıkøik]" }
+	sub mw1hhi_1 { text "[chrocht]" }
+	sub mw1hhi_2 { text "[chrocht]" }
+	sub mw1hhi_3 { text "[chrocht]" }
+	sub mw1hhi_4 { text "[chrocht]" }
+	sub mw1hhi_5 { text "[chrocht]" }
+	sub mw1hlo_1 { text "[bolest]" }
+	sub mw1hlo_2 { text "[bolest]" }
+	sub mw1hlo_3 { text "[bolest]" }
+	sub mw1hlo_4 { text "[bolest]" }
+	sub mwservo1 { text "[v klidu]" }
+	sub mwservo2 { text "[v klidu]" }
+	sub mwservo3 { text "[v klidu]" }
+	sub mwservo4 { text "[v klidu]" }
+	sub mwservo5 { text "[v klidu]" }
+	sub mwservo6 { text "[v klidu]" }
+	sub mwservo7 { text "[v klidu]" }
 }

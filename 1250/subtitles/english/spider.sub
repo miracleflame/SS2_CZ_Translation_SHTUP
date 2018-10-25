@@ -2,26 +2,26 @@ SUB1
 
 {
 	type "nonverbal"
-	descr "Spider"
+	descr "Pavouk"
 	// all sp1at0: AT_AT0 (atlevelzero, atlevelone, atleveltwo)
-	sub sp1at0_1 { text "[chitter]" }
-	sub sp1at0_2 { text "[chitter]" }
-	sub sp1at0_3 { text "[chitter]" }
-	sub sp1at0_4 { text "[chitter]" }
-	sub sp1at3_1 { text "[searching]" } // AI_TO3, AI_AT3
-	sub sp1at3_2 { text "[searching]" } // AI_TO3, AI_AT3
-	sub sp1at3_3 { text "[searching]" } // AI_TO3, AI_AT3
-	sub sp1att_1 { text "[attacking]" } // AI_ATT
-	sub sp1att_2 { text "[attacking]" } // AI_ATT
-	sub sp1att_3 { text "[attacking]" } // AI_ATT
-	sub sp1att_4 { text "[attacking]" } // AI_ATT
-	sub sp1die_1 { text "[death scream]" } // AI_DIE
-	sub sp1die_2 { text "[death scream]" } // AI_DIE
-	sub sp1hhi_1 { text "[pain]" } // AI_HHI
-	sub sp1hhi_2 { text "[pain]" } // AI_HHI
-	sub sp1hhi_3 { text "[pain]" } // AI_HHI
-	sub sp1hhi_4 { text "[pain]" } // AI_HHI
-	sub sp1hhi_5 { text "[pain]" } // AI_HHI
-	sub sp1to1_1 { text "[alert]" } // AI_TO1 (tolevelone, twoleveltwo)
-	sub sp1to1_2 { text "[alert]" } // AI_TO1 (tolevelone, twoleveltwo)
+	sub sp1at0_1 { text "[cvrlikání]" }
+	sub sp1at0_2 { text "[cvrlikání]" }
+	sub sp1at0_3 { text "[cvrlikání]" }
+	sub sp1at0_4 { text "[cvrlikání]" }
+	sub sp1at3_1 { text "[hledá]" } // AI_TO3, AI_AT3
+	sub sp1at3_2 { text "[hledá]" } // AI_TO3, AI_AT3
+	sub sp1at3_3 { text "[hledá]" } // AI_TO3, AI_AT3
+	sub sp1att_1 { text "[útoèí]" } // AI_ATT
+	sub sp1att_2 { text "[útoèí]" } // AI_ATT
+	sub sp1att_3 { text "[útoèí]" } // AI_ATT
+	sub sp1att_4 { text "[útoèí]" } // AI_ATT
+	sub sp1die_1 { text "[smrtelný výkøik]" } // AI_DIE
+	sub sp1die_2 { text "[smrtelný výkøik]" } // AI_DIE
+	sub sp1hhi_1 { text "[bolest]" } // AI_HHI
+	sub sp1hhi_2 { text "[bolest]" } // AI_HHI
+	sub sp1hhi_3 { text "[bolest]" } // AI_HHI
+	sub sp1hhi_4 { text "[bolest]" } // AI_HHI
+	sub sp1hhi_5 { text "[bolest]" } // AI_HHI
+	sub sp1to1_1 { text "[poplach]" } // AI_TO1 (tolevelone, twoleveltwo)
+	sub sp1to1_2 { text "[poplach]" } // AI_TO1 (tolevelone, twoleveltwo)
 }

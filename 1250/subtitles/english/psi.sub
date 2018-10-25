@@ -1,34 +1,34 @@
-SUB1
+ SUB1
 
 {
 	type "player"
 	descr "Info"
-	sub psiadrac { text "Adrenaline activated." }
-	sub psiadrde { text "Adrenaline deactivated." }
-	sub psiagiac { text "Agility activated." }
-	sub psiagide { text "Agility deactivated." }
-	sub psiapsac { text "Shield activated." }
-	sub psiapsde { text "Shield deactivated." }
-	sub psiaurac { text "Shield activated." }
-	sub psiaurde { text "Shield deactivated." }
-	sub psiendac { text "Endurance activated." }
-	sub psiendde { text "Endurance deactivated." }
-	sub psientac { text "Anti-Entropy activated." }
-	sub psientde { text "Anti-Entropy deactivated." }
-	sub psiinvac { text "Invisibility activated." }
-	sub psiinvde { text "Invisibility deactivated." }
-	sub psiradac { text "Radiation Shield activated." }
-	sub psiradde { text "Radiation Shield deactivated." }
-	sub psirecac { text "Recursive Psi activated." }
-	sub psirecde { text "Recursive Psi deactivated." }
-	sub psirefac { text "Reflex activated." }
-	sub psirefde { text "Reflex deactivated." }
-	sub psiscrac { text "Psi Shield activated." }
-	sub psiscrde { text "Psi Shield deactivated." }
-	sub psistrac { text "Strength activated." }
-	sub psistrde { text "Strength deactivated." }
-	sub psitoxac { text "Toxin Shield activated." }
-	sub psitoxde { text "Toxin Shield deactivated." }
-	sub psiwavac { text "Wave Manipulation activated." }
-	sub psiwavde { text "Wave Manipulation deactivated." }
+	sub psiadrac { text "Adrenalín aktivován." }
+	sub psiadrde { text "Adrenalín deaktivován." }
+	sub psiagiac { text "Hbitost aktivována." }
+	sub psiagide { text "Hbitost deaktivována." }
+	sub psiapsac { text "Štít aktivován." }
+	sub psiapsde { text "Štít deaktivován." }
+	sub psiaurac { text "Štít aktivován." }
+	sub psiaurde { text "Štít deaktivován." }
+	sub psiendac { text "Odolnost aktivována." }
+	sub psiendde { text "Odolnost deaktivována." }
+	sub psientac { text "Anti-Entropie aktivována." }
+	sub psientde { text "Anti-Entropie deaktivována." }
+	sub psiinvac { text "Neviditelnost aktivována." }
+	sub psiinvde { text "Neviditelnost deaktivován." }
+	sub psiradac { text "Radiaèní Štít aktivován." }
+	sub psiradde { text "Radiaèní Štít deaktivován." }
+	sub psirecac { text "Rekurzivní Psi aktivována." }
+	sub psirecde { text "Recurzivní Psi deaktivována." }
+	sub psirefac { text "Reflex aktivován." }
+	sub psirefde { text "Reflex deaktivován." }
+	sub psiscrac { text "Psi Štít aktivován." }
+	sub psiscrde { text "Psi Štít deaktivován." }
+	sub psistrac { text "Síla aktivována." }
+	sub psistrde { text "Síla deaktivována." }
+	sub psitoxac { text "Toxínový Štít aktivován." }
+	sub psitoxde { text "Toxínový Štít deaktivován." }
+	sub psiwavac { text "Vlnová manipulace aktivována." }
+	sub psiwavde { text "Vlnová manipulace deaktivována." }
 }
