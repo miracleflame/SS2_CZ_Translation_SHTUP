@@ -1,0 +1,5 @@
+loading:"Loading..."
+initial:"Select a bind file to load."
+unused:"< EMPTY >"
+done:"Cancel"
+load:"Load"
