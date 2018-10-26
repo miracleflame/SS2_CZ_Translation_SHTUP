@@ -40,7 +40,7 @@ EmailIcon10:"ShodIcon"
 EmailText10:"I can now transfer my magnificence to the Rickenbacker.  Proceed to the engine core on the engineering deck.  There you can set the core overload to my control by entering the authorized destruct code 94834.  Once you have done that, we may proceed to the Rickenbacker, separate the two ships, and exterminate this infestation.\n"
 
 
-LogName32:"Chemical Manifest:\nOps\n"
+LogName32:"Chemical Manifest\nOps\n"
 LogPortrait32:"Chem"
 LogIcon32:"OpsIcon"
 LogText32:"Laboratory Stockroom Inventory: Operations Storage Closet 089\n\nArsenic (As) : 2\nBarium (Ba) : 2\nCesium (Cs) : 2\nCopper (Cu) : 2\nFermium (Fm) : 1\nHassium (Hs) : 1\nIridium (Ir) : 2\nRadium (Ra) : 1\nSodium (Na) : 2\nYttrium (Y) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
@@ -73,13 +73,13 @@ LogText20:"To: Polito, Dr. Janice\nDoc - I don't feel right about any of this.  
 LogName2:"MALICK 07.JUL.14\nre: Bronson\n"
 LogPortrait2:"Malick"
 LogIcon2:"OpsIcon"
-LogText2:"I hacked into two of the Sim Units yesterday, and for the love of God, I don't know why...  I felt... compelled by some power...  My mind and my body are... changing... but they know it's me... they just can't prove it...  The next Sim Unit that goes down, Bronson and her men will come for me... but I'll be ready...  She may have guns and hatred on her side, but I am one of Many.\n"
+LogText2:"I hacked into two of the Sim Units yesterday, and for the love of God, I don't know why...  I felt... compelled by some power...  My mind and my body are... changing... but they know it's me... they just can't prove it...  The next Sim Unit that goes down, Bronson and her men will come for me... but I'll be ready...  She may have guns and hatred on her side, but I am one of many.\n"
 
 
 LogName3:"BRONSON 07.JUL.14\nre: Sabotage\n"
 LogPortrait3:"Bronson"
 LogIcon3:"OpsIcon"
-LogText3:"Something is taking over this ship.  The Sim Units on this deck are being diverted for reasons unknown.  I know it's somehow connected to the larger picture and whatever is happening since they landed on Tau Ceti...  My men look at me like I'm crazy, but it is my responsibility to safeguard this ship and its crew.  Screw Anatoly, screw Diego and screw whatever poisonous influence has desecrated this vessel...  I will not abandon my post or my charge...\n"
+LogText3:"Something's taking over this ship.  The Sim Units on this deck are being diverted for reasons unknown.  I know it's somehow connected to the larger picture and whatever is happening since they landed on Tau Ceti...  My men look at me like I'm crazy, but it is my responsibility to safeguard this ship and its crew.  Screw Anatoly, screw Diego and screw whatever poisonous influence has desecrated this vessel...  I will not abandon my post or my charge...\n"
 
 
 LogName1:"YOUNT 07.JUL.14\nre: Sim Units\n"
@@ -94,10 +94,10 @@ LogIcon16:"OpsIcon"
 LogText16:"I have a secret from the Many!  I've created overrides for my little experiments in reprogramming the Sim Units and entrusted them to the care of 3 special friends.  I've dressed them in red and instructed them to stay away from strangers.  A smart hacker always has a back door.\n"
 
 
-LogName11:"BRONSON 07.JUL.14\nre: MedSci armory code\n"
+LogName11:"BRONSON 07.JUL.14\nre: Med/Sci sub-armory\n"
 LogPortrait11:"Bronson"
 LogIcon11:"OpsIcon"
-LogText11:"I've authorized a change in the access code for the auxiliary weapons lockup in the crew quarters of MedSci deck to 98383.  I won't have my own gear used against my men.  There's no such thing as too cautious.\n"
+LogText11:"I've authorized a change in the access code for the auxiliary weapons lockup in the crew quarters of Med/Sci deck to 98383.  I won't have my own gear used against my men.  There's no such thing as too cautious.\n"
 
 
 LogName6:"MALICK 07.JUL.14\nre: Sim Unit 3\n"
@@ -109,7 +109,7 @@ LogText6:"Mmm... Bronson knows... won't let her undo the work we've done... mmm.
 LogName4:"BRONSON 08.JUL.14\nre: Martial law\n"
 LogPortrait4:"Bronson"
 LogIcon4:"OpsIcon"
-LogText4:"To: the Crew of the Von Braun\nAs of this time, I am declaring a state of martial law on the Von Braun.  All primary sub-sectors of the ship will be locked down and only accessible by security access cards.  If anybody is found to be interfering with the normal operations of this ship or impedes the work of the security forces they will be shot on the spot.\n"
+LogText4:"To: the Crew of the Von Braun\nAs of this time, I'm declaring a state of martial law on the Von Braun.  All primary sub-sectors of the ship will be locked down and only accessible by security access cards.  If anybody is found to be interfering with the normal operations of this ship or impedes the work of the security forces, they will be shot on the spot.\n"
 
 
 LogName7:"BRONSON 08.JUL.14\nre: No shirkers\n"
@@ -130,8 +130,8 @@ LogIcon8:"RickIcon"
 LogText8:"To: Bronson, Melanie\nYou listen to me, you little bitch.  Either you disband that little toy army of yours, or some real military is gonna come down there and walk all over your rent-a-cops.  You can't possibly understand what our mission is here and the glory of our purpose.  If you do what we say, you might have a chance to see the glory of the Many.  Comply or die, sister.  It's that simple.\n"
 
 
-LogName9:"WOOD 09.JUL.14\nre: Crystal gifts\n"
-LogPortrait9:"Wood"
+LogName9:"MORRIS 09.JUL.14\nre: Crystal gifts\n"
+LogPortrait9:"Morris"
 LogIcon9:"OpsIcon"
 LogText9:"To: VB Security\nThey've given me two gifts... isn't that marvelous... two little shards of crystal... it's very, very sharp, and when I strike it, it sings to me...  They want it to sing to Sgt. Bronson... I go there now to share my gift with her... they're very fragile, but very sharp!\n"
 

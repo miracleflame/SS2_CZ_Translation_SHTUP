@@ -4,7 +4,7 @@ EmailIcon10:"ShodIcon"
 EmailText10:"The Many hold sway here...  Even I cannot maintain contact.  You are on your own, human.  Fail me not.\n"
 
 
-LogName32:"Chemical Manifest:\n Rickenbacker\n"
+LogName32:"Chemical Manifest\nRickenbacker\n"
 LogPortrait32:"Chem"
 LogIcon32:"RickIcon"
 LogText32:"Laboratory Stockroom Inventory: Rickenbacker Storage Room 23C\n\nArsenic (As) : 1\nAntimony (Sb) : 1\nBarium (Ba) : 2\nCalifornium (Cf) : 1\nCesium (Cs) : 2\nCopper (Cu) : 1\nFermium (Fm) : 1\nGallium (Ga) : 1\nHassium (Hs) : 3\nIridium (Ir) : 1\nMolybdenum (Mo) : 1\nOsmium (Os) : 1\nRadium (Ra) : 3\nSelenium (Se) : 3\nSodium (Na) : 1\nTechnetium (Tc) : 1 \nTellurium (Te) : 4\nVanadium (V) : 1\nYttrium (Y) : 3\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
@@ -13,19 +13,19 @@ LogText32:"Laboratory Stockroom Inventory: Rickenbacker Storage Room 23C\n\nArse
 LogName1:"PREFONTAINE 12.JUL.14\nre: Stuck in here\n"
 LogPortrait1:"prefont"
 LogIcon1:"HydIcon"
-LogText1:"One of those flying things dragged me and David in here last night.  I don't remember much about the trip...  I guess I must have blocked it out, half- conscious most of the time.  I keep remembering that part from Pinocchio, you know, where the old man goes looking for the puppet inside the whale.  Except I don't think anyone's coming in here to save me...\n"
+LogText1:"One of those flying things dragged me and David here last night.  I don't remember much about the trip...  I guess I must have blocked it out, half-conscious most of the time.  I keep remembering that part from Pinocchio, you know, where the old man goes looking for the puppet inside the whale.  Except I don't think anyone's coming in here to save me...\n"
 
 
 LogName9:"PREFONTAINE 12.JUL.14\nre: Annelid life cycle\n"
 LogPortrait9:"prefont"
 LogIcon9:"HydIcon"
-LogText9:"While I don't understand the Annelid life cycle fully, it's clearly extremely diverse.  The eggs produce either a male or female spore.  The male, the drones, are small wasp-like creatures.  The females are worm-like annelids that seek a host to infect.  Following infection, the host begins to transform into a human/annelid hybrid.  From that point, the life form can take numerous paths.  I believe this path is determined by the Many itself.  The creatures have communicated their need to grow the biomass, so I imagine that biological material is their primary resource.  Therefore, each path has costs and benefits.  The proto-arachnid is extremely quick and potentially relatively cheap in biomass.  The hulking, fleshy ones are powerful, but are clearly a larger investment.  I've observed only one example of the floating organisms.  The only comfort is that the more dangerous organisms are quite costly to produce, limiting their numbers.\n"
+LogText9:"While I don't understand the annelid life cycle fully, it's clearly extremely diverse.  The eggs produce either a male or female spore.  The male, the drones, are wasp-like creatures.  The females are worm-like annelids that seek a host to infect.  Following infection, the host begins to transform into a human/annelid hybrid.  From that point, the life form can take numerous paths.  I believe this path is determined by the Many itself.  The creatures have communicated their need to grow the biomass, so I imagine that biological material is their primary resource.  Therefore, each path has costs and benefits.  The proto-arachnid is extremely quick and potentially relatively cheap in biomass.  The hulking, fleshy ones are powerful, but are clearly a larger investment.  I've observed only one example of the floating organisms.  The only comfort is that the more dangerous organisms are quite costly to produce, limiting their numbers.\n"
 
 
 LogName7:"PREFONTAINE 12.JUL.14\nre: The Many\n"
 LogPortrait7:"prefont"
 LogIcon7:"HydIcon"
-LogText7:"It's clear that this thing I'm trapped inside of is intimately linked with all of the organisms I observed aboard the Von Braun.  Strike that... this creature IS the same organism.  Perhaps the best way to describe it, or perhaps the only way I can comprehend it, is that this organism serves to perform the highest mental functions of the entire species.  The smaller creatures exist only to enact its will... no strike that, too.  All of the specimens act as a whole, like different organs in a single body, with this entity acting primarily as a brain.  If one were to destroy this large specimen, I wonder, would it snuff out all the others?\n"
+LogText7:"It's clear that this thing I'm trapped inside is intimately linked with all of the organisms I observed onboard the Von Braun.  Strike that... this creature IS the same organism.  Perhaps the best way to describe it, or perhaps the only way I can comprehend it, is that the organism serves to perform the highest mental functions of the entire species.  The smaller creatures exist only to enact its will... no, strike that, too.  All of the specimens act as a whole, like different organs in a single body, with this entity acting primarily as a brain.  If one were to destroy this large specimen, I wonder, would it snuff out all the others?\n"
 
 
 LogName10:"PREFONTAINE 12.JUL.14\nre: The Many and us\n"
@@ -49,7 +49,7 @@ LogText6:"The arterial passageways are blocked by some kind of sphincter.  I've 
 LogName2:"PREFONTAINE 12.JUL.14\nre: Grinding noises\n"
 LogPortrait2:"prefont"
 LogIcon2:"HydIcon"
-LogText2:"There's some kind of horrible grinding noise coming from the next area.  It sounds like... chewing.  I think I know what's going to happen here.  This is some kind of digestive tract of a very, very large animal.  I go back and forth between being fascinated and terrified.  This creature is a remarkable discovery... I wish I could live long enough to learn more.\n"
+LogText2:"There's some kind of horrible grinding noise coming from the next area.  It sounds like... chewing.  I think... I think I know what's going to happen here.  This is some kind of digestive tract of a very, very large animal.  I go back and forth between being fascinated and terrified.  This creature is a remarkable discovery... I wish I could only live long enough to learn more.\n"
 
 
 LogName4:"PREFONTAINE 12.JUL.14\nre: Central Control?\n"
@@ -67,6 +67,6 @@ LogText3:"Five minutes ago, one of those large, burly creatures dragged Claudett
 LogName5:"PREFONTAINE 12.JUL.14\nre: ---\n"
 LogPortrait5:"prefont"
 LogIcon5:"HydIcon"
-LogText5:"I'm being taken away now... it's my turn...  I'm being dragged into some kind of chamber...  The ceiling is lined with a number of panels bristling with what appear to be stalactites... or teeth...  The creature's put me down now... he's leaving... am I to be spared?  What's going on?  It's dark in here...  I can hear the moans of someone...  Claudette?  Is that you?  Hmm, I seem to have stepped in... something soft... slippery...  Are the stalagmites mov- \n"
+LogText5:"I... I'm being taken away now... it's my turn...  I'm being dragged into... some kind of chamber...  The ceiling is lined with a number of panels... bristling with what appear to be... stalactites... or teeth...  The creature's put me down now... he's leaving... am I to be spared?  What's going on?  It's dark in here...  I can hear the moans of someone...  Claudette?  Is that you?  Hmm, I seem to have stepped in... something soft... slippery...  Are the stalagmites mov- \n"
 
 

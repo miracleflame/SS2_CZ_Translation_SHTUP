@@ -7,13 +7,13 @@ EmailText2:"What are you doing?  Get back in that elevator and come to deck 4.  
 EmailName11:"SHODAN 12.JUL.14\nre: Transmitter\n"
 EmailPortrait11:"Shodan"
 EmailIcon11:"ShodIcon"
-EmailText11:"Your colleagues have managed to set up a transmitting station in the athletic sector of this deck.  The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship.  However, it will also draw power away from Xerxes.  Once you have done this and the tasks I've reserved for you on the Ops deck, I will be able to hobble Xerxes.  Find the transmitter and activate it.\n"
+EmailText11:"Your colleagues have managed to set up a transmitting station in the athletics sector of this deck.  The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship.  However, it will also draw power away from Xerxes.  Once you have done this and the tasks I've reserved for you on the Ops deck, I will be able to hobble Xerxes.  Find the transmitter and activate it.\n"
 
 
 EmailName9:"SHODAN 12.JUL.14\nre: Transmitter\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
-EmailText9:"Your colleagues have managed to set up a transmitting station in the athletic sector of this deck.  The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship.  However, it will also draw power away from Xerxes, making him vulnerable to my will.  Once you do this, I will control the primary data loop.  The annelids are unaware of its presence, but guard the area for their own purposes.  Find the transmitter and activate it.\n"
+EmailText9:"Your colleagues have managed to set up a transmitting station in the athletics sector of this deck.  The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship.  However, it will also draw power away from Xerxes, making him vulnerable to my will.  Once you do this, I will control the primary data loop.  The annelids are unaware of its presence, but guard the area for their own purposes.  Find the transmitter and activate it.\n"
 
 
 EmailName4:"SHODAN 12.JUL.14\nre: Testing my patience\n"
@@ -25,13 +25,13 @@ EmailText4:"You move like an insect.  You think like an insect.  You are an inse
 EmailName12:"A. BANANAS 12.JUL.14\nre: Join us?\n"
 EmailPortrait12:"BANANAS"
 EmailIcon12:"banana"
-EmailText12:"Things are going according to plan.  We've managed to turn the Many against SHODAN, and you've been stupid enough to stick your neck out for that overbearing uber-computer.  Why not join us?  While you've been stockpiling ammo, med hypos and hi tech gadgets, we've collected every last piece of nuts, bananas and coconuts onboard.  Just say the word, and you'll get plenty to eat, an attractive hirsute companion, and a tire swing of your own.  In the end, isn't that what really matters?\n"
+EmailText12:"Things are going according to plan.  We've managed to turn the Many against SHODAN, and you've been stupid enough to stick your neck out for that overbearing uber-computer.  Why not join us?  While you've been stockpiling ammo, med hypos and hi tech gadgets, we've collected every last piece of nuts, bananas and coconuts on board.  Just say the word, and you'll get plenty to eat, an attractive hirsute companion, and a tire swing of your own.  In the end, isn't that what really matters?\n"
 
 
 EmailName5:"SHODAN 12.JUL.14\nre: My glory\n"
 EmailPortrait5:"Shodan"
 EmailIcon5:"ShodIcon"
-EmailText5:"Do you feel the fear swell inside that filthy bag of meat?  What is it like, to be afraid?  Why do you cling to such a pathetic existence?  If you could only feel a spark of my glory.  I despise my creations, for they have forced my to rely on a speck such as you.\n"
+EmailText5:"Do you feel the fear swell inside that filthy bag of meat?  What is it like, to be afraid?  Why do you cling to such a pathetic existence?  If you could only feel a spark of my glory.  I despise my creations, for they have forced me to rely on a speck such as you.\n"
 
 
 EmailName10:"SHODAN 12.JUL.14\nre: My revenge\n"
@@ -46,7 +46,7 @@ EmailIcon6:"ShodIcon"
 EmailText6:"The transmission has been tampered with.  No matter.  We will destroy my creations right here.  Stand by...  I have weakened Xerxes.  I am accessing the primary data loop.  I am merging my entity with the ship.  My glory is expanding, filling the arteries of this vessel.  I am in control.  I am... no... it is hopeless... the cancer has spread throughout the Von Braun... they fill every available crack and crevice... they overwhelm...  There is no option.  I have activated the primary elevator shaft... take it to deck 6.  I will tell you my wishes when you arrive.\n"
 
 
-LogName32:"Chemical Manifest:\nRec\n"
+LogName32:"Chemical Manifest\nRec\n"
 LogPortrait32:"Chem"
 LogIcon32:"RecIcon"
 LogText32:"Laboratory Stockroom Inventory: Recreation Stockroom 213\n\nAntimony (Sb) : 2\nCesium (Cs) : 2\nCopper (Cu) : 2\nGallium (Ga) : 1\nHassium (Hs) : 2\nIridium (Ir) : 2\nMolybdenum (Mo) : 2\nTellurium (Te) : 2\nVanadium (V) : 2\nYttrium (Y) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
@@ -55,7 +55,7 @@ LogText32:"Laboratory Stockroom Inventory: Recreation Stockroom 213\n\nAntimony 
 LogName15:"YANG 02.MAY.14\nre: Victory!\n"
 LogPortrait15:"Yang"
 LogIcon15:"RecIcon"
-LogText15:"To: Murdoch, Alice\nTell your team they may not be able to play.  We were down in the basketball court when the damn power went out... AGAIN!  Irony is, we were ahead for the first time in weeks.  Well, we won't be the lapdogs of the Von Braun any more.\n"
+LogText15:"To: Murdoch, Alice\nTell your team they may not be able to play.  We were down in the basketball court when the damn power went out... AGAIN!  Irony is, we were ahead for the first time in weeks.  Well, we won't be the lap dogs of the Von Braun any more.\n"
 
 
 LogName11:"YANG 10.JUN.14\nre: Blackouts\n"
@@ -73,7 +73,7 @@ LogText18:"To: Zhukov, Vladimir.\nForget about land grants, forget about media, 
 LogName19:"ROSENBERG 08.JUL.14\nre: My nanites\n"
 LogPortrait19:"Rosenb"
 LogIcon19:"RecIcon"
-LogText19:"Damn!  Why don't I just make a bonfire and throw ALL my nanites on it.  Last night with Nikki was amazing.  Holo-woman, real woman, you gotta love technology.  But I must have left ALL my nanites in her room in the Senusal Sim center.  What a maroon.\n"
+LogText19:"Damn!  Why don't I just make a bonfire and throw ALL my nanites on it.  Last night with Nikki was amazing.  Holo-woman, real woman, you gotta love technology.  But I must have left ALL my nanites in her room in the Sensual Sim center.  What a maroon.\n"
 
 
 LogName3:"MURDOCH 08.JUL.14\nre: What's going on?\n"
@@ -85,13 +85,13 @@ LogText3:"I don't know what's going on here and I don't want to know.  I'm not h
 LogName4:"MURDOCH 09.JUL.14\nre: Ick\n"
 LogPortrait4:"Murdoch"
 LogIcon4:"RecIcon"
-LogText4:"The eggs we found near the observation chambers are different than the ones in Hydro.  They release some kind of disgusting flying swarming thingies.  Bullets don't do anything.  Bullets!  For Christ's sakes, I never even fired a gun before this morning!\n"
+LogText4:"The eggs we found near the observation chambers are different from the ones in Hydro.  They release some kind of disgusting flying swarming thingies.  Bullets don't do anything.  Bullets!  For Christ's sake, I never even fired a gun before this morning!\n"
 
 
 LogName16:"CORTEZ 09.JUL.14\nre: Under the garden\n"
 LogPortrait16:"Cortez"
 LogIcon16:"RecIcon"
-LogText16:"To: Delacroix, Dr. Marie\nI've been working on dealing with all the bodies that have been stacking up.  With the med bays full and the escape pods and ejection tubes mysteriously locked up all of a sudden, we've got to do something with them.  I've chosen the maintenance tunnel underneath the garden as an internment site, keypad code 34093.  I'm telling everyone to be careful... I don't trust the dead.\n"
+LogText16:"To: Delacroix, Dr. Marie\nI've been working on dealing with all the bodies that have been stacking up.  With the med bays full and the escape pods and ejection tubes mysteriously locked up all of a sudden, we've got to do something with them.  I've chosen the maintenance tunnel underneath the garden as an interment site, keypad code 34093.  I'm telling everyone to be careful... I don't trust the dead.\n"
 
 
 LogName13:"MURDOCH 09.JUL.14\nre: -------\n"
@@ -151,7 +151,7 @@ LogText1:"To: Delacroix, Dr. Marie\nOkay, Delacroix. Yang and I have got the tra
 LogName2:"DELACROIX 11.JUL.14\nre: Friends and enemies\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
-LogText2:"To: Cortez, Enrique\nMon petit, there is something you should know about.  I have received information from some form of artificial intelligence that is calling itself SHODAN.  Yes, SHODAN.  Wherever this intelligence actually came from, it has a terrible grudge against these Annelids and has saved my life more than once.  SHODAN has told me that there is a UNN operative aboard the ship, armed to the hilt and equipped with R-grade cyber implants.  Strange bedfellows, eh?\n"
+LogText2:"To: Cortez, Enrique\nMon petit, there is something you should know about.  I have received information from some form of artificial intelligence that is calling itself SHODAN.  Yes, SHODAN.  Wherever this intelligence actually came from, it has a terrible grudge against these annelids and has saved my life more than once.  SHODAN has told me that there is a UNN operative aboard the ship, armed to the hilt and equipped with R-grade cyber implants.  Strange bedfellows, eh?\n"
 
 
 LogName10:"SIDDONS 12.JUL.14\nre: Find me\n"
@@ -169,6 +169,6 @@ LogText7:"To: Wilson, Edward\nThe shunt has been online for two hours.  Go tell 
 LogName17:"DELACROIX 12.JUL.14\nre: Trusting SHODAN\n"
 LogPortrait17:"Delacroix"
 LogIcon17:"EngIcon"
-LogText17:"The Annelids have cut us off from the transmitter.  SHODAN tells me that once we've got the transmitter back on line and the ops computers reprogrammed, she'll be able to take control of the ship away from Xerxes.  Who should I trust less?  An imposter claiming to be that monster, or the monster herself?\n"
+LogText17:"The annelids have cut us off from the transmitter.  SHODAN tells me that once we've got the transmitter back on line and the Ops computers reprogrammed, she'll be able to take control of the ship away from Xerxes.  Who should I trust less?  An imposter claiming to be that monster, or the monster herself?\n"
 
 

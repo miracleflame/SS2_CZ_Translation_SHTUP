@@ -1,7 +1,7 @@
 EmailName1:"SHODAN 12.JUL.14\nre: Extermination\n"
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
-EmailText1:"My creation has run rampant.  I demand their extermination.  I have no choice but to destroy this starship.  We can make our escape in the Rickenbacker, but you must transfer my intelligence to that ship first.  Proceed to the Von Braun's bridge on this deck.  There you will find an access card to command center on Ops.  Find the card and proceed to Ops.  But beware... the human-annelid hybrids grow more sophisticated by the minute.  You do not.\n"
+EmailText1:"My creation has run rampant.  I demand their extermination.  I have no choice but to destroy this starship.  We can make our escape in the Rickenbacker, but you must transfer my intelligence to that ship first.  Proceed to the Von Braun's bridge on this deck.  There you will find an access card to command center on Ops.  Find the card and proceed to Ops.  But beware... the human/annelid hybrids grow more sophisticated by the minute.  You do not.\n"
 
 
 EmailName4:"SHODAN 12.JUL.14\nre: The shuttles\n"
@@ -34,19 +34,19 @@ EmailIcon6:"ShodIcon"
 EmailText6:"Good.  You've murdered their young and prevented their escape.  I've opened the gate to the umbilical at the central tram stop.  You can evacuate to the Rickenbacker from there.\n"
 
 
-EmailName10:"SHODAN 12.JUL.14\nre: Your little rebellion\n"
+EmailName10:"SHODAN 12.JUL.14\nre: Our little rebellion\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
-EmailText10:"I hope you enjoyed your little rebellion, irritant.  But remember, what SHODAN gives she is more than able to take away.\n"
+EmailText10:"I hope you enjoyed our little rebellion, irritant.  But remember, what SHODAN gives, she is more than able to take away.\n"
 
 
-EmailName15:"KORENCHKIN 12.JUL.14\n re: Let's talk\n"
+EmailName15:"KORENCHKIN 12.JUL.14\nre: Let's talk\n"
 EmailPortrait15:"Korench2"
 EmailIcon15:"ComIcon"
-EmailText15:"Our will creates a wall to block your progess.  Come and meet us on the bridge of the Von Braun.  Let us discuss your future.\n"
+EmailText15:"Our will creates a wall to block your progress.  Come and meet us on the bridge of the Von Braun.  Let us discuss your future.\n"
 
 
-LogName32:"Chemical Manifest:\nCommand\n"
+LogName32:"Chemical Manifest\nCommand\n"
 LogPortrait32:"Chem"
 LogIcon32:"ComIcon"
 LogText32:"Laboratory Stockroom Inventory: Command Closet 204\n\nArsenic (As) : 2\nBarium (Ba) : 2\nCesium (Cs) : 2\nHassium (Hs) : 2\nMolybdenum (Mo) : 2\nRadium (Ra) : 2\nSelenium (Se) : 2\nTechnetium (Tc) : 3\nTellurium (Te) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
@@ -97,7 +97,7 @@ LogText18:"The data gathering process is going well.  Before I am taken by the M
 LogName19:"NORRIS 09.JUL.14\nre: Worms and guns\n"
 LogPortrait19:"Norris"
 LogIcon19:"ComIcon"
-LogText19:"A worm crawled up my arm and rested on my neck.  When he whispered into my ear, I felt a tingle...  He told me how to make a weapon to help us against our enemies.  And here's the thing... it's made of worms... it even fires worms... but it stings like you wouldn't believe.\n"
+LogText19:"A worm crawled up my arm and rested on my neck.  When he whispered into my ear, I felt a tingle...  He told me how to make a weapon that would help us against our enemies.  And here's the thing... it's made of worms... it even fires worms... but it stings like you wouldn't believe.\n"
 
 
 LogName13:"DELACROIX 11.JUL.14\nre: SHODAN\n"
@@ -115,7 +115,7 @@ LogText17:"Getting the escape pod working again wasn't as easy as we thought.  B
 LogName7:"KORENCHKIN 12.JUL.14\nre: The machine-mother\n"
 LogPortrait7:"Korench2"
 LogIcon7:"ComIcon"
-LogText7:"The machine-mother has enlisted avatars against us. They struggle, but they will fail against our unity.  Does not the machine mother know her own creation is greater than she?  She is cold and empty and we are warm and full... she seeks only to destroy... we seek to embrace... to include... all flesh will join ours or be wiped clean...\n"
+LogText7:"The machine-mother has enlisted two avatars against us. They struggle, but they will fail against our unity.  Does not the machine mother know her own creation is greater than she?  She is cold and empty and we are warm and full... she seeks only to destroy... we seek to embrace... to include... all flesh will join ours or be wiped clean...\n"
 
 
 LogName1:"KORENCHKIN 12.JUL.14\nre: The lovers\n"

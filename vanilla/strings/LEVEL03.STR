@@ -4,7 +4,7 @@ EmailIcon1:"OpsIcon"
 EmailText1:"Damn.  Something's blocking the shaft and the elevator can't reach deck 4.  I'm attempting to determine...  I'm detecting massive quantities of some kind of biomaterial that's plugging up the elevator shaft.  The environment on this level has been altered to be some kind of breeding chamber for the xenomorphs.  It shouldn't prove dangerous unless you plan to stay for more than a few hours, but in order to clear the shaft you're going to have to remove the biomaterial.  I'm accessing the primary data loop.  Let's see what we can find out there.\n"
 
 
-EmailName7:"POLITO 12.JUL.14\nre: Clear the Shaft\n"
+EmailName7:"POLITO 12.JUL.14\nre: Clear the shaft\n"
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
 EmailText7:"They know where you are.  Find some way to clear the shaft.  I'll do what I can from my end.  Now move it.  There's no time for failure.\n"
@@ -13,7 +13,7 @@ EmailText7:"They know where you are.  Find some way to clear the shaft.  I'll do
 EmailName2:"POLITO 12.JUL.14\nre: Researching Toxin-A\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
-EmailText2:"Okay, stop where you are.  There's a vial of an experimental material called Toxin-A.  It was developed by the Sci staff to reduce the growth of the aliens.  But I can't find any data on how you should use it.  You should be able to research the toxin.  I'm uploading you enough cyber modules to acquire the research skill if you don't have it.\n"
+EmailText2:"Okay, stop where you are.  There's a vial of an experimental material called Toxin-A.  It was developed by the Sci staff to reduce the growth of the aliens.  But I can't find any data on how you should use it.  You should be able to research the toxin.  I'm uploading you enough cyber modules to acquire the Research skill if you don't have it.\n"
 
 
 EmailName3:"POLITO 12.JUL.14\nre: Using the vials\n"
@@ -31,7 +31,7 @@ EmailText6:"Good.  You'll notice that the biomatter on the walls and in the elev
 EmailName4:"POLITO 12.JUL.14\nre: Dawdling\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
-EmailText4:"Why do you go so slowly?!  Do you think this is some kind of game?  It is only through luck and my continued forbearance that you are even alive!  Now move!\n"
+EmailText4:"Why do you go so slowly?!  Do you think this is some kind of game?  It is only through luck and my continued forbearance that you're even alive!  Now move!\n"
 
 
 EmailName5:"POLITO 12.JUL.14\nre: The shaft is clear\n"
@@ -40,10 +40,10 @@ EmailIcon5:"OpsIcon"
 EmailText5:"At last.  Readings indicate the elevator shaft is clear.  Now get up to deck 4.  I'll be waiting for you.\n"
 
 
-LogName32:"Chemical Manifest:\nHydro\n"
+LogName32:"Chemical Manifest\nHydro\n"
 LogPortrait32:"Chem"
 LogIcon32:"HydIcon"
-LogText32:"Laboratory Stockroom Inventory: Hydroponics Laboratory 008\n\nAntimony (Sb) : 2\nArsenic (As) : 1\nBarium (Ba) : 1\nCesium (Cs) : 2 \nCopper (Cu) : 1\nFermium (Fm) : 1\nGallium (Ga) : 2\nHassium (Hs) : 1\nIridium (Ir) : 2\nRadium (Ra) : 1\nTechnetium (Tc) : 2\nTellurium (Te) : 2\nVanadium (V) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+LogText32:"Laboratory Stockroom Inventory: Hydroponics Laboratory 008\n\nAntimony (Sb) : 2\nArsenic (As) : 1\nBarium (Ba) : 1\nCesium (Cs) : 2 \nCopper (Cu) : 1\nFermium (Fm) : 1\nGallium (Ga) : 2\nHassium (Hs) : 1\nIridium (Ir) : 2\nRadium (Ra) : 1\nSodium (Na) : 1\nTechnetium (Tc) : 2\nTellurium (Te) : 2\nVanadium (V) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
 
 
 LogName3:"MILLER 27.JUN.14\nre: Our work here\n"
@@ -85,7 +85,7 @@ LogText5: "I found these schematics on Dr. Miller's desk... they're plans for th
 LogName6:"DELACROIX 03.JUL.14\nre: Making a change\n"
 LogPortrait6:"Delacroix"
 LogIcon6:"EngIcon"
-LogText6:"To:  Polito, Dr. Janice\nI received an e-message from Anatoly.  He's not well.  The Corporate protocols specify I can remove the Senior Executive Officer if he's found unfit for duty... but what about his ally Captain Diego?  He's got 120 goons on the Rickenbacker to back him up...  I wonder if that fragmentary AI you discovered on Tau Ceti 5 is connected to this...\n"
+LogText6:"To:  Polito, Dr. Janice\nI've received an e-message from Anatoly.  He's not well.  The Corporate protocols specify I can remove the Senior Executive Officer if he's found unfit for duty... but what about his ally Captain Diego?  He's got 120 goons on the Rickenbacker to back him up...  I wonder if that fragmentary AI you discovered on Tau Ceti 5 is connected to this...\n"
 
 
 LogName7:"POLITO 04.JUL.14\nre: AI voice fragment\n"
@@ -103,7 +103,7 @@ LogText1:"To: Delacroix, Dr. Marie  \nYou can't understand my joy, Marie and I w
 LogName10:"LOESSER 05.JUL.14\nre: Where are they?\n"
 LogPortrait10:"Loesser"
 LogIcon10:"MedIcon"
-LogText10:"To: Miller, Marc\nMarc, what's going on?  I thought it was weird when you asked me to send up sixteen of my female staffers... but... what have you done with them?  I'm shorthanded up here?  Also, have you heard from Watts, Sanger or Polito?  It's like everyone's gone on vacation and didn't bother to tell me.\n"
+LogText10:"To: Miller, Marc\nMarc, what's going on?  I thought it was weird when you asked me to send up sixteen of my female staffers... but... what have you done with them?  I'm shorthanded up here?  Also, have you heard from Watts, Sanger, or Polito?  It's like everyone's gone on vacation and didn't bother to tell me.\n"
 
 
 LogName16:"LOESSER 08.JUL.14\nre: Miller\n"
@@ -115,7 +115,7 @@ LogText16:"I know what Miller's up to.  This morning... this morning I saw Erin 
 LogName12:"KORENCHKIN 08.JUL.14\nre: Glory\n"
 LogPortrait12:"Korench"
 LogIcon12:"ComIcon"
-LogText12:  "Glory... to the Many... I am a voice in their choir.\n"
+LogText12:  "Glory to the Many. I am a voice in their choir.\n"
 
 
 LogName13:"DIEGO 09.JUL.14\nre: Our alliance\n"
@@ -133,7 +133,7 @@ LogText15:"It's becoming clear that the worms are some kind of communal entity..
 LogName14:"DELACROIX 10.JUL.14\nre: A ray of hope\n"
 LogPortrait14:"Delacroix"
 LogIcon14:"EngIcon"
-LogText14:"Killing the children won't be easy.  But I think I'm actually on to something.  The biochemistry of these worms, which I call the Annelids, treats inverted proteins as toxins.  With the help of a replicator in the Biological Survey lab, I've managed to isolate some inverted proteins in a number of vials.  However, the mix with the base compound is still off, so I still need to do some more research.  Once I do that and mix the toxin into the four Environmental Regulators...  Well, things can only get better.\n"
+LogText14:"Killing the children won't be easy.  But I think I'm actually on to something.  The biochemistry of these worms, which I call the \"annelids,\" treats inverted proteins as toxins.  With the help of a replicator in the Biological Survey lab, I've managed to isolate some inverted proteins in a number of vials.  However, the mix with the base compound is still off, so I need to do some more research.  Once I do that and mix the toxin into the four Environmental Regulators...  Well, things can only get better.\n"
 
 
 LogName9:"TURNBULL 11.JUL.14\nre: Changing\n"

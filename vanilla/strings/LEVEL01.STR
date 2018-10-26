@@ -43,7 +43,7 @@ EmailText6:"Now get those engine pods online.  You'll have to head into nacelle 
 EmailName8:"POLITO 12.JUL.14\nre: Core online\n"
 EmailPortrait8:"Polito"
 EmailIcon8:"OpsIcon"
-EmailText8:"Good work.  The engine core is now back online. Now get to the elevator and come see me on deck 4.  While you were doing that, I've discovered the presence of some annelid artifacts onboard the ship.  I think you may be able to use them to your advantage.  I've uploaded the information to the ship's weapons upgrade units.  They'll be able to convey the information to your cybernetic rig.  What are you waiting for?  Get to the elevator now.\n"
+EmailText8:"Good work.  The engine core is now back online. Now get to the elevator and come see me on deck 4.  While you were doing that, I've discovered the presence of some annelid artifacts on board the ship.  I think you may be able to use them to your advantage.  I've uploaded the information to the ship's weapons upgrade units.  They'll be able to convey the information to your cybernetic rig.  What are you waiting for?  Get to the elevator now.\n"
 
 
 EmailName9:"SHODAN 12.JUL.14\nre: Go to umbilical\n"
@@ -58,7 +58,7 @@ LogIcon24:"RickIcon"
 LogText24:"This message is coming from the audio log you just picked up.  You can use your PDA at any time to play any audio-log or e-mail you've received.  In the field, the PDA is also used for keeping track of your current mission objectives and obtaining help information.\n"
 
 
-LogName32:"Chemical Manifest:\nEngineering\n"
+LogName32:"Chemical Manifest\nEngineering\n"
 LogPortrait32:"Chem"
 LogIcon32:"EngIcon"
 LogText32:"Laboratory Stockroom Inventory: Engineering Stockroom 192\n\nAntimony (Sb) : 2\nBarium (Ba) : 2\nCalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnetium (Tc) : 1\nTellurium (Te) : 1\nVanadium (V) : 2\nYttrium (Y) : 2\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
@@ -79,7 +79,7 @@ LogText16:"To: Korenchkin, Anatoly\nAnatoly, you MUST open up the planet to the 
 LogName21:"MALONE 03.JUL.14\nre: Psionic chimps!\n"
 LogPortrait21:"testport"
 LogIcon21:"RickIcon"
-LogText21:"To: Mak Pao research authority\nA laboratory worker from MedSci called me down to the vivisection room yesterday.  He felt the lab chimps were exhibiting uncommon intelligence.  I sat with one for four hours and tried to probe it with the psi amp on a beta 4 cycle.  It failed to respond.  I of course assumed it was because it was, naturally, incapable of reacting to the sophisticated beta 4 cycle.  But then I realized it was blocking the probe intentionally!  As soon as I raised the psi-amp to attack it, the creature lashed out with its arms and projected a cryokinetic field towards me, paralyzing my arm.  I immediately psi-dampened the monkey and then stunned it with an electric prod.\n"
+LogText21:"To: Mak Pao research authority\nA laboratory worker from Med/Sci called me down to the vivisection room yesterday.  He felt the lab chimps were exhibiting uncommon intelligence.  I sat with one for four hours and tried to probe it with the psi amp on a beta 4 cycle.  It failed to respond.  I of course assumed it was because it was incapable of reacting to the sophisticated beta 4 cycle.  But then I realized it was blocking the probe intentionally!  As soon as I raised the psi amp to attack it, the creature lashed out with its arms and projected a cryokinetic field towards me, paralyzing my arm.  I immediately psi-dampened the monkey and then stunned it with an electric prod.\n"
 
 
 LogName17:"DELACROIX 04.JUL.14\nre: Taking action\n"
@@ -121,7 +121,7 @@ LogText22:"Due to the tenuous situation as of late, I've ordered security defens
 LogName18:"MALONE 06.JUL.14\nre: Further experiments\n"
 LogPortrait18:"testport"
 LogIcon18:"RickIcon"
-LogText18:"To: Mak Pao research authority\nTaking precautions, I proceeded with further experiments.  Since we've reached Tau Ceti, the creatures have gotten smarter and somehow gained limited psi abilities.  I probed another subject with a beta 5 cycle and sensed many things, but mostly an incredible empathy.  The chimps have become acutely aware of their own history, of the vivisections and experiments that have been performed on them while onboard the Von Braun.  They have anger, and they are ready to express it.  Clearly they are both a fascinating scientific resource and an incredible security risk.  My recommendation... either freeze them in cryo storage for the remainder of the mission or liquidate them immediately.  Who knows what other abilities they'll acquire?\n"
+LogText18:"To: Mak Pao research authority\nTaking precautions, I proceeded with further experiments.  Since we've reached Tau Ceti, the creatures have gotten smarter and somehow gained limited psi abilities.  I probed another subject with a beta 5 cycle and sensed many things, but mostly an incredible empathy.  The chimps have become acutely aware of their own history, of the vivisections and experiments that have been performed on them while on board the Von Braun.  They have anger, and they are ready to express it.  Clearly they are both a fascinating scientific resource and an incredible security risk.  My recommendation... either freeze them in cryo storage for the remainder of the mission or liquidate them immediately.  Who knows what other abilities they'll acquire?\n"
 
 
 LogName23:"BRONSON 06.JUL.14\nre: Hacking turrets\n"
@@ -163,7 +163,7 @@ LogText8:"They hit us six hours ago.  Malone, the OSA spook, tried to take one o
 LogName1:"CURTIZ 10.JUL.14\nre: Just us\n"
 LogPortrait1:"Curtiz"
 LogIcon1:"EngIcon"
-LogText1:"It's down to just a few of us now.  Right after Valdez died, I guess I went a little nuts and started tearing things apart... but what do you know, I found two more Rad Hypes.  Hopefully that will keep me going long enough to figure a way past that damn turret...  Who is that?  Delacroix?  Sanger?\n"
+LogText1:"It's down to just a few of us now.  Right after Valdez died, I guess I went a little nuts and started tearing things apart... but what do you know, I found two more rad hypes.  Hopefully that will keep me going long enough to figure a way past that damn turret...  Who is that?  Delacroix?  Sanger?\n"
 
 
 LogName11:"DELACROIX 11.JUL.14\nre: A new friend?\n"
@@ -178,7 +178,7 @@ LogIcon12:"RickIcon"
 LogText12:"To: Siddons, Rebecca\nStay where you are, Bec, I mean it.  This isn't something you can fight, this isn't something you can run from.  If you love me, you won't come looking for me.  Just hang tight... I won't let you down.\n"
 
 
-LogName19:"DIEGO 11.JUL.14\n re: Resist the call\n"
+LogName19:"DIEGO 11.JUL.14\nre: Resist the call\n"
 LogPortrait19:"Diego"
 LogIcon19:"RickIcon"
 LogText19:"My duty is to the UNN and to this ship.  But can I resist the call of the Many?  My father's weakness brought SHODAN into existence.  MY weakness has invited these things aboard the Von Braun... can I undo the wrong I have done?\n"

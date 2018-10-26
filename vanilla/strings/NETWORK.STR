@@ -1,5 +1,5 @@
 PlayerDisconnected:"%s has disconnected."
-NetworkLost:"Connection to Network Host Lost!"
+NetworkLost:"Connection to Network Host lost!"
 NetPause:"Game Paused!"
 NetResume:"Game Resumed!"
 NetWait:"Waiting for other players."
