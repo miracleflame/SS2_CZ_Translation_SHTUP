@@ -52,67 +52,72 @@ EmailIcon9:"ShodIcon"
 EmailText9:"Teď jsem schopná zničit tu nákazu, kdykoli budu chtít. Mnoho se bude třást před mou mocí. Jsi výkonný sluha, člověče. Teď se vrať na palubu Velení, najdi průchod a přesuň se na Rickenbacker.\n"
 
 
-LogName24:"TRAINER 02.06.11\nre: Zkušební zprava\n"
+LogName24:"TRÉNER 02.06.11\nre: Zkušební zpráva\n"
 LogPortrait24:"Bayliss"
 LogIcon24:"RickIcon"
-LogText24:"Tato zpráva přichází z audiologu, který jsi právě zvedl. Svůj PDA můžeš kdykoliv použít k přehrání audiologů, nebo e-mailů které dostaneš. Kromě toho se PDA používá k poznamenávání úkolů vaší aktuální mise a získávání pomocných informací.\n"
+LogText24:"Tato zpráva přichází z audiologu, který jsi právě zvedl. Svůj PDA můžeš kdykoliv použít k přehrání audiologů, nebo e-mailů které dostaneš. Kromě toho se PDA používá k poznamenávání úkolů tvé aktuální mise a získávání pomocných informací.\n"
 
 
-LogName32:"Chemicky zaznam:\nTechnika\n"
+LogName32:"Chemický záznam:\nTechnika\n"
 LogPortrait32:"Chem"
 LogIcon32:"EngIcon"
 LogText32:"Inventář laboratorního skladu: Technická-zásobárna 192\n\nAntimon (Sb) : 2\nBaryum (Ba) : 2\nKalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnecium (Tc) : 1\nTellur (Te) : 1\nVanad (V) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
 
 
-LogName6:"SIDONSOVA 02.CVN.14\nre: Není to ono\n"
+LogName6:"SIDONSOVÁ 02.CVN.14\nre: Není to ono\n"
 LogPortrait6:"Siddons"
 LogIcon6:"OpsIcon"
-LogText6:"To: Suaréz, Tommy\nNedělají nám to vůbec jednoduché, že? Chybíš mi... Vím, že to zní hloupě, ale je to tak. Myslím, že se budu asi hodinu litovat a pak ti zase napíšu. Absurdní, musela jsem uletět 67 trilionů mil, abych potkala Toho Pravého. Až budeš převelen na Von Brauna, všechno bude lepší. I já budu lepší, slibuji. Sakra, někdo sem jde. Počítám vteřiny...\n"
+LogText6:"Pro: Suarez, Tommy\n
+Moc nám to nezjednošují, co? Chybíš mi... Vím, že to zní hloupě, ale je to tak. Myslím, že se budu asi hodinu litovat a pak ti zase napíšu. Absurdní, musela jsem uletět 67 trilionů mil, abych potkala Toho Pravého. Až budeš převelen na Von Brauna, všechno bude lepší. I já budu lepší, slibuji. Sakra, někdo sem jde. Počítám vteřiny...\n"
 
 
 LogName16:"DELACROIX 30.CVN.14\nre: Tau Ceti 5\n"
 LogPortrait16:"Delacroix"
 LogIcon16:"EngIcon"
-LogText16:"To: Korenchkin, Anatoly\nAnatolyi, tuto planetu MUSÍTE uvolnit pro výzkumný personál této lodi. Pokud tam dole něco je, je to důležitější než TriOptimum, důležitější než UNN a důležitější než vy. Proč jste s Diegem zablokovali 3. palubu? Co se to děje?\n"
+LogText16:"Pro: Korenchkin, Anatoly\n
+Anatolyi, tuto planetu MUSÍTE uvolnit pro výzkumný personál této lodi. Pokud tam dole něco je, je to důležitější než TriOptimum, důležitější než UNN a důležitější než vy. Proč jste s Diegem zablokovali palubu 3? Co se to děje?\n"
 
 
-LogName21:"MALONE 03.JUL.14\nre: Psionicke opice!\n"
+LogName21:"MALONE 03.JUL.14\nre: Psionické opice!\n"
 LogPortrait21:"testport"
 LogIcon21:"RickIcon"
-LogText21:"To: Mak Pao správa výzkumu\nLaborant mě včera zavolal do operačního sálu. Měl pocit že laboratorní opice vykazuje neobyčejnou inteligenci. Seděl jsem u ní čtyři hodiny a zkoušel jsem pomocí psi-ampu cyklus beta 4. Žádná odezva. Samozřejmě jsem usoudil, že je to přirozená neschopnost reakce na pokročilý cyklus beta 4. Ale pak jsem si uvědomil, že ona blokuje sondu úmyslně! Jakmile jsem pozvedl psi-amp abych na ní zaútočil, ten tvor zamával rukama a vrhnul proti mě kryokinetické pole, které mi ochromilo ruku. Okamžitě jsem tu opici psionicky utlumil a omráčil elektrickým obuškem.\n"
+LogText21:"Pro: Mak Pao správa výzkumu\n
+Laborant mě včera zavolal do operačního sálu. Měl pocit že laboratorní opice vykazuje neobyčejnou inteligenci. Seděl jsem u ní čtyři hodiny a zkoušel jsem pomocí psi-ampu cyklus beta 4. Žádná odezva. Samozřejmě jsem usoudil, že je to přirozená neschopnost reakce na pokročilý cyklus beta 4. Ale pak jsem si uvědomil, že ona blokuje sondu úmyslně! Jakmile jsem pozvedl psi-amp abych na ní zaútočil, ten tvor zamával rukama a vrhnul proti mě kryokinetické pole, které mi ochromilo ruku. Okamžitě jsem tu opici psionicky utlumil a omráčil elektrickým obuškem.\n"
 
 
-LogName17:"DELACROIX 04.ČVC.14\nre: Patřičně kroky\n"
+LogName17:"DELACROIX 04.ČVC.14\nre: Patřičné kroky\n"
 LogPortrait17:"Delacroix"
 LogIcon17:"EngIcon"
-LogText17:"To: Korenchkin, Anatoly\nNejsem si jistá co se svým novým nejlepším přítelem kapitánem Diegem skrýváte na 3. palubě, ale jsem rozhodnutá to zjistit. Pokud budete stále odmítat setkání se mnou a s mým týmem, nebudu mít jinou volbu, než si stěžovat u společnosti. Jestli mě nebudete brát vážně vy, tak možná seržant Bronsonova se svým bezpečnostním oddílem bude.\n"
+LogText17:"Pro: Korenchkin, Anatoly\n
+Nejsem si jistá, co se svým novým nejlepším přítelem kapitánem Diegem skrýváte na palubě 3, ale jsem rozhodnutá to zjistit. Pokud budete stále odmítat setkání se mnou a s mým týmem, nebudu mít jinou volbu, než si stěžovat u společnosti. Jestli mě nebudete brát vážně vy, tak možná seržant Bronsonová se svým bezpečnostním oddílem bude.\n"
 
 
-LogName9:"SANGEROVA 04.ČVC.14\nre: Delacroix\n"
+LogName9:"SANGEROVÁ 04.ČVC.14\nre: Delacroix\n"
 LogPortrait9:"Sanger"
 LogIcon9:"EngIcon"
-LogText9:"Nevím, kde bychom byli bez Delacroix. Celá loď se rozpadá a ona je jediná, která ví co a jak. Viděl jsem ji se hádat s tím šmejdem Anatolyem Koretzkinem, či jak se to jmenuje, a dávala mu co proto. Ale ten pitomec na ni jen tak čuměl a pak začal točit něco o tom, že ona vůbec nemá představu o potěšení ze slastné jednotnosti nebo tak něco. Mamma mia, klauni šéfují cirkusu...\n"
+LogText9:"Nevím, kde bychom byli bez Delacroix. Celá loď se rozpadá a ona je jediná, která ví co a jak. Viděl jsem ji hádat se s tím šmejdem Anatolym Koretzkinem, či jak se to jmenuje, a dávala mu co proto. Ale ten pitomec na ni jen tak čuměl a pak začal točit něco o tom, že ona vůbec nemá představu o potěšení ze slastné jednotnosti nebo tak něco. Mamma mia, klauni šéfují cirkusu...\n"
 
 
 LogName2:"DELACROIX 05.ČVC.14\nre: Nedejte se\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
-LogText2:"To: Sanger, Constance\nConstance, teď se bojím o svůj život. Myslím že tohle zašlo mimo představy Diega i Korenchkina. Nevěřím, že to ti dva kontrolujou. Musíme zjistit, co to vlastně našli na povrchu Tau Ceti 5 a proč to tajemství tak žárlivě střeží. Myslím, že je to mnohem důležitější než můj nebo váš život, či než život celé lodi. Nedejte se. A buďte opatrná.\n"
+LogText2:"Pro: Sangerovou, Constance\n
+Constance, teď se bojím o svůj život. Myslím, že tohle zašlo mimo představy Diega i Korenchkina. Nevěřím, že to ti dva mají pod kontrolou. Musíme zjistit, co to vlastně našli na povrchu Tau Ceti 5 a proč to tajemství tak žárlivě střeží. Myslím, že je to mnohem důležitější než můj nebo váš život, či než život celé lodi. Nedejte se. A buďte opatrná.\n"
 
 
-LogName7:"DELACROIX 05.ČVC.14\nre: Záložní pristup\n"
+LogName7:"DELACROIX 05.ČVC.14\nre: Záložní přístup\n"
 LogPortrait7:"Delacroix"
 LogIcon7:"EngIcon"
 LogText7:"Někdo pozměňuje jednotky systému Xerxes. V zájmu zachování celkového utajení jsem zřídila záložní přístup do Počítače Kapalinového Řízení. K jeho aktivaci instalujte hardwarové přemostění 45m/dEx do jednotky systémového monitorování na Velitelství. 45m/dEx můžete najít v příručním skladu 5 vedle chladícího potrubí. Vstupní kód je: 34760.\n"
 
 
-LogName3:"SANGEROVA 05.ČVC.14\nre: Vojaci\n"
+LogName3:"SANGEROVA 05.ČVC.14\nre: Vojáci\n"
 LogPortrait3:"Sanger"
 LogIcon3:"EngIcon"
 LogText3:"Dřív jsem se těch mariňáků z Rickenbackera nemohla vůbec zbavit a teď ani za nic na světě nemůžu žádného najít. Ten podivín z OSA mě sledoval skoro dva měsíce, když mu to konečně došlo. Teď jsem se s ním snažila spojit a zjistit jestli neví co se děje, a najednou přestal odpovídat na moje maily.\n"
 
 
-LogName22:"BRONSONOVA 06.ČVC.14\nre: Problémy se střeleckými vezemi\n"
+LogName22:"BRONSONOVA 06.ČVC.14\nre: Problémy se střeleckými věžemi\n"
 LogPortrait22:"Bronson"
 LogIcon22:"OpsIcon"
 LogText22:"Z důvodu momentální nejasné situace jsem nařídila instalovat na všechna klíčová místa obranné střelecké věže. Jenže včera se jedna náhodou aktivovala a smrtelně zranila člena posádky Wellse. A někdo musel upravit Xerxesovy bezpečnostní subsystémy, protože mí technici teď nejsou schopni je odpojit. Nařídila jsem všechny bezpečnostní střelecké věže vrátit zpět do skladu, dokud nezjistím co se děje... Jenže teď se nemohu spojit se svým týmem, který jsem to poslala provést.\n"  
@@ -121,10 +126,11 @@ LogText22:"Z důvodu momentální nejasné situace jsem nařídila instalovat na
 LogName18:"MALONE 06.ČVC.14\nre: Další experimenty\n"
 LogPortrait18:"testport"
 LogIcon18:"RickIcon"
-LogText18:"To: Mak Pao správa výzkumu\nS maximální opatrností jsem přistoupil k dalším experimentům. Jakmile jsme dosáhli Tau Ceti, zvířata se stala chytřejšími, a některá získala omezené psionicke schopnosti. Další objekt jsem testoval na cyklus beta 5, a cítil jsem spoustu věcí, ale nejvíc neuvěřitelnou empatii. Opice jsou schopné uvědomit si svou minulost, všechny vivisekce a experimenty které na nich byly prováděny na palubě Von Brauna. Cítí hněv a jsou připravené ho dát najevo. Nepochybně jsou fascinujícími vědeckými zdroji, ale i neuvěřitelným bezpečnostním rizikem. Mé doporučení... Buď všechny zmrazit v kryobuňkách do konce naší mise, nebo je okamžitě zlikvidovat. Kdopak ví, jaké další schopnosti ještě získají??\n"
+LogText18:"Pro: Mak Pao správa výzkumu\n
+S maximální opatrností jsem přistoupil k dalším experimentům. Jakmile jsme dosáhli Tau Ceti 5, zvířata se stala chytřejšími, a některá získala omezené psionicke schopnosti. Další objekt jsem testoval na cyklus beta 5, a cítil jsem spoustu věcí, ale nejvíc neuvěřitelnou empatii. Opice jsou schopné uvědomit si svou minulost, všechny vivisekce a experimenty, které na nich byly prováděny na palubě Von Brauna. Cítí hněv a jsou připravené ho dát najevo. Nepochybně jsou fascinujícími vědeckými zdroji, ale i neuvěřitelným bezpečnostním rizikem. Mé doporučení... Buď všechny zmrazit v kryobuňkách do konce naší mise, nebo je okamžitě zlikvidovat. Kdopak ví, jaké další schopnosti ještě získají??\n"
 
 
-LogName23:"BRONSONOVA 06.ČVC.14\nre: Hackování střeleckých veží\n"
+LogName23:"BRONSONOVÁ 06.ČVC.14\nre: Hackování střeleckých věží\n"
 LogPortrait23:"Bronson"
 LogIcon23:"OpsIcon"
 LogText23:"Nejen že nedokážeme odpojit haprující střelecké věže, ale teď s námi přestal komunikovat i Xerxes. Pollard vymyslel řešení - přemostěním centrálního řízení jsme schopni hacknout věže lokálně, a tak je ovládnout. Jenže - to znamená přijít až k tomu zatracenýmu krámu a doufat, že se neaktivuje. Jednou věcí jsem si ovšem jista... Zjistím, co do pekla se tady vlastně děje.\n"
@@ -136,10 +142,10 @@ LogIcon4:"EngIcon"
 LogText4:"Delacroix měla pravdu, Tahle loď nebyla připravena na první let. OK, z potrubí uniká radiace a automatické bezpečnostní zámky se aktivovali. Půjdu dolů na Technické Řízení... Myslím, že by se k vyčištění trubek dal použít Počítač Kapalinového Řízení.\n"
 
 
-LogName13:"SANGEROVA 10.ČVC.14\nre: Zámek Technického Řízení\n"
+LogName13:"SANGEROVÁ 10.ČVC.14\nre: Zámek Technického Řízení\n"
 LogPortrait13:"Sanger"
 LogIcon13:"EngIcon"
-LogText13:"Bože, dostaň mě odsud. Překódovala jsem zámek této místnosti. Možná že je to zadrží. Teď půjdu do Skladiště 2, přijďte mě tam najít.\n"
+LogText13:"Bože, dostaň mě odsud. Překódovala jsem zámek této místnosti. Možná, že je to zadrží. Teď půjdu do Skladiště 2, přijďte mě tam najít.\n"
 
 
 LogName14:"MARTIN 10.ČVC.14\nre: Skladiště 2\n"
@@ -148,7 +154,7 @@ LogIcon14:"EngIcon"
 LogText14:"Nejsem si jist, co mě děsí víc: Hybridi se svými trubkami a brokovnicemi, šílené střelecké věže, nebo naši takzvaní spojenci. Nevěřím těm bastardům z UNN. Musím najít Sangerovou. Ona zná vstupní kód do Kapalinového ŘÍzeni. Musím si nějak probít cestu do skladiště 2, abych ji našel.\n"
 
 
-LogName5:"SANGEROVA 10.ČVC.14\nre: Zamcena\n"
+LogName5:"SANGEROVÁ 10.ČVC.14\nre: Zamčená\n"
 LogPortrait5:"Sanger"
 LogIcon5:"EngIcon"
 LogText5:"Malone je mrtvý. Právě jsem s ním mluvila, když... se za ním vynořil kyborg a... Výborně, Connie, drž se. Drž se. Překódovala jsem zámek od Technického Řízení na 15061. Myslím, že tady budu v bezpečí. Tady budu v bezpečí.\n"
@@ -157,25 +163,26 @@ LogText5:"Malone je mrtvý. Právě jsem s ním mluvila, když... se za ním vyn
 LogName8:"MARTIN 10.ČVC.14\nre: Útok\n"
 LogPortrait8:"Martin"
 LogIcon8:"EngIcon"
-LogText8:"Udeřily na nás před šesti hodinami. Malone, ten strašák z OSA se snažil vyřadit jednu z těch věcí pyrokinetickym útokem, ale bez účinku. Pak mu ta věc vypálila obě hlavně rovnou do žaludku... Falzone říká, že je v jedné z motorových gondol je skrýš se zbraněmi. Možná, že bych ho i s ostatními našel právě tam.\n"
+LogText8:"Udeřily na nás před šesti hodinami. Malone, ten strašák z OSA se snažil vyřadit jednu z těch věcí pyrokinetickym útokem, ale bez účinku. Pak mu ta věc vypálila obě hlavně rovnou do žaludku... Falzone říká, že v jedné z motorových gondol je skrýš se zbraněmi. Možná, že bych ho i s ostatními našel právě tam.\n"
 
 
 LogName1:"CURTIZ 10.ČVC.14\nre: Jenom my\n"
 LogPortrait1:"Curtiz"
 LogIcon1:"EngIcon"
-LogText1:"Už nás tu zůstalo jen pár. Po smrti Valdeze mě na chvíli úplně přeskočilo a začal jsem trhat věci kolem sebe... a copak se nestalo, našel jsem další dvě antiradiační séra. Doufám, že mě udrží dostatečně dlouho abych zjistil jak se dostat kolem té zatracené střelecké veze... Kdo je to? Delacroix? Sangerova?\n"
+LogText1:"Už nás tu zůstalo jen pár. Po smrti Valdeze mě na chvíli úplně přeskočilo a začal jsem trhat věci kolem sebe... a copak se nestalo, našel jsem další dvě antiradiační séra. Doufám, že mě udrží dostatečně dlouho, abych zjistil jak se dostat kolem té zatracené střelecké věže... Kdo je to? Delacroix? Sangerová?\n"
 
 
 LogName11:"DELACROIX 11.ČVC.14\nre: Nový přŕtel?\n"
 LogPortrait11:"Delacroix"
 LogIcon11:"EngIcon"
-LogText11:"Byla jsem kontaktována nějakým druhem Umělé Inteligence, která by mi chtěla pomoci znovu získat kontrolu nad Von Braunem, ať už ho ovládl kdokoli... či cokoli. Nevím odkud se vzala, ale musím přiznat, že jsem ráda že tu je.\n"
+LogText11:"Byla jsem kontaktována nějakým druhem Umělé Inteligence, která by mi chtěla pomoci znovu získat kontrolu nad Von Braunem, ať už ho ovládl kdokoli... či cokoli. Nevím odkud se vzala, ale musím přiznat, že jsem ráda, že tu je.\n"
 
 
 LogName12:"SUAREZ 11.ČVC.14\nre: Čekej\n"
 LogPortrait12:"Suarez"
 LogIcon12:"RickIcon"
-LogText12:"To: Sidonsova, Rebecca\nZůstaň kde jsi, Beky, myslím to vážně. Tohle není něco proti čemu se dá bojovat, ani něco před čím můžeš utéct. Jestli mě miluješ, nechoď mě hledat. Jen buď trpělivá... Nezklamu tě.\n"
+LogText12:"Pro: Sidonsová, Rebeka\n
+Zůstaň kde jsi, Beky, myslím to vážně. Tohle není něco proti čemu se dá bojovat, ani něco před čím můžeš utéct. Jestli mě miluješ, nechoď mě hledat. Jen buď trpělivá... Nezklamu tě.\n"
 
 
 LogName19:"DIEGO 11.ČVC.14\nre: Vzpírat se volání\n"
@@ -187,6 +194,6 @@ LogText19:"Mám povinnost vůči UNN a vůči této lodi. Ale dokážu se vzpír
 LogName20:"DIEGO 11.ČVC.14\nre: Je to tak zlé?\n"
 LogPortrait20:"Diego"
 LogIcon20:"RickIcon"
-LogText20:"Svým způsoben je Mnoho velmi podobné UNN. Je tady radost ze společné práce, a schopnosti dát stranou věci které nás rozdělují. Proč se tak bojíme ztráty individuality? Člověk může snít, ale Mnoho dokáže uskutečnit.\n"
+LogText20:"Svým způsobem je Mnohé velmi podobné UNN. Je tady radost ze společné práce a schopnosti dát stranou věci které nás rozdělují. Proč se tak bojíme ztráty individuality? Člověk může snít, ale Mnohé dokáže uskutečnit.\n"
 
 
