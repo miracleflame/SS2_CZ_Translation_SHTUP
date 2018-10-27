@@ -19,7 +19,7 @@ re: Zkoumání Toxinů-A\n
 "
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
-EmailText2:"Ok, výdrž chvilku.  Je tu nádoba s experimentálním materiálem zvaným Toxin-A.  Vyvinula ho místní skupina vědců, snažící se potlačit růst vetřelců.  Ale nemám žádné údaje o tom, jak ho správné použít.  Měl bys být schopen ho prozkoumat sám.  Posílám ti dost kybernetických modulu, abys mohl získat dostatečnou úroveň výzkumu, pokud ji ještě nemáš.\n"
+EmailText2:"Ok, zůstaň kde jsi.  Je tu nádoba s experimentálním materiálem zvaným Toxin-A.  Vyvinula ho místní skupina vědců, snažící se potlačit růst vetřelců.  Ale nemám žádné údaje o tom, jak ho správné použít.  Měl bys být schopen ho vyzkoumat sám.  Posílám ti dost kybernetických modulu, abys mohl získat dostatečnou úroveň výzkumu, pokud ji ještě nemáš.\n"
 
 
 EmailName3:"POLITOVÁ 12.ČVC.14\n
@@ -34,8 +34,8 @@ EmailName6:"POLITOVÁ 12.ČVC.14\n
 re: Jen tak dál\n
 "
 EmailPortrait6:"Polito"
-EmailIcon6:"OpsIcon"
 EmailText6:"Výborně!  Je zjevné, že biomateriál na zdech a ve výtahové šachtě je napadán rozptylovaným biotoxinem.  Teď to samé udělej u dalších tři klimatizačních jednotek.\n"
+EmailIcon6:"OpsIcon"
 
 
 EmailName4:"POLITOVÁ 12.ČVC.14\n

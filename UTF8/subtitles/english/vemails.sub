@@ -195,62 +195,62 @@ SUB1
 // Hydroponics ======================================================================
 {
 	type "convo"
-	descr "Polito"
+	descr "Politová"
 	multisub em0301 {
-		{ time 700 length 6800 text "Damn, something's blocking the shaft and the elevator can't reach deck 4. I'm attempting to determine..." }
-		{ time 8400 length 5600 text "I'm detecting massive quantities of some kind of biomaterial that's plugging up the elevator shaft." }
-		{ time 14700 length 5000 text "The environment on this level has been altered to be some kind of breeding chamber for the xenomorphs." }
-		{ time 20200 length 3800 text "It shouldn't prove dangerous unless you plan to stay for more than a few hours." }
-		{ time 24300 length 4000 text "But in order to clear the shaft you're going to have to remove the biomaterial." }
-		{ time 28700 length 4200 text "I'm accessing the primary data loop. Let's see what we can find out there." }
+		{ time 700 length 6800 text "Sakra!  Něco zablokovalo šachtu a výtah se nemůže dostat na palubu 4. Pokouším se to určit..." }
+		{ time 8400 length 5600 text "Zjistila jsem ohromné množství nějakého druhu biologického materiálu, který pronikl do výtahové šachty." }
+		{ time 14700 length 5000 text "Prostředí na této palubě bylo změněno na ohromnou líheň Xenomorfu." }
+		{ time 20200 length 3800 text "Ale pokud zde nebudeš pobývat příliš dlouho, nemělo by to být nebezpečné." }
+		{ time 24300 length 4000 text "Bude ovšem třeba odstranit ten biomaterial z výtahové šachty." }
+		{ time 28700 length 4200 text "Vstupují do hlavní databáze.  Zjistíme, copak zajímavého tam najdeme." }
 	}
 	multisub em0302 {
-		{ time 1500 length 5500 text "Okay, stop where you are. There's a vial of an experimental material called Toxin-A." }
-		{ time 7600 length 3500 text "It was developed by the Sci staff to reduce the growth of the aliens." }
-		{ time 11300 length 2600 text "But I can't find any data on how you should use it." }
-		{ time 14600 length 16700 text "You should be able to research the toxin." }
-		{ time 17000 length 4600 text "I'm uploading you enough cyber modules to acquire the research skill if you don't have it." }
+		{ time 1500 length 5500 text "Ok, zůstaň kde jsi.  Je tu nádoba s experimentálním materiálem zvaným Toxin-A." }
+		{ time 7600 length 3500 text "Vyvinula ho místní skupina vědců, snažící se potlačit růst vetřelců." }
+		{ time 11300 length 2600 text "Ale nemám žádné údaje o tom, jak ho správné použít." }
+		{ time 14600 length 16700 text "Měl bys být schopen ho vyzkoumat sám." }
+		{ time 17000 length 4600 text "Posílám ti dost kybernetických modulu, abys mohl získat dostatečnou úroveň výzkumu, pokud ji ještě nemáš." }
 	}
 	multisub em0303 {
-		{ time 1200 length 5000 text "Okay, the vials of Toxin-A need to be placed directly into the environmental regulators." }
-		{ time 6700 length 4500 text "There should be four on this deck. If you can get a vial into each of the regulators," }
-		{ time 11200 length 4600 text "you should be able to significantly impact the growth of those despicable creatures." }
-		{ time 16400 length 3000 text "That should remove the biomatter from the elevator shaft." }
+		{ time 1200 length 5000 text "Fajn, Nádoby s Toxinem-A je třeba umístit přímo do klimatizačních jednotek." }
+		{ time 6700 length 4500 text "Na této palubě jsou celkem čtyři.  Pokud se ti podaří nádoby umístit do všech jednotek," }
+		{ time 11200 length 4600 text "mělo by to značně ovplyvnit růst těhle odporných kreatůr." }
+		{ time 16400 length 3000 text "Rovněž by to mělo odstranit i biomateriál ve výtahové šachtě." }
 	}
 	multisub em0304 {
-		{ time 1600 length 4200 text "Why do you go so slowly? Do you think this is some kind of game?" }
-		{ time 6200 length 3900 text "It is only through luck and my continued forbearance that you are even alive." }
-		{ time 10500 length 1100 text "Now move!" }
+		{ time 1600 length 4200 text "Proč jsi tak zoufale pomalý?!  Copak si myslíš, že je to jenom nějaká hra?" }
+		{ time 6200 length 3900 text "Jsi naživu jen díky notné dávce štěstí a mé nekonečné trpělivosti." }
+		{ time 10500 length 1100 text "Hni sebou!" }
 	}
 	multisub em0305 {
-		{ time 1500 length 3700 text "At last. Readings indicate the elevator shaft is clear." }
-		{ time 5500 length 3300 text "Now get up to deck 4. I'll be waiting for you." }
+		{ time 1500 length 3700 text "Konečně!  Přístroje ukazují, že je výtahová šachta volná." }
+		{ time 5500 length 3300 text "Teď běž na palubu 4.  Budu na tebe čekat." }
 	}
 	multisub em0306 {
-		{ time 1700 length 8000 text "Good. You'll notice that the biomatter on the walls and in the elevator shaft has been impacted by the introduction of the biotoxin." }
-		{ time 10300 length 3200 text "Now do the same with the other three regulators." }
+		{ time 1700 length 8000 text "Výborně!  Je zjevné, že biomateriál na zdech a ve výtahové šachtě je napadán rozptylovaným biotoxinem." }
+		{ time 10300 length 3200 text "Teď to samé udělej u dalších tři klimatizačních jednotek." }
 	}
-	multisub em0308 {
-		{ time 1300 length 3100 text "They know where you are. Find some way to clear the shaft." }
-		{ time 4800 length 2700 text "I'll do what I can from my end. Now move it." }
-		{ time 8100 length 1500 text "There's no time for failure." }
+	multisub em0307 {
+		{ time 1300 length 3100 text "Už vědí kde jsi.  Najdi nějaký způsob, jak uvolnit šachtu." }
+		{ time 4800 length 2700 text "Já tady udělám vše, co půjde.  Teď běž! }
+		{ time 8100 length 1500 text "Na neúspěch není čas." }
 	}
 }
 
 // Many taunts (used as vtriggers instead of emails)
 {
 	type "convo"
-	descr "The Many"
+	descr "Mnohé"
 	multisub em0307 {
-		{ time 2600 length 7600 text "Life grows within the womb of these walls... life that has never seen the surface of the Earth." }
+		{ time 2600 length 7600 text "Život roste v děloze těch stěn... živto, který nikdy neviděl povrch Země." }
 	}
 	multisub em0508 {
-		{ time 1800 length 5100 text "Babies must sleep. Babies must rest." }
-		{ time 8100 length 4000 text "Wise is the one who does not waken them." }
-		{ time 13000 length 6400 text "Leave this place now, or we will wound you, as you have us." }
+		{ time 1800 length 5100 text "Děťátka musí spát. Děťátka musí odpočívat." }
+		{ time 8100 length 4000 text "Moudrý je ten, kdo je neprobudí." }
+		{ time 13000 length 6400 text "Opusť toto místo, jinak tě zraníme, jako jsi zranil ty nás." }
 	}
 	multisub em0807 {
-		{ time 1800 length 5600 text "Submit to the biomass, and your suffering will end." }
+		{ time 1800 length 5600 text "Podvol se biomase a tvé utrpení skončí." }
 	}
 }
 
