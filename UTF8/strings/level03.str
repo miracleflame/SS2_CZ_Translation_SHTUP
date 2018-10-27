@@ -1,322 +1,215 @@
-EmailName1:"POLITOVA 12.CVC.14
-re: Zablokována šachta
+EmailName1:"POLITOVÁ 12.ČVC.14\n
+re: Zablokována šachta\n
 "
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
-EmailText1:"Sakra!  Něco zablokovalo šachtu a výtah se nemůže dostat na 4. 
-palubu.  Pokouším se to určit...  Zjistila jsem ohromné množství nějakého druhu 
-biologického materiálu, který pronikl do výtahové šachty.  Prostředí na této 
-palubě bylo změněno na ohromnou líheň Xenomorfu.  Ale pokud zde nebudeš pobývat 
-příliš dlouho, nemělo by to být nebezpečné.  Bude ovšem třeba odstranit ten 
-biomaterial z výtahové šachty.  Vstupují do hlavní databáze.  Zjistíme, copak 
-zajímavého tam najdeme.
-"
+EmailText1:"Sakra!  Něco zablokovalo šachtu a výtah se nemůže dostat na palubu 4. Pokouším se to určit...  Zjistila jsem ohromné množství nějakého druhu biologického materiálu, který pronikl do výtahové šachty.  Prostředí na této palubě bylo změněno na ohromnou líheň Xenomorfu.  Ale pokud zde nebudeš pobývat příliš dlouho, nemělo by to být nebezpečné.  Bude ovšem třeba odstranit ten biomaterial z výtahové šachty.  Vstupují do hlavní databáze.  Zjistíme, copak zajímavého tam najdeme.\n"
 
 
-EmailName7:"POLITOVA 12.CVC.14
-re: Vyčištění šachty
+EmailName7:"POLITOVÁ 12.ČVC.14\n
+re: Vyčištění šachty\n
 "
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
-EmailText7:"Už vědí kde jsi.  Najdi najaky způsob, jak uvolnit šachtu.  Já 
-tady udělám vše, co půjde.  Ted bez!  Na neúspěch není čas.
-"
+EmailText7:"Už vědí kde jsi.  Najdi nějaký způsob, jak uvolnit šachtu.  Já tady udělám vše, co půjde.  Teď běž!  Na neúspěch není čas.\n"
 
 
-EmailName2:"POLITOVA 12.CVC.14
-re: Zkoumání Toxinů-A
+EmailName2:"POLITOVÁ 12.ČVC.14\n
+re: Zkoumání Toxinů-A\n
 "
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
-EmailText2:"Ok, výdrž chvilku.  Je tu nádoba s experimentálním materiálem 
-zvaným Toxin-A.  Vyvinula ho místní skupina vědců, snažící se potlačit růst 
-vetřelců.  Ale nemám žádné údaje o tom, jak ho správné použít.  Měl bys být 
-schopen ho prozkoumat sám.  Posílám ti dost kybernetických modulu, abys mohl 
-získat dostatečnou úroveň výzkumu, pokud ji ještě nemáš.
-"
+EmailText2:"Ok, výdrž chvilku.  Je tu nádoba s experimentálním materiálem zvaným Toxin-A.  Vyvinula ho místní skupina vědců, snažící se potlačit růst vetřelců.  Ale nemám žádné údaje o tom, jak ho správné použít.  Měl bys být schopen ho prozkoumat sám.  Posílám ti dost kybernetických modulu, abys mohl získat dostatečnou úroveň výzkumu, pokud ji ještě nemáš.\n"
 
 
-EmailName3:"POLITOVA 12.CVC.14
-re: Použití nádoby
+EmailName3:"POLITOVÁ 12.ČVC.14\n
+re: Použití nádoby\n
 "
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
-EmailText3:"Fajn, Nádoby s Toxinem-A je třeba umístit přímo do 
-klimatizačních jednotek.  Na této palubě jsou celkem čtyři.  Pokud se vám 
-podaří nádoby umístit do všech jednotek, mělo by to značně ovplyvnit růst téhle 
-odporných kreatur.  Rovněž by to mělo odstranit i biomaterial ve výtahové 
-šachtě.
-"
+EmailText3:"Fajn, Nádoby s Toxinem-A je třeba umístit přímo do klimatizačních jednotek.  Na této palubě jsou celkem čtyři.  Pokud se ti podaří nádoby umístit do všech jednotek, mělo by to značně ovplyvnit růst těhle odporných kreatůr.  Rovněž by to mělo odstranit i biomateriál ve výtahové šachtě.\n"
 
 
-EmailName6:"POLITOVA 12.CVC.14
-re: Jen tak dál
+EmailName6:"POLITOVÁ 12.ČVC.14\n
+re: Jen tak dál\n
 "
 EmailPortrait6:"Polito"
 EmailIcon6:"OpsIcon"
-EmailText6:"Výborně!  Je zjevně že biomaterial na zdech a ve výtahové 
-šachtě je napadán rozptylovaym biotoxinem.  Ted to samé udělej u dalších tři 
-klimatizačních jednotek.
-"
+EmailText6:"Výborně!  Je zjevné, že biomateriál na zdech a ve výtahové šachtě je napadán rozptylovaným biotoxinem.  Teď to samé udělej u dalších tři klimatizačních jednotek.\n"
 
 
-EmailName4:"POLITOVA 12.CVC.14
-re: Zdržování
+EmailName4:"POLITOVÁ 12.ČVC.14\n
+re: Zdržování\n
 "
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
-EmailText4:"Proč jsi tak zoufale pomalý?!  Copak si myslíš, že je to jenom 
-nějaká hra?  Jsi naživu jen díky notně dávce štěstí a mě nekonečné trpělivosti! 
- Hni sebou!
-"
+EmailText4:"Proč jsi tak zoufale pomalý?!  Copak si myslíš, že je to jenom nějaká hra?  Jsi naživu jen díky notné dávce štěstí a mé nekonečné trpělivosti!  Hni sebou!\n"
 
 
-EmailName5:"POLITOVA 12.CVC.14
-re: Šachta je volná
+EmailName5:"POLITOVÁ 12.ČVC.14\n
+re: Šachta je volná\n
 "
 EmailPortrait5:"Polito"
 EmailIcon5:"OpsIcon"
-EmailText5:"Konečné!  Přístroje ukazují, že je výtahová šachta volná.  Ted 
-bez na 4. palubu.  Budu na tebe čekat.
-"
+EmailText5:"Konečně!  Přístroje ukazují, že je výtahová šachta volná.  Teď běž na palubu 4.  Budu na tebe čekat.\n"
 
 
-LogName32:"Chemický záznam:
-Hydroponika
+LogName32:"Chemický záznam:\n
+Hydroponika\n
 "
 LogPortrait32:"Chem"
 LogIcon32:"HydIcon"
-LogText32:"Inventář laboratorního skladu: Hydroponická laboratoř 008
-
-Antimon (Sb) : 2
-Arzén (Aš) : 1
-Barium (Ba) : 1
-Cesium (Cs) : 2 
-Méd (Cu) : 1
-Fermium (Fm) : 1
-Galium (Ga) : 2
-Hassium (Hs) : 1
-Iridium (Ir) : 2
-Radium (Ra) : 1
-Technicium (Tc) : 2
-Telur (Té) : 2
-Vanad (V) : 1
-
-Tento inventární seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o 
-skladech nebezpečných chemikálií.  "Sklad" je definován vyhláškou 
-UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis 
-#093355) uložené v množství větším, než 50g na 10 čtverečných stop a trvání 
-delším než 24 hodin.
-"
+LogText32:"Inventář laboratorního skladu: Hydroponická laboratoř 008\n
+\n
+Antimon (Sb) : 2\n
+Arzén (As) : 1\n
+Barium (Ba) : 1\n
+Cesium (Cs) : 2 \n
+Méd (Cu) : 1\n
+Fermium (Fm) : 1\n
+Galium (Ga) : 2\n
+Hassium (Hs) : 1\n
+Iridium (Ir) : 2\n
+Radium (Ra) : 1\n
+Technicium (Tc) : 2\n
+Telur (Te) : 2\n
+Vanad (V) : 1\n
+\n
+Tento inventární seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  "Sklad" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
 
 
-LogName3:"MILLER 27.CVN.14
-re: Naše práce
+LogName3:"MILLER 27.ČVN.14\n
+re: Naše práce\n
 "
 LogPortrait3:"Miller"
 LogIcon3:"HydIcon"
-LogText3:"To: Renfro, Richard : Oxford University
-Dicku, vím, že si to nepřečteš, dokud se nevrátíme...  ale musím si zapsat, jak 
-neuvěřitelně se cítím.  Podařilo se nám to...  máme kontakt...  Muldoon a já 
-jsme se účastnili počátečních práci...  Anatolyho jediná podmínka byla že o tom 
-nesmím nikomu nic říct...  Ti tvorové jsou pozoruhodní...  jsou tak bezmocní... 
- nějak mě to nutí je ochraňovat...  je to úžasný objev...
-"
+LogText3:"Pro: Renfro, Richard : Oxford University\n
+Dicku, vím, že si to nepřečteš, dokud se nevrátíme...  ale musím si zapsat, jak neuvěřitelně se cítím.  Podařilo se nám to...  máme kontakt...  Muldoon a já jsme se účastnili počátečních práci...  Anatolyho jediná podmínka byla, že o tom nesmím nikomu nic říct...  Ti tvorové jsou pozoruhodní...  jsou tak bezmocní...  nějak mě to nutí je ochraňovat...  je to úžasný objev...\n"
 
 
-LogName2:"KORENCHKIN 28.CVN.14
-re: Zázraky
+LogName2:"KORENCHKIN 28.ČVN.14\n
+re: Zázraky\n
 "
 LogPortrait2:"Korench"
 LogIcon2:"ComIcon"
-LogText2:"Tak teď, všechny dětičky jsou na palubě.  Kapitán Diego a já 
-jsme izolovali 3. palubu.  Oba teď máme stejně myšlenky...  také se mění i naše 
-těla.  Občas je to hrozně bolí a jindy je to...  něco úžasného...  Něco 
-zázračného se se mnou děje...
-"
+LogText2:"Tak teď, všechny dětičky jsou na palubě.  Kapitán Diego a já jsme izolovali palubu 3.  Oba teď máme stejné myšlenky...  také se mění i naše těla.  Občas to hrozně bolí a jindy je to...  něco úžasného...  Něco zázračného se se mnou děje...\n"
 
 
-LogName4:"MILLER 29.CVN.14
-re: Děti
+LogName4:"MILLER 29.ČVN.14\n
+re: Děti\n
 "
 LogPortrait4:"Miller"
 LogIcon4:"HydIcon"
-LogText4: "Vzorky umírají.  A my jim nedokážeme pomoci...  jsou vysoce 
-toxické.  Muldoon je nechtěl nechat, a teď je mrtev.  Ale dnes ráno jsem 
-dostal...  vnuknutí...  Začal jsem pracovat na specifikacích pro radikální 
-sérii kybernetického vylepšení...  V případě úspěchu budu schopen udělat tělo 
-prakticky nezničitelným...  a mysl zůstane lidská, i chování...  Nemám příliš 
-mnoho času...
-"
+LogText4: "Vzorky umírají.  A my jim nedokážeme pomoci...  jsou vysoce toxické.  Muldoon se od nich nedokázal vzdálit a teď je mrtev.  Ale dnes ráno jsem dostal...  vnuknutí...  Začal jsem pracovat na náčrtech pro radikální sérii kybernetického vylepšení...  V případě úspěchu budu schopen udělat tělo prakticky nezničitelným...  a mysl zůstane lidská, i chování...  Nemám příliš mnoho času...\n"
 
 
-LogName11:"MILLER 30.CVN.14
-re: Zázračná hráčka
+LogName11:"MILLER 30.ČVN.14\n
+re: Zázračná hráčka\n
 "
 LogPortrait11:"Miller"
 LogIcon11:"HydIcon"
-LogText11:"Měním se.  Má mysl je plná úžasných nápadů a experimentu...  
-oni mají tolik zázraku ke sdílení...  tolik znalosti k předání...  Řekli mi, 
-jak vytvořit tento implantát...  říkají, že to vytvoří že mne mě lepší já...  
-Přál bych si mít více času, abych jim to mohl oplatit...
-"
+LogText11:"Měním se.  Má mysl je plná úžasných nápadů a experimentů...  Oni mají tolik zázraků ke sdílení...  tolik znalostí k předání...  Řekli mi, jak vytvořit tento implantát...  říkají, že to udělá ze mne mě lepší já...  Přál bych si mít více času, abych jim to mohl oplatit...\n"
 
 
-LogName8:"MILLER 01.CVC.14
-re: Sestra Bloomeova
+LogName8:"MILLER 01.ČVC.14\n
+re: Sestra Bloome\n
 "
 LogPortrait8:"Miller"
 LogIcon8:"HydIcon"
-LogText8: "Vybral jsem sestru Bloomeovou jako budoucí matku našich děti.  
-Je pěkná a nezná, zdravá a dokonalá ve své profesi.  Na Zemí už jedno dítě má.  
-Ví tudíž, co to znamená, starat se o mladé.  Ave Maria.  Kdyby jen věděla, co 
-ji přinese budoucnost...  bude sdílet radosti Mnoha...
-"
+LogText8: "Vybral jsem sestru Bloome jako budoucí matku našich děti.  Je pěkná a něžná, zdravá a dokonalá ve své profesi.  Na Zemi už jedno dítě má.  Ví tudíž, co to znamená, starat se o mladé.  Ave Maria.  Kdyby jen věděla, co ji přinese budoucnost...  bude sdílet radosti Mnoha...\n"
 
 
-LogName5:"BLOOMEOVA 02.CVC.14
+LogName5:"BLOOME 02.ČVC.14
 re: Starosti
 "
 LogPortrait5:"Bloome"
 LogIcon5:"HydIcon"
-LogText5: "Ta schémata jsem našla na stole Dr. Millera...  jsou to plány 
-pro typ kybernetického vylepšení, které je už čtyřicet let zakázáno...  to 
-přece není jeho styl...  Šla jsem si s ním o tom promluvit, ale pak jsem si 
-všimla...  DNA sekvence, použité v jeho prototypu...  jsou moje...
+LogText5: "Ta schémata jsem našla na stole Dr. Millera...  jsou to plány pro typ kybernetického vylepšení, které je už čtyřicet let zakázáno...  to přece není jeho styl...  Šla jsem si s ním o tom promluvit, ale pak jsem si všimla...  DNA sekvence použité v jeho prototypu...  jsou moje...\n
 "
 
 
-LogName6:"DELACROIX 03.CVC.14
+LogName6:"DELACROIX 03.ČVC.14
 re: Probíhají změny
 "
 LogPortrait6:"Delacroix"
 LogIcon6:"EngIcon"
-LogText6:"To:  Polito, Dr. Janice
-Dostála jsem e-mail od Anatolyho.  Není v pořádku.  Předpisy společnosti 
-připouštějí odvolání výkonného důstojníka, pokud není schopen služby...  Ale co 
-jeho spojenec kapitán Diego?  Má u sebe na Rickenbackeru 120 opičáku, kteří ho 
-poslouchají na slovo...  Říkám si, co když ta nekompletna UI, kterou jsme 
-objevili na Tau Ceti 5, s tím nějak souvisí...
-"
+LogText6:"Pro:  Polito, Dr. Janice\n
+Dostala jsem e-mail od Anatolyho.  Není v pořádku.  Předpisy společnosti připouštějí odvolání výkonného důstojníka, pokud není schopen služby...  Ale co jeho spojenec kapitán Diego?  Má u sebe na Rickenbackeru 120 opičáku, kteří ho poslouchají na slovo...  Říkám si, co když ta nekompletna UI, kterou jsme objevili na Tau Ceti 5, s tím nějak souvisí...\n"
 
 
-LogName7:"POLITOVA 04.CVC.14
+LogName7:"POLITOVÁ 04.ČVC.14
 re: Hlasový fragment UI
 "
 LogPortrait7:"Polito"
 LogIcon7:"OpsIcon"
-LogText7:"To: Delacroix, Dr. Marie
-Marie, tohle spěchá...  Vypadá to, že se UI z Tau Ceti integrovala do palubního 
-počítače...  Dnes jsem získala tenhle fragment...  A to není vše, o něco 
-později jsem po návratu našla svou laboratoř vyloupenou.  Musím té vidět... Jsi 
-jediná které teď věřím.  Mám ohledně té UI jistou teorii.  Snažím se hledat 
-informace o všech těch různých pověstech, týkajících se události na stanici 
-Citadel.  Myslím že jsem na něco přišla... <<ZPRAVA PRERUSENA>>
+LogText7:"Pro: Delacroix, Dr. Marie\n
+Marie, tohle spěchá...  Vypadá to, že se UI z Tau Ceti integrovala do palubního počítače...  Dnes jsem získala tenhle fragment... ... A to není vše, o něco později jsem po návratu našla svou laboratoř vyloupenou.  Musím tě vidět... Jsi jediná které teď věřím.  Mám ohledně té UI jistou teorii.  Snažím se hledat informace o všech těch různých pověstech, týkajících se událostí na stanici Citadela.  Myslím, že jsem na něco přišla... <<ZPRÁVA PŘERUŠENA>>\n
 "
 
 
-LogName1:"KORENCHKIN 05.CVC.14
-re: Nový záměr
+LogName1:"KORENCHKIN 05.ČVC.14\n
+re: Nový záměr\n
 "
 LogPortrait1:"Korench"
 LogIcon1:"ComIcon"
-LogText1:"To: Delacroix, Dr. Marie  
-Nemůžete pochopit mou radost Marie a já vás nebudu nutit.  Cítím se jako nový 
-člověk...  Mám cíl...  Mnohem důležitější než tahle mise, dokonce důležitější 
-než TriOptimum...  Budu je chránit...  Ať se děje co se děje...  Budu je 
-chránit...
+LogText1:"Pro: Delacroix, Dr. Marie  \n
+Nemůžete pochopit mou radost Marie a já vás nebudu nutit.  Cítím se jako nový člověk...  Mám cíl...  Mnohem důležitější než tahle mise, dokonce důležitější než TriOptimum...  Budu je chránit...  Ať se děje co se děje...  Budu je chránit...\n
 "
 
 
-LogName10:"LOESSEROVA 05.CVC.14
-re: Kde jsou?
+LogName10:"LOESSEROVÁ 05.ČVC.14\n
+re: Kde jsou?\n
 "
 LogPortrait10:"Loesser"
 LogIcon10:"MedIcon"
-LogText10:"To: Miller, Marc
-Marcu, co se děje?  Přišlo mi to divný když jsi mne požádal o šestnáct mých 
-ženských pracovnic...  ale...  Co jsi s nimi udělal?  Mám tady nedostatok 
-pracovní síly.  A kromě toho, nevíš něco o Wattsovi, Sangerove nebo Politove?  
-Zda se, jako by si všichni vzali dovolenou a neobtěžovali se mi o tom říct.
-"
+LogText10:"Pro: Miller, Marc\n
+Marcu, co se děje?  Přišlo mi to divný, když jsi mne požádal o šestnáct mých sester...  ale...  Co jsi s nimi udělal?  Mám tady nedostatek pracovní síly.  A kromě toho, nevíš něco o Wattsovi, Sangerové nebo Politové? Zdá se, jako by si všichni vzali dovolenou a neobtěžovali se mi o tom říct.\n"
 
 
-LogName16:"LOESSEROVA 08.CVC.14
-re: Miller
+LogName16:"LOESSEROVÁ 08.ČVC.14\n
+re: Miller\n
 "
 LogPortrait16:"Loesser"
 LogIcon16:"MedIcon"
-LogText16:"Už vím co chce Miller udělat.  Dnes ráno...  dnes ráno jsem 
-viděla Erin Bloomeovou...  Opatrovala nějaký druh vajec...  a byla taková...  
-změněna, nejhroznějším, nepřirozeným způsobem.  O osudu zbytku svého personálu 
-si mužů domyslet jen to nejhorší.  Ten zkurvysyn.  Ten zkurvysyn!  Tohle mu jen 
-tak neprojde.
-"
+LogText16:"Už vím co chce Miller udělat.  Dnes ráno...  dnes ráno jsem viděla Erin Bloome...  Opatrovala nějaký druh vajec...  a byla taková...  změněna, nejhroznějším, nepřirozeným způsobem.  O osudu zbytku svého personálu si mužů domyslet jen to nejhorší.  Ten zkurvysyn.  Ten zkurvysyn!  Tohle mu jen tak neprojde.\n"
 
 
-LogName12:"KORENCHKIN 08.CVC.14
-re: Sláva
+LogName12:"KORENCHKIN 08.ČVC.14\n
+re: Sláva\n
 "
 LogPortrait12:"Korench"
 LogIcon12:"ComIcon"
-LogText12:  "Sláva... sláva Mnoha...  Jsem hlasem v jejich chóru.
-"
+LogText12:  "Sláva... sláva Mnoha...  Jsem hlasem v jejich chóru.\n"
 
 
-LogName13:"DIEGO 09.CVC.14
-re: Naše spojenectví
+LogName13:"DIEGO 09.ČVC.14\n
+re: Naše spojenectví\n
 "
 LogPortrait13:"Diego"
 LogIcon13:"RickIcon"
-LogText13:"To: Korenchkin, Anatoly
-Věřím, že plány, které se mnou Mnoho má, jsou větší, než si dokážu představit.  
-Změna už probíhá.  Ale tahle cesta je úžasnější, než jsi dovedu představit.  
-Nezastaví se na pouhé prostě mutací...  Forma, která je mi přislíbena je 
-krásnější než cokoli jiného...  Říkají mi, že budu plout vzduchem zasahovat 
-proti nepřátelům naší biomasy svou myslí...  Naší myslí...  Má číše už 
-přetekla...
-"
+LogText13:"Pro: Korenchkin, Anatoly\n
+Věřím, že plány, které se mnou Mnohé má, jsou větší, než si dokážu představit.  Změna už probíhá.  Ale tahle cesta je úžasnější, než jsi dovedu představit.  Nezastaví se na pouhé prosté mutací...  Forma, která je mi přislíbena je krásnější než cokoli jiného...  Říkají mi, že budu plout vzduchem, zasahovat proti nepřátelům naší biomasy svou myslí...  Naší myslí...  Má číše už přetekla...\n"
 
 
-LogName15:"DELACROIX 09.CVC.14
-re: Zabíjení červů
+LogName15:"DELACROIX 09.ČVC.14\n
+re: Zabíjení červů\n
 "
 LogPortrait15:"Delacroix"
 LogIcon15:"EngIcon"
-LogText15:"Již je zřejmě, že ti červi tvoří určitý druh společenstva...  
-Nejsem jsi ista či rozptýleny Toxin-A opravdu přímo zabije pohyblivé jedince, 
-ale měl by zasáhnout masu jejich společenství a odstranit porosty, které jsem 
-pozorovala vyrůstat na stěnách a ve výtahové šachtě.  Snad existuje ještě 
-účinnější složení, které by se dalo syntetizovat...
-"
+LogText15:"Již je zřejmé, že ti červi tvoří určitý druh společenstva...  Nejsem jsi jista jestli rozptýlený Toxin-A opravdu přímo zabije pohyblivé jedince, ale měl by zasáhnout masu jejich společenství a odstranit porosty, které jsem pozorovala vyrůstat na stěnách a ve výtahové šachtě.  Snad existuje ještě účinnější složení, které by se dalo syntetizovat...\n"
 
 
-LogName14:"DELACROIX 10.CVC.14
-re: Paprsek naděje
+LogName14:"DELACROIX 10.ČVC.14\n
+re: Paprsek naděje\n
 "
 LogPortrait14:"Delacroix"
 LogIcon14:"EngIcon"
-LogText14:"Zabít děti nebude jednoduché.  Ale domnívám se, že jsem na to 
-přišla.  Biochemie těch červů, kterým říkám Annelidy, reaguje na inverzní 
-proteiny ako na toxiny.  S pomoci replikatoru v laboratoří biologického výzkumu 
-se mi podařilo izolovat určitě množství inverzních proteinů a naplnit jimi 
-několik nádob.  Směs s výchozími sloučeninami ještě ale není úplně v pořádku, 
-takže stále potřebují provést další výzkumy.  Až to udělám a pak přimíchám směs 
-toxinů do všech čtyř klimatizačních jednotek...  No, může to jenom pomoct.
-"
+LogText14:"Zabít děti nebude jednoduché.  Ale domnívám se, že jsem na to přišla.  Biochemie těch červů, kterým říkám Annelidy, reaguje na inverzní proteiny ako na toxiny.  S pomoci replikatoru v laboratoří biologického výzkumu se mi podařilo izolovat určitě množství inverzních proteinů a naplnit jimi několik nádob.  Směs s výchozími sloučeninami ještě ale není úplně v pořádku, takže stále potřebují provést další výzkumy.  Až to udělám a pak přimíchám směs toxinů do všech čtyř klimatizačních jednotek...  No může to jenom pomoct.\n"
 
 
-LogName9:"TURNBULOVA 11.CVC.14
-re: Proměny
+LogName9:"TURNBULOVÁ 11.ČVC.14\n
+re: Proměny\n
 "
 LogPortrait9:"Turnbull"
 LogIcon9:"RickIcon"
-LogText9:"Tak teda Bronsonova měla přece jen pravdu.  Myslím, že mám tak 
-hodinu...  ale zaznamenávám tuto...  transformaci v naději, že by tato data 
-mohla být užitečná někomu jinému...  Jsou tu nádory...  Na nohách a na 
-zádech...  Mužů cítit ty věci ve mne...  jak zvykají, tloustnou.  Domnívám se, 
-že k dokončení transformace potřebují živého hostitele...  Zasraný Diego, 
-zasraný Korenchkin, zasraná Tau Ceti 5.  Jestli tohle někdo čte, nemusíš mít 
-žádné výčitky když jsi mne dorazil,  stejně jsem už byla pryč.
-"
-
+LogText9:"Tak tedy Bronsonová měla přece jen pravdu.  Myslím, že mám tak hodinu...  ale zaznamenávám tuto...  transformaci v naději, že by tato data mohla být užitečná někomu jinému...  Jsou tu nádory...  Na nohách a na zádech...  Cítím tu věc ve mne...  jak žvýká, tloustne.  Domnívám se, že k dokončení transformace potřebuji živého hostitele...  Zasraný Diego, zasraný Korenchkin, zasraná Tau Ceti 5.  Jestli tohle někdo čte, ať nemá žádné výčitky, když jsi mne dorazí,  stejně jsem už byla pryč.\n"
