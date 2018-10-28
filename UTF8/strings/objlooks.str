@@ -76,7 +76,7 @@ ID_Cards:"Tyto karty slouží k omezení vstupu do různých kritických oblast�
 Incend_Grenade:"Tyto granáty uvolňují vysoce zápalný bílý fosfor.  Tato chemikálie způsobuje Cyanózu, poškození střev a následně kóma či smrt.  Jsou účinné pouze proti organickým cílům." 
 int_boost:"Souhrn:  Toto sérum zvyšuje uživatelovu hodnotu PSI o 1 na dobu 5 minut. 
 
-Analýza:  Farmaceutikum je tvořeno směsí, složenou z psychoaktivních chemikálií, některé z nich jsou velmi silné, a rafinované annelidské tkáně.  Mnohé z chemikálií jsou enzymaticky poutané k částečkám annelidské tkáně,  některé z nich již od vytvoření séra, neboť annelidská tkáň je stále biologicky aktivní. 
+Analýza:  Farmaceutikum je tvořeno směsí, složenou z psychoaktivních chemikálií, některé z nich jsou velmi silné, a rafinované annelidské tkáně.  Mnoho z chemikálií jsou enzymaticky poutané k částečkám annelidské tkáně,  některé z nich již od vytvoření séra, neboť annelidská tkáň je stále biologicky aktivní. 
 
 Závěr:  Toto experimentální sérum zvýší tvůj PSI status na pět minut - tedy pokud se odhodláš si aplikovat přečištěnou annelidskou tkáň.  Dlouhodobější používání může jako vedlejší efekt způsobit halucinace." 
 juice_bottle:"Vyrábí se z ovoce, pěstovaného v hydroponických nádržích.  Oblíbený ovocný nápoj s přídavkem kofeinu, obsahuje velké množství vitamínů, cukrů a ovocnou dřeň." 

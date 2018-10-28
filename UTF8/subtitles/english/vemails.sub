@@ -8,7 +8,7 @@ SUB1
 		{ time 400 length 4300 text "Musíš si pospíšit. Ještě si neuvědomuješ, co všechno je v sázce." }
 		{ time 5300 length 4700 text "Dej pozor na příruční sklad č.4. Nechala jsem tam nějaké vybavení." }
 		{ time 10000 length 6600 text "Vstupní kód je 59004. Musím jít na palubu..." }
-		{ time 18600 length 2700 text "[Xerxes] Mnohé požaduje ukončení této komunikace." }
+		{ time 18600 length 2700 text "[Xerxes] Mnoho požaduje ukončení této komunikace." }
 		{ time 22000 length 2200 text "[Xerxes] Omlouváme sa za vzniknuté potíže." }
 	}
 	multisub em0102 {
@@ -61,7 +61,7 @@ SUB1
 	descr "SHODAN"
 	multisub em0109 {
 		{ time 1500 length 6200 text "Teď jsem schopná zničit tu nákazu, kdykoli budu chtít." }
-		{ time 8800 length 4600 text "Mnohé se bude třást před mou mocí." }
+		{ time 8800 length 4600 text "Mnoho se bude třást před mou mocí." }
 		{ time 14800 length 3600 text "Jsi výkonný sluha, člověče." }
 		{ time 18900 length 12700 text "Teď se vrať na palubu Velení, najdi průchod a přesuň se na Rickenbacker." }
 	}
@@ -240,7 +240,7 @@ SUB1
 // Many taunts (used as vtriggers instead of emails)
 {
 	type "convo"
-	descr "Mnohé"
+	descr "Mnoho"
 	multisub em0307 {
 		{ time 2600 length 7600 text "Život roste v děloze těch stěn... živto, který nikdy neviděl povrch Země." }
 	}
