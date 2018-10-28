@@ -216,7 +216,7 @@
 	sub xxpdie05 { text "Omlouváme se za vzniknuté nepøíjemnosti." }
 	sub xxpdie06 { text "Sláva masu. Sláva mase." }
 	sub xxpdie07 { text "Veškerı nepovolenı zásah do databáze povede k perzekuci v nejvyšší zákonem povolé míøe." }
-	sub xxpdie08 { text "Mìjte na pamìti, e nepovolené pouívaní støelnıch zbraní na palubì Von Braun je pøestupkem Tøídy 3." }
+	sub xxpdie08 { text "Mìjte na pamìti, e nepovolené pouívaní støelnıch zbraní na Palubì Von Braun je pøestupkem Tøídy 3." }
 	sub xxral101 { text "Hrozba detekována. Bezpeènostní jednotky byly vyslány zasáhnout. Bezpeènostní jednotky byly vyslány zasáhnout." }
 	sub xxral201 { text "Bezpeènostní jednotky se pøesunují do sektoru N23. Bezpeènostní jednotky se pøesunují do sektoru N23." }
 	sub xxral202 { text "Bezpeènostní jednotky se pøesunují do sektoru A16. Bezpeènostní jednotky se pøesunují do sektoru A16." }
@@ -255,16 +255,16 @@
 	multisub xxrmsg01 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
 		{ time 2600 length 5800 text "Vzhledem k nedávnému zmatku, bude zítra o 9:00 celopalubní sèítání posádky." }
-		{ time 9000 length 5300 text "Veškerı personál a se v tom èase hlásí  v spoleèenské oblasti patra 5." }
+		{ time 9000 length 5300 text "Veškerı personál a se v tom èase hlásí  v spoleèenské oblasti na Palubì 5." }
 	}
 	multisub xxrmsg02 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2700 length 7500 text "O 2:00 bude v spoleèenské oblasti patra 5 pøednes poezie protokolní jednotkou T892/2." }
+		{ time 2700 length 7500 text "O 2:00 bude v spoleèenské oblasti na Palubì 5 pøednes poezie protokolní jednotkou T892/2." }
 		{ time 12000 length 6800 text "Prosím, prineste si jakıkoliv povolenı materiál, kterı si pøjete od T892/2 pøednést." }
 	}
 	multisub xxrmsg03 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2700 length 6200 text "Kvùli opatrením mimo naší kompetenci je veškeré podávání obìdù na palubì Von Braun pozastaveno." }
+		{ time 2700 length 6200 text "Kvùli opatrením mimo naší kompetenci je veškeré podávání obìdù na Palubì Von Braun pozastaveno." }
 		{ time 9600 length 3600 text "Vıivné balíèky jsou k dispozici u vìtšiny replikátorù." }
 	}
 	multisub xxrmsg04 {
@@ -294,7 +294,7 @@
 	}
 	multisub xxrmsg09 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2700 length 4300 text "Nákupní oblast patra 5 bude uzavøena do odvolání." }
+		{ time 2700 length 4300 text "Nákupní oblast na Palubì 5 bude uzavøena do odvolání." }
 		{ time 7800 length 2600 text "Omlouváme se za vzniknuté nepøíjemnosti." }
 		{ time 11200 length 4000 text "Rodina Mnohého roste kadım jedním momentem." }
 		{ time 15600 length 1500 text "Sláva masu." }
@@ -312,7 +312,7 @@
 	}
 	multisub xxrmsg12 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2600 length 7500 text "Mìjte na pamìti, e nepovolené pouívaní støelnıch zbraní na palubì Von Braun je pøestupkem Tøídy 3." }
+		{ time 2600 length 7500 text "Mìjte na pamìti, e nepovolené pouívaní støelnıch zbraní na Palubì Von Braun je pøestupkem Tøídy 3." }
 	}
 	multisub xxyal001 {
 		{ time 1000 length 2100 text "Potenciální hrozba detekována." }

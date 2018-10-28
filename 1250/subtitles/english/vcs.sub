@@ -128,7 +128,7 @@ SUB1
 	}
 	multisub cs0702 {
 		{ time 1100 length 6200 text "Šachta tohoto výtahu je prorostlá bio-organickou hmotou, kterou vytváøejí xenomorfové." }
-		{ time 7700 length 6100 text "Není žádný pøímý spùsob jak jí sprovoznit, a než se ti to povede, nemùžeš jít výš než na patro 3." }
+		{ time 7700 length 6100 text "Není žádný pøímý spùsob jak jí sprovoznit, a než se ti to povede, nemùžeš jít výš než na Palubu 3." }
 	}
 	multisub cs0703 {
 		{ time 500 length 1000 text "Vìdí, kde jsi." }

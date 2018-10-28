@@ -1,26 +1,26 @@
-NameUnresearched:"Neprozkoumany objekt"
-QueryUnresearched:"Tento objekt nebyl prozkouman."
-ReportName1:"Organ Hybrida"
-ReportName10:"Organ Rumblera"
-ReportName11:"Implantat WormMind"
-ReportName13:"Organ Arachnida"
-ReportName14:"Organ Psi Reavera"
-ReportName15:"Implantat WormBlend"
-ReportName16:"Viralni Proliferator"
-ReportName17:"Zbroj Worm Skin"
-ReportName19:"Velky organ Psi Reavera"
-ReportName20:"Implantat WormHeart"
-ReportName21:"Vrhac cervu"
-ReportName22:"Opici mozek"
-ReportName23:"Annelidska hojiva zlaza"
-ReportName24:"Annelidsky Psi Organ"
-ReportName3:"Organ Kyber-pestounky"
-ReportName4:"Organ Vejce s Cervem"
-ReportName5:"Protiannelidsky Toxin"
-ReportName6:"Implantat WormBlood"
-ReportName7:"Strepina krystalu"
+NameUnresearched:"Neprozkoumanı objekt"
+QueryUnresearched:"Tento objekt nebyl prozkoumán."
+ReportName1:"Orgán Hybrida"
+ReportName10:"Orgán Rumblera"
+ReportName11:"Implantát ÈervoMysl"
+ReportName13:"Orgán Arachnida"
+ReportName14:"Orgán Psi Reavera"
+ReportName15:"Implantát ÈervoJednota"
+ReportName16:"Virální Proliferátor"
+ReportName17:"Zbroj Èervo Kùe"
+ReportName19:"Velkı orgán Psi Reavera"
+ReportName20:"Implantát ÈervoSrdce"
+ReportName21:"Vrhaè èervù"
+ReportName22:"Opièí mozek"
+ReportName23:"Annelidská hojivá láza"
+ReportName24:"Annelidskı Psi Orgán"
+ReportName3:"Orgán Kyber-pìstounky"
+ReportName4:"Orgán Vejce s Èervem"
+ReportName5:"Protiannelidskı Toxin"
+ReportName6:"Implantát ÈervoKrev"
+ReportName7:"Støepina krystalu"
 ReportName8:"Psi Booster"
-ReportName9:"Organ Vejce s Rojem"
+ReportName9:"Orgán Vejce s Rojem"
 ResRepIcon1:"resicon"
 ResRepIcon10:"resicon"
 ResRepIcon11:"resicon"
@@ -66,108 +66,108 @@ ResRepPortrait6:"bloodport"
 ResRepPortrait7:"crport"
 ResRepPortrait8:"btport"
 ResRepPortrait9:"swport"
-ResRepText1:"Shrnuti:  Naucil jsi se, jak nejucinneji zasahnout Hybrida.  Vsechna zraneni, ktera mu zpusobis, budou o 25% vyssi.
+ResRepText1:"Shrnutí:  Nauèil jsi se, jak nejúèinnìji zasáhnout Hybrida.  Všechna zranìní, která mu zpùsobíš, budou o 25% vyšší.
 
-Analyza:  Podle struktury DNA lze usuzovat, ze Hybrid je lidskym hostitelem parazitickeho organismu.  Ackoli je parazit (podobny 40 cm dlouhemu cervovi) ve stavu rozkladu, neumoznujicim ucinnou analyzu, vysledek procesu je zrejmy.  Vazna degenerace vyssi mozkove funkce byla zpusobena nadorovitymi vyrustky podel paterniho kanalu a mozkoveho kmene.  Cizi tkane se zdaji byt tvoreny malymi cervovitymi tvory, ktere se prizpusobili telu hostitele a ovladli vsechna hlavni motoricka centra, stejne jako rozhodovaci funkce.  Rovnez lze usuzovat ze jsou chopny prime stimulace autonomniho nervoveho a zlazoveho systemu.  Diky tomu tento organismus produkuje vyjimecne mnozstvi adrenalinu a endorfinu, co ho dela silnejsim a agresivnejsim.  To, co zustane se uz neda nazvat clovekem.  Poskozeni, zpusobena hostiteli behem tohoto procesu jsou nezvratna, a organismus ted funguje bez zabran ci vahani.
+Analıza:  Podle struktury DNA lze usuzovat, e Hybrid je lidskım hostitelem parazitického organismu.  Aèkoliv je parazit (podobnı 40 cm dlouhému èervovi) ve stavu rozkladu, neumoòujícím úèinnou analızu, vısledek procesu je zøejmı.  Váná degenerace vyšších mozkovıch funkcí byla zpùsobena nádorovitımi vırùstky podél páteøního kanálu a mozkového kmene.  Cizí tkánì se zdají bıt tvoøeny malımi èervovitımi tvory, které se pøizpùsobili tìlu hostitele a ovládli všechna hlavní motorická centra, stejnì jako rozhodovací funkce.  Rovnì lze usuzovat e jsou schopny pøímé stimulace autonomního nervového a lázového systému.  Díky tomu tento organismus produkuje vıjimeèné mnoství adrenalinu a endorfinù, co ho dìlá silnìjším a agresivnìjším.  To, co zùstane se u nedá nazvat èlovìkem.  Poškození, zpùsobená hostiteli bìhem tohoto procesu jsou nezvratná, a organismus teï funguje bez zábran èi váhání.
 
-Zaver:  Organismus je zranitelny stejnymi formami agrese, jako clovek.  Avsak, zmeny v jeho fyziologii naznacuji mnohem komplikovanejsi chemii nez je momentalne pochopeno.  Nasledne analyzy podobnych organismu by nam mohly poskytnout vice poznatku v teto oblasti."
-ResRepText10:"Shrnuti:  Naucil jsi se, jak nejucinneji zasahnout Rumblera.  Vsechna zraneni, ktera mu zpusobis, budou o 25% vyssi.  Jeho annelidska tkan je mimoradne citliva na zapalnou munici.
+Závìr:  Organismus je zranitelnı stejnımi formami agrese, jako èlovìk.  Avšak, zmìny v jeho fyziologii ukazují na mnohem komplikovanìjší chemii ne je momentálnì chápáno.  Následné analızy podobnıch organismù by nám mohly poskytnout více poznatkù v této oblasti." 
+ResRepText10:"Shrnutí:  Nauèil jsi se, jak nejúèinnìji zasáhnout Rumblera. Všechna zranìní, která mu zpùsobíš, budou o 25% vyšší.  Jeho annelidska tkáò je mimoøádnì citlivá na zápalnou munici.
 
-Analyza:  Tento organismus vznikl dalsim vyvojem prvni faze annelidskeho hybrida.  Rozeznatelnych lidskych casti je minimum, mimo stop v DNA.  Hustota svalove tkane je zvysena dvacetkrat a podobne je zvysena i produkce adrenalinu.  Mozkova tkan je mimoradne husta,  coz by za normalnich okolnosti ukazovalo na tvora s vyjmecnymi rozeznavacimi schopnostmi, ale mozkovy kmen je zakrnely a nepouzitelny.  Nepodoba se nicemu, co zname u cloveka.  Veskera svalova cinnost je rizena mistne, zvlastnimi bunkami, vytvorenymi pro tento ucel.  Zda se, ze tento tvor je vyvojovym clankem mezi prvni fazi annelidskeho hybrida a treti dosud neznamou formou.
+Analıza:  Tento organismus vznikl dalším vıvojem první fáze annelidského hybrida.  Rozeznatelnıch lidskıch èástí je minimum, mimo stop v DNA.  Hustota svalové tkánì je zvıšená dvacetkrát a podobnì je zvıšená i produkce adrenalinu.  Mozková tkáò je mimoøádnì hustá,  co by za normálních okolností ukazovalo na tvora s vıjimeènımi rozeznávacími schopnostmi, ale mozkovı kmen je zakrnìlı a nepouitelnı.  Nepodobá se nièemu, co známe u èlovìka.  Veškerá svalová èinnost je øízená místnì, zvláštními buòkami, vytvoøenımi pro tento úèel.  Zdá se, e tento tvor je vıvojovım èlánkem mezi první fází annelidského hybrida a tøetí dosud neznámou formou. 
 
-Zaver:  Toto stvoreni je mimoradne nebezpecne. Predstavuje mohutnyho svalnatyho hostitele vytvoreneho pro ochranu vysoce vyvinuteho a zatim nezapojeneho mozku.  Prazvlastni chemie mozkove tkane tohoto hybrida indikuje latentne psionicke schopnosti."
-ResRepText11:"Shrnuti:  Pokud je uzivatel tohoto implantatu poskozovan, kazdy ctvrty bod z utrpeneho poskozeni je odecten z PSI bodu, namisto bodu zdravi.
+Závìr:  Toto stvoøení je mimoøádnì nebezpeèné. Pøedstavuje mohutného svalnatého hostitele vytvoøeného pro ochranu vysoce vyvinutého a zatím nezapojeného mozku.  Prazvláštní chemie mozkové tkánì tohoto hybrida indikuje latentní psionické schopnosti." 
+ResRepText11:"Shrnutí:  Pokud je uivatel tohoto implantátu poškozován, kadı ètvrtı bod z utrpìného poškození je odeèten od PSI bodù, namísto bodù zdraví. 
 
-Analyza:  Tento implantat pozmenuje uzivatelovy nervove pochody, simuluje a zesiluje oblasti psionickych schopnosti.  Krome toho, jsou do uzivatelovy mozkove kury vpravovana mala mnozstvi annelidskeho neurotransmiteru.  Vyslednym efektem toho vseho je zvyseni skrytych psychokreativnich schopnosti, zejmena v oblasti telesny sebekontroly.
+Analıza:  Tento implantát pozmìòuje uivatelovy nervové pochody, stimuluje a zesiluje oblasti psionickıch schopností.  Kromì toho, jsou do uivatelovy mozkové kùry vpravována malá mnoství annelidského neurotransmiteru.  Vıslednım efektem toho všeho je zvıšení skrytıch psychokreativních schopností, zejména v oblasti tìlesné sebekontroly. 
 
-Zaver:  Uzivatel tohoto implantatu je schopen psychokreativne vylecit urcitou davku utrpeneho poskozeni.  Dlouhodobe pouzivani vsak muze zpusobit hyperimunitni reakci."
-ResRepText13:"Souhrn:  Naucil jsi se, jak nejucinneji zasahnout Arachnida.  Vsechna zraneni, ktera mu zpusobis, budou o 25% vyssi.  Arachnide, jako vsichni cistokrevni Annelide, jsou odolni vuci energetickym zbranim.
+Závìr:  Uivatel tohoto implantátu je schopen psychokreativnì vyléèit urèitou dávku utrpìného poškození.  Dlouhodobé pouívání však mùe zpùsobit hyperimunní reakci." 
+ResRepText13:"Souhrn:  Nauèil jsi se, jak nejúèinnìji zasáhnout Arachnida.  Všechna zranìní, která mu zpùsobíš, budou o 25% vyšší.  Arachnidé, jako všichni èistokrevní annelidé, jsou odolní vùèi energetickım zbraním. 
 
-Analyza:  Vnitrni systemy tohoto tvora jsou zdvojene, coz by mohlo ukazovat bud na zamer, aneb na vyvoj a utvareni ve velmi nebezpecnem okolnim prostredi.  To co slouzi jako nervova soustava pouziva nezanedbatelne vyssi mnozstvi energie nez u lidi, diky cemuz jsou tkane tohoto tvora umerne vice energeticky odolnejsi.  Metabolismus tohoto tvora mu umoznuje silnou hyperkinetickou aktivitu, stejne jako ho v pripade potreby dokaze uvest do stavu letargie. To mu pravdepodobne umoznuje prezit dlouha obdobi bez jakekolik potravy.
+Analıza:  Vnitøní systémy tohoto tvora jsou zdvojené, co by mohlo ukazovat buï na zámìr, anebo na vıvoj a utváøení ve velmi nebezpeèném okolním prostøedí.  To co slouí jako nervová soustava pøenáší mnohem vyšší mnoství energie ne u lidí, díky èemu jsou tkánì tohoto tvora úmìrnì více energeticky odolnìjší.  Metabolismus tohoto tvora mu umoòuje silnou hyperkinetickou aktivitu, stejnì jako ho v pøípadì potøeby dokáe uvést do stavu letargie. To mu pravdìpodobnì umoòuje pøeít dlouhá období bez jakékoliv potravy. 
 
-Zaver:  Proti tomuto tvoru se nedoporucuji pouzivat energeticke zbrane."
-ResRepText14:"Naucil jsi se, jak nejucinneji zasahnout Psi Reavera a jeho projekce.  Vsechna zraneni, ktera mu, ci jeho projekcim zpusobis, budou o 25% vyssi.  Projekce se prubezne samostatne regeneruji, dokud neznicis mozkovou strukturu, ktera je vytvari.
+Závìr:  Proti tomuto tvoru se nedoporuèují pouívat energetické zbranì." 
+ResRepText14:"Nauèil jsi se, jak nejúèinnìji zasáhnout Psi Reavera a jeho projekce.  Všechna zranìní, která mu, èi jeho projekcím zpùsobíš, budou o 25% vyšší.  Projekce se prùbìnì samostatnì regenerují, dokud neznièíš mozkovou strukturu, která je vytváøí. 
 
-Analysis:  Tohle je neustale se nabijejici vzorek psychokreativni tkane.  Je to nesmirne slozity finalni produkt soustredene psionicke projekce.  Tato tkan muze byt docasne porusena, ale ne uplne znicena, nebot psionicka projekce muze byt svym tvurcim organismem snadno vytvorena znovu.
+Analıza:  Tohle je neustále se nabíjející vzorek psychokreativní tkánì.  Je to nesmírnì sloitı finální produkt soustøedìné psionické projekce.  Tato tkáò mùe bıt doèasnì poškozena, ale ne úplnì znièena, nebo psionická projekce mùe bıt svım tvùrèím organismem snadno vytvoøena znovu. 
 
-Zaver:  Ackoli lze tuto projekci rozbit nejruznejsimi konvencnimi zpusoby, je to pouze kratkodobe reseni.  Neplytvej zbytecne materialem v boji proti tomuto fenomenu, pokud to neni zivotne nezbytne.  Jestlize uz musi byt znicen, vyhledej a znict nejdrive jeho ridici nervovou strukturu."
-ResRepText15:"Souhrn:  Tento implantat snizuje vzdalenost, na kterou jsou annelidsti tvorove schopni psionicky vycitit jeho nositele.
+Závìr:  Aèkoliv lze tuto projekci rozbít nejrùznìjšími konvenèními zpùsoby, je to pouze krátkodobé øešení.  Neplıtvej zbyteènì materiálem v boji proti tomuto fenoménu, pokud to není ivotnì nezbytné.  Jestlie u musí bıt znièen, vyhledejte a zniète nejdøíve jeho øídící nervovou strukturu." 
+ResRepText15:"Souhrn:  Tento implantát sniuje vzdálenost, na kterou jsou annelidští tvorové schopni psionicky vycítit jeho nositele. 
 
-Analyza:  Tento implantat obsahuje cast annelidske nervove tkane s elektrochemickymi obvody, ktere tuto tkan podridi uzivatelovym nervovym impulsum.  Mnozstvi tkane sice neni dostatecne, aby uzivateli poskytlo psionicky kontakt s annelidskou mysli, ale dokaze koordinovat uzivatelovy mozkove vlny s annelidskymi nervovymi procesy dostatecne na to, aby pri zbezne psionicke detekci pripominal jeden z annelidskych organismu. 
+Analıza:  Tento implantát obsahuje èást annelidské nervové tkánì s elektrochemickımi obvody, které tuto tkáò podøídí uivatelovım nervovım impulsùm.  Mnoství tkánì sice není dostateèné, aby uivateli poskytlo psionickı kontakt s annelidskou myslí, ale dokáe koordinovat uivatelovy mozkové vlny s annelidskımi nervovımi procesy dostateènì na to, aby pøi zbìné psionické detekci pøipomínal jeden z annelidskıch organismù. 
 
-Zaver:  Velmi pravdepodobne to svemu uzivateli umozni, aby se stal annelidskym tvorum tezko zjistitelny, alespon na vetsi vzdalenost.  Pri primem setkani s Anneliden to vsak zrejme nebude nic platne."
-ResRepText16:"Souhrn:  Viralni proliferator vyzaduje ctvrty stupen znalosti exotickych zbrani.  Zbran uvolnuje shluk antiannelidskych viru v sirokem okruhu.  Viry mohou byt prizpusobeny k infekci cistych annelidu, nebo lidi a annelidskych hybridu.  Stiskni a drz tlacitko strelby.  Kdyz ho uvolnis, naboj viru exploduje.  Nenechavej ho explodovat prilis blizko, pokud mas nastavenou infikaci lidi!
+Závìr:  Velmi pravdìpodobnì to svému uivateli umoní, aby se stal annelidskım tvorùm tìko zjistitelnı, alespoò na vìtší vzdálenost.  Pøi pøímém setkání s Anneliden to však zøejmì nebude nic platné." 
+ResRepText16:"Souhrn:  Virální Proliferátor vyaduje ètvrtı stupeò znalosti exotickıch zbraní.  Zbraò uvolòuje shluk antiannelidskıch virù v širokém okruhu.  Viry mohou bıt pøizpùsobeny k infekci èistıch annelidù, nebo lidí a annelidskıch hybridù.  Stiskni a dr tlaèítko støelby.  Kdy ho uvolníš, náboj s viry exploduje.  Nenech ho explodovat pøíliš blízko, pokud máš nastaven maximální úèinek na lidi! 
 
-Analyza:  Tato zbran se zda byt slepena dohromady jak z lidskych, tak z cizackych technologii.  Soudic podle pazby a kohoutky byla vyrobena clovekem.  Ustredni hexagonalni jadro je vysokoenergetickym mediem, obklopenym nadrzemi, obsahujicimi nanito-virove hybridy.  Uvolneni techto virovych hybridu do jadra zpusobi cyklus nanity rizenych replikaci, coz ucinneji nez biologicky urychluje mnozeni, az do doby vymrsteni naboje.  Pridavna energeticka naloz zpusobi rozptyleni naboje viru do blizkeho okoli.  Medium musi byt doplnovano annelidskou tkani - annelidskymi cervy, ktere je nutno sbirat do stndardnych laboratornich kadinek.  Proliferator muze byt nastaven k uvolnovani virovych hybridu prizpusobenych proti cistym annelidum, nebo take lidskym a castecne lidskym cilum.
+Analıza:  Tato zbraò se zda bıt slepená dohromady jak z lidskıch, tak z cizáckıch technologií.  Soudíc podle paby a spouštì byla vyrobena èlovìkem.  Ústøední hexagonální jádro je vysokoenergetickım médiem, obklopenım nádremi, obsahujícími nanito-virové hybridy.  Uvolnìní tìchto virovıch hybridù do jádra zpùsobí cyklus nanity øízenıch replikací, co úèinnì urychluje mnoení, a do doby vymrštìní náboje.  Pøídavná energetická nálo zpùsobí rozptılení náboje virù do blízkého okolí.  Médium musí bıt doplòováno annelidskou tkání - annelidskımi èervy, které je nutno sbírat do standardních laboratorních kádinek.  Proliferátor mùe bıt nastaven k uvolòování virovıch hybridù pøizpùsobenıch proti èistım annelidùm, nebo také lidskım a èásteènì lidskım cílùm. 
 
-Zaver:  Tato zbran je mimoradne ucinna proti annelidskym nepratelum v tesne blizkosti.  Dokaze dokonce ublizit annelidum, na ktere jine zbrane nemaji vliv.  Nicmene, nastaveni na lidske cile muze lehce uskodit i uzivateli tehle zbrane."
-ResRepText17:"Souhrn:  Tato zbroj poskytuje castecnou ochranu pred zranenim i okolnim prostredim a navic zvysuje PSI nositele o 2.  Nicmene, pomalu odcerpava jeho PSI body.
+Závìr:  Tato zbraò je mimoøádnì úèinná proti annelidskım nepøátelùm v tìsné blízkosti.  Dokáe dokonce ublíit annelidùm, na které jiné zbranì nemají vliv.  Nicménì, nastavení na lidské cíle mùe lehce uškodit i uivateli téhle zbranì." 
+ResRepText17:"Souhrn:  Tato zbroj poskytuje èásteènou ochranu pøed zranìním i okolním prostøedím a navíc zvyšuje PSI nositele o 2.  Nicménì, pomalu odèerpává jeho PSI body. 
 
-Analyza:  Tato cervi kuze byla nahrubo vytvarovana tak aby byla vhodna k noseni clovekem.  Tato kuze je mnohem odolnejsi nez by se z jeji struktury mohlo zdat, a dalsi zkoumani odhaluje jemny odpuzujici efekt, ktery se zda byt psionicky generovan.  Skutecnost, ze je tento efekt stale aktivni, ve spojeni s pomalymi metabolickymi procesy v kuzi ukazuje, ze tato kuze zustava v jistem smyslu stale ziva.
+Analıza:  Tato èerví kùe byla nahrubo vytvarována tak aby byla vhodná k nošení èlovìkem.  Tato kùe je mnohem odolnìjší ne by se z její struktury mohlo zdát, a další zkoumání odhaluje jemnı odpuzující efekt, kterı se zda bıt psionicky generován.  Skuteènost, e je tento efekt stále aktivní, ve spojení s pomalımi metabolickımi procesy v kùi ukazuje, e tato kùe zùstává v jistém smyslu stále ivá. 
 
-Zaver:  Noseni cervi kuze coby zbroje poskytne jistou ochranu jak proti fyzickemu poskozeni, tak i proti radiaci a toxinum. Kuze take zvysuje hodnotu nositelovy PSI, ale na oplatku neustale pomalu psionicky vycerpava sveho nositele."
-ResRepText19:"Souhrn:  Naucil jsi se, jak nejucinneji zasahnout velkeho Psi Reavera a jeho projekce.  Vsechna zraneni, ktera mu, ci jeho projekcim zpusobis, budou o 25% vyssi.  Projekce se prubezne samostatne regeneruji, dokud neznicite mozkovou strukturu, ktera je vytvari. 
+Závìr:  Nošení èerví kùe jako zbroje poskytne jistou ochranu jak proti fyzickému poškození, tak i proti radiaci a toxinùm. Kùe také zvyšuje hodnotu nositelovy PSI, ale na oplátku neustále pomalu psionicky vyèerpává svého nositele." 
+ResRepText19:"Souhrn:  Nauèil jsi se, jak nejúèinnìji zasáhnout velkého Psi Reavera a jeho projekce.  Všechna zranìní, která jemu, nebo jeho projekcím zpùsobíš, budou o 25% vyšší.  Projekce se prùbìnì samostatnì regenerují, dokud neznièíte mozkovou strukturu, která je vytváøí. 
 
-Analyza:  Tohle je neustale se nabijejici vzorek psychokreativni tkane.  Je to nesmirne slozity finalni produkt soustredene psionicke projekce.  Tato tkan muze byt docasne porusena, ale ne uplne znicena, nebot psionicka projekce muze byt svym tvurcim organismem snadno vytvorena znovu.  Tato verze Psi Reavera se zda byt mnohem silnejsi, nez ty, se kterymi jsi se setkal predtim.
+Analıza:  Tohle je neustále se nabíjející vzorek psychokreativní tkánì.  Je to nesmírnì sloitı finální produkt soustøedìné psionické projekce.  Tato tkáò mùe bıt doèasnì poškozena, ale ne úplnì znièena, nebo psionická projekce mùe bıt svım tvùrèím organismem snadno vytvoøena znovu.  Tato verze Psi Reavera se zdá bıt mnohem silnìjší, ne ty, se kterımi jsi se setkal pøedtím. 
 
-Zaver:  Ackoli lze tuto projekci rozbit nejruznejsimi konvencnimi zpusoby, je to pouze kratkodobe reseni.  Neplytvejte zbytecne materialem v boji proti tomuto fenomenu, pokud to neni zivotne nezbytne.  Jestlize uz musi byt znicen, vyhledejte a znicte nejdrive jeho ridici nervovou strukturu."
-ResRepText20:"Souhrn:  Jakmile je tento implantat aplikovan, uzivatel se stava odolnym proti annelidskym toxinum, a regeneruje jeden bod zdravi kazdych tricet sekund.  Bohuzel, kdyz se tento implantat vybije, nebo je odnat, vpravi do krevniho obehu mohutnou davku toxinu.  Mejte pro tento pripad po ruce dostatecnou zasobu antitoxin sera!
+Závìr:  Aèkoli lze tuto projekci rozbít nejrùznìjšími konvenèními zpùsoby, je to pouze krátkodobé øešení.  Neplıtvejte zbyteènì materiálem v boji proti tomuto fenoménu, pokud to není ivotnì nezbytné.  Jestlie u musí bıt znièen, vyhledejte a zniète nejdøíve jeho øidièi nervovou strukturu."
+ResRepText20:"Souhrn:  Jakmile je tento implantát aplikován, uivatel se stává odolnım proti annelidskım toxinùm, a regeneruje jeden bod zdraví kadıch tøicet sekund.  Bohuel, kdy se tento implantát vybije, nebo je vyjmut, vpraví do krevního obìhu mohutnou dávku toxinù.  Mìjte pro tento pøípad po ruce dostateènou zásobu antitoxin séra! 
 
-Analyza:  Tento implantat je spojenim zarizeni na filtraci krve a regenerativniho stimulatoru.  Jako doplnek pouziva annelidskou regenerativni tkan.  Jakmile je implantat aplikovan, odlucuje vsechny annelidske jedy kterym je nositel vystaven, chranic ho tak pred jejich ucinky. Navic jsou poskozene tkane rychle nahrazovany psychokreativni annelidskou nahradou.  Nicmene tyto nahrazene tkane produkuji jista mnozstvi vedlejsich produktu, ktere jsou jedovate (a rovnez odlucovane implantatem).  Kazdopadne, pokud se implantat vybije, nebo je odnat, velka cast techto odloucenych jedu se uvolni.
+Analıza:  Tento implantát je kombinací zaøízení na filtraci krve a regenerativního stimulátoru.  Jako doplnìk pouívá annelidskou regenerativní tkáò.  Jakmile je implantát aplikován, absorbuje všechny annelidské jedy, kterım je nositel vystaven, chráníc ho tak pøed jejich úèinky. Navíc jsou poškozené tkánì rychle nahrazovány psychokreativní annelidskou náhradou.  Nicménì tyto nahrazené tkánì produkují jistá mnoství vedlejších produktù, které jsou jedovaté (a rovnì absorbované implantátem).  Kadopádnì, pokud se implantát vybije, nebo je vyjmut, velká èást tìchto absorbovanıch jedù se uvolní. 
 
-Zaver:  Toto zarizeni neni doporuceno k castemu pouzivani, kvuli nebezpeci intoxikace pri jeho odnimani.  Nicmene jeho regenerativni a protitoxicke schopnosti mohou byt temer neocenitelne ve velmi nebezpecnych situacich."
-ResRepText21:"Souhrn:  Vrhac cervu vyzaduje silu 3, Hbitost 3 a znalost exotickych zbrani 6.  Prvni modifikace zvysi objem zasobniku, druha rychlost vystreleneho projektilu  Toto zarizeni vyuziva jako munici annelidske cervy, ktere je treba sbirat do kadinek.  Zbran lze nastavit k ucinku pouze na ciste annelidy, nebo lidi a hybridy.
+Závìr:  Toto zaøízení není doporuèeno k èastému pouívání, kvùli nebezpeèí intoxikace pøi jeho vyjmutí.  Nicménì jeho regenerativní a proti-toxické schopnosti mohou bıt témìø neocenitelné ve velmi nebezpeènıch situacích." 
+ResRepText21:"Souhrn:  Vrhaè èervù vyaduje sílu 3, Hbitost 3 a znalost exotickıch zbraní 6.  První modifikace zvıší objem zásobníku, druhá rychlost vystøeleného projektilu.  Toto zaøízení vyuívá jako munici annelidské èervy, které je tøeba sbírat do kádinek.  Zbraò lze nastavit k úèinku pouze na èisté annelidy, nebo lidi a hybridy. 
 
-Analyza:  Toto exoticke zarizeni je vytvoreno z castecne vnimajiciho organickeho materialu.  Bylo natolik modifikovano, ze uz neni mozne zjistit jeho puvodni funkci.  V soucasne konfiguraci je tento objekt zbrani, urcenou k vrhani naboje annelidskych cervu.  Tyto cervy je treba shromazdovat v standardnich laboratornich kadinkach a vkladat do postrani komory tohoto zarizeni.  Vestaveny chemicky injektor dokaze pozmenit chemii techto cervu, takze muzou mit smrtici ucinek jak na lidske (a castedne lidske) cile, tak i ciste annelidy.
+Analıza:  Toto exotické zaøízení je vytvoøeno z èásteènì vnímajícího organického materiálu.  Bylo natolik modifikováno, e u není moné zjistit jeho pùvodní funkci.  V souèasné konfiguraci je tento objekt zbraní, urèenou k vrhání náboje annelidskıch èervù.  Tyto èervy je tøeba shromaïovat ve standardních laboratorních kádinkách a vkládat do postranní komory tohoto zaøízení.  Vestavìnı chemickı injektor dokáe pozmìnit chemii tìchto èervù, take mùou mít smrtící úèinek jak na lidské (a èásteènì lidské) cíle, tak i èisté annelidy. 
 
-Zaver:  Pokud chcete tuto zbran pouzivat, je treba venovat peci sbirani kadinek, a plnit je annelidskymi cervy pri kazde prilezitosti."
-ResRepText22:"Souhrn:  Naucil jsi se, jak nejucinneji zasahout opice.  Vsechna zraneni, ktera jim zpusobis, budou o 25% vyssi.
+Závìr:  Pokud chcete tuto zbraò pouívat, je tøeba se vìnovat sbírání kádinek, a plnit je annelidskymi èervy pøi kadé pøíleitosti." 
+ResRepText22:"Souhrn:  Nauèil jsi se, jak nejúèinnìji zasáhnout opice.  Všechna zranìní, která jim zpùsobíš, budou o 25% vyšší. 
 
-Analyza:  Opice je geneticky zcela normalni opice (Simia sciureus).  Zda, ze byla objektem mnoha chemickych a chirurgickych procedur, jak pred tak i po narozeni.  Tyto procedury zvetsily velikost mozku a jeho propojeni, stejne jako byla vylepsena funkce centralniho neroveho systemu.  Cast lebky tohoto tvora byla chirurgicky odstranena, zrejme pro snizeni vnitrolebecniho tlaku a umozneni pristupu k mozku pri experimentovani.
+Analıza:  Opice je geneticky zcela normální opice (Simia sciureus).  Zdá se, e byla objektem mnoha chemickıch a chirurgickıch procedur, jak pøed, tak i po narození.  Tyto procedury zvìtšily velikost mozku a jeho propojení, stejnì jako byla vylepšena funkce centrálního nervového systému.  Èást lebky tohoto tvora byla chirurgicky odstranìna, zøejmì pro sníení nitrolebeèního tlaku a umonìní pøístupu k mozku pøi experimentování. 
 
-Zaver:  Nervova stavba tohoto tvora se podoba prirozene psionicke strukture cloveka - je pravdepodobne, ze tyto opice maji jiste psionicke schopnosti.  Jsou zranitelne vsemi utoky, ktere poskozuji bezne organicke tvory."
-ResRepText23:"Souhrn:  Tuto tkan lze pouzit k leceni fyzickych zraneni.
+Závìr:  Nervová stavba tohoto tvora se podobá pøirozené psionické struktuøe èlovìka - je pravdìpodobné, e tyto opice mají jisté psionické schopnosti.  Jsou zranitelné všemi útoky, které poškozují bìné organické tvory." 
+ResRepText23:"Souhrn:  Tuto tkáò lze pouít k léèení fyzickıch zranìní. 
 
-Analyza:  Tato zlaza produkuje vydatnou smes hormonu a stimulacnich enzymu, a take rychle se delici vrstvu bunek, ktera plodi mnohoucelove obehove bunky.  Tyto bunky vyhledavaji poskozena mista tkane kde se uchytavaji, pricemz behem kratke doby prebiraji charakteristicke znaky okolni hostitelske tkane.
+Analıza:  Tato láza produkuje vydatnou smìs hormonù a stimulaèních enzymù, a také má rychle se dìlící vrstvy bunìk, která vytváøí kmenové obìhové buòky.  Tyto buòky vyhledávají poškozená místa tkánì kde se uchytí, pøièem bìhem krátké doby pøebírají charakteristické znaky okolní hostitelské tkánì. 
 
-Zaver:  Diky kompatibilite medzi lidskou a annelidskou tkani je mozne pouzit tuto zlazu pro leceni, i kdyz efekt bude slabsi jak by byl pri ciste annelidskem hostiteli.  Jakmile je vynata z hostitelskeho tela, je mozne ji pouzit jen jednou."
-ResRepText24:"Souhrn:  Tuto tkan lze pouzit k doplneni PSI bodu.
+Závìr:  Díky kompatibilitì mezi lidskou a annelidskou tkání je moné pouít tuto lázu pro léèení, i kdy efekt bude slabší, ne jakı by byl pøi èistì annelidském hostiteli.  Jakmile je vyjmuta z hostitelského tìla, je moné ji pouít jen jednou." 
+ResRepText24:"Souhrn:  Tuto tkáò lze pouít k doplnìní PSI bodù. 
 
-Analyza:  Tato zlaza vylucuje ucinny koktejl psychoaktivnich a povzbuzujicich hormonu, ktere zpusobuji osvezeni a obnoveni nervove tkane.  Navic se zda, ze ke standardnim (a ponekud neobvyklym) biologickym slozkam tato zlaza jeste vyzaruje male mnozstvi napul fyzicke psychokreativni energie.
+Analıza:  Tato láza vyluèuje úèinnı koktejl psychoaktivních a povzbuzujících hormonù, které zpùsobují posílení a obnovení nervové tkánì.  Navíc se zdá, e ke standardním (a ponìkud neobvyklım) biologickım slokám tato láza vyzaøuje malé mnoství polo-hmotné psychokreativní energie. 
 
-Zaver:  Ackoli lze tuto zlazu pouzit k obnoveni psionickeho potencialu, nebezpeci, spocivajici v absorbovani mimozemske psychokreativni energie naznacuje, ze by se mela pouzivat jen vyjimecne."
-ResRepText3:"Souhrn:  Naucil jsi se, jak co nejucinneji zasahnout Kyber-pestounku.  Vsechna zraneni, ktera ji zpusobis, budou o 25% vyssi.  Odolava zapalne a protipechotni munici, ale je zranitelna pruraznymi strelami.
+Závìr:  Aèkoliv lze tuto lázu pouít k obnovení psionického potenciálu, nebezpeèí spoèívající v absorbování mimozemské psychokreativní energie ukazuje, e by se mìla pouívat jen vıjimeènì." 
+ResRepText3:"Souhrn:  Nauèil jsi se, jak co nejúèinnìji zasáhnout Kyber-pìstounku.  Všechna zranìní, která jí zpùsobíš, budou o 25% vyšší.  Odolává zápalné a protipìchotní munici, ale je zranitelná prùraznımi støelami. 
 
-Analyza:  DNA sekvence tohoto objektu potvrzuje, ze to byla puvodne lidska zena, kyberneticky modifikovana.  Pomocna CPU v oblasti panve slouzi jako ovladaci zarizeni, prebirajici temer vsechny signaly vysilane jejim puvodnim mozkem.  Rychlost i sila jejiho svalstva byla mechanicky vylepsena, a kyberneticka zarizeni rovnez slouzi jako ucinny stit, chranici mekke lidske tkane.
+Analıza:  DNA sekvence tohoto objektu potvrzuje, e to byla pùvodnì lidská ena, kyberneticky modifikovaná.  Pomocná CPU v oblasti pánve slouí jako ovládací zaøízení, pøebírající témìø všechny signály vysílané jejím pùvodním mozkem.  Rychlost i síla jejího svalstva byla mechanicky vylepšena, a kybernetická zaøízení rovnì slouí jako úèinnı štít, chránící mìkké lidské tkánì. 
 
-Zaver:  Vzhledem k castecne mechanicke stavbe tohoto tvora jsou zapalne a protipechotni naboje temer neucinne, prurazna munice by mela mit podstatne silnejsi efekt."
-ResRepText4:"Souhrn:  Zjistil jsi citliva mista tohoto tvora, ale je tak zranitelny ze to vlastne nic neznamena.  Jako vsichni annelide, jsou i ony castecne odolne vuci energetickym zbranim.  Annelidska vejce muzou obsahovat uzitecne organy, pokud je pred znicenim prohledas.
+Závìr:  Vzhledem k èásteèné mechanické stavbì tohoto tvora jsou zápalné a protipìchotní náboje témìø neúèinné, prùrazná munice by mìla mít podstatnì silnìjší efekt." 
+ResRepText4:"Souhrn:  Zjistil jsi citlivá místa tohoto tvora, ale je tak zranitelnı e to vlastnì nic neznamená.  Jako všichni annelidé, jsou i tyto tvorové èásteènì odolní vùèi energetickım zbraním.  Annelidská vejce mùou obsahovat uiteèné orgány, pokud je pøed znièením prohledáš. 
 
-Analyza:  Geneticky samice, annelidsky cerv je nejzakladnejsi annelidskou formou.  V podstate se jedna o nervovy system a svalovou tkan - vysoce rozvinuty (na cerva) nervovy system se zda byt svazan se jednoduchym organem psionickeho vnimani.  I kdyz ma podoba cerva, nema zadny travici trakt, ale je zasoben zivinami pri svem zrozeni.  Kdyz jsou ziviny spotrebovany, tvor upadne do stavu letargie, ve ktere pravdepodobne setrva az do nejblizsiho psionickeho kontaktu.  Vejce, ze kterych se cervi lihnou, muzou obsahovat uzitecne organy, ktere z nich mohou byt extrahovany, pokud ovsem vejce neni zniceno v boji.
+Analıza:  Geneticky se jedná o samice, annelidskı èerv je nejzákladnìjší annelidskou formou.  V podstatì se jedná o nervovı systém a svalovou tkáò - vysoce rozvinutı (na èerva) nervovı systém se zda bıt svázán s jednoduchım orgánem psionického vnímání.  I kdy má podobu èerva, nemá ádnı trávicí trakt, ale je zásoben ivinami pøi svém zrození.  Kdy jsou iviny spotøebovány, tvor upadne do stavu letargie, ve které pravdìpodobnì setrvá a do nejblišího psionického kontaktu.  Vejce, ze kterıch se èervi líhnou, mohou obsahovat uiteèné orgány, které z nich mohou bıt extrahovány, pokud ovšem vejce není znièeno v boji. 
 
-Zaver:  Cerv je pomerne krehky, ale muze byt ponekud i nebezpecny, pokud se mu povede dostatecne se priblizit.  Ve vetsich mnozstvich mohou znamenat vyznamnejsi ohrozeni."
-ResRepText5:"Souhrn:  Umisteni tohoto toxinu do klimatizacnich jednotek potlaci mistni bujeni annelidske tkane.
+Závìr:  Èerv je pomìrnì køehkı, ale mùe bıt i ponìkud nebezpeènı, pokud se mu povede dostateènì se pøiblíit.  Ve vìtších mnostvích mohou znamenat vıznamnìjší ohroení." 
+ResRepText5:"Souhrn:  Umístìní tohoto toxinu do klimatizaèní jednotky potlaèí místní bujení annelidské tkánì. 
 
-Analyza:  Toto je experimentalni toxin, vysoce zhoubny, vyvinuty specialne k devastaci a rozkladu annelidske tkane.  Nadoba je pod velmi vysokym tlakem, protoze v beznem prostredi by se kapalny toxin velmi rychle odparil.
+Analıza:  Toto je experimentální toxin, vysoce zhoubnı, vyvinutı speciálnì k devastaci a rozkladu annelidské tkánì.  Nádoba je pod velmi vysokım tlakem, protoe v bìném prostøedí by se kapalnı toxin velmi rychle odpaøil. 
 
-Zaver:  Pro maximalni ucinek je treba tento toxin zavest do vzduchove cirkulace okamzite po otevreni nadoby."
-ResRepText6:"Souhrn:  Kdyz je tento implantat aktivni, muzete se vylecit pravym klikem na hromadku cervu.
+Závìr:  Pro maximální úèinek je tøeba tento toxin zavést do vzduchové cirkulace okamitì po otevøení nádoby." 
+ResRepText6:"Souhrn:  Kdy je tento implantát aktivní, mùete se vyléèit pravım Klikem na hromádku èervù. 
 
-Analyza:  Tento implantat je vysoce vykonne zarizeni k filtrovani krve a spracovani tkane, ktera dokaze modifikovat krevni bunky annelidske tkane tak aby mela pozitivni vplyv na lidsky organismus.  Vzhledem k vysoce regenerativni povaze annelidu, lze jejich tkan, za prispeni tohoto implantatu, pouzit k obnove poskozene lidske tkane.  Maly vstupni otvor v implantatu lze pouzit k importu annelidske tkane pro tento ucel.
+Analıza:  Tento implantát je vysoce vıkonné zaøízení k filtrování krve a zpracování tkánì, dokáe modifikovat krevní buòky annelidské tkánì, tak aby mìly pozitivní vliv na lidskı organismus.  Vzhledem k vysoce regenerativní povaze annelidù, lze jejich tkáò, za pøispìní tohoto implantátu, pouít k obnovì poškozené lidské tkánì.  Malı vstupní otvor v implantátu lze pouít k importu annelidské tkánì pro tento úèel. 
 
-Zaver:  Pokud je tento implantat aktivni, lze urcitou annelidskou tkan, jako treba nalezene hromadky cervu, pouzit pro regeneraci.  Pouziti annelidske tkane pokud je implantat vybity se silne neodporucuje."
-ResRepText7:"Souhrn:  Velmi nebezpecna zbran zblizka.  Aby ji bylo mozno pouzit, je nutne mit znalost exotickych zbrani 1.
+Závìr:  Pokud je tento implantát aktivní, lze urèitou annelidskou tkáò, jako tøeba nalezené hromádky èervù, pouít pro regeneraci.  Pouití annelidské tkánì pokud je implantát vybitı se silné nedoporuèuje." 
+ResRepText7:"Souhrn:  Velmi nebezpeèná zbraò pro boj zblízka.  Aby jí bylo mono pouít, je nutné mít znalost exotickıch zbraní 1. 
 
-Analyza:  Tento krystal, puvodne cisty kremik se stopami germania a dalsich neznamych prvku, se zda mit rezonancni frekvenci velmi blizkou frekvenci nervoveho prenosu.  Krystal zrejme slouzi jako zesilovac pro psionicke schopnosti annelidskych tvoru.  Struktura krystalu je slozena z tisicu tesne vedle sebe polozenych krystalickych jehlicek, spojenych mezi sebou ve vetvich ne nepodobnych fraktalovemu stromu.
+Analıza:  Tento krystal, pùvodnì èistı køemík se stopami germania a dalších neznámıch prvkù, se zdá mít rezonanèní frekvenci velmi blízkou frekvenci nervového pøenosu.  Krystal zøejmì slouí jako zesilovaè pro psionické schopnosti annelidskıch tvorù.  Struktura krystalu je sloená z tisícù tìsnì vedle sebe poloenıch krystalickıch jehlièek, spojenıch mezi sebou ve vìtvích podobnıch fraktálovému stromu. 
 
-Zaver:  Uzasna ostrost tohoto krystalu z nej dela mimoradne ucinnou zbran zblizka."
-ResRepText8:"Souhrn:  Toto serum zvysuje uzivatelovu hodnotu PSI o 1 na dobu 5 minut.
+Závìr:  Úasná ostrost tohoto krystalu z nìj dìlá mimoøádnì úèinnou zbraò pro boj zblízka." 
+ResRepText8:"Souhrn:  Toto sérum zvyšuje uivatelovu hodnotu PSI o 1 na dobu 5 minut. 
 
-Analyza:  Farmaceutikum je tvoreno smesi, slozenou z psychoaktivnich chemikalii, nektere z nich jsou velmi silne, a rafinovane annelidske tkane.  Mnohe z chemikalii jsou enzymaticky poutane k casteckam annelidske tkane,  nektere z nich jiz od vytvoreni sera, nebot annelidska tkan je stale biologicky aktivni.
+Analıza:  Farmaceutikum je tvoøeno smìsí, sloenou z psychoaktivních chemikálií, nìkteré z nich jsou velmi silné, a rafinované annelidské tkánì.  Mnohé z chemikálií jsou enzymaticky poutané k èásteèkám annelidské tkánì,  nìkteré z nich ji od vytvoøení séra, nebo annelidská tkáò je stále biologicky aktivní. 
 
-Zaver:  Toto experimentalni serum zvysi tvuj PSI status na pet minut - tedy pokud se odhodlas si aplikovat precistenou annelidskou tkan.  Dlouhodobejsi pouzivani muze jako vedlejsi efekt zpusobit halucinace."
-ResRepText9:"Souhrn:  Annelidsky roj nelze poskodit zadnym znamym zpusobem, ale ma mimoradne kratkou zivotnost.  Annelidska vejce muzou obsahovat uzitecne organy, pokud jsou pred znicenim prohledany.
+Závìr:  Toto experimentální sérum zvıší tvùj PSI status na pìt minut - tedy pokud se odhodláš si aplikovat pøeèištìnou annelidskou tkáò.  Dlouhodobìjší pouívání mùe jako vedlejší efekt zpùsobit halucinace." 
+ResRepText9:"Souhrn:  Annelidskı roj nelze poškodit ádnım známım zpùsobem, ale má mimoøádnì krátkou ivotnost.  Annelidská vejce mùou obsahovat uiteèné orgány, pokud jsou pøed znièením prohledány. 
 
-Analyza:  Ackoli male, obsahuji tyto letajici organismy, produkovane v tomto vejci, komplexnou DNA strukturu, poukazujici na mnohem vice vyvinute tvory.  Kazdy z tech tvorecku, geneticky samcich, je k roji upoutan pomoci subpsionickyho prepojeni.  Toto prepojeni neni citlive na bezny psionicky utok nebo ruseni.  Zda se, ze tvorove annelidskeho roje existuji pouze jako druh zive zbrane, nebot jejich bunky jsou geneticky naprogramovane na zivotnost pouze nekolika malo vterin.  Behem teto doby jsou pritahovany lidskou tkani, a budou se zoufale snazit prodlouzit svuj kratky zivot jeji konzumaci.  Vejce, ze kterych se lihnou, casto obsahuji i uzitecne organy, ktere z nich mohou byt extrahovany, pokud ovsem vejce neni zniceno v boji.
+Analıza:  Aèkoli malé, obsahují tyto létající organismy, produkované v tomto vejci, komplexní DNA strukturu, poukazující na mnohem více vyvinuté tvory.  Kadı z tìchto tvorù, geneticky samèích, je k roji upoután pomocí subpsionického propojení.  Toto propojení není citlivé na bìnı psionickı útok nebo rušení.  Zdá se, e tvorové annelidského roje existují pouze jako druh ivé zbranì, nebo jejich buòky jsou geneticky naprogramované na ivotnost pouze nìkolika málo vteøin.  Bìhem této doby jsou pøitahovány lidskou tkání, a budou se zoufale snait prodlouit svùj krátkı ivot její konzumací.  Vejce, ze kterıch se líhnou, èasto obsahují i uiteèné orgány, které z nich mohou bıt extrahovány, pokud ovšem vejce není znièeno v boji. 
 
-Zaver:  Nejlepsi je se annelidskemu roji vyhnout, nebot tito tvorove umiraji velice brzo po svem vylihnuti.  Nema smysl na ne zbytecne plytvat munici."
+Závìr:  Nejlepší je se annelidskému roji vyhnout, nebo tito tvorové umírají velice brzy po svém vylíhnutí.  Nemá smysl na nì zbyteènì plıtvat municí." 

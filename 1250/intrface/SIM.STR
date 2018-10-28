@@ -1,5 +1,5 @@
 continue:"Pokraèovat"
 quit:"    Návrat do \nHlavního Menu"
 options:"Nastavení"
-load_game:"Nahrát Pozici"
-save_game:"Uložit Hru"
+load_game:" Nahrát Pozici"
+save_game:"Uložit Pozici"

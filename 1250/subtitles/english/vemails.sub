@@ -3,29 +3,29 @@ SUB1
 // Engineering =================================================================
 {
 	type "convo"
-	descr "Polito"
+	descr "Politová"
 	multisub em0101 {
-		{ time 400 length 4300 text "You must move faster. Your mind cannot conceive of the stakes we are dealing with." }
-		{ time 5300 length 4700 text "Keep your eyes open for utility storage 4. I've laid in some supplies there." }
-		{ time 10000 length 6600 text "The passcode is 59004. I've got to get to deck--" }
-		{ time 18600 length 2700 text "[Xerxes] The Many demands the termination of this exchange." }
-		{ time 22000 length 2200 text "[Xerxes] We regret any inconvenience." }
+		{ time 400 length 4300 text "Musíš si pospíšit. Ještì si neuvìdomuješ, co všechno je v sázce." }
+		{ time 5300 length 4700 text "Dej pozor na pøíruèní sklad è.4. Nechala jsem tam nìjaké vybavení." }
+		{ time 10000 length 6600 text "Vstupní kód je 59004. Musím jít na palubu..." }
+		{ time 18600 length 2700 text "[Xerxes] Mnohé poaduje ukonèení této komunikace." }
+		{ time 22000 length 2200 text "[Xerxes] Omlouváme sa za vzniknuté potíe." }
 	}
 	multisub em0102 {
-		{ time 500 length 6200 text "Now listen carefully. The xenomorphs who have hijacked this ship are presumably from the surface of Tau Ceti 5." }
-		{ time 7300 length 5300 text "They've been able to infect a number of crew members, through an extremely invasive parasitical technique." }
-		{ time 13100 length 6200 text "They've also demonstrated the ability to control the actions of others through some form of limited telepathy." }
-		{ time 19900 length 4000 text "Find the research soft. Understand them... then kill them." }
+		{ time 500 length 6200 text "Teï pozornì poslouchej. Xenomorfové, kteøí si podrobili tuto loï, pocházejí pravdìpodobnì z povrchu Tau Ceti 5." }
+		{ time 7300 length 5300 text "Byli schopni infikovat vìtšinu èlenù posádky, prostøednictvím mimoøádné invazivní parazitní techniky." }
+		{ time 13100 length 6200 text "Také pøedvedli schopnost ovládat chování ostatních pomocí urèité formy omezené telepatie." }
+		{ time 19900 length 4000 text "Najdi vızkumnı software. Porozumìj jim... a pak je zniè." }
 	}
 	multisub em0103 {
-		{ time 1200 length 4000 text "The radiation must have locked the protective seals on engine core access." }
-		{ time 5500 length 3800 text "You're going to have to find some way to purge the radiation from the coolant tubes." }
-		{ time 9700 length 5100 text "Xerxes is blocking me out of the primary data loop, so I can't get any information to help you." }
-		{ time 15400 length 1600 text "He's working for them now." }
+		{ time 1200 length 4000 text "Radiace musela aktivovat ochranné zámky pøístupu k Reaktoru." }
+		{ time 5500 length 3800 text "Musíš najít nìjakı zpùsob, jak odstranit radiací z potrubí chladícího okruhu." }
+		{ time 9700 length 5100 text "Xerxes blokuje mùj pøístup do primární databáze, take nemohu získat ádné informace, které by mohli pomoci." }
+		{ time 15400 length 1600 text "Xerxes pracuje teï pro nì." }
 	}
 	multisub em0104 {
-		{ time 1100 length 6200 text "Keep your eyes open. You must find a way to purge these coolant tubes and get into the engine core." }
-		{ time 7700 length 5200 text "The ship must have some kind of backup system in place for just this kind of situation." }
+		{ time 1100 length 6200 text "Dávej dobrı pozor... musíš najít zpùsob, jak vyèistit chladící potrubí a tak se dostat k Reaktoru..." }
+		{ time 7700 length 5200 text "Tato loï musí mít nìjakı druh záloního systému, pøipraveného pro tuhle situaci." }
  	}
 	multisub em0105 {
 		{ time 800 length 3300 text "Good, the sub-elevators should now be back online." }
@@ -33,26 +33,26 @@ SUB1
 		{ time 9600 length 3500 text "Now get up to deck 4, I'll meet you there. Hurry." }
 	}
 	multisub em0106 {
-		{ time 700 length 6800 text "Now get those engine pods online. You'll have to head to nacelle 1 and 2 and reset the pods manually." }
-		{ time 7900 length 7800 text "After that, reinitialize the system from core control. But that system won't come online until you reset both pods." }
-		{ time 16400 length 5900 text "Keep an eye out. They're mobilizing their real forces... and they know exactly where you are." }
+		{ time 700 length 6800 text "Teï spus motorové bloky. Budeš muset jít do gondoly 1 a 2 a ruènì spustit generátory." }
+		{ time 7900 length 7800 text "Pak restartuj systém øízení Reaktoru. Pozor, systém nenabìhne, pokud pøedtím nespustíš oba motorové bloky." }
+		{ time 16400 length 5900 text "Buï opatrnı. Oni teï shromaïují své skuteèné síly. A u pøesnì vìdí, kde se nacházíš." }
 	}
 	multisub em0107 {
-		{ time 1800 length 6700 text "Xerxes is one step ahead of us. He's performed an override on the fluidics control computer and blocked us out." }
-		{ time 8700 length 4000 text "But keep an eye open. You might be able to find some workaround." }
+		{ time 1800 length 6700 text "Xerxes je o krok pøed námi. Vytvoøil pøemostìní na Poèítaèi Kapalinového Øízení a zablokoval pøístup." }
+		{ time 8700 length 4000 text "Dávej pozor. Mìl bys bıt schopen najít nìjaké øešení" }
 	}
 	multisub em0108 {
-		{ time 1300 length 6500 text "Good work, the engine core is now back online. Now get to the elevator and come see me on deck 4." }
-		{ time 8300 length 5000 text "While you were doing that, I've discovered the presence of some Annelid artifacts onboard the ship." }
-		{ time 13800 length 3000 text "I think you may be able to use them to your advantage." }
-		{ time 17300 length 3500 text "I've uploaded the information to the ship's weapons upgrade units." }
-		{ time 21100 length 3500 text "They'll be able to convey the information to your cybernetic rig." }
-		{ time 25400 length 2900 text "What are you waiting for? Get to the elevator now." }
+		{ time 1300 length 6500 text "Dobrá práce. Reaktor je opìt spuštìn. Teï bì do vıtahu a pøijï za mnou na 4. palubu." }
+		{ time 8300 length 5000 text "Zatímco jsi byl zamìstnán, odhalila jsem na palubì pøítomnost nìkterıch annelidskıch artefaktù." }
+		{ time 13800 length 3000 text "Myslím, e bys byl schopen je pouít ke svému prospìchu." }
+		{ time 17300 length 3500 text "Uloila jsem tyto informace do lodních jednotek vylepšování dovedností." }
+		{ time 21100 length 3500 text "Ty teï budou schopny pøedat zmínìné údaje do tvého kybernetického vybavení." }
+		{ time 25400 length 2900 text "Na co ještì èekáš? U a jsi ve vıtahu." }
 	}
 	multisub em0110 {
-		{ time 600 length 2000 text "You're now on the Engineering deck." }
-		{ time 3100 length 4800 text "Find the engine core and reset it. This will restore power to the elevators." }
-		{ time 8200 length 4200 text "I'm getting some kind of strange readings from down there, so keep your eyes open." }
+		{ time 600 length 2000 text "Teï jsi na Technické palubì." }
+		{ time 3100 length 4800 text "Najdi Reaktor a znovu ho nastartuj. Tím se obnoví napájení vıtahù." }
+		{ time 8200 length 4200 text "Dostávám odtud spousty podivnıch údajù, take si dávej dobrı pozor." }
 	}
 }
 
@@ -60,53 +60,53 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0109 {
-		{ time 1500 length 6200 text "I can now destroy this infestation at my will." }
-		{ time 8800 length 4600 text "The Many quake at my power." }
-		{ time 14800 length 3600 text "You are an effective drone, human." }
-		{ time 18900 length 12700 text "Now return to the Command deck, locate the umbilical, and evacuate to the Rickenbacker." }
+		{ time 1500 length 6200 text "Teï jsem schopná znièit tu nákazu, kdykoli budu chtít." }
+		{ time 8800 length 4600 text "Mnohé se bude tøást pøed mou mocí." }
+		{ time 14800 length 3600 text "Jsi vıkonnı sluha, èlovìèe." }
+		{ time 18900 length 12700 text "Teï se vra na palubu Velení, najdi prùchod a pøesuò se na Rickenbacker." }
 	}
 }
 
 // Med/Sci ==========================================================================
 {
 	type "convo"
-	descr "Polito"
+	descr "Politová"
 	multisub em0201 {
-		{ time 1200 length 4000 text "The entire sector is depressurizing and the blue vacuum shield won't last long." }
-		{ time 5800 length 2700 text "Get through a secure airlock before you're sucked into space." }
-		{ time 8800 length 600 text "Move it!" }
+		{ time 1200 length 4000 text "V celém sektoru se sniuje tlak a modré vakuové štíty to u dlouho nevydrí." }
+		{ time 5800 length 2700 text "Dostaò se za hermetickı uzávìr døív, ne tì to vysaje do vesmíru." }
+		{ time 8800 length 600 text "Dìlej!" }
 	}
 	multisub em0202 {
-		{ time 500 length 3000 text "Some of these doors are sealed off by keycode locks." }
-		{ time 4000 length 3600 text "The body in front of you belongs to the maintenance man for this sector." }
-		{ time 8200 length 4600 text "He probably has the number on him. Don't be squeamish about searching his body." }
-		{ time 13500 length 1000 text "He won't mind." }
+		{ time 500 length 3000 text "Nìkteré z dveøí jsou zamèeny kódovımi zámky." }
+		{ time 4000 length 3600 text "Tìlo leící pøed tebou patøilo údrbáøi tohoto sektoru." }
+		{ time 8200 length 4600 text "Moná má ten èíselnı kód u sebe. Nebuï háklivı a prohledej jeho tìlo." }
+		{ time 13500 length 1000 text "Jemu to u vadit nebude." }
 	}
 	multisub em0203 {
-		{ time 500 length 3500 text "That insipid computer Xerxes has shut down the elevator as well." }
-		{ time 4700 length 4600 text "You can transfer power at the engine core on deck 1, which will get the elevator up and running again." }
-		{ time 9800 length 3200 text "But you can't use the elevator to get down there. Wait..." }
-		{ time 14400 length 3100 text "There's some kind of maintenance access right on this hallway." }
-		{ time 18300 length 6000 text "You can use it to reach deck 1. However it's locked, and Xerxes is hiding the passcode from me." }
-		{ time 25000 length 3300 text "Dr. Watts should have the code. He's probably in the Crew subsection." }
-		{ time 28900 length 5900 text "Grassi has the key to get in there, but he's in the Medical subsection, probably near the biopsy lab." }
-		{ time 35300 length 2700 text "Now get to the Medical subsection and find Grassi." }
+		{ time 500 length 3500 text "Ten nanicovatı poèítaè Xerxes odpojil i všechny vıtahy." }
+		{ time 4700 length 4600 text "V blízkosti reaktoru, na palubì 1, bys mohl zapojit nouzové napájení, které by je všechny zase zprovoznilo." }
+		{ time 9800 length 3200 text "Jene vıtahem se tam teï nedostaneš. Poèkat..." }
+		{ time 14400 length 3100 text "Je tady nìjakı druh údrbáøského pøístupu, právì z této chodby." }
+		{ time 18300 length 6000 text "Tudy bys se mohl dostat na palubu 1. Jene vstup je zamèen a Xerxes mi nechce prozradit vstupní kód." }
+		{ time 25000 length 3300 text "Mìl by ho ale mít i Dr. Watts. Bude nejspíš nìkde v sektoru Kajut pro posádku." }
+		{ time 28900 length 5900 text "Vstupní kartu tam má Grassi, ale ten je zase nìkde v lékaøskıch prostorech, zøejmì poblí pitevny." }
+		{ time 35300 length 2700 text "Bì co nejdøív do prostorù Kliniky a najdi Grassiho." }
 	}
 	multisub em0204 {
-		{ time 500 length 5500 text "Good, you've managed to get into Med. Now find Grassi and get the keycard to the crew sector." }
-		{ time 6600 length 4200 text "He's the one who monitored your cryo-sleep, so he might be interested in joining you." }
-		{ time 11400 length 1700 text "If he hasn't been butchered yet." }
+		{ time 500 length 5500 text "Vıbornì. Dostal jsi se na Kliniku. Najdi Grassiho a získej vstupní kartu do sektoru Kajut posádky." }
+		{ time 6600 length 4200 text "Grassi se staral o tvùj kryogenickı spánek, tak se moná bude chtít k tobì pøidat..." }
+		{ time 11400 length 1700 text "Pokud ovšem není na kousky." }
 	}
 	multisub em0205 {
-		{ time 1100 length 3300 text "You can hack this replicator to get at the unauthorized materials." }
-		{ time 4900 length 3200 text "Use this and any means possible to get up to deck 4." }
-		{ time 8500 length 1500 text "This isn't a game." }
+		{ time 1100 length 3300 text "Mùeš hackovat i replikátory, èím získáš nadstandardní ponuku." }
+		{ time 4900 length 3200 text "Vyuij to. Vyuij jakoukoliv monost, abys se dostal na palubu 4." }
+		{ time 8500 length 1500 text "Tohle není hra." }
 	}
 	multisub em0206 {
-		{ time 1000 length 2500 text "Do not waste time patting yourself on the back." }
-		{ time 3900 length 3800 text "Get down to that shaft to Engineering and reset the primary reactor core." }
-		{ time 8100 length 3400 text "That will restore power to the elevator and you will be able to get up to deck 4." }
-		{ time 11900 length 700 text "Get going!" }
+		{ time 1000 length 2500 text "Neztrácej èas samochválou." }
+		{ time 3900 length 3800 text "Slez šachtou dolù do Techniky a znovu spus hlavní Reaktor." }
+		{ time 8100 length 3400 text "Obnovíš tím napájení vıtahu a budeš koneènì schopen se dostat na palubu 4." }
+		{ time 11900 length 700 text "Do toho!" }
 	}
 	multisub em0207 {
 		{ time 900 length 4500 text "Good, you've made it into the crew sector. Now find Dr. Watts' room." }
@@ -118,16 +118,16 @@ SUB1
 		{ time 15700 length 3900 text "Pick up the card near you and then activate the card slot by the door." }
 	}
 	multisub em0209 {
-		{ time 1000 length 3700 text "This power cell is dead. There should be a recharger nearby." }
-		{ time 5000 length 3900 text "Just use it and it will recharge all the power-driven devices in your possession." }
-		{ time 9400 length 6000 text "After you've recharged the cell, plug it into the auxiliary power unit. That should open the airlock door." }
-		{ time 15700 length 3600 text "Be quick about it, the vacuum seals won't hold up much longer." }
+		{ time 1000 length 3700 text "Ten èlánek je vybitı. Nìkde poblí by mìla bıt dobíjecí stanice." }
+		{ time 5000 length 3900 text "Pouij ji a ona dobije všechny energetické zaøízení, které máš u sebe." }
+		{ time 9400 length 6000 text "A èlánek nabiješ, vlo ho do záloního napájení u dveøí. Tím by se mìl otevøít hermeticky uzávìr." }
+		{ time 15700 length 3600 text "Pospìš si s tím, vakuová tìsnìní u to déle nevydrí." }
 	}
 	multisub em0210 {
-		{ time 900 length 5800 text "Xerxes has control of the ship's security system. Avoid or destroy any security cameras you see." }
-		{ time 7300 length 4500 text "You can hack security computers to power down the cameras too, if you're good enough." }
-		{ time 11900 length 3000 text "But don't botch the job, or you'll set off the alarm yourself." }
-		{ time 15400 length 2100 text "Your corpse is useless to me." }
+		{ time 900 length 5800 text "Xerxes ovládá bezpeènostní systémy. Vyhıbej se kamerám, nebo je zniè." }
+		{ time 7300 length 4500 text "Pokud na to staèíš, mùeš hackovat bezpeènostní poèítaèe, èím se kamery na èas vypnou." }
+		{ time 11900 length 3000 text "Ale pozor, pokud to spackáš, spustí se poplach." }
+		{ time 15400 length 2100 text "A jako mrtvola mi nejsi k nièemu." }
 	}
 	multisub em0211 {
 		{ time 900 length 4000 text "Make sure you expend all your cybernetic modules before you leave this area." }
@@ -141,116 +141,116 @@ SUB1
 		{ time 21600 length 5400 text "But choose your enhancements very carefully... upgrade units are difficult to come by." }
 	}
 	multisub em0213 {
-		{ time 900 length 5900 text "These cybernetic modules are used to enhance individual subsystems of your neural enhancements." }
-		{ time 7300 length 7200 text "Remember, there are four unique types of upgrade units, so don't spend all of your cyber modules on one" }
-		{ time 14600 length 4800 text "unless you are sure you want to focus your hardware in that particular area." }
+		{ time 900 length 5900 text "Tyto kybernetické moduly se pouívají ke vylepšování jednotlivıch subsystémù tvıch neurálních vylepšení." }
+		{ time 7300 length 7200 text "Pamatuj, jsou 4 rùzné druhy jednotek vylepšování dovedností, take nevyplıtvej všechny své moduly u jediné," }
+		{ time 14600 length 4800 text "tedy pokud jsi nejsi opravdu jist, e chceš zlepšit svùj hardware jenom v jedné oblasti." }
 	}
 	multisub em0214 {
-		{ time 700 length 5500 text "Dr. Watts is alive and in his office. He should know the code to the maintenance access shaft." }
-		{ time 6700 length 6000 text "Hurry! He's been badly wounded. Don't let him die before he tells you that number." }
+		{ time 700 length 5500 text "Dr. Watts je ve své pracovnì a stále ije.  Mìl by znát pøístupovı kód údrbáøské šachty." }
+		{ time 6700 length 6000 text "Pospìš si, je tìce zranìn!  Nenech ho umøít, dokud ti neøekne to èíslo!" }
 	}
 	multisub em0215 {
-		{ time 700 length 5000 text "Watch out... I'm getting strange readings from that radar dish outside the window." }
-		{ time 6400 length 1600 text "It's become unstable due to--" }
-		{ time 8000 length 2400 text "Move! Take cover!" }
+		{ time 700 length 5000 text "Pozor... Z radarové antény za oknem pøicházejí nìjaké zvláštní údaje." }
+		{ time 6400 length 1600 text "Stává se nestabilní protoe..." }
+		{ time 8000 length 2400 text "Utíkej!  Kryj se!" }
 	}
 	multisub em0217 {
-		{ time 700 length 6700 text "Damn, the power outage has also taken out access to this bulkhead. It's the only way to get to the Medical subsection." }
-		{ time 7900 length 2600 text "Pick up the battery from the floor and find a recharger." }
-		{ time 11100 length 5000 text "The one you used before is in hard vacuum now, I'm afraid, but there should be another one on this deck." }
-		{ time 16700 length 4100 text "Once you get the battery recharged, place it in the auxiliary override." }
+		{ time 700 length 6700 text "Sakra! Vıpadek napájení vyøadil i dveøe této pøepáky. Je jen jeden zpùsob, jak se dostat do lékaøského oddìlení." }
+		{ time 7900 length 2600 text "Vezmi èlánek leící na podlaze a najdi dobíjecí stanici." }
+		{ time 11100 length 5000 text "Obávám se e ta, kterou jsi pouil pøedtím je u ve vakuu, ale na této palubì by mìla bıt ještì jedna." }
+		{ time 16700 length 4100 text "A ten èlánek nabiješ, vlo ho do záloního napájení." }
 	}
 	multisub em0218 {
-		{ time 600 length 4000 text "Watts isn't here, so he's probably in his office in the R & D sector." }
-		{ time 5000 length 3700 text "Maybe he's got a backup R & D card in here. Take a look around." }
+		{ time 600 length 4000 text "Watts tu není.  Nejspíš bude ve své pracovnì v sektoru R&D." }
+		{ time 5000 length 3700 text "Ale moná, e tu má nìkde záloní R&D kartu.  Rozhlédni se kolem." }
 	}
 	multisub em0219 {
-		{ time 600 length 3600 text "On most decks, you'll find a quantum bio-reconstruction device." }
-		{ time 4800 length 3900 text "Xerxes shut them all down, but I've discretely put them back online." }
-		{ time 9400 length 4400 text "You'll need to interface with each machine locally to provide a quantum entanglement sample." }
-		{ time 14400 length 4900 text "Once you do that, the device will be able to rebuild your body essentially from scratch." }
-		{ time 19800 length 3500 text "It's not pleasant, but it's preferable to slow decomposition." }
+		{ time 600 length 3600 text "Na vìtšinì palub mùeš najít biorekonstrukèní zaøízení." }
+		{ time 4800 length 3900 text "Xerxes je všechny odpojil, ale já jsem je zase potají zapojila." }
+		{ time 9400 length 4400 text "Zaøízení musíš aktivovat, abys mu poskytl soubor tkáòovıch vzorkù." }
+		{ time 14400 length 4900 text "A to udìláš, bude toto zaøízení schopno restaurovat tvé tìlo i z nepatrného zbytku." }
+		{ time 19800 length 3500 text "Není to sice nic pøíjemného, ale stále lepší, ne pomalı rozklad." }
 	}
 	multisub em0220 {
-		{ time 600 length 2300 text "You might witness some strange phenomena." }
-		{ time 3300 length 7200 text "Your R-grade cyber rig has an experimental perception enhancement that can theoretically detect residual psychic emanations." }
-		{ time 11100 length 5600 text "These emanations traditionally come from the recently dead. Literature might call them ghosts." }
-		{ time 17000 length 3400 text "I call them self-hypnotic defects in the R-grade unit." }
-		{ time 21200 length 2700 text "Don't let it distract you from the job at hand." }
+		{ time 600 length 2300 text "Moná se staneš svìdkem zvláštního jevu." }
+		{ time 3300 length 7200 text "Tvé experimentální kybernetické vybavení tøídy R má zesílené vnímání, které by teoreticky mohlo zachytit zbytky psychickıch emisí." }
+		{ time 11100 length 5600 text "Tyto emise obvykle pocházejí od nedávno zemøelıch. Literatura je oznaèuje jako duchy." }
+		{ time 17000 length 3400 text "Já jim øíkám autohypnoticke poruchy v jednotce R." }
+		{ time 21200 length 2700 text "Nenech se jimi rozptylovat pøi tvém poslání." }
 	}
 	multisub em0221 {
-		{ time 600 length 4000 text "Good, you've managed to get out before the whole area depressurized." }
-		{ time 5300 length 6900 text "I've just uploaded you some cybernetic modules. You can use them to upgrade your cybernetic rig at the upgrade units in this area." }
-		{ time 12900 length 5600 text "There are four types of units in the next room, one for each subsystem of your cybernetic gear:" }
-		{ time 18700 length 2900 text "Stats, psi, weapons, and tech." }
-		{ time 22400 length 3200 text "But use the modules carefully... they're hard to come by." }
+		{ time 600 length 4000 text "Vıbornì! Dostal jsi se pryè døív, ne celı prostor ztratil tlak." }
+		{ time 5300 length 6900 text "Pøidala jsem ti nìkolik kybernetickıch modulù. Mùeš je pouít ke zlepšení tvé kybernetické vıbavy pomoci Jednotek vylepšování dovedností." }
+		{ time 12900 length 5600 text "Ve vedlejší místnosti jsou jich ètyøi druhy - pro kadı subsystém tvého kybernetického vybavení:" }
+		{ time 18700 length 2900 text "Stats, PSI, Zbranì a Tech." }
+		{ time 22400 length 3200 text "Ale pouívej moduly s rozvahou... tìko se obstarávají." }
 	}
 	multisub em0222 {
-		{ time 700 length 5900 text "Each deck has a chemical store room where you can find the resources you need to research the artifacts you'll find around the ship." }
-		{ time 7300 length 5300 text "Don't try to carry around all the chemicals at once. It's impractical and unnecessary." }
-		{ time 13100 length 4100 text "Your research software will tell you what chemicals it needs... and when." }
+		{ time 700 length 5900 text "Na kadé palubì je umístìn chemickı sklad, kde mùeš najít chemikálie, potøebné k vızkumu nalezenıch artefaktù." }
+		{ time 7300 length 5300 text "Nesna se u sebe nosit všechny chemikálie najednou. Je to nepraktické a zbyteèné." }
+		{ time 13100 length 4100 text "Tvùj vızkumnı software ti vdy vèas sdìlí, kterou chemikálií potøebuje." }
 	}
 }
 
 // Hydroponics ======================================================================
 {
 	type "convo"
-	descr "Polito"
+	descr "Politová"
 	multisub em0301 {
-		{ time 700 length 6800 text "Damn, something's blocking the shaft and the elevator can't reach deck 4. I'm attempting to determine..." }
-		{ time 8400 length 5600 text "I'm detecting massive quantities of some kind of biomaterial that's plugging up the elevator shaft." }
-		{ time 14700 length 5000 text "The environment on this level has been altered to be some kind of breeding chamber for the xenomorphs." }
-		{ time 20200 length 3800 text "It shouldn't prove dangerous unless you plan to stay for more than a few hours." }
-		{ time 24300 length 4000 text "But in order to clear the shaft you're going to have to remove the biomaterial." }
-		{ time 28700 length 4200 text "I'm accessing the primary data loop. Let's see what we can find out there." }
+		{ time 700 length 6800 text "Sakra!  Nìco zablokovalo šachtu a vıtah se nemùe dostat na palubu 4. Pokouším se to urèit..." }
+		{ time 8400 length 5600 text "Zjistila jsem ohromné mnoství nìjakého druhu biologického materiálu, kterı pronikl do vıtahové šachty." }
+		{ time 14700 length 5000 text "Prostøedí na této palubì bylo zmìnìno na ohromnou líheò Xenomorfu." }
+		{ time 20200 length 3800 text "Ale pokud zde nebudeš pobıvat pøíliš dlouho, nemìlo by to bıt nebezpeèné." }
+		{ time 24300 length 4000 text "Bude ovšem tøeba odstranit ten biomaterial z vıtahové šachty." }
+		{ time 28700 length 4200 text "Vstupují do hlavní databáze.  Zjistíme, copak zajímavého tam najdeme." }
 	}
 	multisub em0302 {
-		{ time 1500 length 5500 text "Okay, stop where you are. There's a vial of an experimental material called Toxin-A." }
-		{ time 7600 length 3500 text "It was developed by the Sci staff to reduce the growth of the aliens." }
-		{ time 11300 length 2600 text "But I can't find any data on how you should use it." }
-		{ time 14600 length 16700 text "You should be able to research the toxin." }
-		{ time 17000 length 4600 text "I'm uploading you enough cyber modules to acquire the research skill if you don't have it." }
+		{ time 1500 length 5500 text "Ok, zùstaò kde jsi.  Je tu nádoba s experimentálním materiálem zvanım Toxin-A." }
+		{ time 7600 length 3500 text "Vyvinula ho místní skupina vìdcù, snaící se potlaèit rùst vetøelcù." }
+		{ time 11300 length 2600 text "Ale nemám ádné údaje o tom, jak ho správné pouít." }
+		{ time 14600 length 16700 text "Mìl bys bıt schopen ho vyzkoumat sám." }
+		{ time 17000 length 4600 text "Posílám ti dost kybernetickıch modulu, abys mohl získat dostateènou úroveò vızkumu, pokud ji ještì nemáš." }
 	}
 	multisub em0303 {
-		{ time 1200 length 5000 text "Okay, the vials of Toxin-A need to be placed directly into the environmental regulators." }
-		{ time 6700 length 4500 text "There should be four on this deck. If you can get a vial into each of the regulators," }
-		{ time 11200 length 4600 text "you should be able to significantly impact the growth of those despicable creatures." }
-		{ time 16400 length 3000 text "That should remove the biomatter from the elevator shaft." }
+		{ time 1200 length 5000 text "Fajn, Nádoby s Toxinem-A je tøeba umístit pøímo do klimatizaèních jednotek." }
+		{ time 6700 length 4500 text "Na této palubì jsou celkem ètyøi.  Pokud se ti podaøí nádoby umístit do všech jednotek," }
+		{ time 11200 length 4600 text "mìlo by to znaènì ovplyvnit rùst tìhle odpornıch kreatùr." }
+		{ time 16400 length 3000 text "Rovnì by to mìlo odstranit i biomateriál ve vıtahové šachtì." }
 	}
 	multisub em0304 {
-		{ time 1600 length 4200 text "Why do you go so slowly? Do you think this is some kind of game?" }
-		{ time 6200 length 3900 text "It is only through luck and my continued forbearance that you are even alive." }
-		{ time 10500 length 1100 text "Now move!" }
+		{ time 1600 length 4200 text "Proè jsi tak zoufale pomalı?!  Copak si myslíš, e je to jenom nìjaká hra?" }
+		{ time 6200 length 3900 text "Jsi naivu jen díky notné dávce štìstí a mé nekoneèné trpìlivosti." }
+		{ time 10500 length 1100 text "Hni sebou!" }
 	}
 	multisub em0305 {
-		{ time 1500 length 3700 text "At last. Readings indicate the elevator shaft is clear." }
-		{ time 5500 length 3300 text "Now get up to deck 4. I'll be waiting for you." }
+		{ time 1500 length 3700 text "Koneènì!  Pøístroje ukazují, e je vıtahová šachta volná." }
+		{ time 5500 length 3300 text "Teï bì na palubu 4.  Budu na tebe èekat." }
 	}
 	multisub em0306 {
-		{ time 1700 length 8000 text "Good. You'll notice that the biomatter on the walls and in the elevator shaft has been impacted by the introduction of the biotoxin." }
-		{ time 10300 length 3200 text "Now do the same with the other three regulators." }
+		{ time 1700 length 8000 text "Vıbornì!  Je zjevné, e biomateriál na zdech a ve vıtahové šachtì je napadán rozptylovanım biotoxinem." }
+		{ time 10300 length 3200 text "Teï to samé udìlej u dalších tøi klimatizaèních jednotek." }
 	}
-	multisub em0308 {
-		{ time 1300 length 3100 text "They know where you are. Find some way to clear the shaft." }
-		{ time 4800 length 2700 text "I'll do what I can from my end. Now move it." }
-		{ time 8100 length 1500 text "There's no time for failure." }
+	multisub em0307 {
+		{ time 1300 length 3100 text "U vìdí kde jsi.  Najdi nìjakı zpùsob, jak uvolnit šachtu." }
+		{ time 4800 length 2700 text "Já tady udìlám vše, co pùjde.  Teï bì! }
+		{ time 8100 length 1500 text "Na neúspìch není èas." }
 	}
 }
 
 // Many taunts (used as vtriggers instead of emails)
 {
 	type "convo"
-	descr "The Many"
+	descr "Mnohé"
 	multisub em0307 {
-		{ time 2600 length 7600 text "Life grows within the womb of these walls... life that has never seen the surface of the Earth." }
+		{ time 2600 length 7600 text "ivot roste v dìloze tìch stìn... ivto, kterı nikdy nevidìl povrch Zemì." }
 	}
 	multisub em0508 {
-		{ time 1800 length 5100 text "Babies must sleep. Babies must rest." }
-		{ time 8100 length 4000 text "Wise is the one who does not waken them." }
-		{ time 13000 length 6400 text "Leave this place now, or we will wound you, as you have us." }
+		{ time 1800 length 5100 text "Dìátka musí spát. Dìátka musí odpoèívat." }
+		{ time 8100 length 4000 text "Moudrı je ten, kdo je neprobudí." }
+		{ time 13000 length 6400 text "Opus toto místo, jinak tì zraníme, jako jsi zranil ty nás." }
 	}
 	multisub em0807 {
-		{ time 1800 length 5600 text "Submit to the biomass, and your suffering will end." }
+		{ time 1800 length 5600 text "Podvol se biomase a tvé utrpení skonèí." }
 	}
 }
 

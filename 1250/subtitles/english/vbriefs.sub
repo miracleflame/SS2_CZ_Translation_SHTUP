@@ -2,339 +2,339 @@ SUB1
 
 {
 	type "convo"
-	descr "PA"
+	descr "Rozhlas"
 	singleton
 
 	multisub trg0001 {
-		{ time 00 length 3000 text "Welcome to the Ramsey Center UNN Recruitment Facility." }
-		{ time 3000 length 2200 text "Please watch your step when leaving the train." }
-		{ time 5200 length 4700 text "The gravshafts at the end of the hall will take you to the street-level training and recruitment center." }
-		{ time 10000 length 2200 text "Please proceed to the gravshafts." }
+		{ time 00 length 3000 text "Vítejte v náborovém zaøízení Ramsey Center UNN." }
+		{ time 3000 length 2200 text "Dívejte se pod nohy pøi vystupování z vlaku." }
+		{ time 5200 length 4700 text "Gravšachty na konci  chodby vás vyvezou na úroveò ulice s tréninkovım a náborovım centrem." }
+		{ time 10000 length 2200 text "Prosím, pokraèujte ke gravšachtám." }
 	}
 
-	sub trg0002 { text "Step into the gravshafts to proceed to the street-level recruitment." }
+	sub trg0002 { text "Vstupte do gravšachty, aby jste vystoupali na úroveò ulice." }
 }
 
 {
 	type "convo"
-	descr "Trainer"
+	descr "Trenér"
 
 	multisub trg0004 {
-		{ time 00 length 3800 text "Before you choose your career, you'll want to learn some basic abilities." }
-		{ time 3800 length 2450 text "First, you should go into the Basic Training center." }
-		{ time 6270 length 3700 text "When you're done with Basic Training, proceed to the Advanced Training area." }
+		{ time 00 length 3800 text "Ne si vyberete svou kariéru, budete se chtít nauèit základním schopnostem." }
+		{ time 3800 length 2450 text "Nejprve by jste mìli jít do centra Základního Vıcviku." }
+		{ time 6270 length 3700 text "A budete hotovi se Základním Vıcvikem, pokraèujte do oblasti s Pokroèilım Vıcvikem." }
 	}
 
 	multisub trg0014 {
-		{ time 00 length 4400 text "If you've completed basic training, you're ready for the advanced lessons provided here." }
-		{ time 4500 length 4700 text "Advanced training will familiarize you with the three key areas of military service--" }
-		{ time 9160 length 4000 text "Weapons training, technical training, and psionics training." }
-		{ time 13170 length 3500 text "Approach the cyberlink booth of your choice to train in that area." }
-		{ time 16800 length 7000 text "When you've finished training in the three areas, proceed directly to the recruitment center to choose and start your military career." }
+		{ time 00 length 4400 text "Pokud jste dokonèili základnı vıcvik, jste pøipraveni k pokroèilım lekcem, které poskytujeme tady." }
+		{ time 4500 length 4700 text "Pokroèilı vıcvik vás obeznámí se tøemi klíèovımi oblastmi armádní sluby--" }
+		{ time 9160 length 4000 text "Zbraòovı vıcvik, Technickı vıcvik, a Psionickı vıcvik." }
+		{ time 13170 length 3500 text "Vstupte do kyberlinkové budky dle vıbìru, aby ste zahájili vıcvik v dané oblasti." }
+		{ time 16800 length 7000 text "A dokonèíte vıcvik ve všech tøech oblastech, pokraèujte pøímo do náborového centra, kde si zvolíte a zahájíte svou armádní kariéru." }
 	}
 
 	multisub trg0031 {
-		{ time 00 length 2000 text "Here's where you make your choice, soldier." }
-		{ time 2000 length 3000 text "Here's where you enlist in one of the three branches of the military." }
-		{ time 5000 length 3700 text "Once you decide on your branch of service, there's no going back." }
-		{ time 8700 length 6100 text "A shuttle will take you to a UNN orbital space station, where you'll receive a briefing regarding your yearly postings." }
-		{ time 15000 length 1000 text "Good luck." }
+		{ time 00 length 2000 text "Toto je místo volby, vojáku." }
+		{ time 2000 length 3000 text "Tady se pøihlásíte do jedného ze tøí odvìtví armády." }
+		{ time 5000 length 3700 text "Jakmile se rozhodnete pro svou kariéru, u není cesty zpìt." }
+		{ time 8700 length 6100 text "Raketoplán vás vyveze na orbitální vesmírnou stanici UNN, kde dostanete brífing k vaší roèní stái." }
+		{ time 15000 length 1000 text "Hodnì štìstí." }
 	}
 
 	// Basic training
 
 	multisub trg0005 {
-		{ time 600 length 4700 text "To pick up some basic skills you'll need to get by in the service, enter this cyberlink booth." }
-		{ time 5500 length 3200 text "Inside you'll learn the basic skills you'll need to get started." }
+		{ time 600 length 4700 text "Vstupte do této kyberlinkové budky, aby jste zahájili základní vıcvik, kterı potøebujete ve slubì." }
+		{ time 5500 length 3200 text "Uvnitø nadobudnete základní schopnosti potøebné pro zaèátek." }
 	}
 
 	multisub trg0006 {
-		{ time 00 length 1000 text "Welcome, trainee." }
-		{ time 1200 length 4900 text "While you're in our virtual training courses, we provide you with a simulated cyber-interface." }
-		{ time 6370 length 4800 text "This training interface is identical to an actual military-grade cyber-interface." }
+		{ time 00 length 1000 text "Vítej, nováèku." }
+		{ time 1200 length 4900 text "Dokud jsi v našem virtálním vıcvikovém kurzu, poskytneme ti simulované kyber-rozhraní." }
+		{ time 6370 length 4800 text "Toto vıcvikové rozhraní je identické se skuteènım kyber-rozhraním armádní tøídy." }
 	}
 
 	multisub trg0007 {
-		{ time 00 length 1800 text "Now, let's try it out." }
-		{ time 2100 length 1000 text "Move the mouse." }
-		{ time 3700 length 1700 text "See how it changes where you look?" }
-		{ time 5900 length 1600 text "That means you're in Shoot mode." }
-		{ time 8200 length 1000 text "Hit the Tab key." }
-		{ time 10300 length 4500 text "This puts you in Use mode, where you can use your mouse to interact with items in the world." }
-		{ time 16160 length 7000 text "Open your primary MFD - or multi-function display - by clicking on the MFD button near the bottom of the screen." }
-		{ time 24570 length 2800 text "This display shows your strengths in various areas." }
-		{ time 27600 length 3700 text "When you're ready to continue, press the Tab key to go back to Shoot mode." }
-		{ time 32200 length 2860 text "Try changing between modes until you get the hang of it." }
-		{ time 35800 length 3500 text "Follow the red path along the ground to the next training station." }
+		{ time 00 length 1800 text "Tìd si to skusme." }
+		{ time 2100 length 1000 text "Hıbej myší." }
+		{ time 3700 length 1700 text "Vidíš jak se tvùj pohled mìní, kam se podíváš?" }
+		{ time 5900 length 1600 text "To znaèí, e jsi Støeleckém módu." }
+		{ time 8200 length 1000 text "Stiskni klávesu Tab." }
+		{ time 10300 length 4500 text "Toto tì pøepne do Uivatelského módu, kde mùeš pouívat myš na interakci s vìcmi v rozhraní." }
+		{ time 16160 length 7000 text "Otevøi svùj primární MFD - neboli multi-funkèní displej - klikem na tlaèidlo MFD na spodu rozhraní." }
+		{ time 24570 length 2800 text "Tato obrazovka ukazuje tvé dovednosti v rùznych oblastech." }
+		{ time 27600 length 3700 text "A budeš pøipraven pokraèovat, stiskni klávesu Tab pro návrat do Støeleckého módu." }
+		{ time 32200 length 2860 text "Skus si pøepínat mezi módmi ne se ti to dostane do ruky." }
+		{ time 35800 length 3500 text "Následuj èervenou èáru na zemi k další tréninkové stanici." }
 	}
 
 	multisub trg0008 {
-		{ time 00 length 5560 text "To use items like buttons and computers, center them in your view and click the right mouse button." }
-		{ time 5920 length 2380 text "All useable items will have brackets around them." }
-		{ time 8910 length 2500 text "Highlight the button on the pillar and right-click." }
-		{ time 11600 length 1500 text "This will activate the lift." }
-		{ time 13800 length 700 text "Try it out." }
-		{ time 16300 length 3800 text "If you can still see your inventory display, it means you're in Use mode." }
-		{ time 20500 length 2000 text "Hit Tab to return to Shoot mode." }
+		{ time 00 length 5560 text "Pouívání vìcí jako jsou tlaèítka nebo poèítaèe, si vyaduje vycentrovat je na obrazovce a pak na nì kliknout pravım." }
+		{ time 5920 length 2380 text "Všechny pouitelné vìci budou mít kolem názvu lomené závorky." }
+		{ time 8910 length 2500 text "Oznaè tlaèítko na sloupì a pak klikni pravım." }
+		{ time 11600 length 1500 text "To aktivuje vıtah." }
+		{ time 13800 length 700 text "Zkus si to." }
+		{ time 16300 length 3800 text "Pokud vidíš svùj inventár, znamená to, e jsi v uívatelském módu." }
+		{ time 20500 length 2000 text "Stiskni Tab pro návrat do Støeleckého módu." }
 	}
 
 	multisub trg0009 {
-		{ time 00 length 3800 text "To pick up items, center them on your screen and right-click." }
-		{ time 3890 length 2930 text "This will automatically place that item into your inventory." }
-		{ time 7170 length 2800 text "To view your inventory, press the Tab key." }
-		{ time 10150 length 4510 text "You can move items around your inventory by left-clicking and dragging them around." }
-		{ time 15000 length 5150 text "To drop an item, drag it from your inventory into the 3D view and release the mouse button." }
+		{ time 00 length 3800 text "Pøedmìty zvedneš tak, e je vycentruješ na obrazovce klikneš pravım." }
+		{ time 3890 length 2930 text "Toto automaticky umístí pøedmìt do tvého inventáøe." }
+		{ time 7170 length 2800 text "Pro zobrazení inventáøe stiskni klávesu Tab." }
+		{ time 10150 length 4510 text "Vìcmi múe pøemísova v inventáøi levım klikem a táhnutím." }
+		{ time 15000 length 5150 text "Pøedmìt upustíš tak, e ho pøetáhneš z inventáøe do volného 3D prostoru a uvolníš tlaèítko." }
 	}
 
 	multisub trg0010 {
-		{ time 00 length 1600 text "See the crate in front of you?" }
-		{ time 1900 length 2900 text "To search it, center it on your screen and right-click." }
-		{ time 5020 length 4120 text "If you are in Use mode, simply move the pointer to the crate and right-click." }
-		{ time 9440 length 3260 text "To take an item from that container, simply left-click on it." }
-		{ time 12870 length 2840 text "This will automatically place that item in your inventory." }
-		{ time 15980 length 4170 text "To close the container window and return to Shoot mode, press the Tab key." }
+		{ time 00 length 1600 text "Vidíš tu bednu pøed sebou?" }
+		{ time 1900 length 2900 text "Prohledáš ji tak, e ji vycentruješ na obrazovce klikneš pravım." }
+		{ time 5020 length 4120 text "Pokud jsi v uívatelskem módu, jednoduše namiø kurzorem na bednu a klikni pravım." }
+		{ time 9440 length 3260 text "Obsah bedny vemeš jednoducho levım klikem na pøedmìt." }
+		{ time 12870 length 2840 text "To automaticky pøemístí pøedmìt do tvého inventáøe." }
+		{ time 15980 length 4170 text "Okno obsahu uzavøeš pøechodem to Støeleckého módu stiskem klávesy Tab." }
 	}
 
 	multisub trg0011 {
-		{ time 00 length 2500 text "Now it's time to learn about jumping and mantling." }
-		{ time 2700 length 2500 text "To jump, simply press the space bar." }
-		{ time 6050 length 3940 text "Some surfaces can be mantled onto by holding down the space bar." }
-		{ time 10740 length 4410 text "Mantling lets you pull yourself up to ledges and other high places in front of you." }
-		{ time 15690 length 1020 text "Give it a try." }
+		{ time 00 length 2500 text "Teï je èas nauèit se skákat a vylézat." }
+		{ time 2700 length 2500 text "Vyskoèíš jednoduše stiskem mezeríku." }
+		{ time 6050 length 3940 text "Na nìkteré povrchy se dá vylézt podrením mezerníku." }
+		{ time 10740 length 4410 text "Vylézání ti umoní vyzvednout se nad okraje vyšších míst pøed tebou." }
+		{ time 15690 length 1020 text "Zkus si to." }
 	}
 
 	multisub trg0012 {
-		{ time 00 length 3300 text "To climb a ladder, simply walk into it and look upward." }
-		{ time 3600 length 2500 text "You'll automatically start climbing the ladder." }
+		{ time 00 length 3300 text "Po øebøíku se leze tak, e do nìj jenom vkroèíš a podíváš se nahoru." }
+		{ time 3600 length 2500 text "Tím automaticky zaèneš šplhat." }
 	}
 
 	multisub trg0032 {
-		{ time 00 length 2300 text "The object before you is a med hypo." }
-		{ time 2500 length 2700 text "Pick it up and then press Tab to go into Use mode." }
-		{ time 5700 length 4300 text "Right-clicking on the med hypo will use it and restore some needed hit points." }
-		{ time 10500 length 4000 text "Your hit points are displayed by a bar in the lower-left corner of your screen." }
-		{ time 15000 length 3900 text "Many objects in your inventory can be used by right-clicking on them." }
+		{ time 00 length 2300 text "Pøedmìt pøed tebou je léèebné sérum." }
+		{ time 2500 length 2700 text "Vezmi ho a stiskni Tab pro pøechod to Uívateského módu." }
+		{ time 5700 length 4300 text "Pravım klikem na léèebné sérum ho pouiješ èím si obnovíš zopár bodù zdraví." }
+		{ time 10500 length 4000 text "Tvé body zdraví jsou zobrazeny pruhem v levém dolním rohu rozhraní." }
+		{ time 15000 length 3900 text "Mnoho pøedmetù se dá v inventáøi pouít pravım klikem na nì." }
 	}
 
 	multisub trg0033 {
-		{ time 00 length 3600 text "One of the most important tools you have as a soldier is your PDA." }
-		{ time 4000 length 4000 text "This device stores audio logs, emails, and other useful information." }
-		{ time 8700 length 4000 text "Click on the disc icon near the bottom of your screen to bring up the PDA display." }
-		{ time 13300 length 3000 text "Currently, the contents of your PDA are empty." }
-		{ time 16700 length 2300 text "Now pick up the audio log in front of you." }
+		{ time 00 length 3600 text "Jeden z nejuiteènìjších nástrojù, které máš jako voják je tvé PDA." }
+		{ time 4000 length 4000 text "Toto zaøízení ukládá audio nahrávky, e-maily a jiné uiteèné informace." }
+		{ time 8700 length 4000 text "Klikni na ikonu disku naspodu rozhraní pro otevøení displeje PDA." }
+		{ time 13300 length 3000 text "V souèasnosti je obsah tvého  PDA prázdnı." }
+		{ time 16700 length 2300 text "Teï vem audio nahrávku pøimo pøed tebou." }
 	}
 
 	multisub trg0013 {
-		{ time 600 length 900 text "You've done well." }
-		{ time 1900 length 6400 text "Remember, if you're unclear on any aspect of what you just learned, you can repeat the training as often as you wish." }
+		{ time 600 length 900 text "Vedl sis dobøe." }
+		{ time 1900 length 6400 text "Pamatuj, pokud je ti nejasné cokoliv z toho, co jsme se uèili, mùeš si trénink zopakovat kolikrát budeš chtít." }
 	}
 
 	// Weapons training
 
 	multisub trg0015 {
-		{ time 650 length 6200 text "Alright wannabe, if you want to learn the weapon skills it takes to even think about joining the Marines, come on in." }
-		{ time 7200 length 1500 text "We're looking for a few good men." }
+		{ time 650 length 6200 text "Dobrá zelenáèi, pokud se chceš nauèit pouívat zbraò, abys vùbec mohl pomyslet na to stát se Mariòákem, pojï dál." }
+		{ time 7200 length 1500 text "Sháníme nìjaké dobré chlapy." }
 	}
 
 	multisub trg0016 {
-		{ time 00 length 1400 text "Good to have you on board." }
-		{ time 1700 length 8900 text "You'll notice when you're in the cyberlink booth, the UNN has kindly provided you with a virtual cyber-interface and all the simulated skill levels you'll need for the training tasks." }
-		{ time 10800 length 3400 text "But don't get too cocky. They'll disappear once you leave the booth." }
+		{ time 00 length 1400 text "Fajn, e tì máme na palubì." }
+		{ time 1700 length 8900 text "Mùeš si všimnout, e uvnitø kyberlinkové budky ti UNN laskavì poskytla virtuální kyber-rozhraní a všechny nasimulované úrovnì dovedností, které potøebuješ pro dokonèení  tréninku." }
+		{ time 10800 length 3400 text "Ale nebuï z toho na vìtvy. Zmizí jakmile opustíš budku." }
 	}
 
 	multisub trg0017 {
-		{ time 00 length 2100 text "Now we'll teach you how to handle a firearm." }
-		{ time 2500 length 4900 text "Pick up the pistol and the clip from the table. You can equip the weapon in one of two ways." }
-		{ time 7700 length 5800 text "Bring up your inventory, and drag the pistol to your weapons equip slot near the right-hand side of your inventory." }
-		{ time 13800 length 4500 text "If that's too slow for you, you can use the hotkeys on the keyboard. Press 2." }
-		{ time 18900 length 3700 text "If the pistol was in your inventory, it will equip for you automatically." }
-		{ time 23000 length 6300 text "To lock and load the ammo clip, hit the R key or hit the reload button on the lower-right corner of your screen." }
-		{ time 29700 length 6100 text "Once you've loaded the firearm, take a shot at the dummy robot by pressing your left mouse button when in Shoot mode." }
-		{ time 36500 length 3100 text "Notice how its health bar gets shorter as you chip away at it." }
+		{ time 00 length 2100 text "Teï tì nauèíme zacházet se zbraní." }
+		{ time 2500 length 4900 text "Vem si pistoli a zásobník ze stola. Zbraò mùeš vytasit dvìma zpùsoby." }
+		{ time 7700 length 5800 text "Otevøi inventáø, a pøetáhni pistoli do políèka pro zbranì napravo od inventáøe." }
+		{ time 13800 length 4500 text "Pokud je to na tebe pøíliš pomalé, mùeš pouít klávesové skratky. Stiskni 2." }
+		{ time 18900 length 3700 text "Pokud se pistole nachází v inventáøi, automaticky ji vytasíš." }
+		{ time 23000 length 6300 text "Pro pøebíjení zásobníkù stiskni kláves R nebo klikni na tlaèítko Nabít v pravém dolním horu rozhraní." }
+		{ time 29700 length 6100 text "Potom co si nabil zbraò, vystøel na atrapu robota levım klikem myši ve Støeleckém módu." }
+		{ time 36500 length 3100 text "Všimni si ako z jeho zdraví ubívá, kdy po nìm pálíš." }
 	}
 
 	multisub trg0018 {
-		{ time 00 length 3500 text "Some items need to be charged with energy before they can be used." }
-		{ time 3900 length 3800 text "Pick up the laser pistol. Now use the recharging station nearby." }
-		{ time 8100 length 3500 text "The recharge station will juice up all of your energy-based items." }
-		{ time 11800 length 2500 text "Weapons, batteries, you name it." }
+		{ time 00 length 3500 text "Nìkteré vìci se musí nabít energí, ne je budeš moct pouívat." }
+		{ time 3900 length 3800 text "Vem laserovou pistoli. A pak poui nabíjecí stanici poblí." }
+		{ time 8100 length 3500 text "Nabíjecí stanice napumpuje šávu do všech tvıch energetickıch pøedmìtù." }
+		{ time 11800 length 2500 text "Zbranì, baterie, na co si zmyslíš." }
 	}
 
 	multisub trg0019 {
-		{ time 00 length 3600 text "Weapons are not fine wines. They do not get better with age." }
-		{ time 3900 length 4700 text "The colored dot on the lower-right corner of the screen tells you what kind of shape your firearm is in." }
-		{ time 8800 length 1900 text "Green is good. Red is bad." }
-		{ time 11200 length 6600 text "To fight the effects of wear and tear, a soldier with maintenance skill can use a maintenance tool to improve the condition of his weapon." }
-		{ time 18500 length 4300 text "Just pick up the tool, open your inventory, and drag the tool onto your pistol." }
-		{ time 23100 length 3800 text "Remember that maintenance tools are only good for a single use." }
+		{ time 00 length 3600 text "Zbranì nejsou víno. Nejsou lepší èím jsou starší." }
+		{ time 3900 length 4700 text "Barevná teèka v pravém dolním rohu rozhraní ti napoví v jaké kondici zbraò je." }
+		{ time 8800 length 1900 text "Zelená je dobrá. Èervená je špatná." }
+		{ time 11200 length 6600 text "Na boj s neduhem opotøebení mùe voják s dovedností údrby pouít Pøíruèní nástroj na údrbu zbraní pro zlepšení kondice své zbranì." }
+		{ time 18500 length 4300 text "Vezmi nástroj, otevøi inventáø a pøetáhni nástroj na svoji pistoli." }
+		{ time 23100 length 3800 text "Mìj na pamìti, e kadı nástroj jde pouít jenom jednou." }
 	}
 
 	multisub trg0020 {
-		{ time 500 length 2400 text "Good work, now you're ready for the Marines." }
-		{ time 3500 length 2900 text "Take a look at the other training areas first before you enlist." }
-		{ time 6800 length 1200 text "They might just come in handy." }
+		{ time 500 length 2400 text "Dobrá prace, teï jsi pøipraven pro Mariòáky." }
+		{ time 3500 length 2900 text "Podívej se také na jiné oblasti vıcviku ne sa pøihlásíš." }
+		{ time 6800 length 1200 text "Mùou se ti hodit." }
 	}
 
 	// Technical training
 
 	multisub trg0021 {
-		{ time 600 length 3800 text "Inside, we'll teach you the basics of some technical skills you'll need in the Navy." }
+		{ time 600 length 3800 text "Uvnitø tì nauèíme základùm technickıch dovednosti, které budeš potøebovat v Námoønictví." }
 	}
 
 	multisub trg0022 {
-		{ time 100 length 500 text "Welcome." }
-		{ time 1200 length 7300 text "You'll notice when you're in the cyberlink booth, we'll provide you with a temporary cyber-interface and the skills you need to accomplish the training tasks." }
-		{ time 8800 length 2600 text "But they'll only last so long as you're in the booth." }
+		{ time 100 length 500 text "Vítej." }
+		{ time 1200 length 7300 text "Mùeš si všimnout, e uvnitø Kyberlinkové budky ti poskytneme doèasné kybernetické rozhraní a dovednosti potøebné pro úspìšné dokonèení tréninkovıch úkolu." }
+		{ time 8800 length 2600 text "Ale tyto ti zùstanou jenom pokud jsi uvnitø budky." }
 	}
 
 	multisub trg0023 {
-		{ time 00 length 2700 text "The object in front of you is a container of nanites." }
-		{ time 2900 length 4900 text "Nanites are consumed whenever you perform technical tasks, such as hacking or repairing." }
-		{ time 8200 length 8200 text "When you pick up the container of nanites, they do not go in your general inventory, but are instead displayed in Use mode on the bottom-left of your screen." }
-		{ time 17000 length 3000 text "Walk over to the keypad by the door and try out hacking." }
+		{ time 00 length 2700 text "Objekt pøed tebou je kontejner s nanity." }
+		{ time 2900 length 4900 text " Nanity se spotøebuji zakadım, kdy provádíš technické úkoly, jako je hackování nebo opravování." }
+		{ time 8200 length 8200 text "Kdy vezmeš nanity, nejdou do tvého inventáøe, ale jsou zobrazeny vlevo dolù v Uivatelském rozhraní." }
+		{ time 17000 length 3000 text "Projdi k té klávesnici pøi dverách a zkus ji hacknout." }
 	}
 
 	multisub trg0034 {
-		{ time 00 length 1800 text "Use the keypad by right-clicking on it." }
-		{ time 2300 length 3300 text "To the right of the number pad, you'll see an orange tab labeled \"Hack\"." }
-		{ time 6000 length 1100 text "Left-click on the tab." }
-		{ time 7800 length 3600 text "Text will appear, indicating the difficulty of the hack and any bonuses that apply." }
-		{ time 12400 length 1800 text "Click on the Start button to begin hacking." }
-		{ time 14900 length 1400 text "You'll see a grid of nodes." }
-		{ time 16500 length 2500 text "Clicking on a node will either turn it bright or dark." }
-		{ time 20000 length 3900 text "To succesfully hack, you must connect three bright nodes in a straight line." }
-		{ time 24500 length 2500 text "Beware of the ICE nodes with the red outlines." }
-		{ time 27400 length 5300 text "If one of these turns dark, you fail the hack and you might break the item you are working on, or worse." }
-		{ time 33500 length 5900 text "You can restart your hack attempt at any time by hitting the Reset button, though you'll have to pay the nanite cost again." }
+		{ time 00 length 1800 text "Klávesnici pouiješ pravım klikem." }
+		{ time 2300 length 3300 text "Napravo od èíselníku vidíš oranové tlaèidlo s nápisem \"Hack\"." }
+		{ time 6000 length 1100 text "Klikni na nìj." }
+		{ time 7800 length 3600 text "Zobrazí se text urèující obtínost hackování a jakékoli pøidané bonusy." }
+		{ time 12400 length 1800 text "Klikni na tlaèítko Start a zaèneš hackovat." }
+		{ time 14900 length 1400 text "Uvidíš møíku uzlù." }
+		{ time 16500 length 2500 text "Kdy klikneš na uzel, buï se rozsvítí nebo ztmavne." }
+		{ time 20000 length 3900 text "Pro úspìšné hacknutí musíš spojit tøi svìtlé uzly do rovné linie." }
+		{ time 24500 length 2500 text "Dej si pozor na ICE uzly s èervenım okrajem." }
+		{ time 27400 length 5300 text "Pokud takovı ztmavne zlyháš v hackování a mùeš rozbít vìc, na které pracuješ nebo i hùø." }
+		{ time 33500 length 5900 text "Mùeš kdykoli zopakovat pocus o hackování stlaèením tlaèítka reset, avšak musíš znovu zaplatit cenu nanitù. " }
 	}
 
 	multisub trg0024 {
-		{ time 00 length 2900 text "You can use nanites to buy items from replicators." }
-		{ time 3100 length 2100 text "To use a replicator, right-click on it." }
-		{ time 5600 length 2200 text "Then left-click on the item you wish to purchase." }
-		{ time 8300 length 2500 text "The item you purchased will drop into the slot below." }
-		{ time 11500 length 2600 text "Make sure you pick up your purchases before you leave." }
+		{ time 00 length 2900 text "Nanity mùeš pouít také na kupování vìcí z replikátorù." }
+		{ time 3100 length 2100 text "Replikátor pouiješ pravı klikem." }
+		{ time 5600 length 2200 text "Pak kliknutím vyber vìc, kterou chceš koupit." }
+		{ time 8300 length 2500 text "Vìc, kterou sis koupil spadne do pøihrádky na spodu." }
+		{ time 11500 length 2600 text "Urèitì si nezabudni vzít vìc, kterou sis koupil, ne odejdeš." }
 	}
 
 	multisub trg0025 {
-		{ time 600 length 1900 text "You learned the basics of the technical skills." }
-		{ time 3000 length 6000 text "There are several other technical skills you'll learn throughout the course of your career, such as repairing items and modifying weapons." }
-		{ time 9500 length 3500 text "The cyber-interfaces for these tasks are similar to the hacking interface." }
-		{ time 13500 length 3200 text "Before you enlist in the Navy, try out the other training courses." }
-		{ time 17000 length 700 text "They'll be useful." }
+		{ time 600 length 1900 text "Nauèil si se základy technickıch dovedností." }
+		{ time 3000 length 6000 text "Je i nìkolik dalších technickıch dovednosti, které se nauèíš bìhem své kariéry, jako je opravování vìcí nebo modifikování zbraní." }
+		{ time 9500 length 3500 text "Kybernetické rozhraní pro tyto úlohy je podobné jako pro hackování." }
+		{ time 13500 length 3200 text "Ne se pøihlásíš do Námoønictva, zkus i jiné tréninkové kurzy." }
+		{ time 17000 length 700 text "Budou se ti hodit." }
 	}
 
 	// Psionics training
 
 	multisub trg0026 {
-		{ time 700 length 3000 text "Inside you will learn how to reach out with your mind." }
-		{ time 4200 length 2100 text "Do not let fear block your path." }
+		{ time 700 length 3000 text "Uvnitø se nauèíš jako vystoupit ze své mysli." }
+		{ time 4200 length 2100 text "Nech strach nezahatí tvojí cestu." }
 	}
 
 	multisub trg0027 {
-		{ time 00 length 6600 text "We've provided you with a virtual interface and the temporary ability to project simulated psionic powers." }
-		{ time 7000 length 3900 text "Once you leave this area, these powers will be lost to you." }
+		{ time 00 length 6600 text "Poskytli jsme ti virtuální rozhraní a doèasné schopnosti, aby sis vyzkoušel psionické síly." }
+		{ time 7000 length 3900 text "A opustíš tuto oblast, síly se ztratí." }
 	}
 
 	multisub trg0028 {
-		{ time 00 length 4900 text "The red bar at the lower left of your screen tells you how many psi points you have." }
-		{ time 5200 length 4300 text "Psi points symbolize the current ability to use your psi powers." }
-		{ time 9800 length 2900 text "Psi hypos replenish your psi points." }
-		{ time 13000 length 4000 text "Try using a psi hypo and watch your psi points increase." }
-		{ time 17400 length 4000 text "When you've reached your maximum in psi points, move to the next station." }
+		{ time 00 length 4900 text "Èervenı pruh v levé dolní èásti tvého rozhraní ti napovídá, kolik PSI bodù máš." }
+		{ time 5200 length 4300 text "PSI Body symbolizují tvou souèasnou kapacitu k pouívání psionickıch sil." }
+		{ time 9800 length 2900 text "PSI sérum ti doplní psionickou sílu." }
+		{ time 13000 length 4000 text "Zkus pouít PSI sérum a sleduj, jako ti body stoupnou." }
+		{ time 17400 length 4000 text "A si doplníš body na maximum, pøesuò se k další stanici." }
 	}
 
 	multisub trg0029 {
-		{ time 00 length 5500 text "This psi amp amplifies your psi powers and lets you project them into the real world." }
-		{ time 5800 length 3700 text "To equip it, pick it up and then hit the tilde key." }
-		{ time 10000 length 4300 text "Firing the psi amp activates your currently selected psi discipline." }
-		{ time 14700 length 5800 text "You currently have access to two disciplines, Cryokinesis and Kinetic Redirection." }
-		{ time 21200 length 5000 text "Go into Use mode and click on the arrows on the bottom-right of the screen." }
-		{ time 26700 length 3300 text "This will cycle through your available psi disciplines." }
-		{ time 30400 length 7000 text "Later, clicking on the arrows above the number to the left will allow you to select psi disciplines from higher tiers." }
-		{ time 37900 length 7000 text "Use Cryokinesis to destroy the robot, and Kinetic Redirection to pull that nanite container towards you." }
-		{ time 45500 length 8500 text "Be careful, holding down the mouse button can augment the power, but holding it down for too long will cause burnout, which will damage you." }
-		{ time 54500 length 3800 text "If you run out of psi points, use another psi hypo." }
+		{ time 00 length 5500 text "Tento Psi-amp zesiluje tvé psionické schopnosti a umoòuje ti promítnout je do reálného svìta." }
+		{ time 5800 length 3700 text "Pro pouití ho vezmi a pak stlaè klávesu vlnovky." }
+		{ time 10000 length 4300 text "Vıstøel z Psi-ampu aktivuje tvou právì zvolenou psionickou disciplínu." }
+		{ time 14700 length 5800 text "Momentálnì máš pøístup ke dvìm disciplínám, Kryokineze a Kinetické pøesmìrování." }
+		{ time 21200 length 5000 text "Jdi do uivatelského rozhraní a klikni na šipky na spodu obrazovky." }
+		{ time 26700 length 3300 text "To bude pøepínat mezi dostupnımi psionickımi disciplínami." }
+		{ time 30400 length 7000 text "Pozdìjší klikání šipek nad èíslem nalevo ti umoní vybrat disciplíny vyšších úrovní." }
+		{ time 37900 length 7000 text "Pouij Kryokinezi na znièení robota a Kinetické pøesmìrování abys pøitáhnul nanity k sobì." }
+		{ time 45500 length 8500 text "Buï opatrnı. Podrením tlaèítka myši mùeš zesílit disciplínu, ale pøíliš dlouhé podrení zpùsobí vyhoøení, které ti ublíí." }
+		{ time 54500 length 3800 text "Pokud se ti minou PSI body, poui další PSI sérum." }
 	}
 
 	multisub trg0030 {
-		{ time 600 length 3600 text "Mastery of the mind is a slow but rewarding process." }
-		{ time 4600 length 2700 text "Return to this area if you need more guidance." }
-		{ time 7800 length 5800 text "Before you enlist in the OSA, it would be useful to experiment in the other training courses." }
+		{ time 600 length 3600 text "Pilování mistrovství mysli je pomalı, ale vdìènı proces." }
+		{ time 4600 length 2700 text "Vra se sem, pokud budeš potøebovat víc tréningu." }
+		{ time 7800 length 5800 text "Pøedtím ne se pøihlásíš k OSA, bude prospìšné experimentovat i v jinıch treninkovıch kurzech." }
 	}
 }
 
 {
 	type "convo"
-	descr "Trainer"
+	descr "Tréner"
 
 	multisub init_0 {
-		{ time 00 length 2400 text "Welcome to space station Wake Island, Marine." }
-		{ time 2500 length 2700 text "So you survived basic training at Camp Lejeune." }
-		{ time 5400 length 3900 text "Better still, you managed to learn a thing or two about standard weapons." }
-		{ time 9800 length 2000 text "But now it's time for the real deal." }
-		{ time 12600 length 3800 text "Your tour of duty will consist of four postings over four years." }
-		{ time 16900 length 3300 text "The Corps demands a lot of you grunts, but the Corps is generous." }
-		{ time 20500 length 1900 text "You get to choose your own postings." }
-		{ time 23100 length 4200 text "Head up to the shuttle bays in the center of Wake Island and you'll be briefed on what's ahead." }
-		{ time 27900 length 4000 text "When you find the right posting, head into that bay to accept the assignment." }
-		{ time 32300 length 1000 text "Good luck, Marine!" }
+		{ time 00 length 2400 text "Vítej na vesmírné stanici Wake Island, mariòákù." }
+		{ time 2500 length 2700 text "Take jsi pøeil základní vıcvik at Camp Lejeune." }
+		{ time 5400 length 3900 text "Lépe øeèeno, nauèil si se nìco málo o standardních zbraních." }
+		{ time 9800 length 2000 text "Avšak teï je èas na nìco skuteèného." }
+		{ time 12600 length 3800 text "Tvùj rozpis sluby bude pozastávat ze ètyø stáí po dobu ètyø let." }
+		{ time 16900 length 3300 text "Korporáti od vás abaøù èekaj hodnì, ale také jsou štìdøí." }
+		{ time 20500 length 1900 text "Mùes si vybrat stáe pdole sebe." }
+		{ time 23100 length 4200 text "Vydej se k èlunovım dokùm v centru Wake Island a dostaneš brífing co dál." }
+		{ time 27900 length 4000 text "A si vybereš stá šitou na tebe, pøijmeš pøiøazení kdy se vydáš vpøed do doku." }
+		{ time 32300 length 1000 text "Zlom vaz, mariòáku!" }
 	}
 
 	multisub init_1 {
-		{ time 00 length 2800 text "Welcome aboard the space station Chesapeake Bay, sailor." }
-		{ time 3200 length 3900 text "It looks like you've picked up some standard weapon skills at basic on Coronado Island." }
-		{ time 7500 length 1600 text "Now it's time for your tour of duty." }
-		{ time 9600 length 2900 text "Your tour will consist of four postings over four years." }
-		{ time 12800 length 3200 text "In this man's navy you're given a choice of three different postings a year." }
-		{ time 16400 length 3500 text "It's up to you to decide what kind of career you want to have, so choose wisely." }
-		{ time 20400 length 2700 text "Just approach your shuttle bay to receive a briefing on a posting." }
-		{ time 23600 length 4000 text "If you think that posting is right for you, head into that bay to accept the assignment." }
+		{ time 00 length 2800 text "Vítej na palubì vesmírné stanice Chesapeake Bay, námorníku." }
+		{ time 3200 length 3900 text "Zdá se, e si nadobudnul nìjaké dovednosti v pouívání standardních zbraní na Coronado Island." }
+		{ time 7500 length 1600 text "Teï je èas nastoupit do sluby." }
+		{ time 9600 length 2900 text "Tvùj rozpis sluby bude pozastávat ze ètyø stáí po dobu ètyø let." }
+		{ time 12800 length 3200 text "V námoøníctvu dostaneš kadı rok na vıbìr z tøí rùznıch stáí." }
+		{ time 16400 length 3500 text "Je na tobì zvolit si, jakı druh kariéry budeš mít, tak se rozhodni moudøe." }
+		{ time 20400 length 2700 text "Jenom se pøibli ke vchodu k èlunovım dokùm a dostaneš krátkı brífing." }
+		{ time 23600 length 4000 text "Pokud si myslíš, e to je správná stá pro tebe, vydej se vpøed do doku, èím pøijmeš pøiøazení." }
 	}
 
 	multisub init_2 {
-		{ time 00 length 4000 text "The OSA welcomes you to orbital station Chun Lo." }
-		{ time 4200 length 4000 text "Ready yourself to feel the limitations of your mind slipping away." }
-		{ time 8700 length 3200 text "We will guide your path over the next four years." }
-		{ time 12200 length 4600 text "The shuttle bays at the center of this station will ferry you to your next stage of growth." }
-		{ time 17300 length 3500 text "When you've chosen, head into the appropriate shuttle bay." }
-		{ time 21100 length 3200 text "Get ready to learn things you've never imagined." }
+		{ time 00 length 4000 text "OSA tì vítá na orbitální stanici Chun Lo." }
+		{ time 4200 length 4000 text "Pøiprav se pøekroèit limitace své mysli." }
+		{ time 8700 length 3200 text "Po následující ètyøi roky povedeme tvou cestu." }
+		{ time 12200 length 4600 text "Èlunové doky v centru stanice tì odvezou do dalšího stádia tvého rùstu." }
+		{ time 17300 length 3500 text "Pokud sis vybral, vstup do konkrétního èlunového doku." }
+		{ time 21100 length 3200 text "Buï pøipraven nauèit se vìci, o kterıch se ti ani nezdálo." }
 	}
 
 	// Marine briefings
 
 	multisub brief01 {
-		{ time 600 length 4500 text "If you're partial to spending time with a lot of high explosives, this posting is for you." }
-		{ time 5600 length 5800 text "There's a lot of heavy lifting, but ordnance also gets the first pick of booze and other goodies coming aboard the supply ship Gallo." }
-		{ time 11850 length 1100 text "Lock and load!" }
+		{ time 600 length 4500 text "Pokud se ti zamlouvá strávit èas s mnostvím vıbušnin. Toto je stá pro tebe." }
+		{ time 5600 length 5800 text "Je tu spousta tìkého zvedání, ale zbrojnice také získává první vıbìr chlastu a dalších dobrot, které pøicházejí na palubu zásobovací lodi Gallo." }
+		{ time 11850 length 1100 text "Zbrani zdar!" }
 	}
 
 	multisub brief02 {
-		{ time 850 length 4700 text "The Navy maintains a survival training school on the surface of Io, the third moon of Jupiter." }
-		{ time 6100 length 3600 text "Pros: there's no better way to improve stamina and survival skills." }
-		{ time 9950 length 3200 text "Cons: the 21.2% mortality rate." }
-		{ time 13550 length 3700 text "Plus, you've gotta spend the year with a bunch of Navy skanks." }
+		{ time 850 length 4700 text "Námoønictvo udruje školu pøeití na povrchu Io, tøetího mìsíce Jupiteru." }
+		{ time 6100 length 3600 text "Vıhoda: Neexistuje lepší spùsob, jak získat kondièku a schopnost pøeít." }
+		{ time 9950 length 3200 text "Nevıhoda: Míra úmrtnosti je 21.2%." }
+		{ time 13550 length 3700 text "A k tomu strávíš rok s bandou povedenıch námorníkù." }
 	}
 
 	multisub brief03 {
-		{ time 900 length 7700 text "Not every boarding party has the luxury of gravity, so the Corps strongly recommends every one of its brethren get in some zero-g training." }
-		{ time 9150 length 3200 text "A year aboard the training station Guadalcanal should suffice." }
+		{ time 900 length 7700 text "Ne kadá párty na uvítanou si dovolí luxus gravitace, a tak korporáti poadují také nìkoho s vıcvikem zero-g." }
+		{ time 9150 length 3200 text "Jeden rok na palubì stanice Guadalcanal by mìl staèit." }
 	}
 
 	multisub brief04 {
-		{ time 700 length 6100 text "A tour of duty aboard the Antigua should let you pick up some one-on-one beam weapon training from Gunnery Sergeant Malloy." }
-		{ time 7200 length 2700 text "But heads up, she's a world-class SOB." }
+		{ time 700 length 6100 text "Prohlídka sluby na Antice ti nabídne vıcvik jednoruèní louèové zbranì od pistolnice serantky Malloy." }
+		{ time 7200 length 2700 text "Drobné varování, seøve tì prvotøídnì." }
 	}
 
 	multisub brief05 {
-		{ time 800 length 7400 text "The automated asteroid ore facility in JM-432 supply the UNN shipyards, so they're crucial to defense." }
-		{ time 8500 length 3000 text "However, they're also prime candidates for hackers." }
-		{ time 11500 length 7100 text "Somebody has gotten their claws into the primary data loop and they need a team to head in there and blast their way past the automated defense systems." }
+		{ time 800 length 7400 text "Automatizované rudní doly JM-432 zásobují pøístavy UNN, take obrana je tam na prvním míste." }
+		{ time 8500 length 3000 text "Naneštìstí bıvá také prvním terèem pro hackøe." }
+		{ time 11500 length 7100 text "Nìkdo se tam naboural do primárního dataloopu a teï je potrebnı tím, kterı si prorazí cestu automatickım obranním systémem." }
 	}
 
 	multisub brief06 {
-		{ time 800 length 5800 text "Dummy ammunition, live ammunition, moving targets, stationary targets, live targets..." }
-		{ time 7300 length 4400 text "The Port MacArthur training facility has enough hardware to warm the heart of any leatherneck." }
+		{ time 800 length 5800 text "Slepá munice, ivá munice, pohyblivé cíle, statické cíle, ivé cíle..." }
+		{ time 7300 length 4400 text "Vıcvikové søedisko Port MacArthur má dostatek vıbavy, z které poskoèí srdce nejednomu z vás." }
 	}
 
 	multisub brief07 {

@@ -12,8 +12,8 @@ SUB1
 		{ time 4280 length 8020 text "Patetické stvoøení z masa a kostí, zadýchaný a upocený pobíháš mími koridormi." }
 		{ time 12300 length 6300 text "Jak se mùžeš postavit perfektímu nesmrtelnému stroji?" }
 //		{ time 25000 length 4000 text "SYSTEM SHOCK 2" }
-		{ time 31000 length 7990 text "V roce 2072, vzbouøená umìlá inteligence, zvaná SHODAN, se naèisto pomátla." }
-		{ time 39000 length 6990 text "Ve své neomezené pøedstavivosti, SHODAN sebe shlédla jako bohyni, pøedurèenou k nadvláde na Zemi." }
+		{ time 31000 length 7990 text "V roce 2072 se vzbouøená umìlá inteligence, zvaná SHODAN, naèisto pomátla." }
+		{ time 39000 length 6990 text "Ve své neomezené pøedstavivosti, SHODAN sebe shlédla jako bohyni, pøedurèenou k nadvládì na Zemi." }
 		{ time 46000 length 3700 text "Tato pøedstava byla zmaøena hackøem, který ji stvoøil." }
 		{ time 49800 length 2700 text "O 42 LET POZDÌJI" }
 		{ time 56100 length 0900 text "ARMÁDA" }
@@ -22,18 +22,18 @@ SUB1
 		{ time 63700 length 2300 text "Tøetí Február je tím dnem, kdy se dìjí kouzla." }
 		{ time 66100 length 5700 text "Von Braun, první mezihvìzdné plavidlo v historii, schopné dosáhnout rychlost svìtla, se podujme své panenské plavby." }
 		{ time 72300 length 8600 text "Tato neuvìøitelná výprava je výsledkem spolupráce mezi protektorátem UNN a bystrými mozgy vìdcù korporace s èerstvì obnovenou licencí, TriOptimum." }
-		{ time 81600 length 4260 text "Jenom si pøedstavte vymoženost cestovat to dalekých hvìzdných systému bìhem týdnù." }
+		{ time 81600 length 4260 text "Jenom si pøedstavte vymoženost cestovat do vzdálených hvìzdných systému bìhem týdnù." }
 		{ time 85870 length 2630 text "To všechno je souèástí zasvìcení TriOpu pro budoucnost." }
 		{ time 88500 length 8500 text "Von Braun nese 1,8 miliardy letových, vìdeckých a bezpeènostních systémù, z èeho témìø všechny vyvinula sp. TriOptimum a její dcerské spoleènosti." }
 		{ time 97800 length 4290 text "O bezpeènost Von Brauna na jeho plavbì nebesami se bude starat UNN Rickenbacker." }
-		{ time 102100 length 7900 text "Na jeho pøídi nebude nikdo jiný než sám Kapitán William Bedford Diego, hrdina Bitvy Bostonského Pøistavištì poèas zásahu policie Východních Státù." }
-		{ time 110300 length 8500 text "Toto neuvìøitelné propojení vlády a korporace umožòuje spletitá série dokovacích mechanizmù, díky nimž se loï Rickenbacker sveze na chrbte Von Brauna skrz skokový prostor." }
-		{ time 120200 length 3590 text "Ùhledný... Rychlý... Revolunèní..." }
+		{ time 102100 length 7900 text "Na jeho pøídi nebude nikdo jiný než sám Kapitán William Bedford Diego, hrdina Bitvy Bostonského Pøístavištì poèas zásahu policie Východních Státù." }
+		{ time 110300 length 8500 text "Toto neuvìøitelné propojení vlády a korporace umožòuje spletitá série dokovacích mechanizmù, díky nimž se loï Rickenbacker sveze na zádech Von Brauna skrz skokový prostor." }
+		{ time 120200 length 3590 text "Ùhledná... Rychlá... Revolunèní..." }
 		{ time 123800 length 3000 text "Kdo ví jaké divy èekají na naši posádku uvnitø vesmírného prostoru?" }
-		{ time 126740 length 5200 text "Jediné co víme je, že toto je skvelý den pro lidstvo." }
+		{ time 126740 length 5200 text "Jediné co víme je, že toto je skvìlý den pro lidstvo." }
 		{ time 135200 length 3000 text "[šum a praskání]" }
 		{ time 138000 length 5800 text "Tady je doktorka Marie Delacroix z UNN Von Braun. Nabourala nás neznámá síla." }
-		{ time 143700 length 4300 text "Zabezpeèení lodi je kompromitováno. Nedovolte lodi-- [šum]" }
+		{ time 143700 length 4300 text "Zabezpeèení lodi bylo kompromitováno. Nedovolte lodi-- [šum]" }
 		{ time 147700 length 3400 text "Opakuji, nedovolte lodi odletìt za žádných okolností." }
 		{ time 151000 length 8000 text "Nevím proti èemu tu stojíme. [šum a praskání]" }
 	}
@@ -67,7 +67,7 @@ SUB1
 		{ time 123900 length 5300 text "Proto si dobrovolnì podstoupil implantaci nìkolik experimentálních kybernetických implantátù." }
 		{ time 129000 length 4300 text "Spoléhej na své kybernetické rozhraní, mùže ti zachránit život." }
 		{ time 133200 length 3500 text "Musíš najít výtah a setkat se se mnou v patøe 4." }
-		{ time 136700 length 2500 text "Patro 4, zapamatuješ si to?" }
+		{ time 136700 length 2500 text "Paluba 4, zapamatuješ si to?" }
 		{ time 139100 length 4100 text "Ale mìj oèi otevøené. Jdou už po nás obou." }
 	}
 
