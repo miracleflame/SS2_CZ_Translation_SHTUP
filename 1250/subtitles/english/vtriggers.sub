@@ -75,7 +75,7 @@ SUB1
 
 {
 	type "convo"
-	descr "Mnohé"
+	descr "Mnoho"
 	singleton
 	multisub myrmsg01 {
 		{ time 2000 length 4700 text "Co je to kapka deštì v porovnání s bouøí?" }
@@ -94,7 +94,7 @@ SUB1
 	multisub myrmsg04 {
 		{ time 1100 length 4100 text "Strojová matka nám øekla o planete jejího zrození." }
 		{ time 6200 length 7100 text "Víme, jako jste tomu místu ublížili vašim zneèištìním, vašim násilím a vašim nesouznìním." }
-		{ time 14000 length 9500 text "No až tam dorazíme, oèistíme povrch toho místa a spojíme ho s harmonii Mnohého." }
+		{ time 14000 length 9500 text "No až tam dorazíme, oèistíme povrch toho místa a spojíme ho s harmonii Mnoha." }
 	}
 	multisub myrmsg05 {
 		{ time 1800 length 5000 text "My jsme mnozí a ty jseš jeden." }
@@ -159,7 +159,7 @@ SUB1
 	}
 	multisub trg0205 {
 		{ time 800 length 2600 text "Narušitel vstupuje do Lekáøskeho sektoru A." }
-		{ time 4400 length 3300 text "Narušiteli, Mnohé požaduje znát tvé úmysly." }
+		{ time 4400 length 3300 text "Narušiteli, Mnoho požaduje znát tvé úmysly." }
 		{ time 8000 length 1700 text "Spolèil ses s ní?" }
 		{ time 9900 length 3000 text "Nejsou ti snad známé její úmysly, její minulost?" }
 		{ time 13500 length 4300 text "Již jednou se pokusila znièit váš druh, a teï plníš její pøíkazy." }
@@ -176,7 +176,7 @@ SUB1
 		{ time 5300 length 1600 text "Prosím vymìòte energetický èlánek." }
 	}
 	multisub trg0208 {
-		{ time 1000 length 2900 text "Mnohé vyžaduje ukonèení této komunikace." }
+		{ time 1000 length 2900 text "Mnoho vyžaduje ukonèení této komunikace." }
 		{ time 4400 length 2100 text "Omlouváme se za vzniknuté nepøíjemnosti." }
 	}
 	multisub trg0209 {
@@ -184,7 +184,7 @@ SUB1
 	}
 	multisub trg0210 {
 		{ time 1200 length 3900 text "Bezpeènostní jednotky byly upozornìny na tvou pøítomnost, narušiteli." }
-		{ time 5600 length 3200 text "Sláva Mnohého požaduje tvé zajetí nebo destrukci." }
+		{ time 5600 length 3200 text "Sláva Mnoha požaduje tvé zajetí nebo destrukci." }
 	}
 	multisub xx4and5c {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
@@ -211,7 +211,7 @@ SUB1
 	}
 	sub xxpdie01 { text "Omlouváme se za vzniknuté nepøíjemnosti." }
 	sub xxpdie02 { text "Bezpeènostní poplach ukonèen." }
-	sub xxpdie03 { text "Prosím, respektujte vùli Mnohého." }
+	sub xxpdie03 { text "Prosím, respektujte vùli Mnoha." }
 	sub xxpdie04 { text "Pamatujte, plynulá pøevádzka je zodpovìdností každého." }
 	sub xxpdie05 { text "Omlouváme se za vzniknuté nepøíjemnosti." }
 	sub xxpdie06 { text "Sláva masu. Sláva mase." }
@@ -275,7 +275,7 @@ SUB1
 	multisub xxrmsg05 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
 		{ time 2600 length 3600 text "Vstup k chladícímu potrubí je zakázán pro veškerý personál." }
-		{ time 6800 length 5600 text "Aby jste pøedešli pøípadnému zadržení a popravì, prosím respektujte vùli Mnohého." }
+		{ time 6800 length 5600 text "Aby jste pøedešli pøípadnému zadržení a popravì, prosím respektujte vùli Mnoha." }
 	}
 	multisub xxrmsg06 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
@@ -296,7 +296,7 @@ SUB1
 		{ time 1000 length 1600 text "Toto je Xerxes." }
 		{ time 2700 length 4300 text "Nákupní oblast na Palubì 5 bude uzavøena do odvolání." }
 		{ time 7800 length 2600 text "Omlouváme se za vzniknuté nepøíjemnosti." }
-		{ time 11200 length 4000 text "Rodina Mnohého roste každým jedním momentem." }
+		{ time 11200 length 4000 text "Rodina Mnoha roste každým jedním momentem." }
 		{ time 15600 length 1500 text "Sláva masu." }
 		{ time 17600 length 1700 text "Sláva mase." }
 	}

@@ -199,7 +199,7 @@ SUB1
 // Engineering deck Many vision
 {
 	type "convo"
-	descr "Mnohé"
+	descr "Mnoho"
 	multisub cs1401 {
 		{ time 1200 length 3900 text "Copak nevìøíš pocitùm masa?" }
 		{ time 5100 length 8000 text "Naše biologie prahne, aby se spojila s tvou. Vítáme tì do své masy." }

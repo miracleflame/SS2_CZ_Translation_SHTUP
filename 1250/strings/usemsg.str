@@ -1,104 +1,110 @@
-Air_Recirculator:"Vlozte Toxin-A."
-AuxPower:"Vlozte nabity clanek."
-Bballpoweroff:"Osvetleni basketbaloveho hriste mimo provoz."
-Bballbutton:"Osvetleni basketbaloveho hriste obnoveno."
-Botcoming:"Nakladni vytah porouchan.  Udrzba byla upozornena."
-Broken:"Tento vytah je poskozen.  Udrzbar prijde co nejdriv...  Cekejte prosim..."
-card1:"Pouzivam vstupnou kartu k otevreni dveri."
-CitadelScreen:"Nemozno pouzit normalni obrazovky."
-Closed:"Pristup odepren."
-Comp_Online:"Pocitac Kapalinoveho Rizeni zapojen."
-ElevQuest:"Xerxes odeprel pristup."
+Air_Recirculator:"Vložte Toxin-A."
+AuxPower:"Vložte nabitý èlánek."
+Bballpoweroff:"Osvìtlení basketbalového høištì mimo provoz."
+Bballbutton:"Osvìtlení basketbalového høištì obnoveno."
+Botcoming:"Nákladní výtah porouchán.  Údržba byla upozornìna."
+Broken:"Tento výtah je poškozen.  Údržbáø pøijde co nejdøív...  Èekejte prosím..."
+card1:"Používám vstupnou kartu k otevøení dveøí."
+CitadelScreen:"Nemožno použít normální obrazovky."
+Closed:"Pøístup odepøen."
+Comp_Online:"Poèítaè Kapalinového Øízení zapojen."
+ElevQuest:"Xerxes odepøel pøístup."
 exp1:""
 free2:""
 Free3:""
 free4:""
-LIFTED:"Bezpecnostni zablokovani vypnuto - pristup umoznen."
-LOCKDOWN:"Bezpecnostni zablokovani - pristup odepren."
-Nac1OL:"Leva gondola zapojena."
-Nacomp2_OL:"Prava gondola zapojena."
-NavMarkerCreate:"Navigacni marker umistnen."
-NavMarkerFrob:"Navigacni marker odstranen."
-NeedOverride:"Nutne hardwarove premosteni."
-NotFrobbed:"Motorove gondoly vypnuty."
-Offline:"Kapalinove rizeni vypnuto."
-Online:"Kapalinove rizeni zapnuto... Probiha vyplachovani radiace."
-OpenHatch:"Udrzbarska sachta otevrena."
-Ops_Over:"Nastaveno premosteni OPS."
-OutOfOrder:"Tento vytah je odpojen kvuli udrzbe."
-Pad1:"Nutny vstupni kod."
-pad2:"Nutny vstupni kod zbrojnice."
-Post1:"Zamereni mise: Zbrojni zasobovani
-(prida: +2 sily)"
-Post10:"Zamereni mise: Sprava lodi
-(prida: +1 hack a +1 sily)"
-Post11:"Zamereni mise: Technik
-(prida: +1 oprava a +1 sily)"
-Post12:"Zamereni mise: Vojenska policie
-(prida: +1 modifikace a +1 sily)"
-Post13:"Zamereni mise: Navigacni sluzba
-(prida: +2 kyber-kompatibilita)"
-Post14:"Zamereni mise: Zbranova udrzba
-(prida: +1 udrzba)"
-Post15:"Zamereni mise: Skola taktickeho vycviku
-(prida: +2 standardni zbrane)"
-Post16:"Zamereni mise: Laboratorni asistent
-(prida: +1 vyzkum)"
-Post17:"Zamereni mise: Vycvik preziti
-(prida: +2 odolnost)"
-Post18:"Zamereni mise: Trening v beztizi
-(prida: +2 Hbitost)"
-Post19:"Zamereni mise: Sens Dep Tank 925/NP5: Kyber empatie
-(prida: 2. vrstvu PSI schopnosti, Cryokinesis a Psychogenic Cyber Affinity)"
-Post2:"Zamereni mise: Trening preziti
-(prida: +2 odolnost)"
-Post20:"Zamereni mise: Sens Dep Tank 437/WH1: Kineticka empatie
-(prida: 2. vrstvu PSI schopnosti, Cryokinesis a Kinetic Redirection)"
-Post21:"Zamereni mise: Sens Dep Tank 003/MU5: Promeny hmoty
-(prida: 2. vrstvu PSI schopnosti, Cryokinesis a Psycho-reflective Screen)"
-Post22:"Zamereni mise: Telepaticke vysetrovani/Engramanalyza
-(prida: +2 Psi)"
-Post23:"Zamereni mise: Experimentalni laborator TOS Ki Luan
-(prida: +1 vyzkum)"
-Post24:"Zamereni mise: Takticky PSI vycvik/Kryti
-(prida: +2 odolnost)"
-Post25:"Zamereni mise: Polni operace, antiterorismus\n(prida: +1 sily, +1 Hbitost, +1 Kyber-kompatibilita,\n a Psychogenic Agility)"
-Post26:"Zamereni mise: Polni operace, vyber skupin\n(prida: +1 sily, +1 Hbitost, +1 Kyber-kompatibilita,\n a Neuro-Reflex Dampening)"
-Post27:"Zamereni mise: Polni operace, IO\n(prida: +1 sily, +1 Hbitost, +1 Kyber-kompatibilita,\n a Remote Electron Tampering)"
-Post3:"Zamereni mise: Vycvik v beztizi
-(prida: +2 Hbitost)"
-Post4:"Zamereni mise: Zbranova technika
-(prida: +1 energeticke zbrane a +1 Kyber-kompatibilita)"
-Post5:"Zamereni mise: Hlidka na asteroidech
-(prida: +1 tezke zbrane a +1 Kyber-kompatibilita)"
-Post6:"Zamereni mise: asistent personalu, strelne zbrane
-(prida: +2 standardni zbrane)"
-Post7:"Zamereni mise: Cestna straz MP
-(prida: +1 udrzba)"
-Post8:"Zamereni mise: Potlacovani vzpour
-(prida: +1 modifikace)"
-Post9:"Zamereni mise: Lodni systemovy poradce
-(prida: +1 oprava)"
-PowerOff:"Napajeni odpojeno."
-Psi1:"Kyberneticka jednotka vylepsujici PSI dovednosti"
-Rep1:"Replikator je neopravitelny."
-Rep2:"Replikator neni pouzitelny."
-Rep5:"Obvody shoreli."
-Rep6:"Obvody shoreli."
-SCPSecret:"SCP tajny ukryt nalezen. Groovy."
-seccrew1:"Nutny pristup posadky."
-ShieldBroken:"Pocitac stitu nefunkcni."
-ShieldOff:"Stit raketoplanu deaktivovan."
-Slideshow1:"Cybernetic Interface Remote Access Protocol online..."
-Slideshow2:"Username: GODDESS"
-Slideshow3:"Password: ********************************"
-Slideshow4:"Remote access granted."
-Slideshow5:"Accessing external perceptual data stream..."
-Stat1:"Kyberneticka jednotka vylepsujici telesne dovednosti"
-Swimpad:"Vlozte kod k otevreni dveri."
-SympResInst:"Sympateticky rezonator instalovan."
-tech1:"Kyberneticka jednotka vylepsujici technicke dovednosti"
-TrainingLog:"Stisknutim \"U\" prehrajete posledni zvednuty Log."
-Trap:"Mistni napajeni obnoveno."
-trip0201:"Vetsina dveri se otvira, kdyz se priblizite."
-Weap1:"Kyberneticka jednotka vylepsujici zbranove dovednosti"
+LIFTED:"Bezpeènostní zablokování vypnuto - pøístup umožnìn."
+LOCKDOWN:"Bezpeènostní zablokování - pøístup odepøen."
+Nac1OL:"Levá gondola zapojena."
+Nacomp2_OL:"Práva gondola zapojena."
+NavMarkerCreate:"Navigaèní markér umístnìn."
+NavMarkerFrob:"Navigaèní markér odstranìn."
+NeedOverride:"Nutné hardwarové pøemostìní."
+NotFrobbed:"Motorové gondoly vypnuty."
+Offline:"Kapalinové øízení vypnuto."
+Online:"Kapalinové øízení zapnuto... Probíhá vyplachování radiace."
+OpenHatch:"Údržbáøská šachta otevøena."
+Ops_Over:"Nastaveno pøemostìní OPS."
+OutOfOrder:"Tento výtah je odpojen kvùli údržbì."
+Pad1:"Nutný vstupní kód."
+Pad2:"Nutný vstupní kód zbrojnice."
+Post1:"Zamìøení mise: Zbrojní zásobování
+(pøidá: +2 Síla)"
+Post10:"Zamìøení mise: Správa lodi
+(pøidá: +1 Hackování a +1 Síla)"
+Post11:"Zamìøení mise: Technik
+(pøidá: +1 Oprava a +1 Síla)"
+Post12:"Zamìøení mise: Vojenská policie
+(pøidá: +1 Modifikace a +1 Síla)"
+Post13:"Zamìøení mise: Navigaèní služba
+(pøidá: +2 Kyber-kompatibilita)"
+Post14:"Zamìøení mise: Zbraòová údržba
+(pøidá: +1 Údržba)"
+Post15:"Zamìøení mise: Škola taktického výcviku
+(pøidá: +2 Standardní zbranì)"
+Post16:"Zamìøení mise: Laboratorní asistent
+(pøidá: +1 Výzkum)"
+Post17:"Zamìøení mise: Výcvik pøežití
+(pøidá: +2 Vytrvalost)"
+Post18:"Zamìøení mise: Trénink v beztíži
+(pøidá: +2 Hbitost)"
+Post19:"Zamìøení mise: Nádrž Senz. Dep. 925/NP5: Kyber empatie
+(pøidá: 2. Vrstvu PSI schopností, Kryokinezi a Psychogenní Kyber-kompatibilitu)"
+Post2:"Zamìøení mise: Trénink pøežití
+(pøidá: +2 Vytrvalost)"
+Post20:"Zamìøení mise: Nádrž Senz. Dep. 437/WH1: Kinetická empatie
+(pøidá: 2. Vrstvu PSI schopností, Kryokinezi a Kinetické Pøesmìrování)"
+Post21:"Zamìøení mise: Nádrž Senz. Dep. 003/MU5: Promìny hmoty
+(pøidá: 2. Vrstvu PSI schopností, Kryokinezi a Psycho-reflexní Clona)"
+Post22:"Zamìøení mise: Telepatické vyšetøování/Engramanalýza
+(pøidá: +2 PSI)"
+Post23:"Zamìøení mise: Experimentální laboratoø TOS Ki Luan
+(pøidá: +1 Výzkum)"
+Post24:"Zamìøení mise: Takticky PSI výcvik/Krytí
+(pøidá: +2 Vytrvalost)"
+Post25:"Zamìøení mise: Polní operace, antiterorismus
+(pøidá: +1 Síla, +1 Hbitost, +1 Kyber-kompatibilita,
+ a Psychogenní Hbitost)"
+Post26:"Zamìøení mise: Polní operace, výbìr skupin
+(pøidá: +1 Síla, +1 Hbitost, +1 Kyber-kompatibilita,
+ a Neuro-reflexní Tlumení)"
+Post27:"Zamìøení mise: Polní operace, IO
+(pøidá: +1 Síla, +1 Hbitost, +1 Kyber-kompatibilita,
+ a Dálková Manipulace Elektronù)"
+Post3:"Zamìøení mise: Výcvik v beztíži
+(pøidá: +2 Hbitost)"
+Post4:"Zamìøení mise: Zbraòová technika
+(pøidá: +1 Energetické zbranì a +1 Kyber-kompatibilita)"
+Post5:"Zamìøení mise: Hlídka na asteroidech
+(pøidá: +1 Tìžké zbranì a +1 Kyber-kompatibilita)"
+Post6:"Zamìøení mise: asistent personálu, støelné zbranì
+(pøidá: +2 Standardní zbranì)"
+Post7:"Zamìøení mise: Èestná stráž MP
+(pøidá: +1 Údržba)"
+Post8:"Zamìøení mise: Potlaèování vzpour
+(pøidá: +1 Modifikace)"
+Post9:"Zamìøení mise: Lodní systémový poradce
+(pøidá: +1 Oprava)"
+PowerOff:"Napájení odpojeno."
+Psi1:"Kybernetická jednotka vylepšující PSI dovednosti"
+Rep1:"Replikator je neopravitelný."
+Rep2:"Replikator není použitelný."
+Rep5:"Obvody shoøeli."
+Rep6:"Obvody shoøeli."
+SCPSecret:"SCP tajný úkryt nalezen. Tžhíjova."
+seccrew1:"Nutný pøístup posádky."
+ShieldBroken:"Poèítaè štítù nefunkèní."
+ShieldOff:"Štít raketoplánu deaktivován."
+Slideshow1:"Protokol Vzdáleného Pøístupu ke Kybernetickému Rozhraní online..."
+Slideshow2:"Užívatel: BOHYNÌ"
+Slideshow3:"Heslo: ********************************"
+Slideshow4:"Vzdálený pøístup povolen."
+Slideshow5:"Spøístupòuji perceptuální datový tok..."
+Stat1:"Kybernetická jednotka vylepšující tìlesné dovednosti"
+Swimpad:"Vložte kód k otevøení dveøí."
+SympResInst:"Sympateticky rezonátor instalován."
+tech1:"Kybernetická jednotka vylepšující technické dovednosti"
+TrainingLog:"Stisknutím "U" pøehrajete poslední zvednutý Log."
+Trap:"Místní napájení obnoveno."
+trip0201:"Vìtšina dveøí se otvírá, když se pøiblížíte."
+Weap1:"Kybernetická jednotka vylepšující zbraòové dovednosti"

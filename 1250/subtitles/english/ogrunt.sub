@@ -4,7 +4,7 @@ SUB1
 	type "bark"
 	descr "Hybrid"
 	multisub og1amb_1 {
-		{ time 1400 length 2300 text "Mnohé nás chrání!" }
+		{ time 1400 length 2300 text "Mnoho nás chrání!" }
 	}
 	multisub og1amb_2 {
 		{ time 800 length 2400 text "Kdo se nás dotknul?" }
@@ -18,7 +18,7 @@ SUB1
 	multisub og1amb_5 {
 		{ time 900 length 2200 text "My nepadneme!" }
 	}
-	sub og1at0_1 { text "Mnohé nám zpívá." }
+	sub og1at0_1 { text "Mnoho nám zpívá." }
 	sub og1at0_2 { text "Co se mi to stalo?" }
 	sub og1at0_3 { text "My jsme, my jsme, my jsme, my jsme." }
 	sub og1at0_4 { text "Rodíme se v našem novém mase." }
@@ -45,7 +45,7 @@ SUB1
 	sub og1bod_4 { text "Už ne jeden z nás." }
 	sub og1bod_5 { text "Jsi volný." }
 	sub og1chg_1 { text "Utišit nesouznìní." }
-	sub og1hit_1 { text "Mnohé je silné!" }
+	sub og1hit_1 { text "Mnoho je silné!" }
 	sub og1hit_2 { text "Triumfujeme!" }
 	sub og1hit_3 { text "Jseš sám!" }
 	sub og1hit_4 { text "Tvùj nesouzvuk tichne!" }
