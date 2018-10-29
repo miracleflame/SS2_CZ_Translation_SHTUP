@@ -3,11 +3,11 @@ SUB1
 {
 	type "convo"
 	descr "ValueRep"
-	sub replic1e { text "Ahoj! Prosím, vyberte si z ponuky." }
+	sub replic1e { text "Ahoj! Prosím, vyberte si z nabídky." }
 	sub replic2e { text "Děkujeme vám, že používáte ValueRep." }
 	multisub replic3e {
 		{ time 00 length 2200 text "Doufáme, že jste si replikaci s námi užili." }
-		{ time 2400 length 3000 text "Pamatujte, v Úterí je dabl-rep den." }
+		{ time 2400 length 3000 text "Pamatujte, v Úterý je dvojitý-rep den." }
 	}
 }
 
@@ -15,7 +15,7 @@ SUB1
 	type "convo"
 	descr ""
 	multisub comp_mal {
-		{ time 4900 length 1600 text "Zlyhání počítače." }
+		{ time 4900 length 1600 text "Selhání počítače." }
 	}
 }
 
@@ -40,7 +40,7 @@ SUB1
 	descr ""
 	sub baby1 { text "[dětský pláč]" }
 	sub baby2 { text "[dětský pláč]" }
-	sub classic { text "[classical music]" }
+	sub classic { text "[klasická hudba]" }
 	sub screamf1 { text "[ženský výkřik]" }
 	sub screamf2 { text "[ženský výkřik]" }
 	sub screamf3 { text "[ženský výkřik]" }
