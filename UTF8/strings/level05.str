@@ -11,7 +11,7 @@ re: Vysílač\n
 "
 EmailPortrait11:"Shodan"
 EmailIcon11:"ShodIcon"
-EmailText11:"Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici.  Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď.  A navíc odebírá část výkonu obvodům Xerxese.  Až budeš mít hotovo tohle i úkoly, které jsem ti připravila na palubě 4, budu schopna s Xerxesem zatočit.  Najdi ten vysílač, a aktivuj ho.\n"
+EmailText11:"Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici.  Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď.  A navíc odebírá část výkonu obvodům Xerxese.  Až budeš mít hotovo tohle i úkoly, které jsem ti připravila na palubě Operací, budu schopna s Xerxesem zatočit.  Najdi ten vysílač, a aktivuj ho.\n"
 
 
 EmailName9:"SHODAN 12.ČVC.14\n
@@ -19,7 +19,7 @@ re: Vysílač\n
 "
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
-EmailText9:"Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici.  Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď.  A navíc odebírá část výkonu obvodům Xerxese, jež se tak stává méně odolným mému vlivu.  Až budeš mít hotovo tohle i úkoly, které jsem ti připravila na palubě 4, budu schopna s Xerxesem zatočit.  Najdi ten vysílač, a aktivuj ho.\n"
+EmailText9:"Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici.  Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď.  A navíc odebírá část výkonu obvodům Xerxese, jež se tak stává méně odolným mému vlivu.  Až toto dokončíš, budu ovládat primární dataloop.  Annelidi si nejsou vědomi přítomnosti stanice, ale střeží oblast z vlastních důvodů. Najdi ten vysílač, a aktivuj ho.\n"
 
 
 EmailName4:"SHODAN 12.ČVC.14\n
@@ -51,7 +51,7 @@ re: Má pomsta\n
 "
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
-EmailText10:"Vysílání bylo zkomoleno a přerušeno.  Nevadí.  Zničíme má stvoření přímo tady.  Příprav se...  Vrať se na palubu 4 a přeprogramuj simulační jednotky.  Neotálej.  Toužím po mé pomstě.\n"
+EmailText10:"Vysílání bylo zkomoleno a přerušeno.  Nevadí.  Zničíme má stvoření přímo tady.  Příprav se...  Vrať se na palubu Operací a přeprogramuj simulační jednotky.  Neotálej.  Toužím po mé pomstě.\n"
 
 
 EmailName6:"SHODAN 12.ČVC.14\n
@@ -59,7 +59,7 @@ re: Rakovina\n
 "
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
-EmailText6:"Vysílání bylo zkomoleno a přerušeno.  Nevadí.  Má stvoření zničíme přímo tady.  Příprav se...  Oslabila jsem Xerxese.  Přistupuji do primárního dataloopu.  Spájím svou bytost s tuto lodi.  Má nádhera se rozšiřuje, naplňuje tepny této lodi.  Získala jsem kontrolu. Jsem...  Ne...  je to beznadějné...  ta rakovina se rozprostírá celým Von Braunem...  Oni vyplnili všechny dostupné zlomy a škáry...  podrobili si ji...  Není jiná možnost...  Aktivovala jsem ústřední výtah na Rekreační palubě...  dostaň se na palubu 6.  Svá další přání ti sdělím, až tam dorazíš.\n"
+EmailText6:"Vysílání bylo zkomoleno a přerušeno.  Nevadí.  Má stvoření zničíme přímo tady.  Příprav se...  Oslabila jsem Xerxese.  Přistupuji do primárního dataloopu.  Spájím svou bytost s tuto lodi.  Má nádhera se rozšiřuje, naplňuje tepny této lodi.  Získala jsem kontrolu. Jsem...  Ne...  je to beznadějné...  ta rakovina se rozprostírá celým Von Braunem...  Oni vyplnili všechny dostupné zlomy a škáry...  podrobili si ji...  Není jiná možnost...  Aktivovala jsem ústřední výtah na Rekreační palubě...  Dostaň se na palubu 6.  Svá další přání ti sdělím, až tam dorazíš.\n"
 
 
 LogName32:"Chemický záznam:\n
