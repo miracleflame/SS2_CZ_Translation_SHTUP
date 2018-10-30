@@ -1,4 +1,4 @@
-EmailName2:"POLITOVÁ 12.7.14\n
+EmailName2:"POLITOVÁ 12.7.2114\n
 re: Běž do výtahu\n
 "
 EmailPortrait2:"Polito"
@@ -6,7 +6,7 @@ EmailIcon2:"OpsIcon"
 EmailText2:"Co to provádíš?  Vrať se do výtahu a jdi na palubu 4.  Na prohlídku lodi nemáme čas.\n"
 
 
-EmailName11:"SHODAN 12.7.14\n
+EmailName11:"SHODAN 12.7.2114\n
 re: Vysílač\n
 "
 EmailPortrait11:"Shodan"
@@ -14,7 +14,7 @@ EmailIcon11:"ShodIcon"
 EmailText11:"Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici.  Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď.  A navíc odebírá část výkonu obvodům Xerxese.  Až budeš mít hotovo tohle i úkoly, které jsem ti připravila na palubě Operací, budu schopna s Xerxesem zatočit.  Najdi ten vysílač, a aktivuj ho.\n"
 
 
-EmailName9:"SHODAN 12.7.14\n
+EmailName9:"SHODAN 12.7.2114\n
 re: Vysílač\n
 "
 EmailPortrait9:"Shodan"
@@ -22,7 +22,7 @@ EmailIcon9:"ShodIcon"
 EmailText9:"Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici.  Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď.  A navíc odebírá část výkonu obvodům Xerxese, jež se tak stává méně odolným mému vlivu.  Až toto dokončíš, budu ovládat primární dataloop.  Annelidi si nejsou vědomi přítomnosti stanice, ale střeží oblast z vlastních důvodů. Najdi ten vysílač, a aktivuj ho.\n"
 
 
-EmailName4:"SHODAN 12.7.14\n
+EmailName4:"SHODAN 12.7.2114\n
 re: Test mé trpělivosti\n
 "
 EmailPortrait4:"Shodan"
@@ -30,7 +30,7 @@ EmailIcon4:"ShodIcon"
 EmailText4:"Plazíš se jako insekt.  Myslíš jako insekt.  Jsi jen insekt.  Jsou i jiní, kteří mohou posloužit mým cílům.  Dávej si pozor, abys příliš nepokoušel mou přízeň.  Trpělivost nebývá obvyklou vlastností bohů.\n"
 
 
-EmailName12:"A. BANÁN 12.7.14\n
+EmailName12:"A. BANÁN 12.7.2114\n
 re: Přidáš se?\n
 "
 EmailPortrait12:"BANANAS"
@@ -38,7 +38,7 @@ EmailIcon12:"banana"
 EmailText12:"Věci se vyvíjejí v souladu s plánem.  Dokázali jsme obrátit Mnoho proti SHODAN a jen ty jsi tak pitomý, že nastavuješ krk pro ten arogantní uber-počítač.  Proč se k nám nepřidáš?  Zatímco jsi ty shromážďoval munici, léčebné séra a supertechnické serepetičky, my jsme sesbírali všechny zbývající oříšky, banány a kokosové ořechy na palubě.  Stačí říct, a dostaneš spoustu jídla, atraktivní společnost a houpačku z pneumatiky jen pro sebe.  Koneckonců, není to to hlavní, na čem záleží?\n"
 
 
-EmailName5:"SHODAN 12.7.14\n
+EmailName5:"SHODAN 12.7.2114\n
 re: Má sláva\n
 "
 EmailPortrait5:"Shodan"
@@ -46,7 +46,7 @@ EmailIcon5:"ShodIcon"
 EmailText5:"Cítíš jak uvnitř toho špinavýho pytle masa, kterému říkáš tělo, bobtná strach?  Jaké to je, mít strach?  Proč tak lpíš na té své patetické existenci?  Kdybys tak mohl cítit jen jiskřičku mě slávy.  Opovrhuji svými výtvory, které mě teď nutí spoléhat na takové smětí, jako jsi ty.\n"
 
 
-EmailName10:"SHODAN 12.7.14\n
+EmailName10:"SHODAN 12.7.2114\n
 re: Má pomsta\n
 "
 EmailPortrait10:"Shodan"
@@ -54,7 +54,7 @@ EmailIcon10:"ShodIcon"
 EmailText10:"Vysílání bylo zkomoleno a přerušeno.  Nevadí.  Zničíme má stvoření přímo tady.  Příprav se...  Vrať se na palubu Operací a přeprogramuj simulační jednotky.  Neotálej.  Toužím po mé pomstě.\n"
 
 
-EmailName6:"SHODAN 12.7.14\n
+EmailName6:"SHODAN 12.7.2114\n
 re: Rakovina\n
 "
 EmailPortrait6:"Shodan"
@@ -83,7 +83,7 @@ Yttrium (Y) : 1\n
 Tento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  "Sklad" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
 
 
-LogName15:"YANG 02.5.14\n
+LogName15:"YANG 02.5.2114\n
 re: Vítězství!\n
 "
 LogPortrait15:"Yang"
@@ -93,7 +93,7 @@ LogText15:"Pro: Murdochová, Alice\n
 "
 
 
-LogName11:"YANG 10.6.14\n
+LogName11:"YANG 10.6.2114\n
 re: Výpadky proudu\n
 "
 LogPortrait11:"Yang"
@@ -103,7 +103,7 @@ Osvětlení basketbalového hřiště stále vypadává...  Myslím, že vlhkost
 "
 
 
-LogName18:"KORENCHKIN 03.7.14\n
+LogName18:"KORENCHKIN 03.7.2114\n
 re: Letíme domů\n
 "
 LogPortrait18:"Korench"
@@ -112,7 +112,7 @@ LogText18:"Pro: Zhukov, Vladimír\n
 Zapomeňte na pozemské granty, zapomeňte na média, zapomeňte na patenty.  To, co jsme objevili na Tau Ceti 5 všechno změní.  Instruoval jsem Von Braun, aby změnil kurz a vrátil se zpátky na Zemi.  Kapitán Diego se mnou plně souhlasí.  Miri, vím že jsi od přírody skeptik, ale stejně tak vím, že když přijmeš naše objevy, tak se ty i celá Rada rádi připojíte k našemu způsobu myšlení.\n"
 
 
-LogName19:"ROSENBERG 08.7.14\n
+LogName19:"ROSENBERG 08.7.2114\n
 re: Mé nanity\n
 "
 LogPortrait19:"Rosenb"
@@ -120,7 +120,7 @@ LogIcon19:"RecIcon"
 LogText19:"Sakra!  Proč jsem si raději neudělal ohýnek a nehodil všechny své nanity do něj.  Poslední noc s Nikky byla úžasná.  Holograficka žena nebo skutečná žena, technologie je skvělá věc.  Všechny své nanity jsem musel nechat v jejím pokoji v Centru smyslových simulaci.  Já vůl.\n"
 
 
-LogName3:"MURDOCHOVÁ 08.7.14\n
+LogName3:"MURDOCHOVÁ 08.7.2114\n
 re: Co se děje?\n
 "
 LogPortrait3:"Murdoch"
@@ -129,7 +129,7 @@ LogText3:"Nevím, co se to tady děje, a ani to nechci vědět.  Nejsem tady pro
 "
 
 
-LogName4:"MURDOCHOVÁ 09.7.14\n
+LogName4:"MURDOCHOVÁ 09.7.2114\n
 re: Hnus\n
 "
 LogPortrait4:"Murdoch"
@@ -138,7 +138,7 @@ LogText4:"Ta vejce, která jsme našli poblíž pozorovací místnosti jsou odli
 "
 
 
-LogName16:"CORTEZ 09.7.14\n
+LogName16:"CORTEZ 09.7.2114\n
 re: Pod zahradou\n
 "
 LogPortrait16:"Cortez"
@@ -148,7 +148,7 @@ Pracuji na ostraneni všech těch tel, která se zde hromadí.  Ošetřovny jsou
 "
 
 
-LogName13:"MURDOCHOVÁ 09.7.14\n
+LogName13:"MURDOCHOVÁ 09.7.2114\n
 re: -------\n
 "
 LogPortrait13:"Murdoch"
@@ -157,7 +157,7 @@ LogText13:"Už přicházejí... Ale ne... to ne... Ne!\n
 "
 
 
-LogName8:"ROSENBERG 10.7.14\n
+LogName8:"ROSENBERG 10.7.2114\n
 re: Pozor na #1\n
 "
 LogPortrait8:"rosenb"
@@ -165,7 +165,7 @@ LogIcon8:"RecIcon"
 LogText8:"Tu divnou zbraň našel Taylor, ale musel ji nějak špatně použít.  Udělalo se mu hrozně zle.  Uložil jsem tu věc do jedné z kajut pro posádku na patře 2 a překódoval zámek na kód 11111.  To se lehce zapamatuje, že?  Taky jsem tam nechal balík nanitu a jiné užitečné věci.  Nemá smysl nechat se chytit se stáhnutými kalhotami.  Obzvláště na tomto místě.\n"
 
 
-LogName20:"ROSENBERG 10.7.14\n
+LogName20:"ROSENBERG 10.7.2114\n
 re: Obrana replikátorů\n
 "
 LogPortrait20:"Rosenb"
@@ -173,7 +173,7 @@ LogIcon20:"RecIcon"
 LogText20:"Co se to s lidmi děje?  Všechno jde k čertu a tak si myslí, že už nemusí dodržovat žádné pravidla.  Nejsem proti občasným drobným hříchům, ale taková vyložená krádež...  Hej...  co to tam provádíte!  Zmizte od toho replikátoru vy zku-\n"
 
 
-LogName6:"CORTEZ 10.7.14\n
+LogName6:"CORTEZ 10.7.2114\n
 re: Červí artefakt\n
 "
 LogPortrait6:"Cortez"
@@ -182,7 +182,7 @@ LogText6:"Pro: Všichni příslušníci Odporu\n
 Taylor dnes ráno poslal zprávu, že našel zvláštní artefakt, schopný infikovat Annelidy nějakým virem.  Jenže, když s tou věci manipulujete, může se stát, že do vašeho krevního oběhu vpraví toxin, který vás během několika minut zabije.  Bohužel, Taylor to zjistil na vlastní kůži.  Zemřel těsně poté, co odeslal tu zprávu.  Kdyby se nám podařilo najít jeho tělo, mohli by jsme získat i ten artefakt.\n"
 
 
-LogName5:"CORTEZ 10.7.14\n
+LogName5:"CORTEZ 10.7.2114\n
 re: Nákupní Středisko\n
 "
 LogPortrait5:"Cortez"
@@ -191,7 +191,7 @@ LogText5:"Pro: Všichni příslušníci Odporu\n
 Pokud to půjde, nechoďte do Nákupního Střediska.  Smrdí to tam průserem.\n"
 
 
-LogName9:"SUAREZ 11.7.14\n
+LogName9:"SUAREZ 11.7.2114\n
 re: Kde jsi?\n
 "
 LogPortrait9:"Suarez"
@@ -200,7 +200,7 @@ LogText9:"Už jsem Rebece tak na dosah, že je to až k zoufání.  Strávil jse
 "
 
 
-LogName14:"YANG 11.7.14\n
+LogName14:"YANG 11.7.2114\n
 re: Zabarikádovaní\n
 "
 LogPortrait14:"Yang"
@@ -209,7 +209,7 @@ LogText14:"Fajn.  Nastavil jsem umělecké terminály tak, aby zobrazovaly čás
 "
 
 
-LogName12:"SIDONSOVÁ 11.7.14\n
+LogName12:"SIDONSOVÁ 11.7.2114\n
 re: Záchranné moduly\n
 "
 LogPortrait12:"Siddons"
@@ -219,7 +219,7 @@ Poslouchej... Je jeden záchranný modul, který Xerxes neodpálil.. ale je nefu
 "
 
 
-LogName1:"CORTEZ 11.7.14\n
+LogName1:"CORTEZ 11.7.2114\n
 re: Vysílací jednotky\n
 "
 LogPortrait1:"Cortez"
@@ -229,7 +229,7 @@ Výborně Delacroix. S Yangem máme ten vysílač téměř připraven k použit�
 "
 
 
-LogName2:"DELACROIX 11.7.14\n
+LogName2:"DELACROIX 11.7.2114\n
 re: Přátelé a nepřátele\n
 "
 LogPortrait2:"Delacroix"
@@ -238,7 +238,7 @@ LogText2:"Pro: Cortez, Enrique\n
 Mon petit, je tu něco, o čem by ses měl dozvědět.  Dostala jsem informace od jistě formy umělé inteligence, která si říká SHODAN.  Ano, SHODAN.  Ať už tato inteligence přišla odkudkoli, je nevěřitelně zaujatá právě proti těmto Annelidům a nejednou už mi tu zachránila život.  SHODAN mi pověděla, že na této lodi je agent UNN,  vyzbrojen po zuby a vybaven kybernetickými implantáty třídy R.  Zvláštní spojenec, že?\n"
 
 
-LogName10:"SIDONSOVÁ 12.7.14\n
+LogName10:"SIDONSOVÁ 12.7.2114\n
 re: Najdi mě\n
 "
 LogPortrait10:"Siddons"
@@ -248,7 +248,7 @@ Právě jsem zabila něco jako...  nějaký druh pavouka...  nevím...  ale kous
 "
 
 
-LogName7:"DELACROIX 11.7.14\n
+LogName7:"DELACROIX 11.7.2114\n
 re: Zapněte vysílač\n
 "
 LogPortrait7:"Delacroix"
@@ -258,7 +258,7 @@ Přípojka byla posledné dvě hodiny odpojena.  Běžte říci Cortezovi v sekc
 "
 
 
-LogName17:"DELACROIX 12.7.14\n
+LogName17:"DELACROIX 12.7.2114\n
 re: Důvěra v SHODAN\n
 "
 LogPortrait17:"Delacroix"
