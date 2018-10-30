@@ -3,154 +3,154 @@ BuyText2:"Zde se zobrazuje, kolik kyber modulů máte k dispozici."
 BuyText3:"Tato tlačítka přepínají mezi různými zobrazeními MFD."
 AmpText0:"Tato tlačítka přepínají mezi úrovněmi psionickych disciplín."
 
-Psi0:"První úroveň neurální kapacity\n\n
+Psi0:"První úroveň neurální kapacity\n
 Je nezbytná pro použití PSI disciplín první úrovně.  Zvyšuje maximální počet psi bodů o 2.  Každé použití disciplín první úrovně odebere 1 psi bod."
 
-Psi1:"Psycho-reflexní Clona\n\n
-Zadrží 15% z každého útoku.\n\n
+Psi1:"Psycho-reflexní Clona\n
+Zadrží 15% z každého útoku.\n
 Trvání: 20 s. + 30 s. za PSI"
 
-Psi2:"Neuro-reflexní Tlumení\n\n
-Eliminuje zpětný ráz zbraně.\n\n
+Psi2:"Neuro-reflexní Tlumení\n
+Eliminuje zpětný ráz zbraně.\n
 Trvání: 1 min. + 20 s. za PSI"
 
-Psi3:"Kinetické Přitáhnutí\n\n
-Přitáhne k vám většinu objektů.\n\n
+Psi3:"Kinetické Přitáhnutí\n
+Přitáhne k vám většinu objektů.\n
 Trvání: 1 s. za PSI"
 
-Psi4:"Psychogenní Hbitost\n\n
-Zvýší vaší Hbitost (AGI) o 2.\n\n
+Psi4:"Psychogenní Hbitost\n
+Zvýší vaší Hbitost (AGI) o 2.\n
 Trvání: 2 min. + 1 min. za PSI"
 
-Psi5:"Psychogenní Kyber-kompatibilita\n\n
-Zvýší vaší kybernetickou kompatibilitu (CYB) o 2.\n\n
+Psi5:"Psychogenní Kyber-kompatibilita\n
+Zvýší vaší kybernetickou kompatibilitu (CYB) o 2.\n
 Trvání: 2 min. + 1 min. za PSI"
 
-Psi6:"Kryokineze\n\n
+Psi6:"Kryokineze\n
 Vystřelí na cíl projektil, absorbující teplo.  Vyšší PSI zvyšuje účinnost."
 
-Psi7:"Dálková Manipulace Elektronů\n\n
-Způsobí zkrácení doby poplachu.\n\n
+Psi7:"Dálková Manipulace Elektronů\n
+Způsobí zkrácení doby poplachu.\n
 Redukce času: 5 s. + 5 s. za PSI"
 
-Psi8:"Druhá úroveň neurální kapacity\n\n
+Psi8:"Druhá úroveň neurální kapacity\n
 Je nezbytná pro použití PSI disciplín druhé úrovně.  Zvyšuje maximální počet psi bodů o 4.  Každé použití disciplín druhé úrovně odebere 2 psi body."
 
-Psi9:"Anti-entropické Pole\n\n
-Pokud je tato schopnost aktivní, vaše střelné zbraně se nezaseknou a ani se neopotřebovávají.\n\n
+Psi9:"Anti-entropické Pole\n
+Pokud je tato schopnost aktivní, vaše střelné zbraně se nezaseknou a ani se neopotřebovávají.\n
 Trvání: 10 s. + 20 s. za PSI"
 
-Psi10:"Nadprodukce Adrenalinu\n\n
-Zvyšuje účinek boje na blízko o faktor rovnající se PSI.\n\n
+Psi10:"Nadprodukce Adrenalinu\n
+Zvyšuje účinek boje na blízko o faktor rovnající se PSI.\n
 Trvání: 10 s. za PSI"
 
-Psi11:"Neurální Dekontaminace\n\n
-Zadrží 80% okolní radiace.\n\n
+Psi11:"Neurální Dekontaminace\n
+Zadrží 80% okolní radiace.\n
 Trvání: 10 s. + 5 s. za PSI"
 
-Psi12:"Mozkově-stimulovaná Regenerace\n\n
-Regeneruje ztracené zdraví.\n\n
+Psi12:"Mozkově-stimulovaná Regenerace\n
+Regeneruje ztracené zdraví.\n
 Hodnota vyléčení: 2 body zdraví za PSI"
 
-Psi13:"Psychogenní Síla\n\n
-Zvýší vaší sílu (STR) o 2.\n\n
+Psi13:"Psychogenní Síla\n
+Zvýší vaší sílu (STR) o 2.\n
 Trvání: 2 min. + 1 min. za PSI"
 
-Psi14:"Rekurzivní psionické zesílení\n\n
-Zvýší vaší PSI schopnost (PSI) o 2. Během trvání se zdvojnásobí spotřeba psi bodů.\n\n
+Psi14:"Rekurzivní psionické zesílení\n
+Zvýší vaší PSI schopnost (PSI) o 2. Během trvání se zdvojnásobí spotřeba psi bodů.\n
 Trvání: 10 s. + 10 s. za PSI"
 
-Psi15:"Lokalizovaná Pyrokineze\n\n
-Zraňuje všechny tvory v okolí 5 stop.  Vyšší PSI zvyšuje účinnost vůči protivníkům.\n\n
+Psi15:"Lokalizovaná Pyrokineze\n
+Zraňuje všechny tvory v okolí 5 stop.  Vyšší PSI zvyšuje účinnost vůči protivníkům.\n
 Trvání: 15 s. + 8 s. za PSI"
 
-Psi16:"Třetí úroveň neurální kapacity\n\n
+Psi16:"Třetí úroveň neurální kapacity\n
 Je nezbytná pro použití PSI disciplín třetí úrovně.  Zvyšuje maximální počet psi bodů o 6.  Každé použití disciplín třetí úrovně odebere 3 psi body."
 
-Psi17:"Molekulární Duplikace\n\n
-Použije nanity k duplikaci zásobníků munice nebo séra.\n\n
+Psi17:"Molekulární Duplikace\n
+Použije nanity k duplikaci zásobníků munice nebo séra.\n
 Šance na úspěch: 30% + 10% za PSI"
 
-Psi18:"Elektronová Kaskáda\n\n
-Nabije jeden předmět nebo zbraň.\n\n
+Psi18:"Elektronová Kaskáda\n
+Nabije jeden předmět nebo zbraň.\n
 Hodnota dobití: 20% za PSI, až do maxima daného úrovni vaší dovednosti Údržba."
 
-Psi19:"Odraz Energie\n\n
-Poskytne 50% imunitu vůči všem energetickým zdrojům poškození.\n\n
+Psi19:"Odraz Energie\n
+Poskytne 50% imunitu vůči všem energetickým zdrojům poškození.\n
 Trvání: 20 s. za PSI"
 
-Psi20:"Neurální Blokování Toxinů\n\n
-Poskytne 100% ochranu před otravou toxiny.\n\n
+Psi20:"Neurální Blokování Toxinů\n
+Poskytne 100% ochranu před otravou toxiny.\n
 Trvání: 10 s. + 5 s. za PSI"
 
-Psi21:"Vylepšená Citlivost Pohybu\n\n
-Zobrazí umístnění všech nestvůr v blízkém okolí.\n\n
+Psi21:"Vylepšená Citlivost Pohybu\n
+Zobrazí umístnění všech nestvůr v blízkém okolí.\n
 Trvání: 30 s. za PSI"
 
-Psi22:"Pyrokineze\n\n
+Psi22:"Pyrokineze\n
 Vystřelí na cíl ohnivý projektil. Vyšší PSI zvyšuje účinnost."
 
-Psi23:"Psionická Hypnogeneze\n\n
-Působí na ne-robotické cíle.  Zasažený tvor zůstane nehybný, dokud není napaden.\n\n
+Psi23:"Psionická Hypnogeneze\n
+Působí na ne-robotické cíle.  Zasažený tvor zůstane nehybný, dokud není napaden.\n
 Trvání: 20 s. za PSI."
 
-Psi24:"Čtvrtá úroveň neuralní kapacity\n\n
+Psi24:"Čtvrtá úroveň neuralní kapacity\n
 Je nezbytná pro použití PSI disciplín čtvrté úrovně.  Zvyšuje maximální počet psi bodů o 8.  Každé použití disciplín čtvrté úrovně odebere 4 psi body."
 
-Psi25:"Přesměrování fotonů\n\n
-Zneviditelní vás všem nestvůrám.  Výstřelem ze zbraně se tento efekt zruší.\n\n
+Psi25:"Přesměrování fotonů\n
+Zneviditelní vás všem nestvůrám.  Výstřelem ze zbraně se tento efekt zruší.\n
 Trvání: 5 s. + 5 s. za PSI"
 
-Psi26:"Dálková Detekce vzorů\n\n
-Zobrazí umístnění všech užitečných předmětů v blízkém okolí (nanity, munice, séra, implantáty a audio logy).\n\n
+Psi26:"Dálková Detekce vzorů\n
+Zobrazí umístnění všech užitečných předmětů v blízkém okolí (nanity, munice, séra, implantáty a audio logy).\n
 Trvání: 1 min. za PSI"
 
-Psi27:"Znehybnění Elektronů\n\n
-Znehybní robotické cíle.\n\n
+Psi27:"Znehybnění Elektronů\n
+Znehybní robotické cíle.\n
 Trvání: 3 s. za PSI"
 
-Psi28:"Psychogenní Výdrž\n\n
-Zvýší vaší výdrž (END) o 2.\n\n
+Psi28:"Psychogenní Výdrž\n
+Zvýší vaší výdrž (END) o 2.\n
 Trvání: 2 min. + 1 min. za PSI"
 
-Psi29:"Molekulární Transmutace\n\n
+Psi29:"Molekulární Transmutace\n
 Přemění munici a séra na nanity."
 
-Psi30:"Dálková Manipulace s Obvodem\n\n
+Psi30:"Dálková Manipulace s Obvodem\n
 Umožní vám psionické hackování.  Použije polovinu hodnoty vaší úrovně PSI namísto dovednosti hackování a CYB, a místo nanitů používá psi body."
 
-Psi31:"Cerebro-energetické Rozšíření\n\n
-Změní váš Psi-Amp v účinnou zbraň pro boj zblízka.\n\n
+Psi31:"Cerebro-energetické Rozšíření\n
+Změní váš Psi-Amp v účinnou zbraň pro boj zblízka.\n
 Trvání: 10 s. za PSI"
 
-Psi32:"Pátá úroveň neurální kapacity\n\n
+Psi32:"Pátá úroveň neurální kapacity\n
 Je nezbytná pro použití PSI disciplín páté úrovně.  Zvyšuje maximální počet psi bodů o 10.  Každé použití disciplín páté úrovně odebere 5 psi bodů."
 
-Psi33:"Pokročilá Mozkově-stimulovaná Regenerace\n\n
-Obnoví ztracené body zdraví.\n\n
+Psi33:"Pokročilá Mozkově-stimulovaná Regenerace\n
+Obnoví ztracené body zdraví.\n
 Hodnota vyléčení: 5 bodů zdraví + 5 bodů za PSI"
 
-Psi34:"Soma-přenos\n\n
+Psi34:"Soma-přenos\n
 Vysaje z každého živého tvora jeho body zdraví a přidá je vám."
 
-Psi35:"Okamžitá Kvantová Relokace\n\n
+Psi35:"Okamžitá Kvantová Relokace\n
 Teleportuje vás do označeného prostoru.  Není-li žádný prostor označen, označí se vaše současná pozice. Teleportační značku můžete smazat stisknutím Alt-T."
 
-Psi36:"Vynucená Neurální Restrukturalizace\n\n
-Zasažený ne-robotický cíl se začne chovat nepřátelsky vůči všem nelidským tvorům.\n\n
+Psi36:"Vynucená Neurální Restrukturalizace\n
+Zasažený ne-robotický cíl se začne chovat nepřátelsky vůči všem nelidským tvorům.\n
 Trvání: 10 s. za PSI, nebo dokud ho nezraní člověk."
 
-Psi37:"Metakreativní Bariéra\n\n
-Vytvoří přímo před vámi psionickou stěnu.\n\n
-Odolnost zdi: 150 + 50 za každou úroveň PSI nad 5\n\n
+Psi37:"Metakreativní Bariéra\n
+Vytvoří přímo před vámi psionickou stěnu.\n
+Odolnost zdi: 150 + 50 za každou úroveň PSI nad 5\n
 Trvání: 4 min."
 
-Psi38:"Externí Psionická Detonace\n\n
-Vytvoří psionickou minu, která nemá žádný účinek na roboty, ale dvojnásobný účinek na psionicky vnímavé tvory.\n\n
+Psi38:"Externí Psionická Detonace\n
+Vytvoří psionickou minu, která nemá žádný účinek na roboty, ale dvojnásobný účinek na psionicky vnímavé tvory.\n
 Trvání: 4 min."
 
-Psi39:"Psycho-reflexní Aura\n\n
-Ochrání vás proti 60% všech poškození při boji.\n\n
+Psi39:"Psycho-reflexní Aura\n
+Ochrání vás proti 60% všech poškození při boji.\n
 Trvání: 10 s. + 20 s. za PSI"
 
 PsiShort0:"Toto je chyba"
