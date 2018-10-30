@@ -26,9 +26,9 @@ SUB1
 	sub as1at3_8 { text "[hledá]" }
 	sub as1at3_9 { text "[hledá]" }
 	// all as1bak: AI_BAK (backtozero, lostcontact, reactrun, foundbody)
-	sub as1bak_1 { text "[hundrání]" }
-	sub as1bak_2 { text "[hundrání]" }
-	sub as1bak_3 { text "[hundrání]" }
+	sub as1bak_1 { text "[reptání]" }
+	sub as1bak_2 { text "[reptání]" }
+	sub as1bak_3 { text "[reptání]" }
 	sub as1die_1 { text "[umírá]" } // AI_DIE
 	sub as1die_2 { text "[umírá]" } // AI_DIE
 	sub as1hhi_1 { text "[poškozen]" } // AI_HHI

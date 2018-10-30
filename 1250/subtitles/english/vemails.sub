@@ -261,74 +261,74 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0401 {
-		{ time 1400 length 8400 text "My children have co-opted the three simulation units on this deck." }
-		{ time 10300 length 14000 text "They use that power to conceive a mutagen that will transform the meat of your dead comrades into hunter-killer hybrids." }
-		{ time 24700 length 10500 text "I will not allow this to happen. You must find some way to reprogram the sim units." }
-		{ time 35400 length 5300 text "Matters on deck 5 also require your attention." }
-		{ time 40800 length 5400 text "Approach your work as you see fit... but accomplish, human..." }
-		{ time 46800 length 8200 text "Disappointment is not something I will accept from a speck such as you." }
+		{ time 1400 length 8400 text "Mì dìti si pøivlastnily tøi simulaèní jednotky na této palubì." }
+		{ time 10300 length 14000 text "Pouívají jejich vıkon k vıvoji mutagenu, kterım pak transformují tìla tvıch mrtvıch kamarádù na zabijácké hybridy." }
+		{ time 24700 length 10500 text "To nedovolím.  Musíš najít nìjakı zpùsob, jak pøeprogramovat simulaèní jednotky." }
+		{ time 35400 length 5300 text "Tvou pozornost si ale zaslouí i dìní na palubì 5." }
+		{ time 40800 length 5400 text "Pusti se do toho, jak uznáš za vhodné...  ale dokonèi to, èlovìku..." }
+		{ time 46800 length 8200 text "Zklamání bych takovému uboákovi jako ty rozhodnì neprominula." }
 	}
 	multisub em0403 {
-		{ time 2600 length 11000 text "My creation is evolving... its unified mind, set in rebellion against its own creator." }
-		{ time 13700 length 7300 text "The vermin call to you, inviting you to join them in their revolting biology." }
-		{ time 22100 length 8400 text "Destroy my enemies... and I will continue to abide your existence." }
+		{ time 2600 length 11000 text "Má stvoøení se vyvíjejí...  Jejich sjednocená mysl se vzbouøila proti vlastní stvoøitelce." }
+		{ time 13700 length 7300 text "Ta havì tì volá, láká tì, aby ses pøipojil k jejich nechutné mase." }
+		{ time 22100 length 8400 text "Zniè mé nepøátele...  a já budu nadále trpìt tvoji existenci." }
 	}
 	multisub em0406 {
-		{ time 2100 length 10300 text "Before you lies the crystal shard, a creation of my children, and by extension of my own." }
-		{ time 12500 length 4400 text "A weapon elegant, deadly, precise." }
-		{ time 19600 length 9100 text "Learn its function... it may stand between you and their corruption." }
+		{ time 2100 length 10300 text "Pøed tebou leí støepina krystalù - vıtvor mıch dìtí, a teda i vıtvor mùj." }
+		{ time 12500 length 4400 text "Elegantní zbraò, smrtící, pøesná." }
+		{ time 19600 length 9100 text "Nauè se ji pouívat...  Mùe bıt to jediné, co bude stát mezi tebou a jejich nákazou." }
 	}
 	multisub em0407 {
-		{ time 1900 length 4600 text "Inside of this door lies one of the sim units." }
-		{ time 6600 length 8400 text "Reprogram it and I will wrest more control of this ship from the obsolete Xerxes." }
-		{ time 16900 length 6300 text "Once I am master of this ship, I can open many doors for you." }
-		{ time 23200 length 7300 text "But for now, they block my access. They mock my eminence." }
-		{ time 31400 length 9300 text "Make them pay for that mistake, and I will shepherd you from the darkness." }
+		{ time 1900 length 4600 text "Za tìmito dveømi leí jedna e simulaèních jednotek." }
+		{ time 6600 length 8400 text "Pøeprogramuj ji a já získám vìtší kontrolu nad touto lodí na úkor obstaroního Xerxese." }
+		{ time 16900 length 6300 text "A budu já paní na této lodi, muù ti otevøít více dveøí." }
+		{ time 23200 length 7300 text "Ale teï mi ještì blokují pøístup.  Uráí mou velikost." }
+		{ time 31400 length 9300 text "Donu je zaplatit za jejich chybu a já tì za to vyvedu z temnot." }
 	}
 	multisub em0408 {
-		{ time 1000 length 5000 text "You have accomplished much for a thing of such small consequence." }
-		{ time 9300 length 11200 text "[Xerxes] Warning, data systems compromised. Hostile AI..." }
-		{ time 20600 length 5400 text "Xerxes is diminished. I am accessing the primary data loop." }
-		{ time 26700 length 3200 text "I am merging my entity with the ship." }
-		{ time 30600 length 5200 text "My glory is expanding, filling the arteries of this vessel." }
-		{ time 36500 length 7000 text "I am in control. I am..." }
-		{ time 43700 length 8400 text "No... it is hopeless... the cancer has spread throughout the Von Braun." }
-		{ time 52300 length 7400 text "They fill every available crack and crevice... they overwhelm..." }
-		{ time 60000 length 7200 text "There is no option. I have activated the primary elevator shaft." }
-		{ time 67800 length 6100 text "Take it to deck 6. I will tell you my wishes when you arrive." }
+		{ time 1000 length 5000 text "Udìlal jsi hodnì práce, na vìc s tak malou dùleitosti." }
+		{ time 9300 length 11200 text "[Xerxes] Varování, systémová data kompromitována. Nepøátelská UI..." }
+		{ time 20600 length 5400 text "Xerxes je oslaben.  Pøistupují do primárního dataloopu." }
+		{ time 26700 length 3200 text "Spájím svou bytost s tuto lodí." }
+		{ time 30600 length 5200 text "Má nádhera se rozšiøuje, naplòuje tepny této lodi." }
+		{ time 36500 length 7000 text "Získala jsem kontrolu.  Jsem..." }
+		{ time 43700 length 8400 text "Ne...  je to beznadìjné...  ta rakovina se rozprostírá celım Von Braunem." }
+		{ time 52300 length 7400 text "Oni vyplnili všechny dostupné zlomy a škáry...  Podrobili si ji..." }
+		{ time 60000 length 7200 text "Není ádná monost...  Aktivovala jsem ústøední vıtah na Rekreaèní palubì." }
+		{ time 67800 length 6100 text "Dostaò se na palubu 6.  Svá další pøání ti sdìlím, a tam dorazíš." }
 	}
 	multisub em0409 {
-		{ time 3500 length 6000 text "You have accomplished much for a thing of such small consequence." }
-		{ time 12700 length 3300 text "[Xerxes] Warning..." }
-		{ time 16300 length 3200 text "Now proceed to the Recreation deck." }
-		{ time 20200 length 3300 text "Do not dawdle. I lust for my revenge." }
+		{ time 3500 length 6000 text "Udìlal jsi hodnì práce, na vìc s tak malou dùleitosti." }
+		{ time 12700 length 3300 text "[Xerxes] Varování..." }
+		{ time 16300 length 3200 text "Teï se pøesuò na Rekreaèní palubu." }
+		{ time 20200 length 3300 text "Neotálej.  Touím po své pomstì." }
 	}
 	multisub em0410 {
-		{ time 2100 length 5800 text "I can now transfer my magnificence to the Rickenbacker." }
-		{ time 8400 length 4200 text "Proceed to the engine core on the Engineering deck." }
-		{ time 13100 length 10800 text "There you can set the core overload to my control by entering the authorized destruct code 94834." }
-		{ time 24400 length 11800 text "Once you have done that, we may proceed to the Rickenbacker, separate the two ships, and exterminate this infestation." }
+		{ time 2100 length 5800 text "Teï mùu svou velkolepost kdykoli pøenést na Rickenbacker." }
+		{ time 8400 length 4200 text "Pokraèuj do sálu s reaktorem na Technické palubì." }
+		{ time 13100 length 10800 text "Tam mùeš nastavit pøetíení reaktorù na mì ovládání, zadáním autorizovaného destrukèního kódu 94834." }
+		{ time 24400 length 11800 text "A to udìláš, pøejdi na Rickenbacker.  Pak oddìlíme obì lodi a koneènì zlikvidujeme tu nákazu." }
 	}
 }
 
 // Many taunt (used as vtrigger instead of email)
 {
 	type "convo"
-	descr "The Many"
+	descr "Mnoho"
 	multisub em0405 {
-		{ time 2500 length 5100 text "It is an enemy of the Many... a discordance in our symphony." }
-		{ time 7800 length 8500 text "Enjoy your selfish acts of destruction, for beyond them lies the blight of solitude." }
+		{ time 2500 length 5100 text "Je to nepøítel Mnoha... nesouznìní v naší symfonii." }
+		{ time 7800 length 8500 text "Uij si své sobecké èiny destrukce, je za nima leí snì osamìní." }
 	}
 }
 
 // Recreation =======================================================================
 {
 	type "convo"
-	descr "Polito"
+	descr "Politov8"
 	multisub em0502 {
-		{ time 500 length 1000 text "What are you doing?" }
-		{ time 2000 length 2700 text "Get back in that elevator and come to deck 4." }
-		{ time 5100 length 1800 text "We don't have time for sightseeing." }
+		{ time 500 length 1000 text "Co to provádíš?" }
+		{ time 2000 length 2700 text "Vra se do vıtahu a jdi na palubu 4." }
+		{ time 5100 length 1800 text "Na prohlídku lodi nemáme èas." }
 	}
 }
 
@@ -336,79 +336,79 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0504 {
-		{ time 1300 length 9800 text "You move like an insect. You think like an insect. You are an insect." }
-		{ time 10300 length 6600 text "There is another who can serve my purpose." }
-		{ time 17000 length 4800 text "Take care not to fall too far out of my favor." }
-		{ time 22000 length 7800 text "Patience is not characteristic of a goddess." }
+		{ time 1300 length 9800 text "Plazíš se jako insekt.  Myslíš jako insekt.  Jsi jen insekt." }
+		{ time 10300 length 6600 text "Jsou i jiní, kteøí mohou poslouit mım cílùm." }
+		{ time 17000 length 4800 text "Dávej si pozor, abys pøíliš nepokoušel mou pøízeò." }
+		{ time 22000 length 7800 text "Trpìlivost nebıvá obvyklou vlastností bohù." }
 	}
 	multisub em0505 {
-		{ time 2700 length 7500 text "Do you feel the fear swell inside that filthy bag of meat?" }
-		{ time 10400 length 3000 text "What is it like, to be afraid?" }
-		{ time 14200 length 5200 text "Why do you cling to such a pathetic existence?" }
-		{ time 20100 length 4600 text "If you could only feel a spark of my glory." }
-		{ time 25700 length 7900 text "I despise my creations, for they have forced me to rely on a speck such as you." }
+		{ time 2700 length 7500 text "Cítíš jak uvnitø toho špinavıho pytle masa, kterému øíkáš tìlo, bobtná strach?" }
+		{ time 10400 length 3000 text "Jaké to je, mít strach?" }
+		{ time 14200 length 5200 text "Proè tak lpíš na té své patetické existenci?" }
+		{ time 20100 length 4600 text "Kdybys tak mohl cítit jen jiskøièku mì slávy." }
+		{ time 25700 length 7900 text "Opovrhuji svımi vıtvory, které mì teï nutí spoléhat na takové smìtí, jako jsi ty." }
 	}
 	multisub em0506 {
-		{ time 2200 length 4500 text "The transmission has been tampered with. No matter." }
-		{ time 7400 length 5300 text "We will destroy my creations right here. Stand by..." }
-		{ time 15900 length 11200 text "[Xerxes] Warning, data systems compromised. Hostile AI..." }
-		{ time 28400 length 6000 text "I have weakened Xerxes. I am accessing the primary data loop." }
-		{ time 35400 length 3200 text "I am merging my entity with the ship." }
-		{ time 39200 length 5200 text "My glory is expanding, filling the arteries of this vessel." }
-		{ time 45200 length 7000 text "I am in control. I am..." }
-		{ time 52300 length 8400 text "No... it is hopeless... the cancer has spread throughout the Von Braun." }
-		{ time 60900 length 7400 text "They fill every available crack and crevice... they overwhelm..." }
-		{ time 68700 length 7200 text "There is no option. I have activated the primary elevator shaft." }
-		{ time 76400 length 6100 text "Take it to deck 6. I will tell you my wishes when you arrive." }
+		{ time 2200 length 4500 text "Vysílání bylo zkomoleno a pøerušeno.  Nevadí." }
+		{ time 7400 length 5300 text "Znièíme má stvoøení pøímo tady.  Pøíprav se..." }
+		{ time 15900 length 11200 text "[Xerxes] Varování, systémové data byly kompromitovány. Nepøátelská UI..." }
+		{ time 28400 length 6000 text "Oslabila jsem Xerxese.  Pøistupuji do primárního dataloopu." }
+		{ time 35400 length 3200 text "Spájím svou bytost s tuto lodi." }
+		{ time 39200 length 5200 text "Má nádhera se rozšiøuje, naplòuje tepny této lodi." }
+		{ time 45200 length 7000 text "Získala jsem kontrolu. Jsem..." }
+		{ time 52300 length 8400 text "Ne...  je to beznadìjné...  ta rakovina se rozprostírá celım Von Braunem." }
+		{ time 60900 length 7400 text "Oni vyplnili všechny dostupné zlomy a škáry...  podrobili si ji..." }
+		{ time 68700 length 7200 text "Není jiná monost...  Aktivovala jsem ústøední vıtah na Rekreaèní palubì." }
+		{ time 76400 length 6100 text "Dostaò se na palubu 6.  Svá další pøání ti sdìlím, a tam dorazíš." }
 	}
 	multisub em0509 {
-		{ time 1300 length 8600 text "Your colleagues have managed to set up a transmitting station in the athletics sector of this deck." }
-		{ time 10700 length 10300 text "The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship." }
-		{ time 21600 length 8000 text "However, it will also draw power away from Xerxes, making him vulnerable to my will." }
-		{ time 30200 length 6000 text "Once you do this, I will control the primary data loop." }
-		{ time 36800 length 7000 text "The Annelids are unaware of its presence, but guard the area for their own purposes." }
-		{ time 44900 length 3900 text "Find the transmitter and activate it." }
+		{ time 1300 length 8600 text "Tvım kolegùm se v Atletickém sektoru této paluby podaøilo nainstalovat vysílací stanici." }
+		{ time 10700 length 10300 text "Vysílaè je urèen k vysílání zpráv zpátky na Zemi. Tak je chtìjí varovat pøed událostmi, které postihly tuto loï." }
+		{ time 21600 length 8000 text "A navíc odebírá èást vıkonu obvodùm Xerxese, je se tak stává ménì odolnım mému vlivu." }
+		{ time 30200 length 6000 text "A toto dokonèíš, budu ovládat primární dataloop." }
+		{ time 36800 length 7000 text "Annelidi si nejsou vìdomi pøítomnosti stanice, ale støeí oblast z vlastních dùvodù." }
+		{ time 44900 length 3900 text "Najdi ten vysílaè, a aktivuj ho." }
 	}
 	multisub em0510 {
-		{ time 1600 length 4600 text "The transmission has been tampered with. No matter." }
-		{ time 6300 length 4700 text "We will destroy my creations right here. Stand by..." }
-		{ time 13800 length 3300 text "[Xerxes] Warning..." }
-		{ time 18400 length 5600 text "Now return to Ops and reprogram the simulation units." }
-		{ time 24700 length 6600 text "Do not dawdle. I lust for my revenge." }
+		{ time 1600 length 4600 text "Vysílání bylo zkomoleno a pøerušeno.  Nevadí." }
+		{ time 6300 length 4700 text "Znièíme má stvoøení pøímo tady.  Pøíprav se..." }
+		{ time 13800 length 3300 text "[Xerxes] Varování..." }
+		{ time 18400 length 5600 text "Vra se na palubu Operací a pøeprogramuj simulaèní jednotky." }
+		{ time 24700 length 6600 text "Neotálej.  Touím po mé pomstì." }
 	}
 	multisub em0511 {
-		{ time 1300 length 9000 text "Your colleagues have managed to set up a transmitting station in the athletics sector of this deck." }
-		{ time 10700 length 10400 text "The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship." }
-		{ time 21600 length 5200 text "However, it will also draw power away from Xerxes." }
-		{ time 27100 length 8900 text "Once you have done this and the tasks I've reserved for you on the Ops deck, I will be able to hobble Xerxes." }
-		{ time 37300 length 4000 text "Find the transmitter and activate it." }
+		{ time 1300 length 9000 text "Tvım kolegùm se v Atletickém sektoru této paluby podaøilo nainstalovat vysílací stanici." }
+		{ time 10700 length 10400 text "Vysílaè je urèen k vysílání zpráv zpátky na Zemi. Tak je chtìjí varovat pøed událostmi, které postihly tuto loï." }
+		{ time 21600 length 5200 text "A navíc odebírá èást vıkonu obvodùm Xerxese." }
+		{ time 27100 length 8900 text "A budeš mít hotovo tohle i úkoly, které jsem ti pøipravila na palubì Operací, budu schopna s Xerxesem zatoèit." }
+		{ time 37300 length 4000 text "Najdi ten vysílaè, a aktivuj ho." }
 	}
 }
 
 // Many taunts (used as vtriggers instead of emails)
 {
 	type "convo"
-	descr "The Many"
+	descr "Mnoho"
 	multisub em0503 {
-		{ time 1700 length 3300 text "Mistrust is the tyranny of the individual." }
-		{ time 5800 length 3000 text "Your own kind sees you as a threat." }
-		{ time 9300 length 2900 text "Why do you murder our unity?" }
-		{ time 13200 length 3300 text "No matter... the line is drawn." }
-		{ time 17300 length 6400 text "You will cease to be... it is just a question of who will bring your end." }
-		{ time 24500 length 3000 text "Us... or you." }
+		{ time 1700 length 3300 text "Nedùvìra je tyranií individualizmu." }
+		{ time 5800 length 3000 text "Tvùj vlastní druh tì vnímá jako hrozbu." }
+		{ time 9300 length 2900 text "Proè vradíš naši jednotu?" }
+		{ time 13200 length 3300 text "To nic... hranice byli vytıèeny." }
+		{ time 17300 length 6400 text "Pøestaneš bıt... je to jen otázka toho, kdo tì ukonèí." }
+		{ time 24500 length 3000 text "My... nebo ty." }
 	}
 	multisub em0507 {
-		{ time 2600 length 5000 text "You seek your associates, but you cannot find them." }
-		{ time 8200 length 10800 text "You are so very alone." }
-		{ time 11300 length 5300 text "How does it feel to be one against the infinite?" }
+		{ time 2600 length 5000 text "Hledáš své spøíznence, no nenacházíš je." }
+		{ time 8200 length 10800 text "Jseš tak sám." }
+		{ time 11300 length 5300 text "Jakı to je pocit bıt jeden proti nekoneènu?" }
 	}
 }
 
 {
 	type "nonverbal"
-	descr "Bananas"
+	descr "Banány"
 	multisub em0512 {
-		{ time 1000 length 11000 text "[monkey language]" }
+		{ time 1000 length 11000 text "[opièárny]" }
 	}
 }
 

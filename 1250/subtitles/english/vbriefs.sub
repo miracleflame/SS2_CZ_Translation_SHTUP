@@ -305,19 +305,19 @@ SUB1
 
 	multisub brief01 {
 		{ time 600 length 4500 text "Pokud se ti zamlouvá strávit èas s mnostvím vıbušnin. Toto je stá pro tebe." }
-		{ time 5600 length 5800 text "Je tu spousta tìkého zvedání, ale zbrojnice také získává první vıbìr chlastu a dalších dobrot, které pøicházejí na palubu zásobovací lodi Gallo." }
+		{ time 5600 length 5800 text "Je tu spousta tìkıch bøemen, ale zbrojnice také získává první vıbìr chlastu a dalších dobrot, které pøicházejí na palubu zásobovací lodi Gallo." }
 		{ time 11850 length 1100 text "Zbrani zdar!" }
 	}
 
 	multisub brief02 {
-		{ time 850 length 4700 text "Námoønictvo udruje školu pøeití na povrchu Io, tøetího mìsíce Jupiteru." }
+		{ time 850 length 4700 text "Námoønictvo má Školu Pøeití na povrchu Io, tøetího mìsíce Jupiteru." }
 		{ time 6100 length 3600 text "Vıhoda: Neexistuje lepší spùsob, jak získat kondièku a schopnost pøeít." }
 		{ time 9950 length 3200 text "Nevıhoda: Míra úmrtnosti je 21.2%." }
 		{ time 13550 length 3700 text "A k tomu strávíš rok s bandou povedenıch námorníkù." }
 	}
 
 	multisub brief03 {
-		{ time 900 length 7700 text "Ne kadá párty na uvítanou si dovolí luxus gravitace, a tak korporáti poadují také nìkoho s vıcvikem zero-g." }
+		{ time 900 length 7700 text "Ne kadá párty na uvítanou si dovolí luxus gravitace, a tak korporáti poadují také nìkoho s beztíovım vıcvikem." }
 		{ time 9150 length 3200 text "Jeden rok na palubì stanice Guadalcanal by mìl staèit." }
 	}
 
@@ -338,119 +338,119 @@ SUB1
 	}
 
 	multisub brief07 {
-		{ time 700 length 3900 text "The UNN Secretary-General's office needs a full staff of armed guards." }
-		{ time 5000 length 4200 text "When things are dull, it requires a lot of standing around looking good in a uniform." }
-		{ time 9700 length 4000 text "When things are bad, it can require fending off a psi-terrorist assault." }
+		{ time 700 length 3900 text "Kanceláø generála UNN potøebuje plne vybavenou èestnou strá." }
+		{ time 5000 length 4200 text "Kdy se nic nedìje, vyaduje si to dlouho jen stát a vypadat dobøe." }
+		{ time 9700 length 4000 text "Kdy se nìco dìje, mùe si to vyadovat odrazit útok psi-teroristù." }
 	}
 
 	multisub brief08 {
-		{ time 700 length 3400 text "The Polidies trading station's long been a haven for the black market." }
-		{ time 4400 length 4000 text "However, up until now they have not interfered with the running of station operations." }
-		{ time 9100 length 6900 text "Recent reports indicate that the Polidies command staff has been overthrown, and the station is under the control of a self-appointed \"Magnate\"." }
-		{ time 16500 length 3700 text "This must be rectified and a Marine presence maintained on the station." }
+		{ time 700 length 3400 text "Obchodní stanice Polidies byla dlouho rájem pro èernı trh." }
+		{ time 4400 length 4000 text "Avšak a doteï se nikdo nijako nevmìšoval do bìhu operací na stanici." }
+		{ time 9100 length 6900 text "Nedávné zprávy naznaèují, e velení stanice Polidies bylo zvrhnuto a teï ji ovládá samozvanı \"Magnát\"." }
+		{ time 16500 length 3700 text "To je potøeba napravit a ustanovit tam posádku mariòákù." }
 	}
  
 	multisub brief09 {
-		{ time 800 length 5400 text "The Colony Air Service gets the dregs of the fleet, and the Antigua is the dregs of the dregs." }
-		{ time 7000 length 6800 text "You'll learn a lot about recalcitrant machinery on a tour of duty aboard the Antigua, if it doesn't blow you to hell and back first." }
+		{ time 800 length 5400 text "Do Koloniálního Letectva se dostane spodina letky a Antigua je spodina spodiny." }
+		{ time 7000 length 6800 text "Nauèíš se hodnì o vzpurnıch strojech bìhem prohlídky na Antigue, tedy pokud tì to døív neodpálí do pekla a zpátky." }
 	}
 
 	// Navy briefings
 
  	multisub brief10 {
-		{ time 800 length 5200 text "The UNN Lucille is looking for an ops training officer to learn the ship's navigation and data control systems." }
-		{ time 6400 length 3700 text "You'll get your feet wet with the high-tech systems, but also expect some heavy lifting." }
+		{ time 800 length 5200 text "UNN Lucille hledá poruèíka operaèního vıcviku, kterı si osvojí navigaci lodi a systémy dátového ovládaní." }
+		{ time 6400 length 3700 text "Namoèíš se do Hi-tech systémù, ale také poèítej s tìkımi bøemenami." }
 	}
 
 	multisub brief11 {
-		{ time 900 length 4600 text "The UNN Lucille is looking for an engineer's mate to help maintain the ship's core energy systems." }
-		{ time 5900 length 3800 text "There's some heavy lifting involved, sailor, but you'll learn your way around the high-tech equipment." }
+		{ time 900 length 4600 text "UNN Lucille hledá inenıra na pomoc údrby jádrovıch energetickıch systémù lodi." }
+		{ time 5900 length 3800 text "Nevyhneš se ekım bøemenám, námorníku, ale nauèís se pouívat Hi-tech vybavení." }
 	}
 
 	multisub brief12 {
-		{ time 800 length 3600 text "The UNN Lucille is looking for volunteers for their military police detachment." }
-		{ time 4900 length 4500 text "Those sailors can get pretty rowdy on these year-long cruises, so you better not be afraid of a tussle." }
+		{ time 800 length 3600 text "UNN Lucille nabírá dobrovolníky do svého oddìlení vojenské policie." }
+		{ time 4900 length 4500 text "Tito námorníci umí bıt pìkne nabruèení bìhem roèní plavby, tak neèekej zaobcházení v rukavièkách." }
 	}
 
 	multisub brief13 {
-		{ time 800 length 6300 text "The UNN Carfax is undertaking a mission to examine a newly discovered class B comet approaching the outer solar system." }
-		{ time 8000 length 5500 text "You'll likely pick up some useful skills working with the high-tech navigation systems aboard this newly commissioned heavy cruiser." }
+		{ time 800 length 6300 text "UNN Carfax se vydává na prùzkumnou misi nono objevené komety tøídy B, která vstupuje do vnìjší sluneèní soustavy." }
+		{ time 8000 length 5500 text "Pravdìpodobnì se na tebe nalepí nìjaké dovednosti, kdy budeš pracovat s Hi-tech navigaènımi systémy na palubì tohto novì uvedeného ìkého køíníku." }
 	}
 
 	multisub brief14 {
-		{ time 800 length 4600 text "The UNN Pierce is ferrying liberated political prisoners back home from their detention near Saturn." }
-		{ time 6100 length 6300 text "The Pierce has been assigned a detachment of Marines and needs sailors to load, administer, and maintain the arms on board the ship." }
+		{ time 800 length 4600 text "UNN Pierce pøepravuje osvobozené politické vìznì zpìt domù z jejich vazby pøi Saturnì." }
+		{ time 6100 length 6300 text "Na Pierce bylo pøirazeno oddìlení mariòákù a ještì potøebují námorníky na nakládku, spravování a údrbu zbraní na palubì lodi." }
 	}
 
 	multisub brief15 {
-		{ time 800 length 3200 text "LaVerne, Florida hosts the Navy's premiere Tactical Training School." }
-		{ time 4500 length 4400 text "While maybe not as respected as the Marine's facility at Fort Bush, there's a lot to be learned here." }
+		{ time 800 length 3200 text "V LaVerne na Floridì má Námoønictví svou první školu taktického vıcviku." }
+		{ time 4500 length 4400 text "Moná není tak respektována jako zaøízení pro mariòáky ve Fort Bush, no rozhodnì tì tam lecos nauèí." }
 	}
 
 	multisub brief16 {
-		{ time 800 length 9500 text "The Navy's Marie Curie Research Facility on Aquinas IV is currently conducting research on a new strain of spaceborne virus that killed 220,000 citizens of New Atlanta." }
-		{ time 11100 length 4500 text "To lift the quarantine, we must determine how the virus pierced the city's micronanite shielding." }
+		{ time 800 length 9500 text "Námoønickı Institut Marie Curie na Aquinas IV v souèasnosti provádí  vızkum nového øetìzce vesmírného viru, kterı zabil 220 000 obyvatelù New Atlanta." }
+		{ time 11100 length 4500 text "Ne otevøeme karanténu, musíme urèit, jak virus prošel mikronanitovım štítem mìsta." }
 	}
 
 	multisub brief17 {
-		{ time 800 length 4500 text "The Navy maintains a survival training school on the surface of Io, the third moon of Jupiter." }
-		{ time 5900 length 3700 text "Pros: there's no better way to improve stamina and survival skills." }
-		{ time 10000 length 3100 text "Cons: the 21.2% mortality rate." }
+		{ time 850 length 4700 text "Námoønictvo má Školu Pøeití na povrchu Io, tøetího mìsíce Jupiteru." }
+		{ time 6100 length 3600 text "Vıhoda: Neexistuje lepší spùsob, jak získat kondièku a schopnost pøeít." }
+		{ time 9950 length 3200 text "Nevıhoda: Míra úmrtnosti je 21.2%." }
 	}
 
 	multisub brief18 {
-		{ time 900 length 3800 text "The Navy strongly encourages every sailor to undertake some amount of zero-g training." }
-		{ time 5400 length 4300 text "A year at the Yamamoto space station in Earth's orbit will more than suffice." }
+		{ time 900 length 3800 text "Námoønictvo doporuèuje kadému podstoupit také nejakı beztíovı vıcvik." }
+		{ time 5400 length 4300 text "Jeden rok na vesmírné stanici Yamamoto na orbitu Zemì by mìl bohatì postaèovat." }
 	}
 
 	// OSA briefings
 
 	multisub brief19 {
-		{ time 800 length 4100 text "The sensory deprivation tanks aboard the TOS Shao Ling await you." }
-		{ time 5300 length 6400 text "There, you will spend a solitary year focused in a meditation on motion and sound, and how they may serve your will." }
+		{ time 800 length 4100 text "Náde senzorické deprivace na palubì TOS Shao Ling èekají na tebe." }
+		{ time 5300 length 6400 text "Tam strávíš rok v osamìní a meditaci soustøedìn na pohyb a zvuk a jak by mohli slouit tvé vùli." }
 	}
 
 	multisub brief20 {
-		{ time 700 length 4200 text "The sensory deprivation tanks abord the TOS Ru Nang await you." }
-		{ time 5400 length 3800 text "A year in meditation on the nature of matter will grant you power over it." }
+		{ time 700 length 4200 text "Náde senzorické deprivace na palubì TOS Ru Nang èekají na tebe." }
+		{ time 5400 length 3800 text "Jeden rok v meditaci o podstatì látek ti nad nimi propujèí sílu." }
 	}
 
 	multisub brief21 {
-		{ time 800 length 5400 text "The sensory deprivation tanks abord the TOS Chu Lun are modulated for your training." }
-		{ time 6700 length 6700 text "You shall spend a year in contemplation of mass - both yours and that of objects - until you can bend them to your intentions." }
+		{ time 800 length 5400 text "Náde senzorické deprivace na palubì TOS Chu Lun jsou modulovány pro tvùj vıcvik." }
+		{ time 6700 length 6700 text "Strávíš rok v rozjímaní o hmotì - své i jinıch objektù - a dokım je nebudeš ohıbat svım ùmyslem." }
 	}
 
 	multisub brief22 {
-		{ time 900 length 7900 text "Sifting the thoughts of treachery and disloyalty from the morass of emotion and internal conflict that fill most mundanes can be disquieting." }
-		{ time 9200 length 7700 text "You shall spend a year building the general strength of your mind, while learning how to probe the thoughts of the less capable without losing yourself." }
+		{ time 900 length 7900 text "Bloumání nad myšlenkami zrady a nevìrnosti z hlouby emocí a vnitøního konfliktu, které naplòují vìtšinu prostıch lidí, mùe bıt znepokojující." }
+		{ time 9200 length 7700 text "Strávíš rok budováním pevné vùle, pøèem se nauèíš vidìt do myšlenek ménì schopnıch bez toho, aby ses pomátnul." }
 	}
 
 	multisub brief23 {
-		{ time 900 length 5800 text "Doctor Chandrisvilan's research labs have produced many of this decade's advances in psionic technique." }
-		{ time 7000 length 5200 text "You shall spend a year serving his genius, learning to understand his insights and whims." }
+		{ time 900 length 5800 text "Vızkumné laboratoøe doktora Chandrisvilana uèinili mnohé pokroky posledního desetietí ve psionickıch technikách." }
+		{ time 7000 length 5200 text "Strávíš rok ve slubách tohto génia a nauèíš se porozumìt jeho vhledùm a rozmarùm." }
 	}
 
 	multisub brief24 {
-		{ time 800 length 2900 text "Your body has been neglected in your training of your mind." }
-		{ time 4100 length 3700 text "On Io, you will find soldiers who wish to test their endurance." }
-		{ time 8200 length 4400 text "You will surpass their physical prowess without compromising your mental dicipline." }
+		{ time 800 length 2900 text "Tvé tìlo zakrnìlo bìhem vıcvikù tvé mysli." }
+		{ time 4100 length 3700 text "Na Io najdeš vojáky, kteøí si chcou otestovat svou vıd." }
+		{ time 8200 length 4400 text "A ty pøedèís jejich fyzickou zdatnost ani by to ohrozilo tvé mentální schopnosti." }
 	}
 
 	multisub brief25 {
-		{ time 800 length 5600 text "Acts of political terrorism and corporate coercion disturb corporate and political stability." }
-		{ time 6900 length 5700 text "You shall spend a year battling these chaotic elements, both psionically and by physical force." }
+		{ time 800 length 5600 text "Èiny politickho terorizmu a korporátního donucování narušují korporátní a politickou stabilitu." }
+		{ time 6900 length 5700 text "Strávíš rok v boji proti chatickım ivlùm jak psionickou tak fyzickou silou." }
 	}
 
 	multisub brief26 {
-		{ time 800 length 4900 text "In the grand scheme, individuals are no more important than pieces on a game board." }
-		{ time 5900 length 5600 text "Occasionally it becomes necessary to remove a piece, without disturbing the flow of the game." }
-		{ time 12200 length 3700 text "These removals will be done in silence and with complete secrecy." }
-		{ time 16300 length 2600 text "You shall spend a year learning these skills." }
+		{ time 800 length 4900 text "Ve velkıch plánech nejsou individuality o nic ménì dùleité neli figurky na šachovnici." }
+		{ time 5900 length 5600 text "Pøíleitostnì je nevyhnutné odstranit figurku, ani by to narušilo plynulost hry." }
+		{ time 12200 length 3700 text "Tyto odstranìní se provedou v naprosté tichosti a utajení." }
+		{ time 16300 length 2600 text "Ty strávíš rok vıcvikem tìchto schopností." }
 	}
 
 	multisub brief27 {
-		{ time 800 length 3700 text "Many threats to security can only be defeated from inside." }
-		{ time 4800 length 5200 text "Your mind shall be carefully blanked and conditioned with the nature and past of a criminal." }
-		{ time 10600 length 8400 text "Join with the criminal and rebellious, endure their squalor and chaos, and then, when it is time, liquidate them from within." }
+		{ time 800 length 3700 text "Mnohá ohroení bezpeènosti jdou porazit jenom zevnitø." }
+		{ time 4800 length 5200 text "Tvá mysl bude peèlivé vyprázdnìna a nahrazena povahou a minulostí kriminálníka." }
+		{ time 10600 length 8400 text "Buï jedním z kriminálníkù a rebelù, vytvej v jejich bíde a chaose a pak, a nadejde správnı èas, zlikviduj je zevnitø." }
 	}
 }

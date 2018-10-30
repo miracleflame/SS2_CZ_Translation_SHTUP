@@ -15,8 +15,8 @@ SUB1
 	sub bb11 { text "Pøedmìt upuštìn" }
 	sub bb12 { text "Pøítomnost Toxicity" }
 	sub bb13 { text "Pøístup nepovolen" }
-	sub bbcyba_a { text "Cybernetic Affinity aktivována" }
-	sub bbcyba_d { text "Cybernetic Affinity deaktivována" }
+	sub bbcyba_a { text "Kyber-kompatibilita aktivována" }
+	sub bbcyba_d { text "Kyber-kompatibilita deaktivována" }
 	sub left { text "Vlevo" }
 	sub right { text "Vpravo" }
 }

@@ -3,7 +3,7 @@
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 
-for i in `find UTF8 ! -wholename "*/fonts*" ! -path *.crf*`; do
+for i in `find UTF8 ! -wholename "*/fonts*" ! -path *.crf* ! -path *.fon*`; do
 
 	if [ -d "$i" ]
 		then
