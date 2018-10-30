@@ -1,103 +1,103 @@
-EmailName15:"POLITOVÁ 12.ÈVC.14\nre: Poškození lodi\n"
+EmailName15:"POLITOVÁ 12.7.2114\nre: Poškození lodi\n"
 EmailPortrait15:"Polito"
 EmailIcon15:"OpsIcon"
 EmailText15:"Pozor... Z radarové antény za oknem pøicházejí nìjaké zvláštní údaje. Stává se nestabilní protoe...  Utíkej!  Kryj se!\n"
 
 
-EmailName1:"POLITOVÁ 12.ÈVC.14\nre: Pokles tlaku v sektoru\n"
+EmailName1:"POLITOVÁ 12.7.2114\nre: Pokles tlaku v sektoru\n"
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
 EmailText1:"V celém sektoru se sniuje tlak a modré vakuové štíty to u dlouho nevydrí. Dostaò se za hermetickı uzávìr døív, ne tì to vysaje do vesmíru. Dìlej!\n"
 
 
-EmailName2:"POLITOVÁ 12.ÈVC.14\nre: Vstupní kódy\n"
+EmailName2:"POLITOVÁ 12.7.2114\nre: Vstupní kódy\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
 EmailText2:"Nìkteré z dveøí jsou zamèeny kódovımi zámky. Tìlo leící pøed tebou patøilo údrbáøi tohoto sektoru. Moná má ten èíselnı kód u sebe. Nebuï háklivı a prohledej jeho tìlo. Jemu to u vadit nebude.\n"
 
 
-EmailName9:"POLITOVÁ 12.ÈVC.14\nre: Vybitı èlánek\n"
+EmailName9:"POLITOVÁ 12.7.2114\nre: Vybitı èlánek\n"
 EmailPortrait9:"Polito"
 EmailIcon9:"OpsIcon"
 EmailText9:"Ten èlánek je vybitı. Nìkde poblí by mìla bıt dobíjecí stanice... Pouij ji a ona dobije všechny energetické zaøízení, které máš u sebe. A èlánek nabiješ, vlo ho do záloního napájení u dveøí. Tím by se mìl otevøít hermeticky uzávìr. Pospìš si s tím, vakuová tìsnìní u to déle nevydrí.\n"
 
 
-EmailName21:"POLITOVÁ 12.ÈVC.14\nre: Vylepšování\n"
+EmailName21:"POLITOVÁ 12.7.2114\nre: Vylepšování\n"
 EmailPortrait21:"Polito"
 EmailIcon21:"OpsIcon"
 EmailText21:"Vıbornì! Dostal jsi se pryè døív, ne celı prostor ztratil tlak. Pøidala jsem ti nìkolik kybernetickıch modulù. Mùeš je pouít ke zlepšení tvé kybernetické vıbavy pomoci Jednotek vylepšování dovedností. Ve vedlejší místnosti jsou jich ètyøi druhy - pro kadı subsystém tvého kybernetického vybavení: Stats, PSI, Zbranì a Tech. Ale pouívej moduly s rozvahou... tìko se obstarávají.\n"
 
 
-EmailName13:"POLITOVÁ 12.ÈVC.14\nre: Jednotky vylepšování dovedností\n"
+EmailName13:"POLITOVÁ 12.7.2114\nre: Jednotky vylepšování dovedností\n"
 EmailPortrait13:"Polito"
 EmailIcon13:"OpsIcon"
 EmailText13:"Tyto kybernetické moduly se pouívají ke vylepšování jednotlivıch subsystémù tvıch neurálních vylepšení. Pamatuj, jsou 4 rùzné druhy jednotek vylepšování dovedností, take nevyplıtvej všechny své moduly u jediné - tedy pokud jsi nejsi opravdu jist, e chceš zlepšit svùj hardware jenom v jedné oblasti.\n"
 
 
-EmailName3:"POLITOVÁ 12.ÈVC.14\nre: Zablokované vıtahy\n"
+EmailName3:"POLITOVÁ 12.7.2114\nre: Zablokované vıtahy\n"
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
 EmailText3:"Ten nanicovatı poèítaè Xerxes odpojil i všechny vıtahy. V blízkosti reaktoru, na palubì 1, bys mohl zapojit nouzové napájení, které by je všechny zase zprovoznilo. Jene vıtahem se tam teï nedostaneš. Poèkat... Je tady nìjakı druh údrbáøského pøístupu, právì z této chodby. Tudy bys se mohl dostat na palubu 1. Jene vstup je zamèen a Xerxes mi nechce prozradit vstupní kód. Mìl by ho ale mít i Dr. Watts. Bude nejspíš nìkde v sektoru Kajut pro posádku. Vstupní kartu tam má Grassi, ale ten je zase nìkde v lékaøskıch prostorech, zøejmì poblí pitevny. Bì co nejdøív do prostorù Kliniky a najdi Grassiho.\n"
 
 
-EmailName17:"POLITOVÁ 12.ÈVC.14\nre: Napájení dveøí\n"
+EmailName17:"POLITOVÁ 12.7.2114\nre: Napájení dveøí\n"
 EmailPortrait17:"Polito"
 EmailIcon17:"OpsIcon"
 EmailText17:"Sakra! Vıpadek napájení vyøadil i dveøe této pøepáky. Je jen jeden zpùsob, jak se dostat do lékaøského oddìlení. Vezmi èlánek leící na podlaze a najdi dobíjecí stanici. Obávám se e ta, kterou jsi pouil pøedtím je u ve vakuu, ale na této palubì by mìla bıt ještì jedna. A ten èlánek nabiješ, vlo ho do záloního napájení.\n"
 
-EmailName19:"POLITOVÁ 12.ÈVC.14\nre: Biorekonstruce\n"
+EmailName19:"POLITOVÁ 12.7.2114\nre: Biorekonstruce\n"
 EmailPortrait19:"Polito"
 EmailIcon19:"OpsIcon"
 EmailText19:"Na vìtšinì palub mùeš najít biorekonstrukèní zaøízení. Xerxes je všechny odpojil, ale já jsem je zase potají zapojila. Zaøízení musíš aktivovat, abys mu poskytl soubor tkáòovıch vzorkù. A to udìláš, bude toto zaøízení schopno restaurovat tvé tìlo i z nepatrného zbytku. Není to sice nic pøíjemného, ale stále lepší, ne pomalı rozklad.\n"
 
-EmailName10:"POLITOVÁ 12.ÈVC.14\nre: Bezpeènostní systém\n"
+EmailName10:"POLITOVÁ 12.7.2114\nre: Bezpeènostní systém\n"
 EmailPortrait10:"Polito"
 EmailIcon10:"OpsIcon"
 EmailText10:"Xerxes ovládá bezpeènostní systémy. Vyhıbej se kamerám, nebo je zniè. Pokud na to staèíš, mùeš hackovat bezpeènostní poèítaèe, èím se kamery na èas vypnou. Ale pozor, pokud to spackáš, spustí se poplach. A jako mrtvola mi nejsi k nièemu.\n"
 
 
-EmailName22:"POLITOVÁ 12.ÈVC.14\nre: Chemické sklady\n"
+EmailName22:"POLITOVÁ 12.7.2114\nre: Chemické sklady\n"
 EmailPortrait22:"Polito"
 EmailIcon22:"OpsIcon"
 EmailText22:"Na kadé palubì je umístìn chemickı sklad, kde mùeš najít chemikálie, potøebné k vızkumu nalezenıch artefaktù. Nesna se u sebe nosit všechny chemikálie najednou. Je to nepraktické a zbyteèné. Tvùj vızkumnı software ti vdy vèas sdìlí, kterou chemikálií potøebuje.\n"
 
 
-EmailName4:"POLITOVÁ 12.ÈVC.14\nre: Wattsova karta\n"
+EmailName4:"POLITOVÁ 12.7.2114\nre: Wattsova karta\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
 EmailText4:"Vıbornì. Dostal jsi se na Kliniku. Najdi Grassiho a získej vstupní kartu do sektoru Kajut posádky. Grassi se staral o tvùj kryogenickı spánek, tak se moná bude chtít k tobì pøidat... pokud ovšem není na kousky.\n"
 
-EmailName7:"POLITOVÁ 12.ÈVC.14\nre: Karta do R&D\n"
+EmailName7:"POLITOVÁ 12.7.2114\nre: Karta do R&D\n"
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
 EmailText7:"Fajn. U jsi v sektoru Kajut posádky. Ted najdi kajutu Dr. Wattse...\n"
 
 
-EmailName20:"POLITOVÁ 12.ÈVC.14\nre: Duchové\n"
+EmailName20:"POLITOVÁ 12.7.2114\nre: Duchové\n"
 EmailPortrait20:"Polito"
 EmailIcon20:"OpsIcon"
 EmailText20:"Moná se staneš svìdkem zvláštního jevu. Tvé experimentální kybernetické vybavení tøídy R má zesílené vnímání, které by teoreticky mohlo zachytit zbytky psychickıch emisí. Tyto emise obvykle pocházejí od nedávno zemøelıch. Literatura je oznaèuje jako duchy. Já jim øíkám autohypnoticke poruchy v jednotce R. Nenech se jimi rozptylovat pøi tvém poslání.\n"
 
 
-EmailName5:"POLITOVÁ 12.ÈVC.14\nre: Hackování replikatorù\n"
+EmailName5:"POLITOVÁ 12.7.2114\nre: Hackování replikatorù\n"
 EmailPortrait5:"Polito"
 EmailIcon5:"OpsIcon"
 EmailText5:"Mùeš hackovat i replikátory, èím získáš nadstandardní ponuku. Vyuij to. Vyuij jakoukoliv monost, abys se dostal na palubu 4. Tohle není hra.\n"
 
 
-EmailName18:"POLITOVÁ 12.ÈVC.14\nre: Karta R&D\n"
+EmailName18:"POLITOVÁ 12.7.2114\nre: Karta R&D\n"
 EmailPortrait18:"Polito"
 EmailIcon18:"OpsIcon"
 EmailText18:"Watts tu není.  Nejspíš bude ve své pracovnì v sektoru R&D.  Ale moná, e tu má nìkde záloní R&D kartu.  Rozhlédni se kolem.\n"
 
 
-EmailName14:"POLITOVÁ 12.ÈVC.14\nre: Najdi Dr. Wattse\n"
+EmailName14:"POLITOVÁ 12.7.2114\nre: Najdi Dr. Wattse\n"
 EmailPortrait14:"Polito"
 EmailIcon14:"OpsIcon"
 EmailText14:"Dr. Watts je ve své pracovnì a stále ije.  Mìl by znát pøístupovı kód údrbáøské šachty.  Pospìš si, je tìce zranìn.  Nenech ho umøít, dokud ti neøekne to èíslo!\n"
 
 
-EmailName6:"POLITOVÁ 12.ÈVC.14\nre: Pøístup na palubu 1\n"
+EmailName6:"POLITOVÁ 12.7.2114\nre: Pøístup na palubu 1\n"
 EmailPortrait6:"Polito"
 EmailIcon6:"OpsIcon"
 EmailText6:"Neztrácej èas samochválou.  Slez šachtou dolù do Techniky a znovu spus hlavní Reaktor.  Obnovíš tím napájení vıtahu a budeš koneènì schopen se dostat na palubu 4.  Do toho!\n"
@@ -122,14 +122,14 @@ Yttrium (Y) : 2\n
 Tento inventurní seznam je vyadován bezpeènostní vyhláškou UNN #134882 o skladech nebezpeènıch chemikálií.  "Sklad" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpeèné chemikálie (viz pøedpis #093355) uloené v mnoství vìtším ne 50g na 10 ètvereènıch stop a trvání delším ne 24 hodin.\n"
 
 
-LogName18:"DIEGO 17.BØE.14\nre: Mám toho dost\n"
+LogName18:"DIEGO 17.3.2114\nre: Mám toho dost\n"
 LogPortrait18:"Diego"
 LogIcon18:"RickIcon"
 LogText18:"Pro: Korenchkin, Anatoly
 Anatolyi, já opravdu vydrím hodnì ne pohár pøeteèe, ale co je moc to je moc - take to øeknu jednoduše a upøímnì.  Nemáme rádi jeden druhého.  Kadı z nás máme své vlastní dùvody k pøevzetí této mise, take vám dám malé varování.  Nenechám se obejít, nenechám se oklamat, nenechám se zmanipulovat a nenechám se koupit.  Jednejte se mnou na rovinu a své rafinované manipulace si schovejte pro pøíští schùzi Rady.  Fakt, e se mùj otec nechal zkorumpovat neznamená e se nechám i já.\n" 
 
 
-LogName21:"DELACROIX 04.DUB.14\n
+LogName21:"DELACROIX 04.4.2114\n
 re: Xerxes\n
 "
 LogPortrait21:"Delacroix"
@@ -137,7 +137,7 @@ LogIcon21:"EngIcon"
 LogText21:"Proè mì jen nikdo neposlouchá?  Bezpeènostní protokoly Xerxesova systému nestojí za nic.  Nìjakı idiot se minulou noc naboural do primárního dataloop a pøimìl Xerxese zpívat písnì Elvise Presleyho pøes tøi hodiny.  Nakonec jsem musela odpojit celı hlasovı subsystém.  Co by se mohlo stát, kdyby se do nìj dostal nìkdo se skuteènım plánem?\n"
 
 
-LogName22:"GRASSI 12.KVÌ.14\n
+LogName22:"GRASSI 12.5.2114\n
 re: Zatracenı opice\n
 "
 LogPortrait22:"Grassi"
@@ -145,7 +145,7 @@ LogIcon22:"MedIcon"
 LogText22:"Koho skvìlı nápad to byl, pøinést na palubu 150 opic?  Prı v zájmu vìdy?  A co takhle zájem hygieny?  Dokáe si nìkdo pøedstavit, kolik sraèek dennì nadìlá 150 laboratorních opic?  Chudáci opice... nalodili je na palubu nejúasnìjší vıpravy v historii, aby je nakonec ve jménu pokroku rozkrájeli na malı kousky.\n"
 
 
-LogName6:"KORENCHKIN 14.ÈVN.14\n
+LogName6:"KORENCHKIN 14.6.2114\n
 re: První kontakt\n
 "
 LogPortrait6:"Korench"
@@ -154,7 +154,7 @@ LogText6:"Pro: Zhukov, Vladimír
 Zaznamenali jsme vysílání z povrchu Tau Ceti 5.  Vyjednával jsem s kapitánem Diegem z Rickenbackeru a po jistém...  nátlaku svolil k vısadku na planetu, coby spoleèné akci.  Pøedstav si, e by se tato historická mise stala ještì více historickou.  První kontakt!  A kdo by získal vıhradní práva pro všechna média, patenty a granty?  TriOptimum!  Miri, øíkám ti, e to bude stát za to.\n"
 
 
-LogName19:"SUAREZ 20.ÈVN.14\n
+LogName19:"SUAREZ 20.6.2114\n
 re: 100% muèení\n
 "
 LogPortrait19:"Suarez"
@@ -163,7 +163,7 @@ LogText19:"Pro: Sidonsová, Rebeka
 Wow... ty jsi úasná, víš to?  Snail jsem se na tebe nemyslet.  Já pitomec.  Miluju tì Rebeko.  A u mám plán.  Pøesvìdèil jsem kapitána, aby mì pøeloil z Rickenbackera do spolupracujícího tímu na Von Braunovi.  Zanedlouho nás od sebe u nic nerozdìlí.\n"
 
 
-LogName1:"GRASSI 20.ÈVN.14\n
+LogName1:"GRASSI 20.6.2114\n
 re: Samá práce, ádná zábava\n
 "
 LogPortrait1:"Grassi"
@@ -171,7 +171,7 @@ LogIcon1:"MedIcon"
 LogText1:"Okolo 04:30 mì zavolali, abych pomohl vyloit èluny co se vrátily z Tau Ceti 5.  Korenchkin u toho byl sám.  Jeíši, co se to s ním stalo?  Ztratil vìtšinu vlasù a kdybyste vidìli ty boule po stranách jeho krku...  A ten zápach...  Øekl jsem mu, e by mìl vyhledat Dr Wattse, ale odsekl, a se starám sám o sebe.  Tak fajn, la-di-dá.\n"
 
 
-LogName12:"POLITOVÁ 25.ÈVN.14\n
+LogName12:"POLITOVÁ 25.6.2114\n
 re: Zvláštní UI\n
 "
 LogPortrait12:"Polito"
@@ -180,7 +180,7 @@ LogText12:"Pro: Delacroix, Dr. Marie
 Marie... Je mi líto, e jsem nebyla k zastiení, ale pracovala jsem na tom artefaktu, kterı Bayliss pøivezl z Tau Ceti 5.  Udìlala jsem analızu 3. stupnì...  Myslím, e je to nìjakı druh Umìlé Inteligence.  Dokázala jsem z její pamìti vytáhnout zvukovı soubor...  Posouzení nechám na tobì, Marie...   Ale já myslím, e mluví anglicky...\n"
 
 
-LogName23:"GRASSI 26.¡ÈVN.14\n
+LogName23:"GRASSI 26.¡6.2114\n
 re: Zvíøecí práva?\n
 "
 LogPortrait23:"Grassi"
@@ -188,7 +188,7 @@ LogIcon23:"MedIcon"
 LogText23:"Jakmile jsme dosáhli Tau Ceti 5, zaèaly se laboratorní opice chovat divnì.  Sestra Loesserová jednu vytáhla z klece, aby ji odnesla k vivisekci a ty ostatní, myslím tím celou skupinu, se postavily na zadní a zaèaly skuèet.  To nebyl jen nìjakı náhodnı úkaz, to byl protest.\n"
 
 
-LogName24:"WATTS 30.ÈVN.14\n
+LogName24:"WATTS 30.6.2114\n
 re: Nesmysl\n
 "
 LogPortrait24:"Watts"
@@ -197,7 +197,7 @@ LogText24:"Pro: Loesserová, Angela
 Angelo, i kdy se vám mùe zdát, e laboratorní opice komunikují jedna s druhou, ruèím za to, e je to zhola nemoné.  Tvrdíte, e jedna z opic pøedala vstupní kód od komory s jídlem jiné opici, a ta ho pak pouila k otevøení.  Jak jistì víte, v literatuøe jsou tisíce studií inteligence primátu, ale nikde není zmínka ani vzdálenì podobná takto dùmyslnému chování.  Buïto jste vlastnoruènì pokoøila celé široké pole odborníkù na zvíøecí chování, nebo zoufale nutnì potøebujete dovolenou.\n"
 
 
-LogName9:"WATTS 01.ÈVN.14\n
+LogName9:"WATTS 01.6.2114\n
 re: Pacient Watson\n
 "
 LogPortrait9:"Watts"
@@ -205,7 +205,7 @@ LogIcon9:"MedIcon"
 LogText9:"Od té doby, co se vrátil z povrchu Tau Ceti 5, prochází pacient mnostvím neobvyklıch zmìn. Dokazují to zanícené vırùstky na uzlinách a pøítomnost velkého èervovitého parazita.  Dnes ráno tento parazit prorazil pacientovu hruï...  pøímo zevnitø...  a jedním svım koncem se pøichytil k pacientovu èelu.  Kdybych ho odstranil, mohl bych ho zabít.  Kdy ho ale nechám...  Koneèná diagnóza: Nemám tušení.  Rád bych to probral s Madorskym z CDC, ale ten je bohuel 67 triliónù mil odsud.\n"
 
 
-LogName15:"CURTIZ 02.ÈVC.14\n
+LogName15:"CURTIZ 02.7.2114\n
 re: Antiradiaèné séra\n
 "
 LogPortrait15:"Curtiz"
@@ -213,7 +213,7 @@ LogIcon15:"EngIcon"
 LogText15:"Lékaøské oddìlení øíká, e replikovali celou kopu antiradiaèních sér.  Seberu je a rozdám technickému personálu døív, ne nìkoho napadne nìco jiného.  Watts mì také vybídl, abych zkontroloval replikátor v Kajutách posádky...  Prı e je to ráj hackerù.\n"
 
 
-LogName4:"CURTIZ 06.ÈVC.14\n
+LogName4:"CURTIZ 06.7.2114\n
 re: Únik chladiva\n
 "
 LogPortrait4:"Curtiz"
@@ -222,7 +222,7 @@ LogText4:"Pro: Delacroix, Dr. Marie
 Marie, musel jsem zakázat pøístup do Techniky, dokud nepøijdeme na to, co tam dole dìlat.  Je tam pøíliš horko.  Nevím, kam se podìly všechny ochranné obleky, take jediné, co tam mùu pøinést je náruè antiradiaèních sér.  Z tìch zatracenıch vìcí mì vdy rozbolí hlava.\n"
 
 
-LogName7:"GRASSI 07.ÈVC.14\n
+LogName7:"GRASSI 07.7.2114\n
 re: Implantování\n
 "
 LogPortrait7:"Grassi"
@@ -231,7 +231,7 @@ LogText7:"Pro: Politová, Dr. Janice
 Hele doktorko, zjevil se tu bezpeènostní robot s vašim rozkazem umístit toho chlápka do Kryo-zotavení.  Nejsem ádnı kyberdoktor, ale poznám bezpapírovı kšeftík, kdy ho vidím.  Doufám, e víte, e po fiasku na stanici Citadela postavili všechna kybernetická vylepšení typu R mimo zákon...  ale já tady jenom pracuju, e jo?\n"
 
 
-LogName20:"AMANPOUR 07.ÈVC.14\n
+LogName20:"AMANPOUR 07.7.2114\n
 re: Novı kód\n
 "
 LogPortrait20:"Amanpour"
@@ -239,7 +239,7 @@ LogIcon20:"MedIcon"
 LogText20:"Skvìle.  Zase musím zmìnit vstupní kód do CRYO A !  Jako bych nemìl nic lepšího na práci.  Myslím e Grassiho baví jen tak mi pøidìlávat robotu.  Novı kód nastavím na 45100.  To by se mohlo dobøe pamatovat.\n"
 
 
-LogName10:"WATTS 07.ÈVC.14\n
+LogName10:"WATTS 07.7.2114\n
 re: Pacient Watson 2\n
 "
 LogPortrait10:"Watts"
@@ -247,7 +247,7 @@ LogIcon10:"MedIcon"
 LogText10:"Pacient Watson zemøel z blíe neurèitelnıch pøíèin kolem 02:40.  Navzdory nulové dıchací a mozkové aktivitì, vykazuje tìlo, stejnì jako i parazit, setrvávající nezávislé pohybové funkce.  Kolem 08:47 pacient dokonce promluvil na jednu ze sester.  Pitva byla stanovena na 16:30.  Pak uvidíme, co toho Lazara drí v chodu...\n"
 
 
-LogName5:"CURTIZ 07.ÈVC.14\n
+LogName5:"CURTIZ 07.7.2114\n
 re: Další potíe\n
 "
 LogPortrait5:"Curtiz"
@@ -255,7 +255,7 @@ LogIcon5:"EngIcon"
 LogText5:"Nebyl jsem schopen kontaktovat Delacroix...  Tohle místo se rozpadává...  Èlenové mì skupiny mizejí...  Prosakování ve ventilaèních šachtách zkratovalo primární pøístupovı okruh...  Co znamená, e všichni pùjdem	 na záloní zdroje, dokud se nám ho nepodaøí zase nahodit.  Taky to znamená, e nefunguje ádnı vıtah...  Marie, kde k èertu vìzíš?\n"
 
 
-LogName8:"CURTIZ 07.ÈVC.14\n
+LogName8:"CURTIZ 07.7.2114\n
 re: Nefunkèní vıtahy\n
 "
 LogPortrait8:"Curtiz"
@@ -263,7 +263,7 @@ LogIcon8:"EngIcon"
 LogText8:"Nedaøí se mi kontaktovat nikoho z Techniky.  Bez funkèních vıtahu se tam budu muset dostat nouzovım prùlezem ve vìdeckém køídle.  Myslím, e vstupní kód je ve Wattsove laboratoøi.\n"
 
 
-LogName14:"WATTS 07.ÈVC.14\n
+LogName14:"WATTS 07.7.2114\n
 re: Údrbáøsky prùlez\n
 "
 LogPortrait14:"Watts"
@@ -272,7 +272,7 @@ LogText14:"Pro: Curtiz, Juan
 V poøádku, jen klid...  Vstupní kód do prùlezù je 12451.  V 16:30 dìlám pitvu, ale hned potom si zajdem na pivo do Rekreaèní paluby.  Dohoda?\n"
 
 
-LogName16:"TURNBULOVÁ 07.ÈVC.14\n
+LogName16:"TURNBULOVÁ 07.7.2114\n
 re: Procedúry\n
 "
 LogPortrait16:"Turnbull"
@@ -280,7 +280,7 @@ LogIcon16:"OpsIcon"
 LogText16:"Šéfka Bronsonová a její stupidní procedúry.  Zase zmìnila kód od pøíruèní zbrojnice v na palubì Medi/Vìda.  Ted abych se trmácela na palubu 4 a zjišovala novou kombinaci...  Nìkdo ji to raz vytmaví...\n"
 
 
-LogName11:"WATTS 07.ÈVC.14\n
+LogName11:"WATTS 07.7.2114\n
 re: Watsonova pitva\n
 "
 LogPortrait11:"Watts"
@@ -288,7 +288,7 @@ LogIcon11:"MedIcon"
 LogText11:"Je 16:30.  Objekt pitvy: A. Watson.  Nyní uèiníme první øez v ob...  Pøidrte ho, sestro!  Sestro!  Drte ho!  Aaaaa!!!  Hej!  AAAAA!!!\n"
 
 
-LogName2:"DELACROIX 08.ÈVC.14\n
+LogName2:"DELACROIX 08.7.2114\n
 re: Nejsme pøipraveni\n
 "
 LogPortrait2:"Delacroix"
