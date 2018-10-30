@@ -2,7 +2,7 @@ SUB1
 
 {
 	type "bark"
-	descr "Midwife"
+	descr "Chůva"
 	multisub mw1amb_1 {
 		{ time 600 length 1500 text "To bolí!" }
 	}
@@ -66,7 +66,7 @@ SUB1
 
 {
 	type "nonverbal"
-	descr "Midwife"
+	descr "Chůva"
 	sub f_mwlas4 { text "[střílí]" }
 	sub mw1at0_5 { text "[pohmkávání]" }
 	sub mw1die_1 { text "[smrtelný výkřik]" }
