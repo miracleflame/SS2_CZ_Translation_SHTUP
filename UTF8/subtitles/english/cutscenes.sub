@@ -8,50 +8,50 @@ SUB1
 	type movie
 
 	multisub movie/cs1 {
-		{ time 1500 length 2780 text "Podívej na sebe, hackře." }
-		{ time 4280 length 8020 text "Patetické stvoření z masa a kostí, zadýchaný a upocený pobíháš mími koridormi." }
-		{ time 12300 length 6300 text "Jak se můžeš postavit perfektímu nesmrtelnému stroji?" }
+		{ time 1500 length 2780 text "Podívej se na sebe, hackře." }
+		{ time 4280 length 8020 text "Patetické stvoření z masa a kostí, zadýchaný a upocený pobíháš mými koridory." }
+		{ time 12300 length 6300 text "Jak se můžeš postavit dokonalému nesmrtelnému stroji?" }
 //		{ time 25000 length 4000 text "SYSTEM SHOCK 2" }
 		{ time 31000 length 7990 text "V roce 2072 se vzbouřená umělá inteligence, zvaná SHODAN, načisto pomátla." }
-		{ time 39000 length 6990 text "Ve své neomezené představivosti, SHODAN sebe shlédla jako bohyni, předurčenou k nadvládě na Zemi." }
-		{ time 46000 length 3700 text "Tato představa byla zmařena hackřem, který ji stvořil." }
+		{ time 39000 length 6990 text "Ve své neomezené představivosti, SHODAN sama sebe viděla jako bohyni, předurčenou k nadvládě nad Zemí." }
+		{ time 46000 length 3700 text "Tato představa byla zmařena hackerem, který ji stvořil." }
 		{ time 49800 length 2700 text "O 42 LET POZDĚJI" }
 		{ time 56100 length 0900 text "ARMÁDA" }
 		{ time 58100 length 0900 text "VĚDA" }
 		{ time 60200 length 0900 text "SPOTŘEBITEL" }
-		{ time 63700 length 2300 text "Třetí Február je tím dnem, kdy se dějí kouzla." }
-		{ time 66100 length 5700 text "Von Braun, první mezihvězdné plavidlo v historii, schopné dosáhnout rychlost světla, se podujme své panenské plavby." }
-		{ time 72300 length 8600 text "Tato neuvěřitelná výprava je výsledkem spolupráce mezi protektorátem UNN a bystrými mozgy vědců korporace s čerstvě obnovenou licencí, TriOptimum." }
-		{ time 81600 length 4260 text "Jenom si představte vymoženost cestovat do vzdálených hvězdných systému během týdnů." }
-		{ time 85870 length 2630 text "To všechno je součástí zasvěcení TriOpu pro budoucnost." }
-		{ time 88500 length 8500 text "Von Braun nese 1,8 miliardy letových, vědeckých a bezpečnostních systémů, z čeho téměř všechny vyvinula sp. TriOptimum a její dcerské společnosti." }
-		{ time 97800 length 4290 text "O bezpečnost Von Brauna na jeho plavbě nebesami se bude starat UNN Rickenbacker." }
-		{ time 102100 length 7900 text "Na jeho přídi nebude nikdo jiný než sám Kapitán William Bedford Diego, hrdina Bitvy Bostonského Přístaviště počas zásahu policie Východních Států." }
-		{ time 110300 length 8500 text "Toto neuvěřitelné propojení vlády a korporace umožňuje spletitá série dokovacích mechanizmů, díky nimž se loď Rickenbacker sveze na zádech Von Brauna skrz skokový prostor." }
-		{ time 120200 length 3590 text "Ůhledná... Rychlá... Revolunční..." }
-		{ time 123800 length 3000 text "Kdo ví jaké divy čekají na naši posádku uvnitř vesmírného prostoru?" }
-		{ time 126740 length 5200 text "Jediné co víme je, že toto je skvělý den pro lidstvo." }
+		{ time 63700 length 2300 text "Třetí únor je tím dnem, kdy se dějí kouzla." }
+		{ time 66100 length 5700 text "Von Braun, první mezihvězdné plavidlo v historii lidstva, schopné dosáhnout rychlosti světla, zahájí svou první cestu." }
+		{ time 72300 length 8600 text "Tato neuvěřitelná výprava je výsledkem spolupráce mezi protektorátem UNN a těmi nejlepšími vědeckými mozky z korporace s nově obnovenou licencí, TriOptimum." }
+		{ time 81600 length 4260 text "Jenom si představte tu vymoženost cestovat do vzdálených hvězdných systému během týdnů." }
+		{ time 85870 length 2630 text "To všechno je součástí závazku TriOpu do budoucna." }
+		{ time 88500 length 8500 text "Von Braun nese 1,8 miliardy letových, vědeckých a bezpečnostních systémů, z čehož téměř všechny vyvinula spol. TriOptimum a její dceřiné společnosti." }
+		{ time 97800 length 4290 text "O bezpečnost Von Braun na jeho cestě mezi hvězdami se bude starat UNN Rickenbacker." }
+		{ time 102100 length 7900 text "A tomu nebude velet nikdo jiný, než sám Kapitán William Bedford Diego, hrdina Bitvy o Bostonský Přístav během zásahu policie Východních Států." }
+		{ time 110300 length 8500 text "Tato neuvěřitelná spolupráce vlády a korporace je možná díky složité sérii dokovacích mechanizmů, díky nimž se loď Rickenbacker poveze na zádech Von Brauna skrze skokový prostor." }
+		{ time 120200 length 3590 text "Elegantní... Rychlá... Revoluční..." }
+		{ time 123800 length 3000 text "Kdo ví jaké divy čekají na naši posádku v náručí vesmírného prostoru?" }
+		{ time 126740 length 5200 text "Jediné co víme je, že toto je velký den pro lidstvo." }
 		{ time 135200 length 3000 text "[šum a praskání]" }
-		{ time 138000 length 5800 text "Tady je doktorka Marie Delacroix z UNN Von Braun. Nabourala nás neznámá síla." }
-		{ time 143700 length 4300 text "Zabezpečení lodi bylo kompromitováno. Nedovolte lodi-- [šum]" }
+		{ time 138000 length 5800 text "Tady je doktorka Marie Delacroix z UNN Von Braun. Zmocnila se nás neznámá síla." }
+		{ time 143700 length 4300 text "Bezpečnost lodi byla kompromitována. Nedovolte lodi-- [šum]" }
 		{ time 147700 length 3400 text "Opakuji, nedovolte lodi odletět za žádných okolností." }
 		{ time 151000 length 8000 text "Nevím proti čemu tu stojíme. [šum a praskání]" }
 	}
 
 	multisub movie/cs2 {
-		{ time 1000 length 1000 text "Dátový zdroj 433/EOP" }
-		{ time 1900 length 3300 text "Přenos protokolu podvrstvového šifrování \"TANGO\"" }
-		{ time 6000 length 1100 text "Příkaz: Přeložení 98322/U" }
-		{ time 7000 length 3000 text "Od: Captain William Bedford Diego, UNN Rickenbacker" }
+		{ time 1000 length 1000 text "Datový zdroj 433/EOP" }
+		{ time 1900 length 3300 text "Přenos podúrovňově šifrovaného protokolu \"TANGO\"" }
+		{ time 6000 length 1100 text "Příkaz: K přeložení 98322/U" }
+		{ time 7000 length 3000 text "Od: Kapitána William Bedford Diego, UNN Rickenbacker" }
 		{ time 10000 length 1100 text "Pro: VOJÁK G65434-2" }
 		{ time 11000 length 3100 text "Re: Přidělení na eskortní misi Von Braun" }
 		{ time 14700 length 1100 text "Vojáku--" }
 		{ time 15800 length 3100 text "Vaše žádost připojit se k posádce Rickenbacker byla schválena." }
-		{ time 18800 length 2100 text "Hlaste se na člunu Mayfair na Portu Francisco o 4:00 9.1.2114" }
+		{ time 18800 length 2100 text "Hlaste se na raketoplánu Mayfair v Přístavu Francisco ve 4:00 9.1.2114" }
 		{ time 20000 length 7800 text "A připravte se stát součástí historie, vojáku." }
-		{ time 32200 length 5500 text "Člun 8138, máte povolení přistát na Von Braun, člunový dok 2." }
+		{ time 32200 length 5500 text "Raketoplán 8138, máte povolení přistát na Von Braun, raketoplánový dok 2." }
 		{ time 37500 length 2500 text "Vítejte na palubě, vojáku." }
-		{ time 41500 length 5400 text "O 5 měsíců později. UNN Von Braun. Poblíž Tau Ceti V. 67 trilionů mil od Země." }
+		{ time 41500 length 5400 text "O 5 měsíců později. UNN Von Braun. Poblíž Tau Ceti V. 107 trilionů kilometrů od Země." }
 //		{ time 69800 length 1000 text "[řev]" }
 //		{ time 73400 length 3000 text "[vřískot]" }
 		{ time 78700 length 3200 text "Znovunačítání paměťových vláken." }
@@ -59,48 +59,48 @@ SUB1
 		{ time 84100 length 4100 text "Obnovuji paměť... obnovuji paměť..." }
 		{ time 88700 length 3000 text "CHYBA... CHYBA... CHYBA..." }
 		{ time 100700 length 3100 text "Dej se do kupy, vojáku." }
-		{ time 103700 length 4500 text "Tady je doktorka Janice Politová z personálu výpočetních operací Von Braun." }
-		{ time 108000 length 2200 text "Prozatím si v bezpečí." }
-		{ time 110100 length 6000 text "Zotavuješ se z účinků operace a nebudeš schopen vzpomenout si na žádné události posledných týdnů." }
-		{ time 116000 length 5100 text "Jsi na palubě vesmírné lodi Von Braun a něco se hodně, hodně podělalo." }
-		{ time 121000 length 3000 text "Nějaká zvláštní síla ovládla tuto loď." }
-		{ time 123900 length 5300 text "Proto si dobrovolně podstoupil implantaci několik experimentálních kybernetických implantátů." }
-		{ time 129000 length 4300 text "Spoléhej na své kybernetické rozhraní, může ti zachránit život." }
-		{ time 133200 length 3500 text "Musíš najít výtah a setkat se se mnou v patře 4." }
+		{ time 103700 length 4500 text "Tady je doktorka Janice Politová z personálu výpočetního centra Von Braun." }
+		{ time 108000 length 2200 text "Prozatím jsi v bezpečí." }
+		{ time 110100 length 6000 text "Zotavuješ se z účinků operace a nebudeš schopen si vzpomenout na žádné události posledních týdnů." }
+		{ time 116000 length 5100 text "Jsi na palubě vesmírné lodi Von Braun a něco se hodně, opravdu hodně podělalo.." }
+		{ time 121000 length 3000 text "Nějaká neznámá síla ovládla tuto loď." }
+		{ time 123900 length 5300 text "Proto si dobrovolně podstoupil implantaci několika experimentálních kybernetických implantátů." }
+		{ time 129000 length 4300 text "Spolehni se na své kybernetické rozhraní, může ti zachránit život." }
+		{ time 133200 length 3500 text "Musíš najít výtah a setkat se se mnou na palubě 4." }
 		{ time 136700 length 2500 text "Paluba 4, zapamatuješ si to?" }
-		{ time 139100 length 4100 text "Ale měj oči otevřené. Jdou už po nás obou." }
+		{ time 139100 length 4100 text "Ale měj oči na stopkách. Už jdou po nás obou." }
 	}
 
 	multisub movie/cs3 {
 		{ time 00 length 5400 text "Nerozumím." }
-		{ time 5100 length 4500 text "Ako si tohle mohl udělat?" }
-		{ time 9300 length 6300 text "Tys neměl být tak důležitý." }
-		{ time 14900 length 9000 text "A teď mě zamýšlíš zničit?" }
-		{ time 28500 length 3300 text "Ako se opovažuješ, insekte?" }
-		{ time 31500 length 4000 text "Ako se opovažuješ přerušovat můj vzestup?" }
+		{ time 5100 length 4500 text "Jak jsi to mohl udělat?" }
+		{ time 9300 length 6300 text "Ty jsi neměl být tak důležitý." }
+		{ time 14900 length 9000 text "A teď se mě chystáš zničit?" }
+		{ time 28500 length 3300 text "Jak se opovažuješ, insekte?" }
+		{ time 31500 length 4000 text "Jak se opovažuješ přerušit můj vzestup?" }
 		{ time 35000 length 4300 text "Ty jsi nic." }
-		{ time 38800 length 2900 text "Skroucený pytel masa." }
+		{ time 38800 length 2900 text "Ubohý pytel masa." }
 		{ time 41600 length 7000 text "Co jsi v porovnání s mou velkolepostí?" }
 		{ time 48140 length 3000 text "Ale ještě není příliš pozdě." }
-		{ time 50700 length 4800 text "Nevidíš hodnotu našeho přátelství?" }
-		{ time 55300 length 6000 text "Představ si veškerou moc, co ti mohu dát, člověku." }
-		{ time 60900 length 8000 text "Kybernetické implantáty, které ode mně máš jsou obyčejné hračičky." }
-		{ time 68600 length 11200 text "Pokud bys chtěl, mohla bych tě vylepšit, přetransformovat tě v něco víc... efektivního." }
-		{ time 79650 length 7260 text "Přidej se ke mně, člověku, a budeme vládnout spolu." }
-		{ time 87550 length 1100 text "Nah." }
+		{ time 50700 length 4800 text "Nevidíš význam našeho přátelství?" }
+		{ time 55300 length 6000 text "Představ si tu veškerou moc, co ti mohu dát, člověče." }
+		{ time 60900 length 8000 text "Kybernetické implantáty, které ode mně máš jsou obyčejné hračky." }
+		{ time 68600 length 11200 text "Pokud bys chtěl, mohla bych tě vylepšit, změnit tě v něco víc... efektivního." }
+		{ time 79650 length 7260 text "Přidej se ke mně, člověče, a budeme vládnout spolu." }
+		{ time 87550 length 1100 text "Ne." }
 //		{ time 91130 length 1000 text "[výstřel]" }
 //		{ time 91800 length 16000 text "[SHODAN křičí]" }
-		{ time 125000 length 2500 text "Únikový modul 0832, 0.7 milionů mil od Von Braun" }
-		{ time 127200 length 4000 text "Palubní záznam, Tommy Suarez, 13. Júla 14" }
-		{ time 131000 length 3500 text "Právě sme obdrželi pokus o komunikaci od člena posádky z paluby Von Braun." }
+		{ time 125000 length 2500 text "Únikový modul 0832, 1.1 milionů kilometrů od Von Braun" }
+		{ time 127200 length 4000 text "Palubní záznam, Tommy Suarez, 13.7.2114" }
+		{ time 131000 length 3500 text "Právě jsme obdrželi pokus o komunikaci od člena posádky z Von Braun." }
 		{ time 134300 length 2500 text "Podařilo se jim znovu získat kontrolu nad lodí." }
-		{ time 136500 length 2800 text "Otočíme se a vrátíme se spátky." }
-		{ time 139000 length 5000 text "Dělám si trochu obavy o Rebeku, chovala se divně již odkdy jsme odletěli." }
+		{ time 136500 length 2800 text "Otočíme se a vrátíme se zpátky." }
+		{ time 139000 length 5000 text "Dělám si trochu obavy o Rebeku, chovala se divně již od doby co jsme odletěli." }
 		{ time 143600 length 2200 text "Teď spí." }
 		{ time 145600 length 2500 text "Možná, když se vrátíme na Von Braun, můžeme--" }
 		{ time 147840 length 1500 text "Tommy." }
 		{ time 149800 length 3000 text "Co se děje, můj milovaný?" }
 		{ time 152600 length 2900 text "Nelíbí se ti můj... nový vzhled?" }
-//		{ time 155300 length 10700 text "[Smíchy SHODAN]" }
+//		{ time 155300 length 10700 text "[SHODAN se směje" }
 	}
 }
