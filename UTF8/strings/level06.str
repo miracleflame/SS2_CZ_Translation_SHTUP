@@ -1,28 +1,28 @@
-EmailName1:"SHODAN 12.CVC.14\nre: Vyhlazeni\n"
+EmailName1:"SHODAN 12.7.14\nre: Vyhlazeni\n"
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
 EmailText1:"Ma stvoreni presla do utoku.  Chci jejich uplne vyhlazeni.  Nemam jinou moznost, nez znicit tuto vesmirnou lod.  My muzem uniknout na Rickenbacker, ale predtim tam musis prenest mou osobnost.  Jdi na velitelsky mustek Von Brauna - je na teto palube.  Tam najdes vstupni kartu do ridiciho centra na 4. palube.  Najdi tu kartu a bez tam.  Ale dej si pozor...  Annelidsti hybridi jsou s kazdou minutou inteligentnejsi a nebezpecnejsi - ty ne.\n"
 
 
-EmailName4:"SHODAN 12.CVC.14\nre: Raketoplany\n"
+EmailName4:"SHODAN 12.7.14\nre: Raketoplany\n"
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
 EmailText4:"Davej pozor hmyze, situace se zmenila.  Oni vycitili nase zamery a nyni nakladaji sve potomstvo do raketoplanu.  Nesmeji uteci memu hnevu.  Musis jit do Doku Raketoplanu na teto palube, a znicit vsechny raketoplany.  Ted uz zizni po tve krvi.\n"
 
 
-EmailName2:"SHODAN 12.CVC.14\nre: Reseni\n"
+EmailName2:"SHODAN 12.7.14\nre: Reseni\n"
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
 EmailText2:"Ma stvoreni jsou zase o krok pred tebou.  Podarilo se jim znicit pocitac ovladajici stit kolem raketoplanu.  Ale jejich duchaplnost je jenom zavistlivym stinem v porovnani s tou mou.  V prostorech Rizeni Raketoplanu najdes replikator.  Nahrala jsem do nej molekularni matrici sympatetickeho rezonatoru.  Aby ti to zarizeni vygeneroval, musis replikator hacknout.  Az ziskas rezonator, pripoj ho ke generatoru stitu.  Je v doku, pobliz samotneho raketoplanu.  Zarizeni generuje rezonancni vlny, ktere velice rychle narusi strukturu palivovych nadrzi clunu a znici ho.  Snaz se byt co nejdal, az se to stane.  Jeste stale te potrebuju.\n"
 
 
-EmailName8:"DELACROIX 12.CVC.14\nre: Vojaku!\n"
+EmailName8:"DELACROIX 12.7.14\nre: Vojaku!\n"
 EmailPortrait8:"Delacroix"
 EmailIcon8:"EngIcon"
 EmailText8:"Nasla jsem te...  konecne...  Tady je Dr. Marie Delacroix...  Mam pro tebe zivotne dulezite informace, ale jsem uveznena ve skladisti doku A.  Prijed za mnou tak rychle, jak to dokazes...\n"
 
 
-EmailName9:"SHODAN 12.CVC.14\nre: Stuj!\n"
+EmailName9:"SHODAN 12.7.14\nre: Stuj!\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
 EmailText9:"Neopovazuj se jit dovnitr, hmyze.  Okamzite pokracuj do pruchodu na Rickenbacker.  Neposlusnost nebudu trpet.\n"
@@ -34,13 +34,13 @@ EmailIcon6:"ShodIcon"
 EmailText6:"Vyborne.  Zavrazdil jsi jejich mlade a zabranil jim v uteku.  Otevrela jsem branu ke spojovacimu pruchodu na Rickenbacker, najdes ji na prostredni stanici tramvaje.  Odtud se muzes evakuovat na Rickenbacker.\n"
 
 
-EmailName10:"SHODAN 12.CVC.14\nre: Tva mala vzpoura\n"
+EmailName10:"SHODAN 12.7.14\nre: Tva mala vzpoura\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
 EmailText10:"Doufam, ze jsi si vychutnal tvou malou vzpouru, provokatere.  Ale pamatuj si, ze co SHODAN dava, to je schopna taky i vzit.\n"
 
 
-EmailName15:"KORENCHKIN 12.CVC.14\n re: Promluvme si\n"
+EmailName15:"KORENCHKIN 12.7.14\n re: Promluvme si\n"
 EmailPortrait15:"Korench2"
 EmailIcon15:"ComIcon"
 EmailText15:"Nase vule vytvari stenu, blokujici tvuj postup.  Pojd se s nami setkat na mustku Von Brauna.  Popovidame si o tve budoucnosti.\n"
@@ -52,97 +52,97 @@ LogIcon32:"ComIcon"
 LogText32:"Inventar laboratorniho skladu: Veleni-komora 204\n\nArzen (As) : 2\nBarium (Ba) : 2\nCesium (Cs) : 2\nHassium (Hs) : 2\nMolybden (Mo) : 2\nRadium (Ra) : 2\nSelen (Se) : 2\nTechnicium (Tc) : 3\nTelur (Te) : 1\n\nTento inventurni seznam je vyzadovan bezpecnostni vyhlaskou UNN #134882 o skladech nebezpecnych chemikalii.  \"Sklad\" je definovan vyhlaskou UNN #195331 o vsech prostorach obsahujicich nebezpecne chemikalie (viz predpis #093355) ulozene v mnozstvi vetsim, nez 50g na 10 ctverecnych stop a trvani delsim nez 24 hodin.\n"
 
 
-LogName11:"NORRIS 6.CVC.14\nre: Rizeni Raketoplanu\n"
+LogName11:"NORRIS 6.7.14\nre: Rizeni Raketoplanu\n"
 LogPortrait11:"Norris"
 LogIcon11:"ComIcon"
 LogText11:"Paranoia plne uderila.  Kdosi zmenil vstupni kod do mistosti Ostrahy v dustojnickem oddeleni.  Ted se nemuzeme dostat ke vstupni karte k ovladani raketoplanu.  Myslim, ze nejvic podezrely je Myers.  Chlapi jako on dokazou premyslet akorat o konspiracnich teoriich a nahych zenskych.\n"
 
 
-LogName12:"MYERS 6.CVC.14\nre: Zmena kodu\n"
+LogName12:"MYERS 6.7.14\nre: Zmena kodu\n"
 LogPortrait12:"Wood"
 LogIcon12:"ComIcon"
 LogText12:"Prenastavil jsem kod do mistnosti Ostrahy na 83273.  Neverim nikomu z tech bastardu...\n"
 
 
-LogName4:"NORRIS 07.CVC.14\nre: Sen\n"
+LogName4:"NORRIS 07.7.14\nre: Sen\n"
 LogPortrait4:"Norris"
 LogIcon4:"ComIcon"
 LogText4:"Oni odpojili centralni vytah.  O co tady jde?  Minulou noc jsem mel podivny sen...  Byl jsem sam ve sve kajute...  ale najednou jsem tam nebyl sam, byl jsem tam stokrat...  tisickrat...  Nejpodivnejsi bylo...  ze to bylo prijemny...  Citil jsem se jako soucast neceho...  jako bych nekam patril...  Doufam, ze se mi bude stejny sen zdat i tuto noc...\n"
 
 
-LogName3:"NORRIS 07.CVC.14\nre: Co se to deje?\n"
+LogName3:"NORRIS 07.7.14\nre: Co se to deje?\n"
 LogPortrait3:"Norris"
 LogIcon3:"ComIcon"
 LogText3:"Neco se tu deje.  Korenchkin se uzavrel na 3. palube.  Stale dolu vola ruzne lidi, jednoho po druhem.  Vogel, Boynton, Swiderek.  Nikdo z nich se nevratil.  Jestli si zavola i mne...  fakt nevim co udelam.  A Bronsonova do me jeste zacala hustit:  Jste vyssi letecky dustojnik...  meli byste konat.  Konal bych...  kdybych vedel, co se tady do pekla deje.\n"
 
 
-LogName5:"NORRIS 08.CVC.14\nre: Korenchkin\n"
+LogName5:"NORRIS 08.7.14\nre: Korenchkin\n"
 LogPortrait5:"Norris"
 LogIcon5:"ComIcon"
 LogText5:"Dnes rano jsem dostal email od Korenchkina, ze pry prijde na inspekci.  A pak kdyz prisel, bylo to...  neco...  zneklidnujici...  byl to Anatoly...  a nebyl...  A zaroven to bylo nadherne...  citil jsem se jako soucast toho vseho...  Zpival nam...  nam vsem...  a my se citili jako jedni z Mnoha...\n"
 
 
-LogName6:"KORENCHKIN 09.CVC.14\nre: Me dokonceni\n"
+LogName6:"KORENCHKIN 09.7.14\nre: Me dokonceni\n"
 LogPortrait6:"Korench2"
 LogIcon6:"ComIcon"
 LogText6:"Ta uzasna transformace je dokoncena, a ja jsem jednim z Mnoha.  Vlozil jsem sve myslenky do tohoto zarizeni jako historicky zaznam.  Tuto cestu jsme zacali jako siritele komerce, a ted pokracujeme jako zvestovatele slavy.  Veril jsem v penize a TriOptimum,  a nyni verim v radost ze Spolecenstvi.  Diegovi se neda verit a tak musim tuto lod zabrat pro Mnoho.  Stane se lodi nasi spasy, nesouci nase poselstvi i nase telo.\n"
 
 
-LogName18:"PREFONTAINE 09.CVC.14\nre: Vznasejici se psi-stvury\n"
+LogName18:"PREFONTAINE 09.7.14\nre: Vznasejici se psi-stvury\n"
 LogPortrait18:"Prefont"
 LogIcon18:"HydIcon"
 LogText18:"Proces shromazdovani dat jde dobre.  Predtim, nez si me vezme Mnoho, budu s trochou stesti schopen poslat slusnou porci informaci komukoliv, kdo bude poslouchat.  Ta velka, vznasejici se stvoreni, nejsou jenom schopna utoku ucinnymi psionickymi projekcemi, ale i oni sami jsou pouze psionicka projekce.  Zniceni teto projekce je pouze docasne ochromi.  Skutecny zdroj sily pochazi z maleho kontrolujiciho organismu, ktery je obvykle umisten nekde pobliz.  Ackoli je tento kontrolujici organismus velice nebezpecny skrze sve projekce, on samotny je zcela bezbranny.\n"
 
 
-LogName19:"NORRIS 09.CVC.14\nre: Cervi a zbrane\n"
+LogName19:"NORRIS 09.7.14\nre: Cervi a zbrane\n"
 LogPortrait19:"Norris"
 LogIcon19:"ComIcon"
 LogText19:"Cerv vylezl po me ruce a odpocival na mych zadech.  Kdyz mi septal do ucha, citil jsem chveni...  Povedel mi, jak vytvorit zbran, ktera by nam pomohla proti nasim nepratelum.  A tady je ten fakt...  je vytvorena z cervu...  dokonce je vystreluje...  A ani by jsi neveril, jak je ucinna.\n"
 
 
-LogName13:"DELACROIX 11.CVC.14\nre: SHODAN\n"
+LogName13:"DELACROIX 11.7.14\nre: SHODAN\n"
 LogPortrait13:"Delacroix"
 LogIcon13:"EngIcon"
 LogText13:"Politova naznacila, ze ta UI, o ktere si ted myslim, ze je SHODAN, ve skutecnosti planovala...<<ZPRAVA PRERUSENA>>\n"
 
 
-LogName17:"SUAREZ 12.CVC.14\nre: Problem s moduly\n"
+LogName17:"SUAREZ 12.7.14\nre: Problem s moduly\n"
 LogPortrait17:"Suarez"
 LogIcon17:"RickIcon"
 LogText17:"Opetovne zprovozneni zachrannych modulu nebylo tak snadne, jak jsme si mysleli.  Beca se musela vratit zpet na Techniku!  Diky Bohu, ze se nekomu podarilo zprovoznit vytah.  Nasel jsem kartu k mustku a provedl premosteni pristupovych protokolu, a myslim ze ted uz jsme pripraveni odejit.\n"
 
 
-LogName7:"KORENCHKIN 12.CVC.14\nre: Pocitac-matka\n"
+LogName7:"KORENCHKIN 12.7.14\nre: Pocitac-matka\n"
 LogPortrait7:"Korench2"
 LogIcon7:"ComIcon"
 LogText7:"Pocitac-matka proti nam ziskala nejakou pomoc.  Bojuji, ale proti nasemu spolecenstvi nemaji sanci.  Copak pocitac-matka nevi, ze jeji vlastni stvoreni jsou vetsi nez ona?  Ona je studena a prazdna, zatimco my jsme horci a plni...  ona chce pouze nicit...  my chceme objimat...  prijimat...  vsechna tela se k nam pripoji, nebo budou vymazana...\n"
 
 
-LogName1:"KORENCHKIN 12.CVC.14\nre: Milenci\n"
+LogName1:"KORENCHKIN 12.7.14\nre: Milenci\n"
 LogPortrait1:"Korench2"
 LogIcon1:"ComIcon"
 LogText1:  "Suarez a ta jeho devka chteji zdrhnout.  Tomu nerozumim.  Je jim nabidnut zazrak a oni kousnou do ruky.  Mnoho se podelilo o svou moudrost...  Ti dva tuto lod neopusti.\n"
 
 
-LogName8:"MCKAY 12.CVC.14\nre: Oni utikaji!\n"
+LogName8:"MCKAY 12.7.14\nre: Oni utikaji!\n"
 LogPortrait8:"McKay"
 LogIcon8:"ComIcon"
 LogText8:"To Delacroix, Dr. Marie\nDoufam, ze jste stale jeste nazivu, doktorko Delacroix.  Opravdu by se nam tu hodila nejaka rada.  Maji tu ty zenske kyborgy a nakladaji do raketoplanu ty vejce...  Nevim, co maji za lubem...  ale vypada to, jako by meli strach...  Slysel jsem zvest o nekom dalsim, krome vas, kdo tu bojuje...  Ze bych mel prece nadeji, se odsud dostat...  Zatim se budu drzet zpatky...  dokud nezjistim co mam do pekla delat...\n"
 
 
-LogName9:"MCKAY 12.CVC.14\nre: Skrt cez rozpocet\n"
+LogName9:"MCKAY 12.7.14\nre: Skrt cez rozpocet\n"
 LogPortrait9:"McKay"
 LogIcon9:"ComIcon"
 LogText9:"Nevim, co ti zatraceni cervi chteji s temi raketoplany, ale strasne rad bych jim udelal skrt cez rozpocet.  Jestli se dokazu dostat do ridici mistnosti nad doky, budu moct vypnout stity, ktere maji cervi a jejich prisluhovaci kolem raketoplanu.  A az budou vyple, muzu do tech TriOptimackych plechovek nadelat diry mou pistoli. Ted se tam jen dostat bez pristizeni.  Och Boze, dostan me odsud...\n"
 
 
-LogName10:"DIEGO 12.CVC.14\nre: Ma odpovednost\n"
+LogName10:"DIEGO 12.7.14\nre: Ma odpovednost\n"
 LogPortrait10:"Diego"
 LogIcon10:"RickIcon"
 LogText10:"To: General Laurie Brasco\nJsem vojak a jednoduchy clovek.  Nemohu vysvetlit, co se stalo se mnou, a s touto misii.  Beru za vsechno plnou odpovednost.  Ja jsem privedl svou lod, svou posadku a svou cest do nebezpeci.  Nedokazal jsem zabranit zmenam, ktere se se mnou staly.  Volani Mnoha je svudne.  Korenchkina uz dostali, ale ten bastard byl slaby.  Ja slaby nejsem.  Muzu se postavit te rakovine...  a kdyz ne, odstranim ji nasilim.  Buh ochranuj UNN.\n"
 
 
-LogName14:"DELACROIX 12.CVC.14\nre: pl4n SH$8dD@#N\n"
+LogName14:"DELACROIX 12.7.14\nre: pl4n SH$8dD@#N\n"
 LogPortrait14:"Delacroix"
 LogIcon14:"EngIcon"
 LogText14:  "Uz me dostali...  A SHODAN me opustila.  Neprekvapuje me to...  Odhalila jsem jeji plany pro nadsvetelny pohon...  jeji vuli predci pouze jeji predstavivosti...  Jestli se dostane do <<ZPRAVA PRERUSENA>>\n"
