@@ -40,9 +40,9 @@ SUB1
 
 	multisub movie/cs2 {
 		{ time 1000 length 1000 text "Datový zdroj 433/EOP" }
-		{ time 1900 length 3300 text "Přenos podúrovňově šifrovaného protokolu \"TANGO\"" }
+		{ time 1900 length 3300 text "Přenos použitím protokolu podvrstvového šifrování \"TANGO\"" }
 		{ time 6000 length 1100 text "Příkaz: K přeložení 98322/U" }
-		{ time 7000 length 3000 text "Od: Kapitána William Bedford Diego, UNN Rickenbacker" }
+		{ time 7000 length 3000 text "Od: Kapitán William Bedford Diego, UNN Rickenbacker" }
 		{ time 10000 length 1100 text "Pro: VOJÁK G65434-2" }
 		{ time 11000 length 3100 text "Re: Přidělení na eskortní misi Von Braun" }
 		{ time 14700 length 1100 text "Vojáku--" }
@@ -59,13 +59,13 @@ SUB1
 		{ time 84100 length 4100 text "Obnovuji paměť... obnovuji paměť..." }
 		{ time 88700 length 3000 text "CHYBA... CHYBA... CHYBA..." }
 		{ time 100700 length 3100 text "Dej se do kupy, vojáku." }
-		{ time 103700 length 4500 text "Tady je doktorka Janice Politová z personálu výpočetního centra Von Braun." }
+		{ time 103700 length 4500 text "Tady je doktorka Janice Politová z personálu výpočetních operací Von Braun." }
 		{ time 108000 length 2200 text "Prozatím jsi v bezpečí." }
 		{ time 110100 length 6000 text "Zotavuješ se z účinků operace a nebudeš schopen si vzpomenout na žádné události posledních týdnů." }
-		{ time 116000 length 5100 text "Jsi na palubě vesmírné lodi Von Braun a něco se hodně, opravdu hodně podělalo.." }
+		{ time 116000 length 5100 text "Jsi na palubě vesmírné lodi Von Braun a něco se hodně, hodně podělalo.." }
 		{ time 121000 length 3000 text "Nějaká neznámá síla ovládla tuto loď." }
 		{ time 123900 length 5300 text "Proto si dobrovolně podstoupil implantaci několika experimentálních kybernetických implantátů." }
-		{ time 129000 length 4300 text "Spolehni se na své kybernetické rozhraní, může ti zachránit život." }
+		{ time 129000 length 4300 text "Spoléhej se na své kybernetické rozhraní, může ti zachránit život." }
 		{ time 133200 length 3500 text "Musíš najít výtah a setkat se se mnou na palubě 4." }
 		{ time 136700 length 2500 text "Paluba 4, zapamatuješ si to?" }
 		{ time 139100 length 4100 text "Ale měj oči na stopkách. Už jdou po nás obou." }
@@ -87,7 +87,7 @@ SUB1
 		{ time 60900 length 8000 text "Kybernetické implantáty, které ode mně máš jsou obyčejné hračky." }
 		{ time 68600 length 11200 text "Pokud bys chtěl, mohla bych tě vylepšit, změnit tě v něco víc... efektivního." }
 		{ time 79650 length 7260 text "Přidej se ke mně, člověče, a budeme vládnout spolu." }
-		{ time 87550 length 1100 text "Ne." }
+//		{ time 87550 length 1100 text "Ne." }
 //		{ time 91130 length 1000 text "[výstřel]" }
 //		{ time 91800 length 16000 text "[SHODAN křičí]" }
 		{ time 125000 length 2500 text "Únikový modul 0832, 1.1 milionů kilometrů od Von Braun" }

@@ -11,7 +11,7 @@ SUB1
 	sub mw1at0_1 { text "Dělám si starosti o své děťátka." }
 	sub mw1at0_2 { text "Děťátka potřebují hodně masa, aby rychle vyrostla a byla silná a velká." }
 	sub mw1at0_3 { text "Rostou jako z vody." }
-	sub mw1at0_4 { text "Děťátka vyžadují spoustu Péče." }
+	sub mw1at0_4 { text "Děťátka vyžadují spoustu péče." }
 	sub mw1at2_1 { text "Musím ho mít někde přímo pod nosem." }
 	sub mw1at2_2 { text "Vylez... Vylez... Vylez." }
 	sub mw1at2_3 { text "Ublížím ti." }
