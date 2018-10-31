@@ -13,7 +13,7 @@ SUB1
 		{ time 1100 length 1900 text "Kdo nám ubližuje?" }
 	}
 	multisub og1amb_4 {
-		{ time 1600 length 1500 text "Nesoulad!" }
+		{ time 1600 length 1500 text "Nesouzvuk!" }
 	}
 	multisub og1amb_5 {
 		{ time 900 length 2200 text "My nepadneme!" }
@@ -26,7 +26,7 @@ SUB1
 	sub og1at2_2 { text "Pojď k nám. Pojď k nám." }
 	sub og1at2_3 { text "Slyšíme... maso." }
 	sub og1at2_4 { text "Jeden nemůže utéct Mnohému." }
-	sub og1at2_5 { text "Kde je... nesoulad?" }
+	sub og1at2_5 { text "Kde je... nesouzvuk?" }
 	sub og1at3_1 { text "Navždy se neschováš''}
 	sub og1at3_2 { text "Hledáme. Hledáme." }
 	sub og1at3_3 { text "Tvé maso... tě zrazuje." }
@@ -36,7 +36,7 @@ SUB1
 	sub og1att_2 { text "Přidej se k nám!" }
 	sub og1att_3 { text "Podvol se!" }
 	sub og1bak_1 { text "Píseň je... nenarušena." }
-	sub og1bak_2 { text "Nic jsme nenašly." }
+	sub og1bak_2 { text "Nacházíme... nic." }
 	sub og1bak_3 { text "Nic než My." }
 	sub og1bak_4 { text "Žádní kovoví narušitelé zde nejsou." }
 	sub og1bak_5 { text "Jsme samy." }
@@ -44,15 +44,15 @@ SUB1
 	sub og1bod_3 { text "Naše píseň oslabuje." }
 	sub og1bod_4 { text "Už ne jeden z nás." }
 	sub og1bod_5 { text "Jsi volný." }
-	sub og1chg_1 { text "Utišit nesoulad." }
+	sub og1chg_1 { text "Utišit nesouzvuk." }
 	sub og1hit_1 { text "Mnoho je silné!" }
 	sub og1hit_2 { text "Vítězíme!" }
 	sub og1hit_3 { text "Jseš sám!" }
-	sub og1hit_4 { text "Tvůj nesoulad utichá!" }
+	sub og1hit_4 { text "Tvůj nesouzvuk utichá!" }
 	sub og1hit_5 { text "Prociťuj své maso!" }
 	sub og1hlo_1 { text "Zabij mě!" }
 	sub og1los_1 { text "Ten se k nám nepřipojí." }
-	sub og1los_2 { text "Nesoulad slábne." }
+	sub og1los_2 { text "nesouzvuk slábne." }
 	sub og1los_3 { text "Vrátí se k nám." }
 	sub og1los_4 { text "Je to pro nás ztracené." }
 	sub og1los_5 { text "My přetrváme." }
