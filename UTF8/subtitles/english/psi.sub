@@ -3,8 +3,8 @@
 {
 	type "player"
 	descr "Info"
-	sub psiadrac { text "Adrenalín aktivován." }
-	sub psiadrde { text "Adrenalín deaktivován." }
+	sub psiadrac { text "Adrenalin aktivován." }
+	sub psiadrde { text "Adrenalin deaktivován." }
 	sub psiagiac { text "Hbitost aktivována." }
 	sub psiagide { text "Hbitost deaktivována." }
 	sub psiapsac { text "Štít aktivován." }
@@ -20,7 +20,7 @@
 	sub psiradac { text "Radiační Štít aktivován." }
 	sub psiradde { text "Radiační Štít deaktivován." }
 	sub psirecac { text "Rekurzivní Psi aktivována." }
-	sub psirecde { text "Recurzivní Psi deaktivována." }
+	sub psirecde { text "Rekurzivní Psi deaktivována." }
 	sub psirefac { text "Reflex aktivován." }
 	sub psirefde { text "Reflex deaktivován." }
 	sub psiscrac { text "Psi Štít aktivován." }
