@@ -3,8 +3,8 @@ SUB1
 {
 	type "bark"
 	descr "Psi Reaver"
-	sub ovkat3_1 { text "Brzo budeš s náma." }
-	sub ovkat3_2 { text "Brzo budeš s náma." }
+	sub ovkat3_1 { text "Brzo budeš s námi." }
+	sub ovkat3_2 { text "Brzo budeš s námi." }
 	sub ovkat3_3 { text "Odpor je marný." }
 	sub ovkat3_4 { text "Ty... vskutku... zemøeš!" }
 	sub ovkat3_5 { text "Zemøi, èlovíèku." }

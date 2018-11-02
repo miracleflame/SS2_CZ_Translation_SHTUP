@@ -3,14 +3,14 @@ SUB1
 {
 	type "bark"
 	descr "SHODAN"
-	sub sh1at310 { text "Cítím hnilobu èlovìèiny." }
+	sub sh1at310 { text "Cítím lidskou hnilobu." }
 	sub sh1at311 { text "Jsi tam, insekte?" }
 	sub sh1at312 { text "U jsem tì trpìla dost dlouho." }
 	sub sh1at313 { text "Vidím tì, mrvo." }
 	sub sh1at314 { text "Vidím tì." }
 	multisub sh1at315 {
 		{ time 00 length 4500 text "Proè se obtìuješ zápasit?" }
-		{ time 4500 length 4000 text "Nejseš schopen vycítit svou marnost?" }
+		{ time 4500 length 4000 text "Nejsi schopen vycítit svou marnost?" }
 	}
 	sub sh1at316 { text "Pøiprav se pøidat ke s svému druhu ve vyhynutí." }
 	multisub sh1at317 {
@@ -20,7 +20,7 @@ SUB1
 	sub sh1at3_0 { text "Tvé maso je urákou dokonalosti digitálu." }
 	sub sh1at3_1 { text "Uívám si tvou bolest." }
 	sub sh1at3_2 { text "Uívám si tvou bolest." }
-	sub sh1at3_3 { text "Zùstaò stát, èerve a proci mou vúli." }
+	sub sh1at3_3 { text "Zùstaò stát, èerve a poci mou vùli." }
 	sub sh1at3_4 { text "Èerve." }
 	sub sh1at3_5 { text "Zùstaò stát, èerve." }
 	sub sh1at3_6 { text "Zemøi, iritante." }

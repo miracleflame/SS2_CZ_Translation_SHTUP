@@ -15,7 +15,7 @@ SUB1
 	sub mk1att_1 { text "Iik!" } // AI_ATT
 	sub mk1att_2 { text "Iik!" } // AI_ATT
 	sub mk1att_3 { text "Iik!" } // AI_ATT
-	sub mk1die_1 { text "[smrtelný ston]" } // AI_DIE
+	sub mk1die_1 { text "[smrtelný náøek]" } // AI_DIE
 	sub mk1hhi_1 { text "[bolest]" } // AI_HHI
 	sub mk1hhi_2 { text "[bolest]" } // AI_HHI
 	sub mk1to3_1 { text "Akk!" } // AI_TO2, AI_AT3

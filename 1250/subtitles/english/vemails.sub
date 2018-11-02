@@ -417,42 +417,42 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0601 {
-		{ time 2100 length 6100 text "My creation has run rampant. I demand their extermination." }
-		{ time 8300 length 3600 text "I have no choice but to destroy this starship." }
-		{ time 12800 length 10300 text "We can make our escape in the Rickenbacker, but you must transfer my intelligence to that ship first." }
-		{ time 23500 length 3300 text "Proceed to the Von Braun's bridge on this deck." }
-		{ time 27300 length 8000 text "There you will find an access card to command center on Ops. Find the card and proceed to Ops." }
-		{ time 35900 length 6400 text "But beware... the human-Annelid hybrids grow more sophisticated by the minute." }
-		{ time 43100 length 1000 text "You do not." }
+		{ time 2100 length 6100 text "Má stvoøení pøešla do útoku.  Chci jejich úplnì vyhlazení." }
+		{ time 8300 length 3600 text "Nemám jinou možnost, než znièit tuto vesmírnou loï." }
+		{ time 12800 length 10300 text "My mùžem uniknout na Rickenbacker, ale pøedtím tam musíš pøenést mou osobnost." }
+		{ time 23500 length 3300 text "Jdi na velitelský mùstek Von Brauna - je na této palubì." }
+		{ time 27300 length 8000 text "Tam najdeš vstupní kartu do øídícího centra na palubì Operací.  Najdi tu kartu a bìž tam." }
+		{ time 35900 length 6400 text "Ale dìj si pozor...  Annelidští hybridi jsou s každou minutou inteligentnìjší a nebezpeènìjší..." }
+		{ time 43100 length 1000 text "...ty ne." }
 	}
 	multisub em0602 {
-		{ time 1300 length 4800 text "My creation once again is one step ahead of you." }
-		{ time 6700 length 7700 text "They've managed to destroy this shuttle's shield control computer." }
-		{ time 14600 length 4500 text "But their brilliance is a jealous shadow of my own." }
-		{ time 19400 length 8700 text "You will locate a replicator in the shuttle control area. I've uploaded the nano-formula for a sympathetic resonator." }
-		{ time 28400 length 4800 text "You must hack the replicator to make it generate the device for you." }
-		{ time 33600 length 5500 text "Once you have it, attach it to the shield generator in the shuttle bay." }
-		{ time 40000 length 8200 text "The device will create a chronic resonation wave that will quickly rupture the shuttle's fuel tank and destroy it." }
-		{ time 48200 length 5700 text "Make sure you're not there when it happens. I still have need of you." }
+		{ time 1300 length 4800 text "Má stvoøení jsou zase o krok pøed tebou." }
+		{ time 6700 length 7700 text "Podaøilo se jim znièit poèítaè ovládající štít kolem raketoplánu." }
+		{ time 14600 length 4500 text "Ale jejich duchaplnost je jenom závistlivým stínem v porovnání s tou mou." }
+		{ time 19400 length 8700 text "V prostorech Øízení Raketoplánu najdeš replikátor.  Nahrála jsem do nìj molekulární matrici harmonického rezonátoru." }
+		{ time 28400 length 4800 text "Aby ti to zaøízení vygeneroval, musíš replikátor hacknout." }
+		{ time 33600 length 5500 text "Až získáš rezonátor, pøípoj ho ke generátoru štítù.  Je v doku, poblíž samotného raketoplánu." }
+		{ time 40000 length 8200 text "Zaøízení generuje rezonanèní vlny, které velice rychle naruší strukturu palivových nádrží raketoplánu a znièí ho." }
+		{ time 48200 length 5700 text "Snaž se být co nejdál, až se to stane.  Ještì stále tì potøebuju." }
 	}
 	multisub em0604 {
-		{ time 3300 length 4100 text "Beware, insect, the situation has changed." }
-		{ time 8000 length 9200 text "They sense our intentions and are loading shuttles with their offspring. They will not escape my wrath." }
-		{ time 17700 length 6600 text "You must proceed to the shuttle bays on this deck, and destroy those shuttles." }
-		{ time 24500 length 6300 text "They have a taste for your blood now." }
+		{ time 3300 length 4100 text "Dávej pozor insekte, situace se zmìnila." }
+		{ time 8000 length 9200 text "Oni vycítili naše zámìry a nyní nakládají své potomstvo do raketoplánu.  Nesmìjí utéci mému hnìvu." }
+		{ time 17700 length 6600 text "Musíš jít do Doku Raketoplánu na této palubì, a znièit všechny raketoplány." }
+		{ time 24500 length 6300 text "Ted už žízní po tvé krvi." }
 	}
 	multisub em0606 {
-		{ time 1100 length 8100 text "Good. You've murdered their young and prevented their escape." }
-		{ time 9500 length 6900 text "I've opened the gate to the umbilical at the central tram stop." }
-		{ time 16600 length 3600 text "You can evacuate to the Rickenbacker from there." }
+		{ time 1100 length 8100 text "Výbornì.  Zavraždil jsi jejich mladé a zabránil jim v útìku." }
+		{ time 9500 length 6900 text "Otevøela jsem bránu ke spojovacímu prùchodu na Rickenbacker, najdeš ji na prostøední stanici tramvaje." }
+		{ time 16600 length 3600 text "Odtud se mùžeš evakuovat na Rickenbacker." }
 	}
 	multisub em0609 {
-		{ time 2300 length 7000 text "Do not presume to go in there, insect. Proceed to the umbilical immediately." }
-		{ time 9700 length 4400 text "I will not abide disobedience." }
+		{ time 2300 length 7000 text "Neopovažuj se jít dovnitø, insekte.  Okamžitì pokraèuj do prùchodu na Rickenbacker." }
+		{ time 9700 length 4400 text "Neposlušnost nebudu trpìt." }
 	}
 	multisub em0610 {
-		{ time 3000 length 4700 text "I hope you enjoyed our little rebellion, irritant." }
-		{ time 8000 length 7000 text "But remember, what SHODAN gives, she is more than able to take away." }
+		{ time 3000 length 4700 text "Doufám, že jsi si vychutnal tvou malou vzpouru, iritante." }
+		{ time 8000 length 7000 text "Ale pamatuj si, že co SHODAN dává, to je schopna taky i vzít." }
 	}
 }
 
@@ -460,8 +460,8 @@ SUB1
 	type "convo"
 	descr "Delacroix"
 	multisub em0608 {
-		{ time 800 length 4000 text "I've located you... finally. This is Dr. Marie Delacroix." }
-		{ time 5300 length 6000 text "I have vital information for you, but I'm trapped in cargo bay A. Come find me as soon as you can." }
+		{ time 800 length 4000 text "Našla jsem tì...  koneènì...  Tady je doktorka Marie Delacroix." }
+		{ time 5300 length 6000 text "Mám pro tebe životnì dùležité informace, ale jsem uvìznìna ve skladišti doku A. Pøijeï za mnou tak rychle, jak to dokážeš." }
 	}
 }
 
@@ -469,8 +469,8 @@ SUB1
 	type "convo"
 	descr "Korenchkin"
 	multisub em0615 {
-		{ time 300 length 3200 text "Our will creates a wall to block your progress." }
-		{ time 4400 length 5000 text "Come and meet us on the bridge of the Von Braun. Let us discuss your future." }
+		{ time 300 length 3200 text "Naše vùle vytváøí stìnu blokující tvùj postup." }
+		{ time 4400 length 5000 text "Pojï se s námi setkat na mùstku Von Brauna.  Popovídáme si o tvé budoucnosti." }
 	}
 }
 

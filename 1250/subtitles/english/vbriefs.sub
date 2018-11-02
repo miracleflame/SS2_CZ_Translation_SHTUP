@@ -26,18 +26,18 @@ SUB1
 	}
 
 	multisub trg0014 {
-		{ time 00 length 4400 text "Pokud jste dokonèili základnı vıcvik, jste pøipraveni k pokroèilım lekcem, které poskytujeme tady." }
+		{ time 00 length 4400 text "Pokud jste dokonèili základní vıcvik, jste pøipraveni k pokroèilım lekcím, které tady poskytujeme." }
 		{ time 4500 length 4700 text "Pokroèilı vıcvik vás obeznámí se tøemi klíèovımi oblastmi armádní sluby--" }
 		{ time 9160 length 4000 text "Zbraòovı vıcvik, Technickı vıcvik, a Psionickı vıcvik." }
-		{ time 13170 length 3500 text "Vstupte do kyberlinkové budky dle vıbìru, aby ste zahájili vıcvik v dané oblasti." }
+		{ time 13170 length 3500 text "Vstupte do kyberlinkové budky dle vıbìru, aby jste zahájili vıcvik v dané oblasti." }
 		{ time 16800 length 7000 text "A dokonèíte vıcvik ve všech tøech oblastech, pokraèujte pøímo do náborového centra, kde si zvolíte a zahájíte svou armádní kariéru." }
 	}
 
 	multisub trg0031 {
 		{ time 00 length 2000 text "Toto je místo volby, vojáku." }
-		{ time 2000 length 3000 text "Tady se pøihlásíte do jedného ze tøí odvìtví armády." }
+		{ time 2000 length 3000 text "Tady se pøihlásíte do jednoho ze tøí odvìtví armády." }
 		{ time 5000 length 3700 text "Jakmile se rozhodnete pro svou kariéru, u není cesty zpìt." }
-		{ time 8700 length 6100 text "Raketoplán vás vyveze na orbitální vesmírnou stanici UNN, kde dostanete brífing k vaší roèní stái." }
+		{ time 8700 length 6100 text "Raketoplán vás vyveze na orbitální vesmírnou stanici UNN, kde dostanete brífink k vaší roèní stái." }
 		{ time 15000 length 1000 text "Hodnì štìstí." }
 	}
 
@@ -45,83 +45,83 @@ SUB1
 
 	multisub trg0005 {
 		{ time 600 length 4700 text "Vstupte do této kyberlinkové budky, aby jste zahájili základní vıcvik, kterı potøebujete ve slubì." }
-		{ time 5500 length 3200 text "Uvnitø nadobudnete základní schopnosti potøebné pro zaèátek." }
+		{ time 5500 length 3200 text "Uvnitø získáte základní schopnosti potøebné pro zaèátek." }
 	}
 
 	multisub trg0006 {
 		{ time 00 length 1000 text "Vítej, nováèku." }
-		{ time 1200 length 4900 text "Dokud jsi v našem virtálním vıcvikovém kurzu, poskytneme ti simulované kyber-rozhraní." }
+		{ time 1200 length 4900 text "Dokud jsi v našem virtuálním vıcvikovém kurzu, poskytneme ti simulované kyber-rozhraní." }
 		{ time 6370 length 4800 text "Toto vıcvikové rozhraní je identické se skuteènım kyber-rozhraním armádní tøídy." }
 	}
 
 	multisub trg0007 {
-		{ time 00 length 1800 text "Tìd si to skusme." }
+		{ time 00 length 1800 text "Teï si to zkusme." }
 		{ time 2100 length 1000 text "Hıbej myší." }
 		{ time 3700 length 1700 text "Vidíš jak se tvùj pohled mìní, kam se podíváš?" }
-		{ time 5900 length 1600 text "To znaèí, e jsi Støeleckém módu." }
+		{ time 5900 length 1600 text "To znaèí, e jsi v Støeleckém módu." }
 		{ time 8200 length 1000 text "Stiskni klávesu Tab." }
 		{ time 10300 length 4500 text "Toto tì pøepne do Uivatelského módu, kde mùeš pouívat myš na interakci s vìcmi v rozhraní." }
-		{ time 16160 length 7000 text "Otevøi svùj primární MFD - neboli multi-funkèní displej - klikem na tlaèidlo MFD na spodu rozhraní." }
-		{ time 24570 length 2800 text "Tato obrazovka ukazuje tvé dovednosti v rùznych oblastech." }
+		{ time 16160 length 7000 text "Otevøi svùj primární MFD - neboli multi-funkèní displej - klikem na tlaèítko MFD na spodku rozhraní." }
+		{ time 24570 length 2800 text "Tato obrazovka ukazuje tvé dovednosti v rùznıch oblastech." }
 		{ time 27600 length 3700 text "A budeš pøipraven pokraèovat, stiskni klávesu Tab pro návrat do Støeleckého módu." }
-		{ time 32200 length 2860 text "Skus si pøepínat mezi módmi ne se ti to dostane do ruky." }
+		{ time 32200 length 2860 text "Zkus si pøepínat mezi módy ne se ti to dostane do ruky." }
 		{ time 35800 length 3500 text "Následuj èervenou èáru na zemi k další tréninkové stanici." }
 	}
 
 	multisub trg0008 {
 		{ time 00 length 5560 text "Pouívání vìcí jako jsou tlaèítka nebo poèítaèe, si vyaduje vycentrovat je na obrazovce a pak na nì kliknout pravım." }
 		{ time 5920 length 2380 text "Všechny pouitelné vìci budou mít kolem názvu lomené závorky." }
-		{ time 8910 length 2500 text "Oznaè tlaèítko na sloupì a pak klikni pravım." }
+		{ time 8910 length 2500 text "Oznaè tlaèítko na sloupu a pak klikni pravım." }
 		{ time 11600 length 1500 text "To aktivuje vıtah." }
 		{ time 13800 length 700 text "Zkus si to." }
-		{ time 16300 length 3800 text "Pokud vidíš svùj inventár, znamená to, e jsi v uívatelském módu." }
+		{ time 16300 length 3800 text "Pokud vidíš svùj inventáø, znamená to, e jsi v uivatelském módu." }
 		{ time 20500 length 2000 text "Stiskni Tab pro návrat do Støeleckého módu." }
 	}
 
 	multisub trg0009 {
-		{ time 00 length 3800 text "Pøedmìty zvedneš tak, e je vycentruješ na obrazovce klikneš pravım." }
+		{ time 00 length 3800 text "Pøedmìty zvedneš tak, e je vycentruješ na obrazovce a klikneš pravım." }
 		{ time 3890 length 2930 text "Toto automaticky umístí pøedmìt do tvého inventáøe." }
 		{ time 7170 length 2800 text "Pro zobrazení inventáøe stiskni klávesu Tab." }
-		{ time 10150 length 4510 text "Vìcmi múe pøemísova v inventáøi levım klikem a táhnutím." }
+		{ time 10150 length 4510 text "Vìci mùeš pøemísovat v inventáøi levım klikem a táhnutím." }
 		{ time 15000 length 5150 text "Pøedmìt upustíš tak, e ho pøetáhneš z inventáøe do volného 3D prostoru a uvolníš tlaèítko." }
 	}
 
 	multisub trg0010 {
 		{ time 00 length 1600 text "Vidíš tu bednu pøed sebou?" }
-		{ time 1900 length 2900 text "Prohledáš ji tak, e ji vycentruješ na obrazovce klikneš pravım." }
-		{ time 5020 length 4120 text "Pokud jsi v uívatelskem módu, jednoduše namiø kurzorem na bednu a klikni pravım." }
-		{ time 9440 length 3260 text "Obsah bedny vemeš jednoducho levım klikem na pøedmìt." }
+		{ time 1900 length 2900 text "Prohledáš ji tak, e ji vycentruješ na obrazovce a klikneš pravım." }
+		{ time 5020 length 4120 text "Pokud jsi v uivatelském módu, jednoduše namiø kurzorem na bednu a klikni pravım." }
+		{ time 9440 length 3260 text "Obsah bedny vezmeš jednoduše levım klikem na pøedmìt." }
 		{ time 12870 length 2840 text "To automaticky pøemístí pøedmìt do tvého inventáøe." }
 		{ time 15980 length 4170 text "Okno obsahu uzavøeš pøechodem to Støeleckého módu stiskem klávesy Tab." }
 	}
 
 	multisub trg0011 {
 		{ time 00 length 2500 text "Teï je èas nauèit se skákat a vylézat." }
-		{ time 2700 length 2500 text "Vyskoèíš jednoduše stiskem mezeríku." }
+		{ time 2700 length 2500 text "Vyskoèíš jednoduše stiskem mezerníku." }
 		{ time 6050 length 3940 text "Na nìkteré povrchy se dá vylézt podrením mezerníku." }
 		{ time 10740 length 4410 text "Vylézání ti umoní vyzvednout se nad okraje vyšších míst pøed tebou." }
 		{ time 15690 length 1020 text "Zkus si to." }
 	}
 
 	multisub trg0012 {
-		{ time 00 length 3300 text "Po øebøíku se leze tak, e do nìj jenom vkroèíš a podíváš se nahoru." }
+		{ time 00 length 3300 text "Po ebøíku se leze tak, e do nìj jenom vkroèíš a podíváš se nahoru." }
 		{ time 3600 length 2500 text "Tím automaticky zaèneš šplhat." }
 	}
 
 	multisub trg0032 {
 		{ time 00 length 2300 text "Pøedmìt pøed tebou je léèebné sérum." }
-		{ time 2500 length 2700 text "Vezmi ho a stiskni Tab pro pøechod to Uívateského módu." }
-		{ time 5700 length 4300 text "Pravım klikem na léèebné sérum ho pouiješ èím si obnovíš zopár bodù zdraví." }
+		{ time 2500 length 2700 text "Vezmi ho a stiskni Tab pro pøechod to Uivatelského módu." }
+		{ time 5700 length 4300 text "Pravım klikem na léèebné sérum ho pouiješ èím si obnovíš pár bodù zdraví." }
 		{ time 10500 length 4000 text "Tvé body zdraví jsou zobrazeny pruhem v levém dolním rohu rozhraní." }
-		{ time 15000 length 3900 text "Mnoho pøedmetù se dá v inventáøi pouít pravım klikem na nì." }
+		{ time 15000 length 3900 text "Mnoho pøedmìtù se dá v inventáøi pouít pravım klikem na nì." }
 	}
 
 	multisub trg0033 {
 		{ time 00 length 3600 text "Jeden z nejuiteènìjších nástrojù, které máš jako voják je tvé PDA." }
 		{ time 4000 length 4000 text "Toto zaøízení ukládá audio nahrávky, e-maily a jiné uiteèné informace." }
-		{ time 8700 length 4000 text "Klikni na ikonu disku naspodu rozhraní pro otevøení displeje PDA." }
+		{ time 8700 length 4000 text "Klikni na ikonu disku vespodu rozhraní pro otevøení displeje PDA." }
 		{ time 13300 length 3000 text "V souèasnosti je obsah tvého  PDA prázdnı." }
-		{ time 16700 length 2300 text "Teï vem audio nahrávku pøimo pøed tebou." }
+		{ time 16700 length 2300 text "Teï vezmi audio nahrávku pøímo pøed tebou." }
 	}
 
 	multisub trg0013 {
@@ -139,81 +139,81 @@ SUB1
 	multisub trg0016 {
 		{ time 00 length 1400 text "Fajn, e tì máme na palubì." }
 		{ time 1700 length 8900 text "Mùeš si všimnout, e uvnitø kyberlinkové budky ti UNN laskavì poskytla virtuální kyber-rozhraní a všechny nasimulované úrovnì dovedností, které potøebuješ pro dokonèení  tréninku." }
-		{ time 10800 length 3400 text "Ale nebuï z toho na vìtvy. Zmizí jakmile opustíš budku." }
+		{ time 10800 length 3400 text "Ale nebuï z toho na vìtvi. Zmizí jakmile opustíš budku." }
 	}
 
 	multisub trg0017 {
 		{ time 00 length 2100 text "Teï tì nauèíme zacházet se zbraní." }
-		{ time 2500 length 4900 text "Vem si pistoli a zásobník ze stola. Zbraò mùeš vytasit dvìma zpùsoby." }
+		{ time 2500 length 4900 text "Vezmi si pistoli a zásobník ze stolu. Zbraò mùeš vytasit dvìma zpùsoby." }
 		{ time 7700 length 5800 text "Otevøi inventáø, a pøetáhni pistoli do políèka pro zbranì napravo od inventáøe." }
-		{ time 13800 length 4500 text "Pokud je to na tebe pøíliš pomalé, mùeš pouít klávesové skratky. Stiskni 2." }
+		{ time 13800 length 4500 text "Pokud je to na tebe pøíliš pomalé, mùeš pouít klávesové zkratky. Stiskni 2." }
 		{ time 18900 length 3700 text "Pokud se pistole nachází v inventáøi, automaticky ji vytasíš." }
 		{ time 23000 length 6300 text "Pro pøebíjení zásobníkù stiskni kláves R nebo klikni na tlaèítko Nabít v pravém dolním horu rozhraní." }
 		{ time 29700 length 6100 text "Potom co si nabil zbraò, vystøel na atrapu robota levım klikem myši ve Støeleckém módu." }
-		{ time 36500 length 3100 text "Všimni si ako z jeho zdraví ubívá, kdy po nìm pálíš." }
+		{ time 36500 length 3100 text "Všimni si jak jeho zdraví ubıvá, kdy po nìm pálíš." }
 	}
 
 	multisub trg0018 {
-		{ time 00 length 3500 text "Nìkteré vìci se musí nabít energí, ne je budeš moct pouívat." }
-		{ time 3900 length 3800 text "Vem laserovou pistoli. A pak poui nabíjecí stanici poblí." }
+		{ time 00 length 3500 text "Nìkteré vìci se musí nabít energií, ne je budeš moci pouívat." }
+		{ time 3900 length 3800 text "Vezmi si laserovou pistoli. A pak pouij nabíjecí stanici poblí." }
 		{ time 8100 length 3500 text "Nabíjecí stanice napumpuje šávu do všech tvıch energetickıch pøedmìtù." }
-		{ time 11800 length 2500 text "Zbranì, baterie, na co si zmyslíš." }
+		{ time 11800 length 2500 text "Zbranì, baterie, na co si pomyslíš." }
 	}
 
 	multisub trg0019 {
 		{ time 00 length 3600 text "Zbranì nejsou víno. Nejsou lepší èím jsou starší." }
 		{ time 3900 length 4700 text "Barevná teèka v pravém dolním rohu rozhraní ti napoví v jaké kondici zbraò je." }
 		{ time 8800 length 1900 text "Zelená je dobrá. Èervená je špatná." }
-		{ time 11200 length 6600 text "Na boj s neduhem opotøebení mùe voják s dovedností údrby pouít Pøíruèní nástroj na údrbu zbraní pro zlepšení kondice své zbranì." }
+		{ time 11200 length 6600 text "Na boj s neduhem opotøebení, mùe voják s dovedností údrby pouít Pøíruèní nástroj na údrbu zbraní pro zlepšení kondice své zbranì." }
 		{ time 18500 length 4300 text "Vezmi nástroj, otevøi inventáø a pøetáhni nástroj na svoji pistoli." }
 		{ time 23100 length 3800 text "Mìj na pamìti, e kadı nástroj jde pouít jenom jednou." }
 	}
 
 	multisub trg0020 {
-		{ time 500 length 2400 text "Dobrá prace, teï jsi pøipraven pro Mariòáky." }
-		{ time 3500 length 2900 text "Podívej se také na jiné oblasti vıcviku ne sa pøihlásíš." }
+		{ time 500 length 2400 text "Dobrá práce, teï jsi pøipraven pro Mariòáky." }
+		{ time 3500 length 2900 text "Podívej se také na jiné oblasti vıcviku ne se pøihlásíš." }
 		{ time 6800 length 1200 text "Mùou se ti hodit." }
 	}
 
 	// Technical training
 
 	multisub trg0021 {
-		{ time 600 length 3800 text "Uvnitø tì nauèíme základùm technickıch dovednosti, které budeš potøebovat v Námoønictví." }
+		{ time 600 length 3800 text "Uvnitø tì nauèíme základùm technickıch dovednosti, které budeš potøebovat v Námoønictvu." }
 	}
 
 	multisub trg0022 {
 		{ time 100 length 500 text "Vítej." }
 		{ time 1200 length 7300 text "Mùeš si všimnout, e uvnitø Kyberlinkové budky ti poskytneme doèasné kybernetické rozhraní a dovednosti potøebné pro úspìšné dokonèení tréninkovıch úkolu." }
-		{ time 8800 length 2600 text "Ale tyto ti zùstanou jenom pokud jsi uvnitø budky." }
+		{ time 8800 length 2600 text "Ale ty ti zùstanou jenom pokud jsi uvnitø budky." }
 	}
 
 	multisub trg0023 {
 		{ time 00 length 2700 text "Objekt pøed tebou je kontejner s nanity." }
-		{ time 2900 length 4900 text " Nanity se spotøebuji zakadım, kdy provádíš technické úkoly, jako je hackování nebo opravování." }
-		{ time 8200 length 8200 text "Kdy vezmeš nanity, nejdou do tvého inventáøe, ale jsou zobrazeny vlevo dolù v Uivatelském rozhraní." }
-		{ time 17000 length 3000 text "Projdi k té klávesnici pøi dverách a zkus ji hacknout." }
+		{ time 2900 length 4900 text " Nanity se spotøebují pokadé, kdy provádíš technické úkoly, jako je hackování nebo opravování." }
+		{ time 8200 length 8200 text "Kdy vezmeš nanity, nejdou do tvého inventáøe, ale jsou zobrazeny vlevo dole v Uivatelském rozhraní." }
+		{ time 17000 length 3000 text "Jdi k té klávesnici pøi dveøích a zkus ji hacknout." }
 	}
 
 	multisub trg0034 {
 		{ time 00 length 1800 text "Klávesnici pouiješ pravım klikem." }
-		{ time 2300 length 3300 text "Napravo od èíselníku vidíš oranové tlaèidlo s nápisem \"Hack\"." }
+		{ time 2300 length 3300 text "Napravo od èíselníku vidíš oranové tlaèítko s nápisem \"Hack\"." }
 		{ time 6000 length 1100 text "Klikni na nìj." }
-		{ time 7800 length 3600 text "Zobrazí se text urèující obtínost hackování a jakékoli pøidané bonusy." }
+		{ time 7800 length 3600 text "Zobrazí se text urèující obtínost hackování a jakékoliv pøidané bonusy." }
 		{ time 12400 length 1800 text "Klikni na tlaèítko Start a zaèneš hackovat." }
 		{ time 14900 length 1400 text "Uvidíš møíku uzlù." }
 		{ time 16500 length 2500 text "Kdy klikneš na uzel, buï se rozsvítí nebo ztmavne." }
 		{ time 20000 length 3900 text "Pro úspìšné hacknutí musíš spojit tøi svìtlé uzly do rovné linie." }
 		{ time 24500 length 2500 text "Dej si pozor na ICE uzly s èervenım okrajem." }
-		{ time 27400 length 5300 text "Pokud takovı ztmavne zlyháš v hackování a mùeš rozbít vìc, na které pracuješ nebo i hùø." }
-		{ time 33500 length 5900 text "Mùeš kdykoli zopakovat pocus o hackování stlaèením tlaèítka reset, avšak musíš znovu zaplatit cenu nanitù. " }
+		{ time 27400 length 5300 text "Pokud takovı ztmavne seleš v hackování a mùeš rozbít vìc, na které pracuješ, nebo i hùø." }
+		{ time 33500 length 5900 text "Mùeš kdykoliv zopakovat pokus o hackování stlaèením tlaèítka reset, avšak musíš znovu zaplatit cenu nanitù. " }
 	}
 
 	multisub trg0024 {
 		{ time 00 length 2900 text "Nanity mùeš pouít také na kupování vìcí z replikátorù." }
 		{ time 3100 length 2100 text "Replikátor pouiješ pravı klikem." }
 		{ time 5600 length 2200 text "Pak kliknutím vyber vìc, kterou chceš koupit." }
-		{ time 8300 length 2500 text "Vìc, kterou sis koupil spadne do pøihrádky na spodu." }
-		{ time 11500 length 2600 text "Urèitì si nezabudni vzít vìc, kterou sis koupil, ne odejdeš." }
+		{ time 8300 length 2500 text "Vìc, kterou sis koupil spadne do pøihrádky vespodu." }
+		{ time 11500 length 2600 text "Urèitì si nezapomeò vzít vìc, kterou sis koupil, ne odejdeš." }
 	}
 
 	multisub trg0025 {
@@ -227,8 +227,8 @@ SUB1
 	// Psionics training
 
 	multisub trg0026 {
-		{ time 700 length 3000 text "Uvnitø se nauèíš jako vystoupit ze své mysli." }
-		{ time 4200 length 2100 text "Nech strach nezahatí tvojí cestu." }
+		{ time 700 length 3000 text "Uvnitø se nauèíš jak vystoupit ze své mysli." }
+		{ time 4200 length 2100 text "Nech strach nezhatí tvojí cestu." }
 	}
 
 	multisub trg0027 {
@@ -240,7 +240,7 @@ SUB1
 		{ time 00 length 4900 text "Èervenı pruh v levé dolní èásti tvého rozhraní ti napovídá, kolik PSI bodù máš." }
 		{ time 5200 length 4300 text "PSI Body symbolizují tvou souèasnou kapacitu k pouívání psionickıch sil." }
 		{ time 9800 length 2900 text "PSI sérum ti doplní psionickou sílu." }
-		{ time 13000 length 4000 text "Zkus pouít PSI sérum a sleduj, jako ti body stoupnou." }
+		{ time 13000 length 4000 text "Zkus pouít PSI sérum a sleduj, jak ti body stoupnou." }
 		{ time 17400 length 4000 text "A si doplníš body na maximum, pøesuò se k další stanici." }
 	}
 
@@ -248,19 +248,19 @@ SUB1
 		{ time 00 length 5500 text "Tento Psi-amp zesiluje tvé psionické schopnosti a umoòuje ti promítnout je do reálného svìta." }
 		{ time 5800 length 3700 text "Pro pouití ho vezmi a pak stlaè klávesu vlnovky." }
 		{ time 10000 length 4300 text "Vıstøel z Psi-ampu aktivuje tvou právì zvolenou psionickou disciplínu." }
-		{ time 14700 length 5800 text "Momentálnì máš pøístup ke dvìm disciplínám, Kryokineze a Kinetické pøesmìrování." }
-		{ time 21200 length 5000 text "Jdi do uivatelského rozhraní a klikni na šipky na spodu obrazovky." }
+		{ time 14700 length 5800 text "Momentálnì máš pøístup ke dvìma disciplínám, Kryokineze a Kinetické pøitáhnutí." }
+		{ time 21200 length 5000 text "Jdi do uivatelského rozhraní a klikni na šipky vespodu obrazovky." }
 		{ time 26700 length 3300 text "To bude pøepínat mezi dostupnımi psionickımi disciplínami." }
 		{ time 30400 length 7000 text "Pozdìjší klikání šipek nad èíslem nalevo ti umoní vybrat disciplíny vyšších úrovní." }
-		{ time 37900 length 7000 text "Pouij Kryokinezi na znièení robota a Kinetické pøesmìrování abys pøitáhnul nanity k sobì." }
+		{ time 37900 length 7000 text "Pouij Kryokinezi na znièení robota a Kinetické pøitáhnutí abys pøitáhnul nanity k sobì." }
 		{ time 45500 length 8500 text "Buï opatrnı. Podrením tlaèítka myši mùeš zesílit disciplínu, ale pøíliš dlouhé podrení zpùsobí vyhoøení, které ti ublíí." }
-		{ time 54500 length 3800 text "Pokud se ti minou PSI body, poui další PSI sérum." }
+		{ time 54500 length 3800 text "Pokud ti dojdou PSI body, pouij další PSI sérum." }
 	}
 
 	multisub trg0030 {
 		{ time 600 length 3600 text "Pilování mistrovství mysli je pomalı, ale vdìènı proces." }
-		{ time 4600 length 2700 text "Vra se sem, pokud budeš potøebovat víc tréningu." }
-		{ time 7800 length 5800 text "Pøedtím ne se pøihlásíš k OSA, bude prospìšné experimentovat i v jinıch treninkovıch kurzech." }
+		{ time 4600 length 2700 text "Vra se sem, pokud budeš potøebovat víc tréninku." }
+		{ time 7800 length 5800 text "Pøedtím ne se pøihlásíš k OSA, bude prospìšné experimentovat i v jinıch tréninkovıch kurzech." }
 	}
 }
 
@@ -270,25 +270,25 @@ SUB1
 
 	multisub init_0 {
 		{ time 00 length 2400 text "Vítej na vesmírné stanici Wake Island, mariòákù." }
-		{ time 2500 length 2700 text "Take jsi pøeil základní vıcvik at Camp Lejeune." }
+		{ time 2500 length 2700 text "Take jsi pøeil základní vıcvik v Camp Lejeune." }
 		{ time 5400 length 3900 text "Lépe øeèeno, nauèil si se nìco málo o standardních zbraních." }
 		{ time 9800 length 2000 text "Avšak teï je èas na nìco skuteèného." }
-		{ time 12600 length 3800 text "Tvùj rozpis sluby bude pozastávat ze ètyø stáí po dobu ètyø let." }
-		{ time 16900 length 3300 text "Korporáti od vás abaøù èekaj hodnì, ale také jsou štìdøí." }
-		{ time 20500 length 1900 text "Mùes si vybrat stáe pdole sebe." }
-		{ time 23100 length 4200 text "Vydej se k èlunovım dokùm v centru Wake Island a dostaneš brífing co dál." }
-		{ time 27900 length 4000 text "A si vybereš stá šitou na tebe, pøijmeš pøiøazení kdy se vydáš vpøed do doku." }
+		{ time 12600 length 3800 text "Tvùj rozpis sluby bude sestaven ze ètyø stáí po dobu ètyø let." }
+		{ time 16900 length 3300 text "Korporáti od vás abaøù èekají hodnì, ale také jsou štìdøí." }
+		{ time 20500 length 1900 text "Mùeš si vybrat stáe podle sebe." }
+		{ time 23100 length 4200 text "Vydej se k raketoplánovım dokùm v centru Wake Island a dostaneš brífink co dál." }
+		{ time 27900 length 4000 text "A si vybereš stá šitou na tebe, pøiøazení pøijmeš kdy se vydáš vpøed do doku." }
 		{ time 32300 length 1000 text "Zlom vaz, mariòáku!" }
 	}
 
 	multisub init_1 {
-		{ time 00 length 2800 text "Vítej na palubì vesmírné stanice Chesapeake Bay, námorníku." }
-		{ time 3200 length 3900 text "Zdá se, e si nadobudnul nìjaké dovednosti v pouívání standardních zbraní na Coronado Island." }
+		{ time 00 length 2800 text "Vítej na palubì vesmírné stanice Chesapeake Bay, námoøníku." }
+		{ time 3200 length 3900 text "Zdá se, e si získal nìjaké dovednosti v pouívání standardních zbraní na Coronado Island." }
 		{ time 7500 length 1600 text "Teï je èas nastoupit do sluby." }
-		{ time 9600 length 2900 text "Tvùj rozpis sluby bude pozastávat ze ètyø stáí po dobu ètyø let." }
-		{ time 12800 length 3200 text "V námoøníctvu dostaneš kadı rok na vıbìr z tøí rùznıch stáí." }
+		{ time 9600 length 2900 text "Tvùj rozpis sluby bude sestaven ze ètyø stáí po dobu ètyø let." }
+		{ time 12800 length 3200 text "V námoønictvu dostaneš kadı rok na vıbìr z tøí rùznıch stáí." }
 		{ time 16400 length 3500 text "Je na tobì zvolit si, jakı druh kariéry budeš mít, tak se rozhodni moudøe." }
-		{ time 20400 length 2700 text "Jenom se pøibli ke vchodu k èlunovım dokùm a dostaneš krátkı brífing." }
+		{ time 20400 length 2700 text "Jenom se pøibli ke vchodu k raketoplánovım dokùm a dostaneš krátkı brífink." }
 		{ time 23600 length 4000 text "Pokud si myslíš, e to je správná stá pro tebe, vydej se vpøed do doku, èím pøijmeš pøiøazení." }
 	}
 
@@ -296,7 +296,7 @@ SUB1
 		{ time 00 length 4000 text "OSA tì vítá na orbitální stanici Chun Lo." }
 		{ time 4200 length 4000 text "Pøiprav se pøekroèit limitace své mysli." }
 		{ time 8700 length 3200 text "Po následující ètyøi roky povedeme tvou cestu." }
-		{ time 12200 length 4600 text "Èlunové doky v centru stanice tì odvezou do dalšího stádia tvého rùstu." }
+		{ time 12200 length 4600 text "Raketoplánové doky v centru stanice tì odvezou do dalšího stádia tvého rùstu." }
 		{ time 17300 length 3500 text "Pokud sis vybral, vstup do konkrétního èlunového doku." }
 		{ time 21100 length 3200 text "Buï pøipraven nauèit se vìci, o kterıch se ti ani nezdálo." }
 	}
@@ -311,80 +311,80 @@ SUB1
 
 	multisub brief02 {
 		{ time 850 length 4700 text "Námoønictvo má Školu Pøeití na povrchu Io, tøetího mìsíce Jupiteru." }
-		{ time 6100 length 3600 text "Vıhoda: Neexistuje lepší spùsob, jak získat kondièku a schopnost pøeít." }
+		{ time 6100 length 3600 text "Vıhoda: Neexistuje lepší zpùsob, jak získat kondièku a schopnost pøeít." }
 		{ time 9950 length 3200 text "Nevıhoda: Míra úmrtnosti je 21.2%." }
-		{ time 13550 length 3700 text "A k tomu strávíš rok s bandou povedenıch námorníkù." }
+		{ time 13550 length 3700 text "A k tomu strávíš rok s bandou povedenıch námoøníkù." }
 	}
 
 	multisub brief03 {
-		{ time 900 length 7700 text "Ne kadá párty na uvítanou si dovolí luxus gravitace, a tak korporáti poadují také nìkoho s beztíovım vıcvikem." }
+		{ time 900 length 7700 text "Ne kadá párty na uvítanou si dovolí luxus gravitace, a tak korporáti poadují také nìkoho s beztínım vıcvikem." }
 		{ time 9150 length 3200 text "Jeden rok na palubì stanice Guadalcanal by mìl staèit." }
 	}
 
 	multisub brief04 {
-		{ time 700 length 6100 text "Prohlídka sluby na Antice ti nabídne vıcvik jednoruèní louèové zbranì od pistolnice serantky Malloy." }
+		{ time 700 length 6100 text "Prohlídka sluby na Antice ti nabídne vıcvik s jednoruèní laserovou zbraní od pistolnice serantky Malloy." }
 		{ time 7200 length 2700 text "Drobné varování, seøve tì prvotøídnì." }
 	}
 
 	multisub brief05 {
-		{ time 800 length 7400 text "Automatizované rudní doly JM-432 zásobují pøístavy UNN, take obrana je tam na prvním míste." }
-		{ time 8500 length 3000 text "Naneštìstí bıvá také prvním terèem pro hackøe." }
-		{ time 11500 length 7100 text "Nìkdo se tam naboural do primárního dataloopu a teï je potrebnı tím, kterı si prorazí cestu automatickım obranním systémem." }
+		{ time 800 length 7400 text "Automatizované rudné doly JM-432 zásobují pøístavy UNN, take obrana je tam na prvním místì." }
+		{ time 8500 length 3000 text "Naneštìstí bıvá také prvním terèem pro hackry" }
+		{ time 11500 length 7100 text "Nìkdo se tam naboural do primárního dataloopu a teï je potøebnı tım, kterı si prorazí cestu automatickım obrannım systémem." }
 	}
 
 	multisub brief06 {
 		{ time 800 length 5800 text "Slepá munice, ivá munice, pohyblivé cíle, statické cíle, ivé cíle..." }
-		{ time 7300 length 4400 text "Vıcvikové søedisko Port MacArthur má dostatek vıbavy, z které poskoèí srdce nejednomu z vás." }
+		{ time 7300 length 4400 text "Vıcvikové støedisko Port MacArthur má dostatek vıbavy, z které poskoèí srdce nejednomu z vás." }
 	}
 
 	multisub brief07 {
-		{ time 700 length 3900 text "Kanceláø generála UNN potøebuje plne vybavenou èestnou strá." }
+		{ time 700 length 3900 text "Kanceláø generála UNN potøebuje plnì vybavenou èestnou strá." }
 		{ time 5000 length 4200 text "Kdy se nic nedìje, vyaduje si to dlouho jen stát a vypadat dobøe." }
 		{ time 9700 length 4000 text "Kdy se nìco dìje, mùe si to vyadovat odrazit útok psi-teroristù." }
 	}
 
 	multisub brief08 {
 		{ time 700 length 3400 text "Obchodní stanice Polidies byla dlouho rájem pro èernı trh." }
-		{ time 4400 length 4000 text "Avšak a doteï se nikdo nijako nevmìšoval do bìhu operací na stanici." }
-		{ time 9100 length 6900 text "Nedávné zprávy naznaèují, e velení stanice Polidies bylo zvrhnuto a teï ji ovládá samozvanı \"Magnát\"." }
+		{ time 4400 length 4000 text "Avšak a doteï se nikdo nijak nevmìšoval do bìhu operací na stanici." }
+		{ time 9100 length 6900 text "Nedávné zprávy naznaèují, e velení stanice Polidies bylo svreno a teï ji ovládá samozvanı \"Magnát\"." }
 		{ time 16500 length 3700 text "To je potøeba napravit a ustanovit tam posádku mariòákù." }
 	}
  
 	multisub brief09 {
-		{ time 800 length 5400 text "Do Koloniálního Letectva se dostane spodina letky a Antigua je spodina spodiny." }
-		{ time 7000 length 6800 text "Nauèíš se hodnì o vzpurnıch strojech bìhem prohlídky na Antigue, tedy pokud tì to døív neodpálí do pekla a zpátky." }
+		{ time 800 length 5400 text "Do Koloniálního Letectva se dostane spodina letky a Antigua je spodinou spodiny." }
+		{ time 7000 length 6800 text "Nauèíš se hodnì o vzpurnıch strojích bìhem prohlídky na Antigue, tedy pokud tì to døív neodpálí do pekla a zpátky." }
 	}
 
 	// Navy briefings
 
  	multisub brief10 {
-		{ time 800 length 5200 text "UNN Lucille hledá poruèíka operaèního vıcviku, kterı si osvojí navigaci lodi a systémy dátového ovládaní." }
-		{ time 6400 length 3700 text "Namoèíš se do Hi-tech systémù, ale také poèítej s tìkımi bøemenami." }
+		{ time 800 length 5200 text "UNN Lucille hledá poruèíka operaèního vıcviku, kterı si osvojí navigaci lodi a systémy datového ovládaní." }
+		{ time 6400 length 3700 text "Namoèíš se do Hi-tech systémù, ale také poèítej s tìkımi bøemeny." }
 	}
 
 	multisub brief11 {
 		{ time 900 length 4600 text "UNN Lucille hledá inenıra na pomoc údrby jádrovıch energetickıch systémù lodi." }
-		{ time 5900 length 3800 text "Nevyhneš se ekım bøemenám, námorníku, ale nauèís se pouívat Hi-tech vybavení." }
+		{ time 5900 length 3800 text "Nevyhneš se tìkım bøemenùm, námoøníku, ale nauèíš se pouívat Hi-tech vybavení." }
 	}
 
 	multisub brief12 {
 		{ time 800 length 3600 text "UNN Lucille nabírá dobrovolníky do svého oddìlení vojenské policie." }
-		{ time 4900 length 4500 text "Tito námorníci umí bıt pìkne nabruèení bìhem roèní plavby, tak neèekej zaobcházení v rukavièkách." }
+		{ time 4900 length 4500 text "Tito námoøníci umí bıt pìknì nabruèení bìhem roèní plavby, tak neèekej zacházení v rukavièkách." }
 	}
 
 	multisub brief13 {
-		{ time 800 length 6300 text "UNN Carfax se vydává na prùzkumnou misi nono objevené komety tøídy B, která vstupuje do vnìjší sluneèní soustavy." }
-		{ time 8000 length 5500 text "Pravdìpodobnì se na tebe nalepí nìjaké dovednosti, kdy budeš pracovat s Hi-tech navigaènımi systémy na palubì tohto novì uvedeného ìkého køíníku." }
+		{ time 800 length 6300 text "UNN Carfax se vydává na prùzkumnou misi novì objevené komety tøídy B, která vstupuje do vnìjší sluneèní soustavy." }
+		{ time 8000 length 5500 text "Pravdìpodobnì se na tebe nalepí nìjaké dovednosti, kdy budeš pracovat s Hi-tech  navigaèními systémy na palubì  tohoto novì uvedeného tìkého køiníku." }
 	}
 
 	multisub brief14 {
-		{ time 800 length 4600 text "UNN Pierce pøepravuje osvobozené politické vìznì zpìt domù z jejich vazby pøi Saturnì." }
-		{ time 6100 length 6300 text "Na Pierce bylo pøirazeno oddìlení mariòákù a ještì potøebují námorníky na nakládku, spravování a údrbu zbraní na palubì lodi." }
+		{ time 800 length 4600 text "UNN Pierce pøepravuje osvobozené politické vìznì zpìt domù z jejich vazby pøi Saturnu." }
+		{ time 6100 length 6300 text "Na Pierce bylo pøiøazeno oddìlení mariòákù a ještì potøebují námoøníky na nakládku, spravování a údrbu zbraní na palubì lodi." }
 	}
 
 	multisub brief15 {
 		{ time 800 length 3200 text "V LaVerne na Floridì má Námoønictví svou první školu taktického vıcviku." }
-		{ time 4500 length 4400 text "Moná není tak respektována jako zaøízení pro mariòáky ve Fort Bush, no rozhodnì tì tam lecos nauèí." }
+		{ time 4500 length 4400 text "Moná není tak respektována jako zaøízení pro mariòáky ve Fort Bush, no rozhodnì tì tam leccos nauèí." }
 	}
 
 	multisub brief16 {
@@ -394,63 +394,63 @@ SUB1
 
 	multisub brief17 {
 		{ time 850 length 4700 text "Námoønictvo má Školu Pøeití na povrchu Io, tøetího mìsíce Jupiteru." }
-		{ time 6100 length 3600 text "Vıhoda: Neexistuje lepší spùsob, jak získat kondièku a schopnost pøeít." }
+		{ time 6100 length 3600 text "Vıhoda: Neexistuje lepší zpùsob, jak získat kondièku a schopnost pøeít." }
 		{ time 9950 length 3200 text "Nevıhoda: Míra úmrtnosti je 21.2%." }
 	}
 
 	multisub brief18 {
-		{ time 900 length 3800 text "Námoønictvo doporuèuje kadému podstoupit také nejakı beztíovı vıcvik." }
-		{ time 5400 length 4300 text "Jeden rok na vesmírné stanici Yamamoto na orbitu Zemì by mìl bohatì postaèovat." }
+		{ time 900 length 3800 text "Námoønictvo doporuèuje kadému podstoupit také nìjakı beztínı vıcvik." }
+		{ time 5400 length 4300 text "Jeden rok na vesmírné stanici Yamamoto na orbitì Zemì by mìl bohatì postaèovat." }
 	}
 
 	// OSA briefings
 
 	multisub brief19 {
-		{ time 800 length 4100 text "Náde senzorické deprivace na palubì TOS Shao Ling èekají na tebe." }
+		{ time 800 length 4100 text "Nádre senzorické deprivace na palubì TOS Shao Ling èekají na tebe." }
 		{ time 5300 length 6400 text "Tam strávíš rok v osamìní a meditaci soustøedìn na pohyb a zvuk a jak by mohli slouit tvé vùli." }
 	}
 
 	multisub brief20 {
-		{ time 700 length 4200 text "Náde senzorické deprivace na palubì TOS Ru Nang èekají na tebe." }
-		{ time 5400 length 3800 text "Jeden rok v meditaci o podstatì látek ti nad nimi propujèí sílu." }
+		{ time 700 length 4200 text "Nádre senzorické deprivace na palubì TOS Ru Nang èekají na tebe." }
+		{ time 5400 length 3800 text "Jeden rok v meditaci o podstatì látek ti nad nimi propùjèí sílu." }
 	}
 
 	multisub brief21 {
-		{ time 800 length 5400 text "Náde senzorické deprivace na palubì TOS Chu Lun jsou modulovány pro tvùj vıcvik." }
-		{ time 6700 length 6700 text "Strávíš rok v rozjímaní o hmotì - své i jinıch objektù - a dokım je nebudeš ohıbat svım ùmyslem." }
+		{ time 800 length 5400 text "Nádre senzorické deprivace na palubì TOS Chu Lun jsou modulovány pro tvùj vıcvik." }
+		{ time 6700 length 6700 text "Strávíš rok v rozjímaní o hmotì - své i jinıch objektù - a dokud je nebudeš ohıbat svou vùlí." }
 	}
 
 	multisub brief22 {
-		{ time 900 length 7900 text "Bloumání nad myšlenkami zrady a nevìrnosti z hlouby emocí a vnitøního konfliktu, které naplòují vìtšinu prostıch lidí, mùe bıt znepokojující." }
-		{ time 9200 length 7700 text "Strávíš rok budováním pevné vùle, pøèem se nauèíš vidìt do myšlenek ménì schopnıch bez toho, aby ses pomátnul." }
+		{ time 900 length 7900 text "Bloumání nad myšlenkami zrady a nevìrnosti z hloubky emocí a vnitøního konfliktu, které naplòují vìtšinu prostıch lidí, mùe bıt znepokojující." }
+		{ time 9200 length 7700 text "Strávíš rok budováním pevné vùle, pøièem se nauèíš vidìt do myšlenek ménì schopnıch bez toho, aby ses pomátl." }
 	}
 
 	multisub brief23 {
-		{ time 900 length 5800 text "Vızkumné laboratoøe doktora Chandrisvilana uèinili mnohé pokroky posledního desetietí ve psionickıch technikách." }
-		{ time 7000 length 5200 text "Strávíš rok ve slubách tohto génia a nauèíš se porozumìt jeho vhledùm a rozmarùm." }
+		{ time 900 length 5800 text "Vızkumné laboratoøe doktora Chandrisvilana uèinili mnohé pokroky posledního desetiletí ve psionickıch technikách." }
+		{ time 7000 length 5200 text "Strávíš rok ve slubách tohoto génia a nauèíš se porozumìt jeho vhledùm a rozmarùm." }
 	}
 
 	multisub brief24 {
-		{ time 800 length 2900 text "Tvé tìlo zakrnìlo bìhem vıcvikù tvé mysli." }
-		{ time 4100 length 3700 text "Na Io najdeš vojáky, kteøí si chcou otestovat svou vıd." }
-		{ time 8200 length 4400 text "A ty pøedèís jejich fyzickou zdatnost ani by to ohrozilo tvé mentální schopnosti." }
+		{ time 800 length 2900 text "Tvé tìlo zakrnìlo bìhem vıcviku tvé mysli." }
+		{ time 4100 length 3700 text "Na Io najdeš vojáky, kteøí si chtìjí otestovat svou vıdr." }
+		{ time 8200 length 4400 text "A ty pøedèíš jejich fyzickou zdatnost ani by to ohrozilo tvé mentální schopnosti." }
 	}
 
 	multisub brief25 {
-		{ time 800 length 5600 text "Èiny politickho terorizmu a korporátního donucování narušují korporátní a politickou stabilitu." }
-		{ time 6900 length 5700 text "Strávíš rok v boji proti chatickım ivlùm jak psionickou tak fyzickou silou." }
+		{ time 800 length 5600 text "Èiny politického terorizmu a korporátního donucování narušují korporátní a politickou stabilitu." }
+		{ time 6900 length 5700 text "Strávíš rok v boji proti chaotickım ivlùm jak psionickou tak fyzickou silou." }
 	}
 
 	multisub brief26 {
-		{ time 800 length 4900 text "Ve velkıch plánech nejsou individuality o nic ménì dùleité neli figurky na šachovnici." }
-		{ time 5900 length 5600 text "Pøíleitostnì je nevyhnutné odstranit figurku, ani by to narušilo plynulost hry." }
+		{ time 800 length 4900 text "Ve velkıch plánech nejsou jednotlivci o nic ménì dùleití neli figurky na šachovnici." }
+		{ time 5900 length 5600 text "Pøíleitostnì je nevyhnutelné odstranit figurku, ani by to narušilo plynulost hry." }
 		{ time 12200 length 3700 text "Tyto odstranìní se provedou v naprosté tichosti a utajení." }
 		{ time 16300 length 2600 text "Ty strávíš rok vıcvikem tìchto schopností." }
 	}
 
 	multisub brief27 {
 		{ time 800 length 3700 text "Mnohá ohroení bezpeènosti jdou porazit jenom zevnitø." }
-		{ time 4800 length 5200 text "Tvá mysl bude peèlivé vyprázdnìna a nahrazena povahou a minulostí kriminálníka." }
-		{ time 10600 length 8400 text "Buï jedním z kriminálníkù a rebelù, vytvej v jejich bíde a chaose a pak, a nadejde správnı èas, zlikviduj je zevnitø." }
+		{ time 4800 length 5200 text "Tvá mysl bude peèlivì vyprázdnìna a nahrazena povahou a minulostí kriminálníka." }
+		{ time 10600 length 8400 text "Buï jedním z kriminálníkù a rebelù, vytrvej v jejich bídì a chaosu a pak, a nadejde správnı èas, zlikviduj je zevnitø." }
 	}
 }

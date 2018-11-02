@@ -6,13 +6,13 @@ SUB1
 	sub pd1amb_1 { text "Eh! Co to bylo?" }
 	sub pd1amb_2 { text "Eh! Zùstaòte stát." }
 	sub pd1amb_3 { text "Kdo to udìlal?" }
-	sub pd1amb_4 { text "Jaké nepøívìtivé." }
+	sub pd1amb_4 { text "Jak nepøívìtivé." }
 	sub pd1amb_5 { text "Pøestaòte s tím, prosím." }
-	sub pd1at0_1 { text "Všechno je to jen otázka procedúr, opravdu. Tak mnoho lidí to zjevnì nechápe." }
+	sub pd1at0_1 { text "Všechno je to jen otázka procedur, opravdu. Tolik lidí to zjevnì nechápe." }
 	sub pd1at0_2 { text "Tady je hroznı nepoøádek." }
-	sub pd1at0_3 { text "Kdo si vybral takové farby? Nelíbí se mi ani trochu." }
+	sub pd1at0_3 { text "Kdo si vybral takové barvy? Nelíbí se mi ani trochu." }
 	sub pd1at0_4 { text "Jsem plnì registrovaná servisní jednotka TriOptimum." }
-	sub pd1at2_1 { text "Smím vám nabítnout nìjakı z našich produktù osobní péèe?" }
+	sub pd1at2_1 { text "Smím vám nabídnout nìco z našich produktù osobní péèe?" }
 	sub pd1at2_2 { text "Ahoj. Mùu bıt nápomocen?" }
 	sub pd1at2_3 { text "Pøísahal bych, e mì nìkdo hledal." }
 	sub pd1at2_4 { text "Omvluvte mì. Prosím zopakujte jakıkoliv poadavek." }
@@ -26,18 +26,18 @@ SUB1
 	sub pd1bak_2 { text "Poslední dny tady nikoho není." }
 	sub pd1bak_3 { text "Nikdo. A já tak doufal, e budu uiteènı." }
 	sub pd1bak_4 { text "Pøedpokládam, e na mnì zazvoní, kdy se vrátí." }
-	sub pd1bak_5 { text "Ts, ts. Lidé jsou tací plachí." }
+	sub pd1bak_5 { text "Ts, ts. Lidé jsou takovı plachı." }
 	sub pd1bod_1 { text "Je zapotøebí dobíjení?" }
 	sub pd1bod_2 { text "Zdá se, e jste utrpìl mírné poškození." }
-	sub pd1bod_3 { text "Vaše vıkonnost zdá se bıt neoptimální. Mohu pomoci?" }
-	sub pd1bod_4 { text "Je tohle vaše poadovaná pøevádzková kondice?" }
-	sub pd1bod_5 { text "Nechci bıt neomalenı, neèo tady není na poøádku." }
+	sub pd1bod_3 { text "Vaše vıkonnost se zdá bıt neoptimální. Mohu pomoci?" }
+	sub pd1bod_4 { text "Je tohle vaše poadovaná provozní kondice?" }
+	sub pd1bod_5 { text "Nechci bıt neomalenı, ale nìco tady není v poøádku." }
 	sub pd1bod_6 { text "Mùu poskytnout pomoc?" }
-	sub pd1chg_1 { text "Tohle jsou spùsoby TriOptimum!" }
+	sub pd1chg_1 { text "Tohle jsou zpùsoby TriOptimum!" }
 	sub pd1chg_2 { text "Okamik, pane!" }
-	sub pd1chg_3 { text "Úchvatní volba, pokud sám mohu øíci!" }
+	sub pd1chg_3 { text "Úchvatná volba, pokud sám mohu øíci!" }
 	sub pd1chg_4 { text "Ou, velice dobøe, pane!" }
-	sub pd1chg_5 { text "Jsem si jist, e tohle je právì, co jste hledal!" }
+	sub pd1chg_5 { text "Jsem si jist, e tohle je právì to, co jste hledal!" }
 	sub pd1hhi_1 { text "Ah! Jsem si jist, e tohle je jenom nedorozumìní." }
 	sub pd1hhi_2 { text "Ah! Nebesa!" }
 	sub pd1hhi_3 { text "Ah! Nedìlejte to u, ano?" }
@@ -47,21 +47,21 @@ SUB1
 	sub pd1hlo_3 { text "To nepomáhá." }
 	sub pd1los_1 { text "Obávám se, e vám nemohu pomoci, pokud se budete ukrıvat." }
 	sub pd1los_2 { text "Pane, pane! Je to zdarma. Vrate se." }
-	sub pd1los_3 { text "Áááh, odplašil jsem klienta. Nejspíš mì downgradují." }
+	sub pd1los_3 { text "Áááh, odehnal jsem klienta. Nejspíš mì downgradují." }
 	sub pd1los_4 { text "Tohle je pøíšerné. Takhle to vùbec nepùjde." }
-	sub pd1los_5 { text "Pokud byla moje sluba neuspokojivá, poznaète si, prosím, mé èíslo ID." }
+	sub pd1los_5 { text "Pokud byla moje sluba neuspokojivá, poznaète si, prosím, mé ID èíslo." }
 	sub pd1run_1 { text "Prosím. stùjte." }
 	sub pd1run_2 { text "Jenom na moment, pane." }
-	sub pd1run_3 { text "Prosím zùstaòte, kde jste a sluební bude s vámi za okamik." }
+	sub pd1run_3 { text "Prosím zùstaòte, kde jste a sluha tu s vámi bude za okamik." }
 	sub pd1to1_1 { text "Èeká na mì nìkdo?" }
 	sub pd1to1_2 { text "Haló?" }
 	sub pd1to1_3 { text "Ano?" }
 	sub pd1to1_4 { text "Je tu klient?" }
 	sub pd1to1_5 { text "Mùu vám pomoci? Ah, je tam nìkdo?" }
 	sub pd1to2_1 { text "Není potøeba se tam plíit." }
-	sub pd1to2_2 { text "Pojïte, pojïte. Neèeká s v øadì." }
-	sub pd1to2_3 { text "Mohu vám pomoct?" }
-	sub pd1to2_4 { text "Jenom pojïte. Neostíchejte se." }
+	sub pd1to2_2 { text "Pojïte, pojïte. Tady se neèeká ve frontì." }
+	sub pd1to2_3 { text "Mohu vám pomoci?" }
+	sub pd1to2_4 { text "Jenom pojïte. Neostıchejte se." }
 	sub pd1to2_5 { text "Co mùu pro-- Kde jste, pane?" }
 	sub pd1to3_1 { text "K vašim slubám." }
 	sub pd1to3_2 { text "U pøicházím, pane!" }
