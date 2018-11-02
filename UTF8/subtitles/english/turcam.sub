@@ -11,7 +11,7 @@ SUB1
 	sub camdie3 { text "[zničena]" }
 	sub camdie4 { text "[zničena]" }
 //	sub camloop { text "[hledá]" }
-	sub camlos { text "[cíl stracen]" }
+	sub camlos { text "[cíl ztracen]" }
 //	sub camstop { text "[zastavena]" }
 //	sub camto1 { text "[podezírá]" } // unused
 	sub camto2 { text "[podezírá]" }
