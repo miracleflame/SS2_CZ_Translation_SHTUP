@@ -8,9 +8,9 @@ SUB1
 	sub pd1amb_3 { text "Kdo to udělal?" }
 	sub pd1amb_4 { text "Jak nepřívětivé." }
 	sub pd1amb_5 { text "Přestaňte s tím, prosím." }
-	sub pd1at0_1 { text "Všechno je to jen otázka procedur, opravdu. Mnoho lidí to zjevně nechápe." }
+	sub pd1at0_1 { text "Všechno je to jen otázka procedur, opravdu. Tolik lidí to zjevně nechápe." }
 	sub pd1at0_2 { text "Tady je hrozný nepořádek." }
-	sub pd1at0_3 { text "Kdo si vybral takové Barvy? Nelíbí se mi ani trochu." }
+	sub pd1at0_3 { text "Kdo si vybral takové barvy? Nelíbí se mi ani trochu." }
 	sub pd1at0_4 { text "Jsem plně registrovaná servisní jednotka TriOptimum." }
 	sub pd1at2_1 { text "Smím vám nabídnout něco z našich produktů osobní péče?" }
 	sub pd1at2_2 { text "Ahoj. Můžu být nápomocen?" }
@@ -59,7 +59,7 @@ SUB1
 	sub pd1to1_4 { text "Je tu klient?" }
 	sub pd1to1_5 { text "Můžu vám pomoci? Ah, je tam někdo?" }
 	sub pd1to2_1 { text "Není potřeba se tam plížit." }
-	sub pd1to2_2 { text "Pojďte, pojďte. Tady  se nečeká ve frontě." }
+	sub pd1to2_2 { text "Pojďte, pojďte. Tady se nečeká ve frontě." }
 	sub pd1to2_3 { text "Mohu vám pomoci?" }
 	sub pd1to2_4 { text "Jenom pojďte. Neostýchejte se." }
 	sub pd1to2_5 { text "Co můžu pro-- Kde jste, pane?" }

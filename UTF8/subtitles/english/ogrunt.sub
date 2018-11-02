@@ -52,7 +52,7 @@ SUB1
 	sub og1hit_5 { text "Prociťuj své maso!" }
 	sub og1hlo_1 { text "Zabij mě!" }
 	sub og1los_1 { text "Ten se k nám nepřipojí." }
-	sub og1los_2 { text "nesouzvuk slábne." }
+	sub og1los_2 { text "Nesouzvuk slábne." }
 	sub og1los_3 { text "Vrátí se k nám." }
 	sub og1los_4 { text "Je to pro nás ztracené." }
 	sub og1los_5 { text "My přetrváme." }
