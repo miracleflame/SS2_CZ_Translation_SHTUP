@@ -442,7 +442,7 @@ SUB1
 	}
 
 	multisub brief26 {
-		{ time 800 length 4900 text "Ve velkých plánech nejsou jednotlivci o nic méně důležité nežli figurky na šachovnici." }
+		{ time 800 length 4900 text "Ve velkých plánech nejsou jednotlivci o nic méně důležití nežli figurky na šachovnici." }
 		{ time 5900 length 5600 text "Příležitostně je nevyhnutelné odstranit figurku, aniž by to narušilo plynulost hry." }
 		{ time 12200 length 3700 text "Tyto odstranění se provedou v naprosté tichosti a utajení." }
 		{ time 16300 length 2600 text "Ty strávíš rok výcvikem těchto schopností." }
