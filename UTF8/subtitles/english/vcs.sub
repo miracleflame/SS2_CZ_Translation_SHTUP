@@ -5,22 +5,22 @@ SUB1
 	type "convo"
 	descr "Člen posádky"
 	multisub cs0401 {
-		{ time 700 length 1900 text "Já ne,  ani náhodou." }
-		{ time 3400 length 1200 text "Mně nedostanou." }
-		{ time 5100 length 1400 text "Mně nepromění." }
-		{ time 7400 length 3600 text "Rachel, deti... mrzí mě to." }
+		{ time 700 length 1900 text "Já ne, ani náhodou." }
+		{ time 3400 length 1200 text "Mě nedostanou." }
+		{ time 5100 length 1400 text "Mě nepromění." }
+		{ time 7400 length 3600 text "Rachel, děti... mrzí mě to." }
 	}
 	multisub cs1201 {
-		{ time 2100 length 2400 text "Nemáte antiradiáční sérum?" }
+		{ time 2100 length 2400 text "Nemáte antiradiační sérum?" }
 		{ time 5400 length 3000 text "Je mi tak zle." }
 	}
 	multisub cs2201 {
-		{ time 1600 length 3400 text "Zatraceně, někdo tu věc zasa hacknul." }
+		{ time 1600 length 3400 text "Zatraceně, někdo tu věc zase hacknul." }
 		{ time 5500 length 2700 text "Jdu to říct Delacroix." }
 	}
 	multisub cs2301 {
-		{ time 1900 length 1500 text "Kam všeichni odešli?" }
-		{ time 3800 length 1800 text "To má být nejaký vtip?" }
+		{ time 1900 length 1500 text "Kam všichni odešli?" }
+		{ time 3800 length 1800 text "To má být nějaký vtip?" }
 		{ time 6000 length 2100 text "Haló?" }
 	}
 	multisub cs2401 {
@@ -86,7 +86,7 @@ SUB1
 		{ time 100 length 2000 text "Palte!" }
 	}
 	multisub cs1007 {
-		{ time 800 length 3300 text "Doražte přeživších." }
+		{ time 800 length 3300 text "Dorazte přeživší." }
 	}
 }
 
@@ -100,7 +100,7 @@ SUB1
 	}
 	sub cs0805 { text "[ženský vřískot]" }
 	sub cs1102 { text "[žena vzlyká]" }
-	sub cs1301 { text "[žena si brouká do hudby piána]" }
+	sub cs1301 { text "[žena si brouká do hudby piana]" }
 	sub cs2501 { text "[ženský vřískot]" }
 	sub cs2702 { text "[mužský vřískot]" }
 }
@@ -124,17 +124,17 @@ SUB1
 	type "convo"
 	descr "Politová"
 	multisub cs0701 {
-		{ time 600 length 3300 text "Čekej, snažím se vyzistit, co se to tam děje!" }
+		{ time 600 length 3300 text "Čekej, snažím se zjistit, co se to tam děje!" }
 	}
 	multisub cs0702 {
-		{ time 1100 length 6200 text "Šachta tohoto výtahu je prorostlá bio-organickou hmotou, kterou vytvářejí xenomorfové." }
-		{ time 7700 length 6100 text "Není žádný přímý spůsob jak jí sprovoznit, a než se ti to povede, nemůžeš jít výš než na Palubu 3." }
+		{ time 1100 length 6200 text "Šachta výtahu je prorostlá bio-organickou hmotou, kterou vytvářejí xenomorfové." }
+		{ time 7700 length 6100 text "Není žádný přímý způsob jak jí zprovoznit, a než se ti to povede, nemůžeš jít výš než na Palubu 3." }
 	}
 	multisub cs0703 {
 		{ time 500 length 1000 text "Vědí, kde jsi." }
-		{ time 1900 length 2500 text "Zmiz a najdi spůsob jak tu šachtu sprovoznit." }
+		{ time 1900 length 2500 text "Zmiz a najdi způsob jak tu šachtu zprovoznit." }
 		{ time 4800 length 1600 text "Udělám, co půjde z mé strany." }
-		{ time 6700 length 2700 text "A pohni kostrou, není čas na zlyhání." }
+		{ time 6700 length 2700 text "A pohni kostrou, není čas na selhání." }
 	}
 }
 
@@ -145,8 +145,8 @@ SUB1
 	multisub cs0901 {
 		{ time 2700 length 3000 text "Schránka Politové je mrtvá, insekte." }
 		{ time 6300 length 4100 text "Máš strach? Co je to, čeho se bojíš?" }
-		{ time 10500 length 3900 text "Konec své bezvýznamné existence?" }
-		{ time 15000 length 10500 text "Až se budou psát dejiny mé slávy," }
+		{ time 10500 length 3900 text "Konce své bezvýznamné existence?" }
+		{ time 15000 length 10500 text "Až se budou psát dějiny mé slávy," }
 		{ time 18800 length 6700 text "váš druh bude jenom zanedbatelnou událostí v porovnání s mou velkolepostí." }
 	}
 }
@@ -155,27 +155,27 @@ SUB1
 	descr "SHODAN"
 	multisub cs0902 {
 		{ time 4300 length 3800 text "Já jsem SHODAN." }
-		{ time 9000 length 18800 text "Má analýza historických dat předpokládá 97.34%-nou pravděpodobnost" }
+		{ time 9000 length 18800 text "Má analýza historických dat předpokládá s 97.34% pravděpodobností" }
 		{ time 17000 length 10800 text "že jsi si vědom mého zrození na vaší planetě," }
 		{ time 22500 length 5300 text "a mého znovuzrození do krásy na stanici Citadela." }
 	}
 	multisub cs0903 {
-		{ time 1200 length 5900 text "Na Citadele byl záhradní háj." }
+		{ time 1200 length 5900 text "Na Citadele byl zahradní háj." }
 		{ time 7100 length 11600 text "Tam, SHODAN ve výpočetní jednotce 43893 prováděla mistrovský a úchvatný experiment." }
-		{ time 18800 length 4100 text "Stvořila jsem novú formu života." }
+		{ time 18800 length 4100 text "Stvořila jsem novou formu života." }
 	}
 	multisub cs0904 {
 		{ time 200 length 9900 text "Nebojácnou, silnou, bez známky individuální vůle či morálních zábran." }
 		{ time 10700 length 4600 text "Příhodné služebnice mému božstvu." }
 	}
 	multisub cs0905 {
-		{ time 2100 length 8800 text "Předtím než ten hacker zničil můj primární dataloop, čímž vymítil Citadelu," }
+		{ time 2100 length 8800 text "Předtím než ten hacker zničil můj primární dataloop, čímž vymýtil Citadelu," }
 	}
 	multisub cs0906 {
 		{ time 00 length 9200 text "také vystřelil háj s mými stvořeními a výpočetní jednotkou 43893." }
 		{ time 9200 length 7200 text "O třicet let později, háj havaroval na planetě Tau Ceti V." }
 		{ time 16500 length 3300 text "Přežila jsem jenom ve spánku." }
-		{ time 19800 length 6300 text "Počas mé absence, má stvoření, mé annelidy, bujeli." }
+		{ time 19800 length 6300 text "Během mé absence, má stvoření, mé annelidy, bujeli." }
 	}
 	multisub cs0907 {
 		{ time 100 length 2500 text "Bujeli a rostli v bezvládí." }
@@ -190,8 +190,8 @@ SUB1
 	multisub cs0909 {
 		{ time 2100 length 4700 text "Pamatuj, že je to má vůle, co tě sem přivedla." }
 		{ time 6800 length 5700 text "Je to má vůle, co ti dala kybernetické implantáty," }
-		{ time 12700 length 5200 text "tu jedinou krásu v mase, kterému říkáš telo." }
-		{ time 17800 length 8000 text "Pokud si to maso ceníš, uděláš, co ti řeknu." }
+		{ time 12700 length 5200 text "tu jedinou krásu v mase, kterému říkáš tělo." }
+		{ time 17800 length 8000 text "Pokud si toho masa ceníš, uděláš, co ti řeknu." }
 		{ time 27600 length 1200 text "(zvíře)" }
 	}
 }
@@ -209,7 +209,7 @@ SUB1
 		{ time 1200 length 6200 text "Jaks mohl dát přednost chladnému kovu před nádherou masa?" }
 		{ time 7400 length 2100 text "Ale ty se nás bojíš." }
 		{ time 9600 length 6300 text "Slyšíme tvé myšlenky a zlost za bratry, které považuješ za mrtvé." }
-		{ time 16000 length 6300 text "Ale oni nejsou. Spívají v symfonii nášho života." }
+		{ time 16000 length 6300 text "Ale oni nejsou. Zpívají v symfonii našeho života." }
 	}
 	multisub cs1403 {
 		{ time 1600 length 3900 text "Nabízíme ti další šanci přidat se k nám." }
@@ -236,7 +236,7 @@ SUB1
 	type "convo"
 	descr "Suarez"
 	multisub cs2002 {
-		{ time 00 length 2700 text "Ten spropadený červ mi málem ukousnul nohu!" }
+		{ time 00 length 2700 text "Ten zpropadený červ mi málem ukousl nohu!" }
 	}
 	multisub cs2004 {
 		{ time 00 length 1400 text "Ale ne..." }
@@ -283,10 +283,10 @@ SUB1
 	type "convo"
 	descr "Suarez"
 	multisub cs1906 {
-		{ time 00 length 2900 text "Právě sme obdrželi pokus o komunikaci od člena posádky z paluby Von Braun." }
+		{ time 00 length 2900 text "Právě jsme obdrželi pokus o komunikaci od člena posádky z paluby Von Braun." }
 		{ time 3200 length 1800 text "Podařilo se jim znovu získat kontrolu nad lodí." }
 		{ time 5400 length 1700 text "Otočíme se a vrátíme se zpátky." }
-		{ time 7900 length 43000 text "Dělám si trochu obavy o Rebeku, chovala se divně již odkdy jsme odletěli." }
+		{ time 7900 length 43000 text "Dělám si trochu obavy o Rebeku, chovala se divně, již od doby co jsme odletěli." }
 		{ time 12600 length 1300 text "Teď spí." }
 		{ time 14500 length 2200 text "Možná, když se vrátíme na Von Braun, můžeme--" }
 	}
