@@ -16,9 +16,9 @@ SUB1
 		{ time 39000 length 6990 text "Ve své neomezené představivosti, SHODAN sama sebe viděla jako bohyni, předurčenou k nadvládě nad Zemí." }
 		{ time 46000 length 3700 text "Tato představa byla zmařena hackerem, který ji stvořil." }
 		{ time 49800 length 2700 text "O 42 LET POZDĚJI" }
-		{ time 56100 length 0900 text "ARMÁDA" }
-		{ time 58100 length 0900 text "VĚDA" }
-		{ time 60200 length 0900 text "SPOTŘEBITEL" }
+		{ time 56100 length 1400 text "ARMÁDA" }
+		{ time 58200 length 1400 text "VĚDA" }
+		{ time 60200 length 1400 text "SPOTŘEBITEL" }
 		{ time 63700 length 2300 text "Třetí únor je tím dnem, kdy se dějí kouzla." }
 		{ time 66100 length 5700 text "Von Braun, první mezihvězdné plavidlo v historii lidstva, schopné dosáhnout rychlosti světla, zahájí svou první cestu." }
 		{ time 72300 length 8600 text "Tato neuvěřitelná výprava je výsledkem spolupráce mezi protektorátem UNN a těmi nejlepšími vědeckými mozky z korporace s nově obnovenou licencí, TriOptimum." }
@@ -40,15 +40,24 @@ SUB1
 
 	multisub movie/cs2 {
 		{ time 1000 length 1000 text "Datový zdroj 433/EOP" }
-		{ time 1900 length 3300 text "Přenos použitím protokolu podvrstvového šifrování \"TANGO\"" }
-		{ time 6000 length 1100 text "Příkaz: K přeložení 98322/U" }
-		{ time 7000 length 3000 text "Od: Kapitán William Bedford Diego, UNN Rickenbacker" }
-		{ time 10000 length 1100 text "Pro: VOJÁK G65434-2" }
-		{ time 11000 length 3100 text "Re: Přidělení na eskortní misi Von Braun" }
-		{ time 14700 length 1100 text "Vojáku--" }
-		{ time 15800 length 3100 text "Vaše žádost připojit se k posádce Rickenbacker byla schválena." }
-		{ time 18800 length 2100 text "Hlaste se na raketoplánu Mayfair v Přístavu Francisco ve 4:00 9.1.2114" }
-		{ time 20000 length 7800 text "A připravte se stát součástí historie, vojáku." }
+		{ time 2000 length 1000 text "Datový zdroj 433/EOP\nPřenos použitím protokolu" }
+		{ time 3000 length 1000 text "Datový zdroj 433/EOP\nPřenos použitím protokolu\npodvrstvového šifrování \"TANGO\"" }
+		{ time 4000 length 2000 text "Datový zdroj 433/EOP\nPřenos použitím protokolu\npodvrstvového šifrování \"TANGO\"\n......" }
+		{ time 6100 length 1000 text "Příkaz:" }
+		{ time 7100 length 1000 text "Příkaz:\nK přeložení 98322/U" }
+		{ time 8100 length 1000 text "Příkaz:\nK přeložení 98322/U\nOd: Kapitán William Bedford Diego," }
+		{ time 9100 length 1000 text "Příkaz:\nK přeložení 98322/U\nOd: Kapitán William Bedford Diego,\nUNN Rickenbacker" }
+		{ time 10100 length 1000 text "Příkaz:\nK přeložení 98322/U\nOd: Kapitán William Bedford Diego,\nUNN Rickenbacker\nPro: VOJÁK G65434-2" }
+		{ time 11100 length 3600 text "Příkaz:\nK přeložení 98322/U\nOd: Kapitán William Bedford Diego,\nUNN Rickenbacker\nPro: VOJÁK G65434-2\nRe: Přidělení na eskortní misi Von Braun" }
+		{ time 14800 length 1000 text "Vojáku," }
+		{ time 15800 length 1000 text "Vojáku,\nVaše žádost připojit se" }
+		{ time 16800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker" }
+		{ time 17800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste" }
+		{ time 18800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu" }
+		{ time 19800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu\n Francisco ve 4:00" }
+		{ time 20800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se" }
+		{ time 21800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se\nstát součástí historie, vojáku." }
+		{ time 22800 length 5000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se\nstát součástí historie, vojáku.\nWBD" }
 		{ time 32200 length 5500 text "Raketoplán 8138, máte povolení přistát na Von Braun, raketoplánový dok 2." }
 		{ time 37500 length 2500 text "Vítejte na palubě, vojáku." }
 		{ time 41500 length 5400 text "O 5 měsíců později. UNN Von Braun. Poblíž Tau Ceti V. 107 trilionů kilometrů od Země." }
