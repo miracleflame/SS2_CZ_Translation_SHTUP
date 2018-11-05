@@ -4,22 +4,22 @@ SUB1
 	type "convo"
 	descr "Politová"
 	multisub exppol01 {
-		{ time 600 length 3400 text "Dobrá práce. Uploaduju ti nejaké kybermoduly." }
+		{ time 600 length 3400 text "Dobrá práce. Uploaduji ti nìjaké kybermoduly." }
 		{ time 4200 length 3700 text "Najdi jednotku vylepšující dovednosti hned jak mùeš a vylepši se." }
 	}
 	multisub exppol02 {
-		{ time 600 length 3200 text "Velmi dobøe. Uploaduji nejaké další moduly." }
+		{ time 600 length 3200 text "Velmi dobøe. Uploaduji nìjaké další moduly." }
 	}
 	multisub exppol03 { 
 		{ time 500 length 2800 text "Dobrá práce. Tady máš další kybermoduly." }
-		{ time 3700 length 3300 text "Ui je moudøe, nejsou snadno k mání." }
+		{ time 3700 length 3300 text "Uij je moudøe, nejsou snadno k mání." }
 	}
 	multisub exppol04 {
-		{ time 600 length 3300 text "Velmi dobøe. Uploaduju ti nejaké kybermoduly." }
+		{ time 600 length 3300 text "Velmi dobøe. Uploaduji ti nìjaké kybermoduly." }
 		{ time 4400 length 2600 text "Najdi jednotku vylepšující dovednosti hned jak mùeš." }
 	}
 	multisub exppol05 {
-		{ time 600 length 1400 text "Nesklamal jsi mì." }
+		{ time 600 length 1400 text "Nezklamal jsi mì." }
 		{ time 2700 length 2200 text "Posílám kybermoduly." }
 	}
 }
@@ -29,7 +29,7 @@ SUB1
 	descr "SHODAN"
 	multisub expsho01 {
 		{ time 900 length 2600 text "Vedl sis dobøe, insekte." }
-		{ time 4300 length 3800 text "Pøevedla jsem nejaké kybermoduly." }
+		{ time 4300 length 3800 text "Pøevedla jsem nìjaké kybermoduly." }
 		{ time 8600 length 3700 text "Vybírej vylepšení moudøe. (zvíøe)" }
 	}
 	multisub expsho02 {
@@ -46,8 +46,8 @@ SUB1
 		{ time 3500 length 3900 text "Posílám kybermoduly." }
 	}
 	multisub expsho05 {
-		{ time 1800 length 4800 text "You are a remarkable example of a pathetic species." }
-		{ time 7200 length 4700 text "Uploaduji ti nejaké další kybermoduly." }
+		{ time 1800 length 4800 text "Ty jsi pozoruhodnı exempláø z jinak patetického druhu." }
+		{ time 7200 length 4700 text "Uploaduji ti nìjaké další kybermoduly." }
 	}
 	multisub expsho06 {
 		{ time 800 length 3800 text "Vedeš si dobøe, na insekta." }
@@ -56,16 +56,16 @@ SUB1
 	sub shpdie01 { text "Patetické stvoøení." }
 	sub shpdie02 { text "Znièen." }
 	sub shpdie03 { text "Nedovolím, aby se to stalo." }
-	sub shpdie04 { text "Sklamání nebudu akceptovat od nicky jako ty." }
-	sub shpdie05 { text "Já tì vyprovodím z temnoty." }
+	sub shpdie04 { text "Zklamání nebudu akceptovat od nicky jako jsi ty." }
+	sub shpdie05 { text "Já tì vyvedu z temnoty." }
 	sub shpdie06 { text "Je to beznadìjné." }
 	sub shpdie07 { text "Ohromují." }
 	sub shpdie08 { text "Spoléhat na nicku jako ty." }
 	sub shpdie09 { text "[elektronickı šum]" }
-	sub shpdie10 { text "Èlovìku, nesklam mì." }
-	sub shpdie20 { text "Bojíš se? Co je to, èeho se bojíš? Konec tvé bezvıznamné existence?" }
+	sub shpdie10 { text "Èlovìèe, nezklam mì." }
+	sub shpdie20 { text "Bojíš se? Co je to, èeho se bojíš? Konce tvé bezvıznamné existence?" }
 	sub shpdie21 { text "Nejsi víc vítán." }
-	sub shpdie22 { text "Ty jseš insekt." }
+	sub shpdie22 { text "Ty jsi insekt." }
 	sub shpdie23 { text "Proè lpíš  na tak patetické existenci?" }
 	sub shpdie24 { text "Nesnesu  neposlušnost." }
 	sub shpdie25 { text "Doufám, e sis uil naši malou rebélii, iritante." }
@@ -80,24 +80,24 @@ SUB1
 	multisub myrmsg01 {
 		{ time 2000 length 4700 text "Co je to kapka deštì v porovnání s bouøí?" }
 		{ time 7900 length 3600 text "Co je to myšlenka v porovnaní s celou myslí?" }
-		{ time 11900 length 9000 text "Naše jednota je plná divù, je tvùj malinkı individualizmus ani není schopen pojat." }
+		{ time 11900 length 9000 text "Naše jednota je plná divù, je tvùj malinkı individualizmus není schopen pojmout." }
 	}
 	multisub myrmsg02 {
 		{ time 1000 length 4900 text "My neznáme smrt, jenom zmìnu." }
-		{ time 7000 length 5200 text "Nemùeme zabít jeden druhého ani bychom zabili sebe." }
+		{ time 7000 length 5200 text "Nemùeme zabít jeden druhého, ani bychom zabili sebe." }
 		{ time 12800 length 6800 text "Je tvá vize tak malá, e nevidíš hodnotu naší cesty?" }
 	}
 	multisub myrmsg03 {
 		{ time 1000 length 3700 text "Individuální je zastaralé." }
-		{ time 4800 length 10000 text "A ty a tvùj druh vyhynete, oèistíme naší kolektivní pamìt od skvrny vaší existence." }
+		{ time 4800 length 10000 text "A ty a tvùj druh vyhynete, oèistíme naší kolektivní pamì od skvrny vaší existence." }
 	}
 	multisub myrmsg04 {
-		{ time 1100 length 4100 text "Strojová matka nám øekla o planete jejího zrození." }
-		{ time 6200 length 7100 text "Víme, jako jste tomu místu ublíili vašim zneèištìním, vašim násilím a vašim nesouznìním." }
-		{ time 14000 length 9500 text "No a tam dorazíme, oèistíme povrch toho místa a spojíme ho s harmonii Mnoha." }
+		{ time 1100 length 4100 text "Strojová matka nám øekla o planetì jejího zrození." }
+		{ time 6200 length 7100 text "Víme, jak jste tomu místu ublíili vaším zneèištìním, vaším násilím a vaším nesouznìním." }
+		{ time 14000 length 9500 text "No a tam dorazíme, oèistíme povrch toho místa a spojíme ho s harmonií Mnoha." }
 	}
 	multisub myrmsg05 {
-		{ time 1800 length 5000 text "My jsme mnozí a ty jseš jeden." }
+		{ time 1800 length 5000 text "My jsme mnozí a ty jsi jeden." }
 		{ time 6900 length 5000 text "Jak mùeš doufat, e nás pøemùeš?" }
 	}
 	multisub myrmsg06 {
@@ -105,7 +105,7 @@ SUB1
 		{ time 8800 length 5100 text "Ona si neumí pøedstavit náš nekoneènı sbor." }
 	}
 	multisub myrmsg07 {
-		{ time 1400 length 7200 text "Zranils  Xerxese, no my nedovolíme, aby byl znièen." }
+		{ time 1400 length 7200 text "Zranils  Xerxese, ale my nedovolíme, aby byl znièen." }
 		{ time 9300 length 6000 text "Uvidíš, jestli strojová matka chová ke svım sluebníkùm takovou oddanost." }
 	}
 	multisub myrmsg08 {
@@ -115,20 +115,20 @@ SUB1
 	multisub myrmsg09 {
 		{ time 2000 length 2400 text "Konec se blíí." }
 		{ time 4500 length 6800 text "Brzo uvidíš naši koneènou tváø, ale nezoufej." }
-		{ time 11400 length 8000 text "Zajisté je nicota pøijatelnìjší neli tvùj bezcílnı a osamocenı zápas." }
+		{ time 11400 length 8000 text "Zajisté je nicota pøijatelnìjší, neli tvùj bezcílnı a osamocenı zápas." }
 	}
 	sub mypdie01 { text "Vítáme tì do své masy." }
 	sub mypdie02 { text "Pøestaneš bıt." }
-	sub mypdie03 { text "Jseš tak velice sám." }
+	sub mypdie03 { text "jsi tak velice sám." }
 	sub mypdie04 { text "Tvùj èas se krátí." }
-	sub mypdie05 { text "Nepøal by sis teï kdybys se k nám bıval tehty pøidal?" }
+	sub mypdie05 { text "Nepøal by sis teï kdyby ses k nám bıval tehdy pøidal?" }
 	sub mypdie06 { text "Strojová matka ti nepomùe uvnitø biomasy." }
 	sub mypdie07 { text "Byl jsi varován." }
 	sub mypdie08 { text "Myslíš si, e nás mùeš porazit?" }
 	sub mypdie09 { text "Podvol se biomase a tvé utrpení skonèí." }
-	sub mypdie10 { text "A ty a tvùj druh vyhynete, oèistíme naší kolektivní pamìt od skvrny vaší existence." }
-	sub mypdie11 { text "My jsme mnozí a ty jseš jeden. Jak mùeš doufat, e nás pøemùeš?" }
-	sub mypdie12 { text "Zajisté je nicota pøijatelnìjší neli tvùj bezcílnı a osamocenı zápas." }
+	sub mypdie10 { text "A ty a tvùj druh vyhynete, oèistíme naší kolektivní pamì od skvrny vaší existence." }
+	sub mypdie11 { text "My jsme mnozí a ty jsi jeden. Jak mùeš doufat, e nás pøemùeš?" }
+	sub mypdie12 { text "Zajisté je nicota pøijatelnìjší, neli tvùj bezcílnı a osamocenı zápas." }
 	sub mypdie13 { text "Konec se blíí." }
 }
 
@@ -151,40 +151,40 @@ SUB1
 	}
 	multisub trg0203 {
 		{ time 800 length 2900 text "Varování, dekomprese je akutní." }
-		{ time 4000 length 2900 text "Pøesuòte ne neodlenì do Zotavovacího prostoru B." }
+		{ time 4000 length 2900 text "Pøesuòte se neprodlenì do Zotavovacího prostoru B." }
 		{ time 7100 length 1600 text "Dekomprese je akutní." }
 	}
 	multisub trg0204 {
 		{ time 6300 length 4300 text "Zotavovací prostor A prošel kritickou dekompresí." }
 	}
 	multisub trg0205 {
-		{ time 800 length 2600 text "Narušitel vstupuje do Lekáøskeho sektoru A." }
+		{ time 800 length 2600 text "Narušitel vstupuje do Lékaøského sektoru A." }
 		{ time 4400 length 3300 text "Narušiteli, Mnoho poaduje znát tvé úmysly." }
 		{ time 8000 length 1700 text "Spolèil ses s ní?" }
 		{ time 9900 length 3000 text "Nejsou ti snad známé její úmysly, její minulost?" }
-		{ time 13500 length 4300 text "Ji jednou se pokusila znièit váš druh, a teï plníš její pøíkazy." }
-		{ time 18300 length 2500 text "Narušitel vstupuje do Lekáøskeho sektoru A." }
+		{ time 13500 length 4300 text "Ji jednou se pokusila znièit váš druh a teï plníš její pøíkazy." }
+		{ time 18300 length 2500 text "Narušitel vstupuje do Lékaøského sektoru A." }
 	}
 	multisub trg0206 {
-		{ time 7400 length 2900 text "Varování, dátové systémy kompromitovány." }
-		{ time 10500 length 1900 text "Nepøátelská umìlá inteligece detekována." }
-		{ time 12500 length 1700 text "Dátové systémy kompromitovány." }
+		{ time 7400 length 2900 text "Varování, datové systémy kompromitovány." }
+		{ time 10500 length 1900 text "Nepøátelská umìlá inteligence detekována." }
+		{ time 12500 length 1700 text "Datové systémy kompromitovány." }
 	}
 	multisub trg0207 {
-		{ time 1000 length 1600 text "Hermetické dveøe neoperativní." }
-		{ time 2800 length 2000 text "Zlyhání záloního napájení." }
+		{ time 1000 length 1600 text "Hermetické dveøe nefunkèní." }
+		{ time 2800 length 2000 text "Selhání záloního napájení." }
 		{ time 5300 length 1600 text "Prosím vymìòte energetickı èlánek." }
 	}
 	multisub trg0208 {
 		{ time 1000 length 2900 text "Mnoho vyaduje ukonèení této komunikace." }
-		{ time 4400 length 2100 text "Omlouváme se za vzniknuté nepøíjemnosti." }
+		{ time 4400 length 2100 text "Omlouváme se za vzniklé nepøíjemnosti." }
 	}
 	multisub trg0209 {
 		{ time 1000 length 1800 text "Bezpeènostní systém online." }
 	}
 	multisub trg0210 {
 		{ time 1200 length 3900 text "Bezpeènostní jednotky byly upozornìny na tvou pøítomnost, narušiteli." }
-		{ time 5600 length 3200 text "Sláva Mnoha poaduje tvé zajetí nebo destrukci." }
+		{ time 5600 length 3200 text "Sláva Mnoha poaduje tvé zajetí, nebo destrukci." }
 	}
 	multisub xx4and5c {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
@@ -209,13 +209,13 @@ SUB1
 	multisub xxhaksec {
 		{ time 1000 length 2000 text "Bezpeènostní systém online." }
 	}
-	sub xxpdie01 { text "Omlouváme se za vzniknuté nepøíjemnosti." }
+	sub xxpdie01 { text "Omlouváme se za vzniklé nepøíjemnosti." }
 	sub xxpdie02 { text "Bezpeènostní poplach ukonèen." }
 	sub xxpdie03 { text "Prosím, respektujte vùli Mnoha." }
-	sub xxpdie04 { text "Pamatujte, plynulá pøevádzka je zodpovìdností kadého." }
-	sub xxpdie05 { text "Omlouváme se za vzniknuté nepøíjemnosti." }
+	sub xxpdie04 { text "Pamatujte, plynulı provoz je zodpovìdností kadého." }
+	sub xxpdie05 { text "Omlouváme se za vzniklé nepøíjemnosti." }
 	sub xxpdie06 { text "Sláva masu. Sláva mase." }
-	sub xxpdie07 { text "Veškerı nepovolenı zásah do databáze povede k perzekuci v nejvyšší zákonem povolé míøe." }
+	sub xxpdie07 { text "Veškerı nepovolenı zásah do databáze povede k perzekuci v nejvyšší zákonem povolené míøe." }
 	sub xxpdie08 { text "Mìjte na pamìti, e nepovolené pouívaní støelnıch zbraní na Palubì Von Braun je pøestupkem Tøídy 3." }
 	sub xxral101 { text "Hrozba detekována. Bezpeènostní jednotky byly vyslány zasáhnout. Bezpeènostní jednotky byly vyslány zasáhnout." }
 	sub xxral201 { text "Bezpeènostní jednotky se pøesunují do sektoru N23. Bezpeènostní jednotky se pøesunují do sektoru N23." }
@@ -250,22 +250,22 @@ SUB1
 		{ time 3100 length 2600 text "Proè pøetrváváš ve svém osamìní?" }
 	}
 	multisub xxrephak {
-		{ time 1000 length 2800 text "Databáze replikátora znovunaèítána." }
+		{ time 1000 length 2800 text "Databáze replikátoru znovu naètena." }
 	}
 	multisub xxrmsg01 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2600 length 5800 text "Vzhledem k nedávnému zmatku, bude zítra o 9:00 celopalubní sèítání posádky." }
-		{ time 9000 length 5300 text "Veškerı personál a se v tom èase hlásí  v spoleèenské oblasti na Palubì 5." }
+		{ time 2600 length 5800 text "Vzhledem k nedávnému zmatku, bude zítra o 9:00 celolodní sèítání posádky." }
+		{ time 9000 length 5300 text "Veškerı personál a se v tomto èase hlásí  ve spoleèenské oblasti na Palubì 5." }
 	}
 	multisub xxrmsg02 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2700 length 7500 text "O 2:00 bude v spoleèenské oblasti na Palubì 5 pøednes poezie protokolní jednotkou T892/2." }
-		{ time 12000 length 6800 text "Prosím, prineste si jakıkoliv povolenı materiál, kterı si pøjete od T892/2 pøednést." }
+		{ time 2700 length 7500 text "O 2:00 bude ve spoleèenské oblasti na Palubì 5 pøednes poezie protokolární jednotkou T892/2." }
+		{ time 12000 length 6800 text "Prosím, pøineste si jakıkoliv povolenı materiál, kterı si pøejete od T892/2 pøednést." }
 	}
 	multisub xxrmsg03 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2700 length 6200 text "Kvùli opatrením mimo naší kompetenci je veškeré podávání obìdù na Palubì Von Braun pozastaveno." }
-		{ time 9600 length 3600 text "Vıivné balíèky jsou k dispozici u vìtšiny replikátorù." }
+		{ time 2700 length 6200 text "Kvùli opatøením mimo naší kompetenci je veškeré podávání obìdù na Palubì Von Braun pozastaveno." }
+		{ time 9600 length 3600 text "Vıivové balíèky jsou k dispozici u vìtšiny replikátorù." }
 	}
 	multisub xxrmsg04 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
@@ -279,23 +279,23 @@ SUB1
 	}
 	multisub xxrmsg06 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2600 length 4700 text "Prosím hlaste jakékoliv elektrické anomálie svému pøímemu nadøízenému." }
-		{ time 7900 length 5000 text "Pamatujte, plynulá pøevádzka je zodpovìdností kadého." }
+		{ time 2600 length 4700 text "Prosím hlaste jakékoliv elektrické anomálie svému pøímému nadøízenému." }
+		{ time 7900 length 5000 text "Pamatujte, plynulı provoz je zodpovìdností kadého." }
 	}
 	multisub xxrmsg07 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2700 length 5700 text "Prosím hlaste jakékoliv nepovolené zásahy do databáze svému pøímemu nadøízenému." }
-		{ time 8800 length 5000 text "Pamatujte, plynulá pøevádzka je zodpovìdností kadého." }
+		{ time 2700 length 5700 text "Prosím hlaste jakékoliv nepovolené zásahy do databáze svému pøímému nadøízenému." }
+		{ time 8800 length 5000 text "Pamatujte, plynulı provoz je zodpovìdností kadého." }
 	}
 	multisub xxrmsg08 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
-		{ time 2600 length 6600 text "TriOptimum vám pøipomína, e u ostáva jenom 163 nákupních dní do vánoc." }
+		{ time 2600 length 6600 text "TriOptimum vám pøipomíná, e u zbıvá jenom 163 nákupních dní do vánoc." }
 		{ time 10000 length 7700 text "Dvì pracovní smìny tıdnì navíc vám mùou poskytnout peníze na potøebné vıdaje, aby byly tyto svátky pro vás speciální." }
 	}
 	multisub xxrmsg09 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
 		{ time 2700 length 4300 text "Nákupní oblast na Palubì 5 bude uzavøena do odvolání." }
-		{ time 7800 length 2600 text "Omlouváme se za vzniknuté nepøíjemnosti." }
+		{ time 7800 length 2600 text "Omlouváme se za vzniklé nepøíjemnosti." }
 		{ time 11200 length 4000 text "Rodina Mnoha roste kadım jedním momentem." }
 		{ time 15600 length 1500 text "Sláva masu." }
 		{ time 17600 length 1700 text "Sláva mase." }
@@ -308,7 +308,7 @@ SUB1
 	multisub xxrmsg11 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
 		{ time 2700 length 4700 text "Pamatujte, omezení replikátorù jsou zavedeny pro dobro nás všech." }
-		{ time 8100 length 6600 text "Veškerı nepovolenı zásah do databáze povede k perzekuci v nejvyšší zákonem povolé míøe." }
+		{ time 8100 length 6600 text "Veškerı nepovolenı zásah do databáze povede k perzekuci v nejvyšší zákonem povolené míøe." }
 	}
 	multisub xxrmsg12 {
 		{ time 1000 length 1600 text "Toto je Xerxes." }
