@@ -87,7 +87,7 @@ Psi21:"Vylepšená Citlivost Pohybu\n
 Zobrazí umístnění všech nestvůr v blízkém okolí.\n
 Trvání: 30 s. za PSI"
 
-Psi22:"Pyrokineze\n
+Psi22:"Pyrokinetický Projektil\n
 Vystřelí na cíl ohnivý projektil. Vyšší PSI zvyšuje účinnost."
 
 Psi23:"Psionická Hypnogeneze\n
@@ -173,7 +173,7 @@ PsiShort16:"Toto je chyba"
 PsiShort19:"Odraz"
 PsiShort20:"Toxin Štít"
 PsiShort21:"Vycítit Pohyb"
-PsiShort22:"Pyrokineze"
+PsiShort22:"Pyro Projektil"
 PsiShort7:"Zastavit Alarm"
 PsiShort10:"Adrenalin"
 PsiShort23:"Hypnóza"
