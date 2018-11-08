@@ -59,7 +59,7 @@ EmailText10:"Xerxes ovládá bezpeènostní systémy. Vyhıbej se kamerám, nebo je zni
 EmailName22:"POLITOVÁ 12.7.2114\nre: Chemické sklady\n"
 EmailPortrait22:"Polito"
 EmailIcon22:"OpsIcon"
-EmailText22:"Na kadé palubì je umístìn chemickı sklad, kde mùeš najít chemikálie, potøebné k vızkumu nalezenıch artefaktù. Nesna se u sebe nosit všechny chemikálie najednou. Je to nepraktické a zbyteèné. Tvùj vızkumnı software ti vdy vèas sdìlí, kterou chemikálií potøebuje.\n"
+EmailText22:"Na kadé palubì je umístìn chemickı sklad, kde mùeš najít chemikálie, potøebné k vızkumu nalezenıch artefaktù. Nesna se u sebe nosit všechny chemikálie najednou. Je to nepraktické a zbyteèné. Tvùj vızkumnı software ti vdy vèas sdìlí, kterou chemikálii potøebuje.\n"
 
 
 EmailName4:"POLITOVÁ 12.7.2114\nre: Wattsova karta\n"
@@ -103,7 +103,7 @@ EmailIcon6:"OpsIcon"
 EmailText6:"Neztrácej èas samochválou.  Slez šachtou dolù do Techniky a znovu spus hlavní Reaktor.  Obnovíš tím napájení vıtahu a budeš koneènì schopen se dostat na palubu 4.  Do toho!\n"
 
 
-LogName32:"Chemickı záznam: Medi/Vìda\n"
+LogName32:"Chem záznam: Medi/Vìda\n"
 LogPortrait32:"Chem"
 LogIcon32:"MedIcon"
 LogText32:"Inventáø laboratorního skladu: Medi/Vìda místnost 143\n
@@ -155,7 +155,7 @@ LogText19:"Pro: Sidonsová, Rebeka
 Wow... ty jsi úasná, víš to?  Snail jsem se na tebe nemyslet.  Já pitomec.  Miluju tì Rebeko.  A u mám plán.  Pøesvìdèil jsem kapitána, aby mì pøeloil z Rickenbackera do spolupracujícího tímu na Von Braunovi.  Zanedlouho nás od sebe u nic nerozdìlí.\n"
 
 
-LogName1:"GRASSI 20.6.2114\nre: Samá práce, ádná zábava\n"
+LogName1:"GRASSI 20.6.2114\nre: Práce, bez zábavy\n"
 LogPortrait1:"Grassi"
 LogIcon1:"MedIcon"
 LogText1:"Okolo 04:30 mì zavolali, abych pomohl vyloit èluny co se vrátily z Tau Ceti 5.  Korenchkin u toho byl sám.  Jeíši, co se to s ním stalo?  Ztratil vìtšinu vlasù a kdybyste vidìli ty boule po stranách jeho krku...  A ten zápach...  Øekl jsem mu, e by mìl vyhledat Dr Wattse, ale odsekl, a se starám sám o sebe.  Tak fajn, la-di-dá.\n"
