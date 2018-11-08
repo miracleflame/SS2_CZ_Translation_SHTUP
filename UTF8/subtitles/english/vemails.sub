@@ -572,53 +572,53 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0810 {
-		{ time 1400 length 6200 text "The Many holds sway here... even I cannot maintain contact." }
-		{ time 8200 length 7500 text "You are on your own, human. Fail me not." }
+		{ time 1400 length 6200 text "Zde má vládu Mnoho...  Ani já nedokážu udržovat spojení." }
+		{ time 8200 length 7500 text "Jsi odkázán sám na sebe, člověče.  Nezklam mě." }
 	}
 }
 
 // Many taunts (used as vtriggers instead of emails)
 {
 	type "convo"
-	descr "The Many"
+	descr "Mnoho"
 	multisub em0801 {
-		{ time 2100 length 4100 text "We welcome you to our biomass." }
-		{ time 6200 length 4500 text "We invite you to spread yourself out on our walls." }
-		{ time 10900 length 5900 text "One of our many will be there to help you before long." }
+		{ time 2100 length 4100 text "Vítámé tě v naší biomase." }
+		{ time 6200 length 4500 text "Jsi pozván natáhnout se na našich stěnách." }
+		{ time 10900 length 5900 text "Jeden z našich mnohých ti zanedloho přijde pomoct." }
 	}
 	multisub em0802 {
-		{ time 1700 length 5000 text "The machine mother cannot help you inside the biomass." }
-		{ time 8100 length 6200 text "Her coldness is not welcome within the warmth of our flesh." }
+		{ time 1700 length 5000 text "Strojová matka ti nemůže pomoct uvnitř naší biomasy." }
+		{ time 8100 length 6200 text "Její chlad není vítán v teple nášho masa." }
 	}
 	multisub em0803 {
-		{ time 1300 length 4200 text "Perhaps we judged you too hastily." }
-		{ time 6000 length 3800 text "We feel there is room for us to coexist." }
-		{ time 10300 length 4300 text "After all, we are both children of the flesh." }
-		{ time 15800 length 4700 text "Why not join with us against the machine mother?" }
+		{ time 1300 length 4200 text "Možná jsme tě odsoudili příliš rychle." }
+		{ time 6000 length 3800 text "Cítíme, že existuje prostor pro naše spolunažívání." }
+		{ time 10300 length 4300 text "Přeci jenom jsme se rovnako zrodili v mase." }
+		{ time 15800 length 4700 text "Proč se do nás nepřidať v boji proti matce?" }
 	}
 	multisub em0804 {
-		{ time 2100 length 5600 text "You tear our very flesh with no thought of compassion." }
-		{ time 7800 length 8100 text "Do you think we will sit idly by while you corrupt the very womb of our existence?" }
+		{ time 2100 length 5600 text "Trháš naše vlastní maso bez pomyšlení na soucit." }
+		{ time 7800 length 8100 text "Myslíš si, že budeme nečinně přihlížet zatímco ty narušuješ samotné lůno naší existence?" }
 	}
 	multisub em0805 {
-		{ time 1900 length 8100 text "You were warned. Prepare to be cut down by the progeny of our joy." }
+		{ time 1900 length 8100 text "Byl jsi varován. Připrav se na své poražení potomstvím naší radosti." }
 	}
 	multisub em0806 {
-		{ time 1200 length 4900 text "Do you think you can defeat us with your wire and steel?" }
-		{ time 6200 length 8600 text "We offered you the ecstacy of our union, and you chose the vacuum of technology." }
+		{ time 1200 length 4900 text "Myslíš si, že nás můžeš porazit ocelí a drátama?" }
+		{ time 6200 length 8600 text "Nabídli jsme ti extazi naší jednoty a ty sis vybral vákum technologie." }
 	}
 	multisub em0808 {
-		{ time 1500 length 7400 text "Do you know what you have wrought? Our tragedy is written by your hand." }
+		{ time 1500 length 7400 text "Víš co jsi spáchal? Naše tragédie je napsána tvou rukou." }
 	}
 	multisub em0809 {
-		{ time 1200 length 3000 text "We die..." }
-		{ time 4300 length 9200 text "Beware the machine mother... she is a stranger to everything we cherish." }
+		{ time 1200 length 3000 text "Umíráme..." }
+		{ time 4300 length 9200 text "Měj se na pozoru před strojovou matkou... všechno čemu dáváme lásku, je jí cizí." }
 	}
 	multisub em0706 {
-		{ time 2500 length 8500 text "Your time is running out. This place is a womb, where we grow our future." }
-		{ time 11800 length 9400 text "Your weapons fail... your ammunition runs low... and you've yet to see our most beautiful creation." }
-		{ time 22200 length 6900 text "All you have is your hatred, and your... individuality." }
-		{ time 30100 length 5900 text "Now don't you wish you'd joined us? Would you then feel so alone?" }
+		{ time 2500 length 8500 text "Tvůj čas se krátí. Tohle místo je lůno, ve kterém pěstujeme naší budoucnost." }
+		{ time 11800 length 9400 text "Tvé zbraňe zlyhávají... tvá munice dochází... a ještě jsi neviděl naše nejkrásnější stvoření." }
+		{ time 22200 length 6900 text "Zbyla ti jenom tvá nenávist a tvá... individualita." }
+		{ time 30100 length 5900 text "Nepřál by sis teď být s náma spojen? Cítil by ses taky tak osaměle?" }
 	}
 }
 
