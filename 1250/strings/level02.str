@@ -129,168 +129,128 @@ LogText18:"Pro: Korenchkin, Anatoly
 Anatolyi, já opravdu vydrím hodnì ne pohár pøeteèe, ale co je moc to je moc - take to øeknu jednoduše a upøímnì.  Nemáme rádi jeden druhého.  Kadı z nás máme své vlastní dùvody k pøevzetí této mise, take vám dám malé varování.  Nenechám se obejít, nenechám se oklamat, nenechám se zmanipulovat a nenechám se koupit.  Jednejte se mnou na rovinu a své rafinované manipulace si schovejte pro pøíští schùzi Rady.  Fakt, e se mùj otec nechal zkorumpovat neznamená e se nechám i já.\n" 
 
 
-LogName21:"DELACROIX 04.4.2114\n
-re: Xerxes\n
-"
+LogName21:"DELACROIX 04.4.2114\nre: Xerxes\n"
 LogPortrait21:"Delacroix"
 LogIcon21:"EngIcon"
 LogText21:"Proè mì jen nikdo neposlouchá?  Bezpeènostní protokoly Xerxesova systému nestojí za nic.  Nìjakı idiot se minulou noc naboural do primárního dataloop a pøimìl Xerxese zpívat písnì Elvise Presleyho pøes tøi hodiny.  Nakonec jsem musela odpojit celı hlasovı subsystém.  Co by se mohlo stát, kdyby se do nìj dostal nìkdo se skuteènım plánem?\n"
 
 
-LogName22:"GRASSI 12.5.2114\n
-re: Zatracenı opice\n
-"
+LogName22:"GRASSI 12.5.2114\nre: Zatracenı opice\n"
 LogPortrait22:"Grassi"
 LogIcon22:"MedIcon"
 LogText22:"Koho skvìlı nápad to byl, pøinést na palubu 150 opic?  Prı v zájmu vìdy?  A co takhle zájem hygieny?  Dokáe si nìkdo pøedstavit, kolik sraèek dennì nadìlá 150 laboratorních opic?  Chudáci opice... nalodili je na palubu nejúasnìjší vıpravy v historii, aby je nakonec ve jménu pokroku rozkrájeli na malı kousky.\n"
 
 
-LogName6:"KORENCHKIN 14.6.2114\n
-re: První kontakt\n
-"
+LogName6:"KORENCHKIN 14.6.2114\nre: První kontakt\n"
 LogPortrait6:"Korench"
 LogIcon6:"ComIcon"
 LogText6:"Pro: Zhukov, Vladimír
 Zaznamenali jsme vysílání z povrchu Tau Ceti 5.  Vyjednával jsem s kapitánem Diegem z Rickenbackeru a po jistém...  nátlaku svolil k vısadku na planetu, coby spoleèné akci.  Pøedstav si, e by se tato historická mise stala ještì více historickou.  První kontakt!  A kdo by získal vıhradní práva pro všechna média, patenty a granty?  TriOptimum!  Miri, øíkám ti, e to bude stát za to.\n"
 
 
-LogName19:"SUAREZ 20.6.2114\n
-re: 100% muèení\n
-"
+LogName19:"SUAREZ 20.6.2114\nre: 100% muèení\n"
 LogPortrait19:"Suarez"
 LogIcon19:"RickIcon"
 LogText19:"Pro: Sidonsová, Rebeka
 Wow... ty jsi úasná, víš to?  Snail jsem se na tebe nemyslet.  Já pitomec.  Miluju tì Rebeko.  A u mám plán.  Pøesvìdèil jsem kapitána, aby mì pøeloil z Rickenbackera do spolupracujícího tímu na Von Braunovi.  Zanedlouho nás od sebe u nic nerozdìlí.\n"
 
 
-LogName1:"GRASSI 20.6.2114\n
-re: Samá práce, ádná zábava\n
-"
+LogName1:"GRASSI 20.6.2114\nre: Samá práce, ádná zábava\n"
 LogPortrait1:"Grassi"
 LogIcon1:"MedIcon"
 LogText1:"Okolo 04:30 mì zavolali, abych pomohl vyloit èluny co se vrátily z Tau Ceti 5.  Korenchkin u toho byl sám.  Jeíši, co se to s ním stalo?  Ztratil vìtšinu vlasù a kdybyste vidìli ty boule po stranách jeho krku...  A ten zápach...  Øekl jsem mu, e by mìl vyhledat Dr Wattse, ale odsekl, a se starám sám o sebe.  Tak fajn, la-di-dá.\n"
 
 
-LogName12:"POLITOVÁ 25.6.2114\n
-re: Zvláštní UI\n
-"
+LogName12:"POLITOVÁ 25.6.2114\nre: Zvláštní UI\n"
 LogPortrait12:"Polito"
 LogIcon12:"OpsIcon"
 LogText12:"Pro: Delacroix, Dr. Marie
 Marie... Je mi líto, e jsem nebyla k zastiení, ale pracovala jsem na tom artefaktu, kterı Bayliss pøivezl z Tau Ceti 5.  Udìlala jsem analızu 3. stupnì...  Myslím, e je to nìjakı druh Umìlé Inteligence.  Dokázala jsem z její pamìti vytáhnout zvukovı soubor...  Posouzení nechám na tobì, Marie...   Ale já myslím, e mluví anglicky...\n"
 
 
-LogName23:"GRASSI 26.¡6.2114\n
-re: Zvíøecí práva?\n
-"
+LogName23:"GRASSI 26.¡6.2114\nre: Zvíøecí práva?\n"
 LogPortrait23:"Grassi"
 LogIcon23:"MedIcon"
 LogText23:"Jakmile jsme dosáhli Tau Ceti 5, zaèaly se laboratorní opice chovat divnì.  Sestra Loesserová jednu vytáhla z klece, aby ji odnesla k vivisekci a ty ostatní, myslím tím celou skupinu, se postavily na zadní a zaèaly skuèet.  To nebyl jen nìjakı náhodnı úkaz, to byl protest.\n"
 
 
-LogName24:"WATTS 30.6.2114\n
-re: Nesmysl\n
-"
+LogName24:"WATTS 30.6.2114\nre: Nesmysl\n"
 LogPortrait24:"Watts"
 LogIcon24:"MedIcon"
 LogText24:"Pro: Loesserová, Angela
 Angelo, i kdy se vám mùe zdát, e laboratorní opice komunikují jedna s druhou, ruèím za to, e je to zhola nemoné.  Tvrdíte, e jedna z opic pøedala vstupní kód od komory s jídlem jiné opici, a ta ho pak pouila k otevøení.  Jak jistì víte, v literatuøe jsou tisíce studií inteligence primátu, ale nikde není zmínka ani vzdálenì podobná takto dùmyslnému chování.  Buïto jste vlastnoruènì pokoøila celé široké pole odborníkù na zvíøecí chování, nebo zoufale nutnì potøebujete dovolenou.\n"
 
 
-LogName9:"WATTS 01.6.2114\n
-re: Pacient Watson\n
-"
+LogName9:"WATTS 01.6.2114\nre: Pacient Watson\n"
 LogPortrait9:"Watts"
 LogIcon9:"MedIcon"
 LogText9:"Od té doby, co se vrátil z povrchu Tau Ceti 5, prochází pacient mnostvím neobvyklıch zmìn. Dokazují to zanícené vırùstky na uzlinách a pøítomnost velkého èervovitého parazita.  Dnes ráno tento parazit prorazil pacientovu hruï...  pøímo zevnitø...  a jedním svım koncem se pøichytil k pacientovu èelu.  Kdybych ho odstranil, mohl bych ho zabít.  Kdy ho ale nechám...  Koneèná diagnóza: Nemám tušení.  Rád bych to probral s Madorskym z CDC, ale ten je bohuel 67 triliónù mil odsud.\n"
 
 
-LogName15:"CURTIZ 02.7.2114\n
-re: Antiradiaèné séra\n
-"
+LogName15:"CURTIZ 02.7.2114\nre: Antiradiaèné séra\n"
 LogPortrait15:"Curtiz"
 LogIcon15:"EngIcon"
 LogText15:"Lékaøské oddìlení øíká, e replikovali celou kopu antiradiaèních sér.  Seberu je a rozdám technickému personálu døív, ne nìkoho napadne nìco jiného.  Watts mì také vybídl, abych zkontroloval replikátor v Kajutách posádky...  Prı e je to ráj hackerù.\n"
 
 
-LogName4:"CURTIZ 06.7.2114\n
-re: Únik chladiva\n
-"
+LogName4:"CURTIZ 06.7.2114\nre: Únik chladiva\n"
 LogPortrait4:"Curtiz"
 LogIcon4:"EngIcon"
 LogText4:"Pro: Delacroix, Dr. Marie
 Marie, musel jsem zakázat pøístup do Techniky, dokud nepøijdeme na to, co tam dole dìlat.  Je tam pøíliš horko.  Nevím, kam se podìly všechny ochranné obleky, take jediné, co tam mùu pøinést je náruè antiradiaèních sér.  Z tìch zatracenıch vìcí mì vdy rozbolí hlava.\n"
 
 
-LogName7:"GRASSI 07.7.2114\n
-re: Implantování\n
-"
+LogName7:"GRASSI 07.7.2114\nre: Implantování\n"
 LogPortrait7:"Grassi"
 LogIcon7:"MedIcon"
 LogText7:"Pro: Politová, Dr. Janice
 Hele doktorko, zjevil se tu bezpeènostní robot s vašim rozkazem umístit toho chlápka do Kryo-zotavení.  Nejsem ádnı kyberdoktor, ale poznám bezpapírovı kšeftík, kdy ho vidím.  Doufám, e víte, e po fiasku na stanici Citadela postavili všechna kybernetická vylepšení typu R mimo zákon...  ale já tady jenom pracuju, e jo?\n"
 
 
-LogName20:"AMANPOUR 07.7.2114\n
-re: Novı kód\n
-"
+LogName20:"AMANPOUR 07.7.2114\nre: Novı kód\n"
 LogPortrait20:"Amanpour"
 LogIcon20:"MedIcon"
 LogText20:"Skvìle.  Zase musím zmìnit vstupní kód do CRYO A !  Jako bych nemìl nic lepšího na práci.  Myslím e Grassiho baví jen tak mi pøidìlávat práci.  Novı kód nastavím na 45100.  To by se mohlo dobøe pamatovat.\n"
 
 
-LogName10:"WATTS 07.7.2114\n
-re: Pacient Watson 2\n
-"
+LogName10:"WATTS 07.7.2114\nre: Pacient Watson 2\n"
 LogPortrait10:"Watts"
 LogIcon10:"MedIcon"
 LogText10:"Pacient Watson zemøel z blíe neurèitelnıch pøíèin kolem 02:40.  Navzdory nulové dıchací a mozkové aktivitì, vykazuje tìlo, stejnì jako i parazit, setrvávající nezávislé pohybové funkce.  Kolem 08:47 pacient dokonce promluvil na jednu ze sester.  Pitva byla stanovena na 16:30.  Pak uvidíme, co toho Lazara drí v chodu...\n"
 
 
-LogName5:"CURTIZ 07.7.2114\n
-re: Další potíe\n
-"
+LogName5:"CURTIZ 07.7.2114\nre: Další potíe\n"
 LogPortrait5:"Curtiz"
 LogIcon5:"EngIcon"
 LogText5:"Nebyl jsem schopen kontaktovat Delacroix...  Tohle místo se rozpadává...  Èlenové mé skupiny mizejí...  Prosakování ve ventilaèních šachtách zkratovalo primární pøístupovı okruh...  Co znamená, e všichni pùjdem	 na záloní zdroje, dokud se nám ho nepodaøí zase nahodit.  Taky to znamená, e nefunguje ádnı vıtah...  Marie, kde k èertu vìzíš?\n"
 
 
-LogName8:"CURTIZ 07.7.2114\n
-re: Nefunkèní vıtahy\n
-"
+LogName8:"CURTIZ 07.7.2114\nre: Nefunkèní vıtahy\n"
 LogPortrait8:"Curtiz"
 LogIcon8:"EngIcon"
 LogText8:"Nedaøí se mi kontaktovat nikoho z Techniky.  Bez funkèních vıtahu se tam budu muset dostat nouzovım prùlezem ve vìdeckém køídle.  Myslím, e vstupní kód je ve Wattsove laboratoøi.\n"
 
 
-LogName14:"WATTS 07.7.2114\n
-re: Údrbáøsky prùlez\n
-"
+LogName14:"WATTS 07.7.2114\nre: Údrbáøsky prùlez\n"
 LogPortrait14:"Watts"
 LogIcon14:"MedIcon"
 LogText14:"Pro: Curtiz, Juan
 V poøádku, jen klid...  Vstupní kód do prùlezù je 12451.  V 16:30 dìlám pitvu, ale hned potom si zajdem na pivo do Rekreaèní paluby.  Dohoda?\n"
 
 
-LogName16:"TURNBULOVÁ 07.7.2114\n
-re: Procedúry\n
-"
+LogName16:"TURNBULOVÁ 07.7.2114\nre: Procedúry\n"
 LogPortrait16:"Turnbull"
 LogIcon16:"OpsIcon"
 LogText16:"Šéfka Bronsonová a její stupidní procedúry.  Zase zmìnila kód od pøíruèní zbrojnice v na palubì Medi/Vìda.  Ted abych se trmácela na palubu 4 a zjišovala novou kombinaci...  Nìkdo ji to raz vytmaví...\n"
 
 
-LogName11:"WATTS 07.7.2114\n
-re: Watsonova pitva\n
-"
+LogName11:"WATTS 07.7.2114\nre: Watsonova pitva\n"
 LogPortrait11:"Watts"
 LogIcon11:"MedIcon"
 LogText11:"Je 16:30.  Objekt pitvy: A. Watson.  Nyní uèiníme první øez v ob...  Pøidrte ho, sestro!  Sestro!  Drte ho!  Aaaaa!!!  Hej!  AAAAA!!!\n"
 
 
-LogName2:"DELACROIX 08.7.2114\n
-re: Nejsme pøipraveni\n
-"
+LogName2:"DELACROIX 08.7.2114\nre: Nejsme pøipraveni\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
 LogText2:"Pro: Korenchkin, Anatoly
