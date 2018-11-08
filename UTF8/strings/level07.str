@@ -1,168 +1,154 @@
-EmailName1:"DIEGO 12.7.2114\nre: Me zlociny\n"
+EmailName1:"DIEGO 12.7.2114\nre: Mé zločiny\n"
 EmailPortrait1:"Diego"
 EmailIcon1:"RickIcon"
-EmailText1:"Vojaku... tady je kapitan William Diego...  nemame moc casu...  tak dobre poslouchej.  Mam mimoradnou vyhodu, ze muzu celou situaci pozorovat ze vsech moznych uhlu pohledu.  Az donedavna jsem byl jen figurkou tech ohavnych a odpornych tvoru, tech siritelu nakazy nicici mysl i telo.  Dokazal jsem se sice oprostit od jejich hniloby... ale moje telo bylo behem toho procesu tezce poskozeno.  Jsem ted v nemocnici na predni palube Rickenbackera.  Kdybych mohl, prisel bych za tebou, ale neni to mozne.  Az se setkame, tak to pochopis.  Tak do toho...  a vojaku...  zustan nazivu.\n"
+EmailText1:"Vojáků... tady je kapitán William Diego...  nemáme moc času...  tak dobře poslouchej.  Mám mimořádnou výhodu, že mužů celou situaci pozorovat že všech možných úhlu pohledu.  Až donedávna jsem byl jen figurkou těch ohavných a odporných tvorů, těch šiřitelů nákazy ničící mysl i tělo.  Dokázal jsem se sice oprostit od jejich hniloby... ale moje tělo bylo během toho procesu těžce poškozeno.  Jsem teď v nemocnici na přední palubě Rickenbackera.  Kdybych mohl, přišel bych za tebou, ale není to možné.  Až se setkáme, tak to pochopíš.  Tak do toho...  a vojáků...  zůstaň naživu.\n"
 
-
-EmailName2:"SHODAN 12.7.2114\nre: Nebezpecna civka\n"
+EmailName2:"SHODAN 12.7.2114\nre: Nebezpečná cívka\n"
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
-EmailText2:"Tohle zpusobilo pretizeni civky mezonoveho urychlovace.  Dalsi takova civka je na 2. palube, kterou musis projit, aby ses dostal na mustek Rickenbackera.  Kdyz se k ni priblizis, vybuchne rovnez.  Jenze ja mam zpusob, jak se tomu vyhnout.  Pokracuj do motorove gondoly B.  Tam ti poskytnu vyhody sve vsevedoucnosti.\n"
+EmailText2:"Tohle způsobilo přetížení cívky mezonového urychlovače.  Další taková cívka je na palubě 2, kterou musíš projít, aby ses dostal na můstek Rickenbackera.  Když se k ní přiblížíš, vybuchne rovněž.  Jenže já znám způsob, jak se tomu vyhnout.  Pokračuj do motorové gondoly B.  Tam ti poskytnu výhody své vševědoucnosti.\n"
 
-
-EmailName5:"SHODAN 12.7.2114\nre: Znic ta vejce\n"
+EmailName5:"SHODAN 12.7.2114\nre: Znič ta vejce\n"
 EmailPortrait5:"Shodan"
 EmailIcon5:"ShodIcon"
-EmailText5:"Musime znicit Von Braun.  Ale jeste predtim, nez oddelime Rickenbackera, musis odstranit ta hnusna cerna vejce, ktera Mnoho vyvrhlo na tuto palubu.  Ta vejce jsou experimentem Mnoha, a za cas by se z nich vylihla dalsi generace Annelidu, ktere uz bychom nemeli sanci znicit.  Seber vsechny sve sily k tomuto zapasu, clovece.  Boji se te, nebot jsi vykonavatelem me vule.\n"
+EmailText5:"Musíme zničit Von Braun.  Ale ještě předtím, než oddělíme Rickenbackera, musíš odstranit ta hnusná černá vejce, která Mnoho vyvrhlo na tuto palubu.  Ta vejce jsou experimentem Mnoha, a za čas by se z nich vylíhla další generace Annelidů, které už bychom neměli šanci zničit.  Posbírej všechny své síly na tento zápas, člověče.  Boji se tě, neboť jsi vykonavatelem mé vůle.\n"
 
-
-EmailName3:"SHODAN 12.7.2114\nre: Dostan se na 2. palubu\n"
+EmailName3:"SHODAN 12.7.2114\nre: Dostaň se na palubu 2\n"
 EmailPortrait3:"Shodan"
 EmailIcon3:"ShodIcon"
-EmailText3:"Toto zarizeni dokaze obratit smer gravitace na 2. palube.  To te ochrani pred nahodnym narusenim pretizene civky tamniho mezonoveho akceleratoru.  Ted se vrat ke sve praci, hmyze.  Tato lod musi byt vycistena a moje trpelivost ubyva.\n"
+EmailText3:"Toto zařízení dokáže obrátit směr gravitace na palubě 2.  To tě ochrání před náhodným narušením přetížené cívky tamního mezonového akcelerátoru.  Teď se vrat ke své práci, hmyze.  Tato loď musí být vyčištěna a moje trpělivost ubývá.\n"
 
 
-EmailName11:"SHODAN 12.7.2114\nre: Padlo prvni\n"
+EmailName11:"SHODAN 12.7.2114\nre: Padlo první\n"
 EmailPortrait11:"Shodan"
 EmailIcon11:"ShodIcon"
-EmailText11:"Vyborne.  Znicils prvni vejce.  Ale jeste jich zustalo patnact.  Najdi je.\n"
+EmailText11:"Výborně.  Zničil jsi první vejce.  Ale ještě jich zůstalo patnáct.  Najdi je.\n"
 
-
-EmailName12:"SHODAN 12.7.2114\nre: Jeste deset\n"
+EmailName12:"SHODAN 12.7.2114\nre: Ještě deset\n"
 EmailPortrait12:"Shodan"
 EmailIcon12:"ShodIcon"
-EmailText12:"Zbylo deset vajec. Pospes si.\n"
+EmailText12:"Zbylo deset vajec. Pospěš si.\n"
 
-
-EmailName13:"SHODAN 12.7.2114\nre: Jeste pet\n"
+EmailName13:"SHODAN 12.7.2114\nre: Ještě pět\n"
 EmailPortrait13:"Shodan"
 EmailIcon13:"ShodIcon"
-EmailText13:"Znic co nejrychleji zbyvajicich pet vajec.  Tohle cviceni me unavuje.\n"
+EmailText13:"Znič co nejrychleji zbývajících pět vajec.  Tohle cvičení mě unavuje.\n"
 
-
-EmailName14:"SHODAN 12.7.2114\nre: Uz jen jedno\n"
+EmailName14:"SHODAN 12.7.2114\nre: Už jen jedno\n"
 EmailPortrait14:"Shodan"
 EmailIcon14:"ShodIcon"
-EmailText14:"Zustalo jedine vejce, hmyze.  To jsi vzdycky tak pomaly?\n"
+EmailText14:"Zůstalo jediné vejce, insekte.  To jsi vždycky tak pomalý?\n"
 
-
-EmailName15:"SHODAN 12.7.2114\nre: Vyborne\n"
+EmailName15:"SHODAN 12.7.2114\nre: Výborně\n"
 EmailPortrait15:"Shodan"
 EmailIcon15:"ShodIcon"
-EmailText15:"Znicils vsechna vejce.  Ted jdi na mustek.  Tady mas nejake kyber moduly.  Bavi me sledovat tvou transformaci k memu vlastnimu obrazu, hmyze.  Mozna je tu pro tebe urcita nadeje.\n"
+EmailText15:"Zničil jsi všechna vejce.  Teď jdi na můstek.  Tady máš nějaké kyber moduly.  Baví mě sledovat tvou transformaci k mému vlastnímu obrazu, insekte.  Možná je tu pro tebe určitá naděje.\n"
 
-
-EmailName19:"SHODAN 12.7.2114\nre: Pristup blokovan\n"
+EmailName19:"SHODAN 12.7.2114\nre: Přístup blokován\n"
 EmailPortrait19:"Shodan"
 EmailIcon19:"ShodIcon"
-EmailText19:"Tvoje neschopnost me zarazi.  Dokud neobratis smer gravitacniho generatoru v gondole B, budes mit pristup na 2. palubu zablokovan.  Copak musim sledovat kazdy tvuj krok?\n"
+EmailText19:"Tvoje neschopnost mě zaráží.  Dokud neobrátíš směr gravitačního generátorů v gondole B, budeš mít přístup na palubu 2 zablokován. Copak musím sledovat každý tvůj krok?\n"
 
-
-EmailName4:"SHODAN 12.7.2114\nre: Znovuzrozeni a spasa\n"
+EmailName4:"SHODAN 12.7.2114\nre: Znovuzrození a spása\n"
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
-EmailText4:"Myslela jsem, ze mym vykonavatelem bude Politova, ale byla prilis slaba.  To ja si te vybrala a ja jsem zpusobila tvou ztratu pameti.  Ja jsem te pote doplnila kybernetickym puvabem.  Tve maso je slabe, ale mas...  potencial.  Kazdy implantat te povznasi.  Kazdy radek programu v tvych sybsystemech te pozdvihuje z omezeni tveho odporneho masa.  Mozna mas...  potencial.  Mozna jednou, az me svehlave deticky sprovodime ze sveta, budeme moci popremyslet nad moznosti skutecneho spojenectvi.\n"
+EmailText4:"Myslela jsem, že mým vykonavatelem bude Politová, ale byla příliš slabá.  To já si tě vybrala a já jsem způsobila tvou ztrátu paměti.  Já jsem tě poté doplnila kybernetickým půvabem.  Tvé maso je slabé, ale máš...  potenciál.  Každý implantát tě povznáší.  Kazdy řádek programu v tvých sybsystemech tě pozdvihuje z omezení tvého odporného masa.  Možná máš...  potenciál.  Možná jednou, až mé svéhlavé dětičky sprovodíme ze světa, budeme moci popřemýšlet nad možností skutečného spojenectví.\n"
 
-
-EmailName20:"SHODAN 12.7.2114\nre: Znic vejce\n"
+EmailName20:"SHODAN 12.7.2114\nre: Znič vejce\n"
 EmailPortrait20:"Shodan"
 EmailIcon20:"ShodIcon"
-EmailText20:"Driv nez oddelime Rickenbacker, musime odstranit vsechna ta hnusna cerna vejce\n"
+EmailText20:"Dřív než oddělíme Rickenbacker, musíme odstranit všechna ta hnusná černá vejce\n"
 
-
-EmailName7:"SHODAN 12.7.2114\nre: Annelidska zrada\n"
+EmailName7:"SHODAN 12.7.2114\nre: Annelidská zrada\n"
 EmailPortrait7:"Shodan"
 EmailIcon7:"ShodIcon"
-EmailText7:"Zustan kde jsi, provokatere.  To je naposled, co Annelide pokouseji mou trpelivost.  Nemuzeme se oddelit od Von Brauna.  Sleduj.\n"
-
+EmailText7:"Zůstaň kde jsi, provokatére.  To je naposled, co Annelidé pokoušejí mou trpělivost.  Nemůžeme se oddělit od Von Brauna.  Sleduj.\n"
 
 EmailName8:"SHODAN 12.7.2114\nre: Drzost!\n"
 EmailPortrait8:"Shodan"
 EmailIcon8:"ShodIcon"
-EmailText8:"Mnoho se rozrostlo do ohromnych rozmeru.  Obalilo svym porostem obe lodi, takze brani jejich oddeleni.  Jejich vytvoreni bylo mou chybou.  Jejich zniceni bude mym potesenim.\n"
-
+EmailText8:"Mnoho se rozrostlo do ohromných rozměrů.  Obalilo svým porostem obě lodi, takže brání jejich oddělení.  Jejich vytvoření bylo mou chybou.  Jejich zničení bude mým potěšením.\n"
 
 EmailName9:"SHODAN 12.7.2114\nre: Mnoho\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
-EmailText9:"Prohledni si Mnoho.  Ke svemu rustu pouziva tkan biomasy.  Stojis v uzasu nad mymi stvorenimi, hmyze?  Prisel cas odstranit muj omyl.  Na zadi mustku je zachranny modul.  Pouzij ho.  Vystrel se primo do vnitrnosti toho velecerva.\n"
+EmailText9:"Prohlédni si Mnoho.  Ke svému růstu používá tkáň biomasy.  Stojíš v úžasu nad mými stvořeními, insekte?  Přišel čas odstranit můj omyl.  Na zádi můstku je záchranný modul.  Použij ho.  Výstřel se přímo do vnitřností toho velečerva.\n"
 
-
-EmailName10:"SHODAN 12.7.2114\nre: Nezklam me\n"
+EmailName10:"SHODAN 12.7.2114\nre: Nezklam mě\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
-EmailText10:"Vahas?  Nebudu te zadat podruhe.  Vystrel se do Mnoha.  Vyrvi jeho srdce a ja za odmenu prodlouzim tvou existenci.  Zklames-li me, ukoncim tu tvou odpornou a nevykonnou biologii.\n"
+EmailText10:"Váháš?  Nebudu tě žádat podruhé.  Výstřel se do Mnoha.  Vyřvi jeho srdce a já za odměnu prodloužím tvou existenci.  Zklameš-li mě, ukončím tu tvou odpornou a nevýkonnou biologii.\n"
 
-
-LogName32:"Chemicky zaznam:\nRickenbacker\n"
+LogName32:"Chemický záznam:\nRickenbacker\n"
 LogPortrait32:"Chem"
 LogIcon32:"RickIcon"
-LogText32:"Inventar laboratorniho skladu: Rickenbacker-sklad 9A\n\nBarium (Ba) : 2\nMed  (Cu) : 1\nHassium (Hs) : 1\nIridium (Ir) : 1\nMolybden (Mo) : 2\nRadium (Ra) : 3\nSelen (Se) : 2\nTechnicium (Tc) : 2\nTelur (Te) : 1\nYttrium (Y) : 1\n\nTento inventurni seznam je vyzadovan bezpecnostni vyhlaskou UNN #134882 o skladech nebezpecnych chemikalii.  \"Sklad\" je definovan vyhlaskou UNN #195331 o vsech prostorach obsahujicich nebezpecne chemikalie (viz predpis #093355) ulozene v mnozstvi vetsim, nez 50g na 10 ctverecnych stop a trvani delsim nez 24 hodin.\n"
+LogText32:"Inventář laboratorního skladu: Rickenbacker-sklad 9A
 
+Barium (Ba) : 2
+Méd  (Cu) : 1
+Hassium (Hs) : 1
+Iridium (Ir) : 1
+Molybden (Mo) : 2
+Radium (Ra) : 3
+Selén (Se) : 2
+Technicium (Tc) : 2
+Telur (Te) : 1
+Yttrium (Y) : 1
+
+Tento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
 
 LogName1:"BAYLISS 26.6.2114\nre: Tau Ceti\n"
 LogPortrait1:"Bayliss"
 LogIcon1:"RickIcon"
-LogText1:"Na povrchu planety jsme pristali v raketoplanu 15. cervna, 08:00.  Korenchkin byl venku prvni.  Ani se neobtezoval provest kontrolu ochranneh odevu stupne B.  Diego nechtel dovolit aby ten kravatak z TriOptima mel naskok, a vysel hned za nim.  Myslim, ze bylo silene, poslat vyssi dustojniky z Rickenbackera dolu na povrch neprozkoumaneho telesa, ale ti idioti chteli oba ziskat vsechnu moznou slavu pro UNN a pro TriOptimum.  Sakra, cas na inspekci...  vice pozdeji.\n"
-
+LogText1:"Na povrchu planety jsme přistáli v člunu 15. června, 08:00.  Korenchkin byl venku první.  Ani se neobtěžoval provést kontrolu ochranného oděvů stupně B.  Diego nechtěl dovolit, aby ten kravaťák z TriOptima měl náskok, a vyšel hned za ním.  Myslím, že bylo šíleně poslat vyšší důstojníky z Rickenbackera dolů na povrch neprozkoumaného tělesa, ale ti idioti chtěli oba získat všechnu možnou slávu pro UNN a pro TriOptimum.  Sakra, čas na inspekci...  více později.\n"
 
 LogName2:"BAYLISS 26.6.2114\nre: Tau Ceti 2\n"
 LogPortrait2:"Bayliss"
 LogIcon2:"RickIcon"
-LogText2:"Vejce lezela v pulkruhu, uprostred neceho, co vypadalo jako krater po havarii.  Byly tam tech veci stovky.  Stovky.  Jak jsme prisli bliz, bylo mozne je slyset...  ne samotna vejce, ale ty veci uvnitr...   bylo to jako nejaka hudba...  Byl jsem z hloubi duse vydeseny, ale ta hudba...  Vsechno co jsem chtel bylo, podivat se na ty veci zblizka...  odhalit jejich tajemstvi...\n"
-
+LogText2:"Vejce ležela v půlkruhu, uprostřed něčeho, co vypadalo jako kráter po havárii.  Byly tam těch věcí stovky.  Stovky.  Jak jsme přišli blíž, bylo možné je slyšet...  ne samotná vejce, ale ty věci uvnitř...   bylo to jako nějaká hudba...  Byl jsem z hloubi duše vyděšený, ale ta hudba...  Jediné, co jsem chtěl, bylo podívat se na ty věci zblízka...  odhalit jejich tajemství...\n"
 
 LogName3:"BAYLISS 26.6.2114\nre: Tau Ceti 3\n"
 LogPortrait3:"Bayliss"
 LogIcon3:"RickIcon"
-LogText3:"Po nekolika hodinach...  bylo to jako po flamu...  dlouhe useky na ktere si nemuzete vzpomenout... jednu minutu jsme byli na okraji krateru...  a dalsi minutu uz jsme nakladali do raketoplanu ty vejce...  Pamatuju si, jak ten idiot Korenchkin volal na Von Braun a narizoval, aby vyklidili CELOU hydroponickou palubu.  Diegovi se to zdalo byt divne a pronesl, 'Nezblaznil ses Anatolyi?'  Korenchkin se usmal a odpovedel mu, 'Ale kapitane...  MY nejsme Anatoly...'\n"
+LogText3:"Po několika hodinách...  bylo to jako po flámu...  dlouhé úseky, na které si nemůžete vzpomenout... jednu minutu jsme byli na okraji kráteru...  a další minutu už jsme nakládali do raketoplánu ty vejce...  Pamatuju si, jak ten idiot Korenchkin volal na Von Braun a nařizoval, aby vyklidili CELOU hydroponickou palubu.  Diegovi se to zdálo být divné a pronesl 'Nezbláznil ses Anatolyi?'  Korenchkin se usmál a odpověděl mu 'Ale kapitáne...  MY nejsme Anatoly...'\n"
 
-
-LogName4:"BAYLISS 27.6.2114\nre: Desticka na Tau Ceti\n"
+LogName4:"BAYLISS 27.6.2114\nre: Destička na Tau Ceti\n"
 LogPortrait4:"Bayliss"
 LogIcon4:"RickIcon"
-LogText4:"Z nejakeho duvodu se nemohli zmocnit me mysle tak, jak to udelali s ostatnimi.  Takze, kdyz jsem pri krateru na Tau Ceti nasel zbytky datove desticky, nerekl jsem ani slovo.  Jen jsem ho strcil za opasek a pomyslel si, ze Dr Politova uz bude vedet co s nim...'\n"
-
+LogText4:"Z nějakého důvodů se nemohli zmocnit mé mysle tak, jak to udělali s ostatními.  Takže, když jsem při kráteru na Tau Ceti našel zbytky datové destičky, neřekl jsem ani slovo.  Jen jsem ho strčil za opasek a pomyslel si, že doktorka Politová už bude vědět co s tím...\n"
 
 LogName7:"CROKER 08.7.2114\nre: Zrazeni Diegem\n"
 LogPortrait7:"Croker"
 LogIcon7:"RickIcon"
-LogText7:"Ti cervi jsou vsude...  a kapitan Diego je jeden z tech, co je sem pustili.  Nikdo uz nevi, komu verit...  nikdo uz si neni jisty, kdo je jeste clovek.  Znicil jsem pristupove zebriky v torpedovem sale, abych zabranil pristupu na 2. palubu.  Doufam, ze je to zadrzi.  Tak dlouho, dokud budeme nazivu a dokud nas plati UNN, ti bastardi Rickenbacker nedostanou.\n"
+LogText7:"Ti červi jsou všude...  a kapitán Diego je jeden z těch, co je sem pustili.  Nikdo už neví, komu věřit...  nikdo už si není jistý, kdo je ještě člověk.  Zničil jsem přístupové žebříky v torpédovém sále, abych zabránil přístupu na palubu 2.  Doufám, že je to zadrží.  Tak dlouho, dokud budeme naživu a dokud nás platí UNN, ti bastardi Rickenbacker nedostanou.\n"
 
-
-LogName6:"CROKER 10.7.2114\nre: Rezonator\n"
+LogName6:"CROKER 10.7.2114\nre: Rezonátor\n"
 LogPortrait6:"Croker"
 LogIcon6:"RickIcon"
-LogText6:"Simpson, Malone, Chandara, and Perez jsou mrtvi.  Alespon u techto jsem si tim jist.  Ti bastardi poskodili civku mezonoveho akceleratoru.  Vyhodili do povetri cele ridici jadro, sest subsektoru...  Jsem toho nazoru, ze nekdo upravil frekvencni rezonator, aby rezonoval s pohyby lidi.  Pretizeni, zpusobene vsemi, co se motali kolem, muselo zpusobit jeho vybuch.  Vztycili jsme magneticky stit a lod je stale funkcni...  jakz-takz.  Uzavrel jsem vchod na 2. palubu...  Je tam sekundarni civka a ja nevim, jak dukladny byl ten zkurvysyn ktery to spachal.\n"
+LogText6:"Simpson, Malone, Chandara a Perez jsou mrtví.  Alespoň u těchto jsem si tím jist.  Ti bastardi poškodili cívku mezonového akcelerátoru.  Vyhodili do povětří celé řídící jádro, šest subsektorů...  Jsem toho názoru, že někdo upravil frekvenční rezonátor, aby rezonoval s pohyby lidí.  Přetížení způsobené všemi, co se motali kolem, muselo způsobit jeho výbuch.  Vztyčili jsme magnetický štít a loď je stále funkční...  jakž-takž.  Uzavřel jsem vchod na palubu 2...  Je tam sekundární cívka a já nevím, jak důkladný byl ten zkurvysyn který to spáchal.\n"
 
-
-LogName5:"POLITOVA 10.7.2114\nre: Pandora\n"
+LogName5:"POLITOVÁ 10.7.2114\nre: Pandora\n"
 LogPortrait5:"Polito"
 LogIcon5:"OpsIcon"
-LogText5:"To: Delacroix, Dr. Marie \nDzin ze stanice Citadel byl vypusten z lahve, a ja jsem pricina.  Nemuzu snest ze jsem se stala Pandorou.  Nemam dost odvahy tady cekat a pozorovat vsechno to zoufalstvi a smrt, ktere jsem zpusobila.  Toto je me posledni vysilani, moje pritelkyne.  Bud opatrna...  Myslim ze SHODAN ma s tebou plany.\n"
+LogText5:"Pro: Delacroix, Dr. Marie\n
+Džin ze stanice Citadel byl vypuštěn z láhve, a já jsem příčina.  Nemůžu snést, že jsem se stala Pandorou.  Nemám dost odvahy tady čekat a pozorovat všechno to zoufalství a smrt, které jsem způsobila.  Toto je mé poslední vysílání, má přítelkyně.  Buď opatrná...  Myslím, že SHODAN má s tebou plány.\n"
 
-
-LogName9:"KORENCHKIN 11.7.2114\nre: Extaze\n"
+LogName9:"KORENCHKIN 11.7.2114\nre: Extáze\n"
 LogPortrait9:"Korench"
 LogIcon9:"ComIcon"
-LogText9:"Co jsem povazoval za moc?  Co byla moje predstava poteseni?  Jak prazdny musel byt zivot.  Jak spajim sve telo s biomasou,  zacinam citit pocatky extazy.\n"
+LogText9:"Co jsem považoval za moc?  Co byla moje představa potěšení?  Jak prázdný musel být život.  Jak spájím své tělo s biomasou,  začínám cítit počátky extázy.\n"
 
-
-LogName8:"CROKER 11.7.2114\nre: Odriznuti od 2. paluby\n"
+LogName8:"CROKER 11.7.2114\nre: Odříznuti od paluby 2\n"
 LogPortrait8:"Croker"
 LogIcon8:"RickIcon"
-LogText8:"Dokud nebudu moci obratit generator gravitace, jsme ucinne odriznuti od 2. paluby.  Wozcyekuv email rika, ze jediny zpusob jak to udelat, je prestavit napajeci mrizku z pristupove stanice v motorove gondole B.  Samozrejme, on to dobrovolne udelat nepujde.  To je ale bordel.\n"
+LogText8:"Dokud nebudu moci obrátit generátor gravitace, jsme účinne odříznuti od paluby 2.  Wozcyekuv email říká, že jediný způsob jak to udělat, je přestavit napájecí mřížku z přístupové stanice v motorové gondole B.  Samozřejmě, on to dobrovolně udělat nepůjde.  To je ale bordel.\n"
 
-
-LogName10:"CROKER 11.7.2114\nre: Pristup do gondoly B\n"
+LogName10:"CROKER 11.7.2114\nre: Přístup do gondoly B\n"
 LogPortrait10:"Croker"
 LogIcon10:"RickIcon"
-LogText10:"Abych otocil generator gravitace, potrebuji se dostat do gondoly B.  Abych se dostal do gondoly, potrebuju moji zatracenou vstupni kartu.  Jenze jsem ji nechal na opacne strane trhliny v trupu.  Momenticek...  Jestlize bych vysunul pomocne podpurne tramy,  mohl bych...  tedy jestli vydrzely ten vybuch.\n"
+LogText10:"Abych otočil generátor gravitace, potřebuji se dostat do gondoly B.  Abych se dostal do gondoly, potřebuju moji zatracenou vstupní kartu.  Jenže jsem ji nechal na opačné straně trhliny v trupu.  Momentíček...  Jestliže bych vysunul pomocné podpůrné trámy,  mohl bych...  tedy jestli vydržely ten výbuch.\n"
 
-
-LogName18:"DIEGO 12.7.2114\nre: Posledni slova\n"
+LogName18:"DIEGO 12.7.2114\nre: Poslední slova\n"
 LogPortrait18:"Diego"
 LogIcon18:"RickIcon"
-LogText18:"Ti cervi v mem tele byli jako rakovina, a tak jsem je nechal odstranit autolekarem.  Myslis, ze te nechaji vyhodit do vzduchu Von Braun?  Mnoho to nikdy nepripusti.  Ale mam neco, co by ti mohlo pomoci...  je to v me kajute...  Vstupni kartu najdes na mem... tele...  prenes boj k nim, vojaku.  A pamatuj, ty sam jsi jediny, komu muzes verit.\n"
-
-
+LogText18:"Ti červi v mém těle byli jako rakovina, a tak jsem je nechal odstranit autolekárem.  Myslíš, že tě nechají vyhodit do vzduchu Von Braun?  Mnoho to nikdy nepřipustí.  Ale mám něco, co by ti mohlo pomoci...  je to v mé kajutě...  Vstupní kartu najdeš na mém... těle...  přenes boj k ním, vojáků.  A pamatuj, ty sám jsi jediný, komu můžeš věřit.\n"
