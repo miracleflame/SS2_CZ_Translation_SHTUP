@@ -27,7 +27,7 @@ SUB1
 	sub og1at2_3 { text "Slyšíme... maso." }
 	sub og1at2_4 { text "Jeden nemùže utéct Mnohému." }
 	sub og1at2_5 { text "Kde je... nesouzvuk?" }
-	sub og1at3_1 { text "Navždy se neschováš''}
+	sub og1at3_1 { text "Navždy se neschováš"}
 	sub og1at3_2 { text "Hledáme. Hledáme." }
 	sub og1at3_3 { text "Tvé maso... tì zrazuje." }
 	sub og1at3_4 { text "Honem, bìž!" }
