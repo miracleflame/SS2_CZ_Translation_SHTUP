@@ -479,13 +479,13 @@ SUB1
 	type "convo"
 	descr "Diego"
 	multisub em0701 {
-		{ time 800 length 5200 text "Soldier... this is Captain William Diego. There isn't much time, so you must listen." }
-		{ time 6600 length 5300 text "I have the unique advantage of seeing this whole situation from every imaginable perspective." }
-		{ time 12400 length 6900 text "Until recently, I was a pawn of those vile and disgusting creatures, those corrupters of mind and body." }
-		{ time 20100 length 5200 text "I've managed to cleanse myself of their putrescence... but I've been severely compromised in the process." }
-		{ time 26100 length 2500 text "I'm in the sick bay on the foredeck of the Rickenbacker." }
-		{ time 29100 length 4400 text "I would come to you if I could, but that's an impossibility. You'll understand when we meet." }
-		{ time 33700 length 3900 text "Now get to it... and soldier... stay alive." }
+		{ time 800 length 5200 text "Vojáků... tady je kapitán William Diego...  nemáme moc času...  tak dobře poslouchej." }
+		{ time 6600 length 5300 text "Mám mimořádnou výhodu, že mužů celou situaci pozorovat že všech možných úhlu pohledu." }
+		{ time 12400 length 6900 text "Až donedávna jsem byl jen figurkou těch ohavných a odporných tvorů, těch šiřitelů nákazy ničící mysl i tělo." }
+		{ time 20100 length 5200 text "Dokázal jsem se sice oprostit od jejich hniloby... ale moje tělo bylo během toho procesu těžce poškozeno." }
+		{ time 26100 length 2500 text "Jsem teď v nemocnici na přední palubě Rickenbackera." }
+		{ time 29100 length 4400 text "Kdybych mohl, přišel bych za tebou, ale není to možné.  Až se setkáme, tak to pochopíš." }
+		{ time 33700 length 3900 text "Tak do toho...  a vojáků...  zůstaň naživu." }
 	}
 }
 
@@ -493,77 +493,77 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0702 {
-		{ time 1800 length 6100 text "This was caused by an overload in the meson acceleration coil." }
-		{ time 8400 length 7100 text "There is another coil in pod 2, which you must pass to get to the bridge of the Rickenbacker." }
-		{ time 15900 length 7900 text "If you approach it, the same will happen there. But I have conceived a way to avoid this." }
-		{ time 24200 length 8100 text "Proceed to engine nacelle B. There I will provide you the benefits of my omniscience." }
+		{ time 1800 length 6100 text "Tohle způsobilo přetížení cívky mezonového urychlovače." }
+		{ time 8400 length 7100 text "Další taková cívka je na palubě 2, kterou musíš projít, aby ses dostal na můstek Rickenbackera." }
+		{ time 15900 length 7900 text "Když se k ní přiblížíš, vybuchne rovněž.  Jenže já znám způsob, jak se tomu vyhnout." }
+		{ time 24200 length 8100 text "Pokračuj do motorové gondoly B.  Tam ti poskytnu výhody své vševědoucnosti." }
 	}
 	multisub em0703 {
-		{ time 2400 length 5000 text "This device will reverse the gravitronic generators in pod 2." }
-		{ time 7500 length 8300 text "This will prevent you from clumsily disturbing the overloaded meson acceleration coil there." }
-		{ time 16700 length 7600 text "Now get back to your task, insect. This ship must be cleared, and my patience is dwindling." }
+		{ time 2400 length 5000 text "Toto zařízení dokáže obrátit směr gravitace na palubě 2." }
+		{ time 7500 length 8300 text "To tě ochrání před náhodným narušením přetížené cívky tamního mezonového akcelerátoru." }
+		{ time 16700 length 7600 text "Teď se vrat ke své práci, insekte.  Tato loď musí být vyčištěna a moje trpělivost ubývá." }
 	}
 	multisub em0704 {
-		{ time 2000 length 6600 text "I thought Polito would be my avatar, but Polito was weak." }
-		{ time 9600 length 8300 text "It was I who chose you, and I who had a robotic servant render your form unconscious." }
-		{ time 18500 length 9000 text "I then completed you with cybernetic grace. Your flesh, too, is weak, but you have... potential." }
-		{ time 28000 length 10300 text "Every implant exalts you. Every line of code in your subsystems elevates you from your disgusting flesh." }
-		{ time 38300 length 2600 text "Perhaps you have... potential." }
-		{ time 40800 length 18000 text "Perhaps once we have erased my wayward children from existence, we can examine the possibilities of a real alliance." }
+		{ time 2000 length 6600 text "Myslela jsem, že mým vykonavatelem bude Politová, ale byla příliš slabá." }
+		{ time 9600 length 8300 text "To já si tě vybrala a nařídila robotovi, aby tě uvedl do bezvědomí." }
+		{ time 18500 length 9000 text "Já jsem tě poté doplnila kybernetickým půvabem.  Tvé maso je slabé, ale máš...  potenciál." }
+		{ time 28000 length 10300 text "Každý implantát tě povznáší.  Kazdy řádek programu v tvých sybsystemech tě pozdvihuje z omezení tvého odporného masa." }
+		{ time 38300 length 2600 text "Možná máš...  potenciál." }
+		{ time 40800 length 18000 text "Možná jednou, až mé svéhlavé dětičky sprovodíme ze světa, budeme moci popřemýšlet nad možností skutečného spojenectví." }
 	}
 	multisub em0705 {
-		{ time 2100 length 2900 text "We must destroy the Von Braun." }
-		{ time 5500 length 11500 text "But before we can separate the Rickenbacker, we must remove the foul black eggs the Many has vomited on this deck." }
-		{ time 17900 length 12700 text "These eggs are an experiment of the Many, and will in time spawn the next generation of Annelid, which you will have no hope of destroying." }
-		{ time 31700 length 9500 text "Steel yourself for a struggle, human. They fear you, for you are my avatar." }
+		{ time 2100 length 2900 text "Musíme zničit Von Braun." }
+		{ time 5500 length 11500 text "Ale ještě předtím, než oddělíme Rickenbackera, musíš odstranit ta hnusná černá vejce, která Mnoho vyvrhlo na tuto palubu." }
+		{ time 17900 length 12700 text "Ta vejce jsou experimentem Mnoha, a za čas by se z nich vylíhla další generace Annelidů, které už bychom neměli šanci zničit." }
+		{ time 31700 length 9500 text "Posbírej všechny své síly na tento zápas, člověče.  Boji se tě, neboť jsi vykonavatelem mé vůle." }
 	}
 	multisub em0707 {
-		{ time 2500 length 7900 text "Hold where you are, irritant. The Annelids have tried my patience for the final time." }
-		{ time 11300 length 6700 text "We cannot separate from the Von Braun. Observe." }
+		{ time 2500 length 7900 text "Zůstaň kde jsi, provokatére.  To je naposled, co Annelidé pokoušejí mou trpělivost." }
+		{ time 11300 length 6700 text "Nemůžeme se oddělit od Von Brauna.  Sleduj." }
 	}
 	multisub em0708 {
-		{ time 5500 length 10700 text "The Many has grown to a massive size. It has wrapped itself around these two ships, preventing their separation." }
-		{ time 16200 length 10800 text "Their creation was my error. Their destruction shall be my delight." }
+		{ time 5500 length 10700 text "Mnoho se rozrostlo do ohromných rozměrů.  Obalilo svým porostem obě lodi, takže brání jejich oddělení." }
+		{ time 16200 length 10800 text "Jejich vytvoření bylo mou chybou.  Jejich zničení bude mým potěšením." }
 	}
 	multisub em0709 {
-		{ time 2600 length 6700 text "Observe the Many. It has used the flesh of the biomass to grow." }
-		{ time 10300 length 5500 text "Do you stand in awe of my creations, insect?" }
-		{ time 15800 length 5500 text "The time has come to eradicate my error." }
-		{ time 21500 length 6100 text "There is an escape pod in the rear of the bridge." }
-		{ time 27900 length 8500 text "Use it to launch yourself into the guts of the worm." }
+		{ time 2600 length 6700 text "Prohlédni si Mnoho.  Ke svému růstu používá tkáň biomasy." }
+		{ time 10300 length 5500 text "Stojíš v úžasu nad mými stvořeními, insekte?" }
+		{ time 15800 length 5500 text "Přišel čas odstranit můj omyl." }
+		{ time 21500 length 6100 text "Na zádi můstku je záchranný modul." }
+		{ time 27900 length 8500 text "Použij ho.  Výstřel se přímo do vnitřností toho velečerva." }
 	}
 	multisub em0710 {
-		{ time 2000 length 6600 text "You hesitate? I will not ask a second time." }
-		{ time 9500 length 8800 text "Launch into the Many. Cut out its heart and I will reward you with continued existence." }
-		{ time 18900 length 7300 text "Fail me and I will put an end to your disgusting, inefficient biology." }
+		{ time 2000 length 6600 text "Váháš?  Nebudu tě žádat podruhé." }
+		{ time 9500 length 8800 text "Výstřel se do Mnoha.  Vyřvi jeho srdce a já za odměnu prodloužím tvou existenci." }
+		{ time 18900 length 7300 text "Zklameš-li mě, ukončím tu tvou odpornou a nevýkonnou biologii." }
 	}
 	multisub em0711 {
-		{ time 1300 length 4900 text "Good, you have destroyed the first of the eggs." }
-		{ time 6600 length 4200 text "But there are fifteen left. Find them." }
+		{ time 1300 length 4900 text "Výborně.  Zničil jsi první vejce." }
+		{ time 6600 length 4200 text "Ale ještě jich zůstalo patnáct.  Najdi je." }
 	}
 	multisub em0712 {
-		{ time 1300 length 6200 text "Ten eggs remain. Move quickly." }
+		{ time 1300 length 6200 text "Zbylo deset vajec. Pospěš si." }
 	}
 	multisub em0713 {
-		{ time 1700 length 7000 text "Destroy the last five of their eggs quickly. I tire of this exercise." }
+		{ time 1700 length 7000 text "Znič co nejrychleji zbývajících pět vajec.  Tohle cvičení mě unavuje." }
 	}
 	multisub em0714 {
-		{ time 1200 length 4400 text "Only one egg remains, insect." }
-		{ time 5800 length 3500 text "Are you always this slow?" }
+		{ time 1200 length 4400 text "Zůstalo jediné vejce, insekte." }
+		{ time 5800 length 3500 text "To jsi vždycky tak pomalý?" }
 	}
 	multisub em0715 {
-		{ time 800 length 6600 text "You've destroyed all the eggs. Now get to the bridge." }
-		{ time 7700 length 3400 text "Here are some more upgrade modules." }
-		{ time 11400 length 9200 text "I enjoy watching your transformation into my own image, insect." }
-		{ time 20700 length 6500 text "Perhaps there is hope for you yet." }
+		{ time 800 length 6600 text "Zničil jsi všechna vejce.  Teď jdi na můstek." }
+		{ time 7700 length 3400 text "Tady máš nějaké kyber moduly." }
+		{ time 11400 length 9200 text "Baví mě sledovat tvou transformaci k mému vlastnímu obrazu, insekte." }
+		{ time 20700 length 6500 text "Možná je tu pro tebe určitá naděje." }
 	}
 	multisub em0719 {
-		{ time 2900 length 5300 text "Your incompetence continues to astound me." }
-		{ time 8300 length 11900 text "I've blocked off access to pod 2 until you've reversed the gravitronic generators in nacelle B." }
-		{ time 20300 length 9200 text "Must I watch you every step of the way?" }
+		{ time 2900 length 5300 text "Tvoje nekompetentnost mě zaráží." }
+		{ time 8300 length 11900 text "Dokud neobrátíš směr gravitačního generátorů v gondole B, budeš mít přístup na palubu 2 zablokován." }
+		{ time 20300 length 9200 text "Copak musím sledovat každý tvůj krok?" }
 	}
 	multisub em0720 {
-		{ time 1000 length 8000 text "Before we can separate the Rickenbacker, we must remove the foul black eggs." }
+		{ time 1000 length 8000 text "Dřív než oddělíme Rickenbacker, musíme odstranit všechna ta hnusná černá vejce." }
 	}
 }
 
