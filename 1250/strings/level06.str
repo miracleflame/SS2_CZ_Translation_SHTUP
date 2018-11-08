@@ -8,11 +8,11 @@ EmailText1:"Má stvoøení pøešla do útoku.  Chci jejich úplnì vyhlazení. Nemám jin
 
 
 EmailName4:"SHODAN 12.7.2114\n
-re: Raketoplány\n
+re: Èluny\n
 "
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
-EmailText4:"Dávej pozor insekte, situace se zmìnila.  Oni vycítili naše zámìry a nyní nakládají své potomstvo do raketoplánu.  Nesmìjí utéci mému hnìvu.  Musíš jít do Doku Raketoplánu na této palubì, a znièit všechny raketoplány.  Ted už žízní po tvé krvi.\n
+EmailText4:"Dávej pozor insekte, situace se zmìnila.  Oni vycítili naše zámìry a nyní nakládají své potomstvo do èlunù.  Nesmìjí utéci mému hnìvu.  Musíš jít do Doku Èlunù na této palubì, a znièit všechny èluny.  Ted už žízní po tvé krvi.\n
 "
 
 
@@ -21,7 +21,7 @@ re: Øešení\n
 "
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
-EmailText2:"Má stvoøení jsou zase o krok pøed tebou.  Podaøilo se jim znièit poèítaè ovládající štít kolem raketoplánu.  Ale jejich duchaplnost je jenom závistlivým stínem v porovnání s tou mou.  V prostorech Øízení Raketoplánu najdeš replikátor.  Nahrála jsem do nìj molekulární matrici harmonického rezonátoru.  Aby ti to zaøízení vygeneroval, musíš replikátor hacknout.  Až získáš rezonátor, pøípoj ho ke generátoru štítù.  Je v doku, poblíž samotného raketoplánu.  Zaøízení generuje rezonanèní vlny, které velice rychle naruší strukturu palivových nádrží raketoplánu a znièí ho.  Snaž se být co nejdál, až se to stane.  Ještì stále tì potøebuju.\n
+EmailText2:"Má stvoøení jsou zase o krok pøed tebou.  Podaøilo se jim znièit poèítaè ovládající štít kolem èlunu.  Ale jejich duchaplnost je jenom závistlivým stínem v porovnání s tou mou.  V prostorech Øízení Èlunù najdeš replikátor.  Nahrála jsem do nìj molekulární matrici harmonického rezonátoru.  Aby ti to zaøízení vygeneroval, musíš replikátor hacknout.  Až získáš rezonátor, pøípoj ho ke generátoru štítù.  Je v doku, poblíž samotného èlunu.  Zaøízení generuje rezonanèní vlny, které velice rychle naruší strukturu palivových nádrží èlunu a znièí ho.  Snaž se být co nejdál, až se to stane.  Ještì stále tì potøebuju.\n
 "
 
 
@@ -91,11 +91,11 @@ Tento inventurní seznam je vyžadován bezpeènostní vyhláškou UNN #134882 o sklade
 
 
 LogName11:"NORRIS 6.7.2114\n
-re: Øízení Raketoplánu\n
+re: Øízení Èlunù\n
 "
 LogPortrait11:"Norris"
 LogIcon11:"ComIcon"
-LogText11:"Paranoia plnì udeøila.  Kdosi zmìnil vstupní kód do mistosti Ostrahy v dùstojnickém oddìlení.  Teï se nemùžeme dostat ke vstupní kartì k ovládání raketoplánu.  Myslím, že nejvíc podezøelý je Myers.  Chlapi jako on dokážou pøemýšlet akorát o konspiraèních teoriích a nahých ženských.\n
+LogText11:"Paranoia plnì udeøila.  Kdosi zmìnil vstupní kód do mistosti Ostrahy v dùstojnickém oddìlení.  Teï se nemùžeme dostat ke vstupní kartì k ovládání èlunù.  Myslím, že nejvíc podezøelý je Myers.  Chlapi jako on dokážou pøemýšlet akorát o konspiraèních teoriích a nahých ženských.\n
 "
 
 
@@ -203,7 +203,7 @@ re: Oni utíkají!\n
 LogPortrait8:"McKay"
 LogIcon8:"ComIcon"
 LogText8:"Pro: Delacroix, Dr. Marie\n
-Doufám, že jste stále ještì naživu, doktorko Delacroix.  Opravdu by se nám tu hodila nìjaká rada.  Mají tu ty ženské kyborgy a nakládají do raketoplánu ty vejce...  Nevím, co mají za lubem...  ale vypadá to, jako by mìli strach...  Slyšel jsem zvìst o nìkom dalším, kromì vás, kdo tu bojuje...  Že bych mìl pøece nadìji se odsud dostat... ? Zatím se budu držet zpátky...  dokud nezjistím co mám do pekla dìlat...\n"
+Doufám, že jste stále ještì naživu, doktorko Delacroix.  Opravdu by se nám tu hodila nìjaká rada.  Mají tu ty ženské kyborgy a nakládají do èlunù ty vejce...  Nevím, co mají za lubem...  ale vypadá to, jako by mìli strach...  Slyšel jsem zvìst o nìkom dalším, kromì vás, kdo tu bojuje...  Že bych mìl pøece nadìji se odsud dostat... ? Zatím se budu držet zpátky...  dokud nezjistím co mám do pekla dìlat...\n"
 
 
 LogName9:"MCKAY 12.7.2114\n
@@ -211,7 +211,7 @@ re: Škrt pøez rozpoèet\n
 "
 LogPortrait9:"McKay"
 LogIcon9:"ComIcon"
-LogText9:"Nevím, co ti zatracení èervi chtìjí s tìmi raketoplány, ale strašnì rád bych jim udìlal škrt pøez rozpoèet.  Jestli se dokážu dostat do øídící místnosti nad doky, budu moct vypnout štíty, které mají èervi a jejich pøisluhovaèi kolem raketoplánu.  A až budou vyplé, mùžu do tìch TriOptimáckých plechovek nadìlat díry mou pistolí. Teï se tam jen dostat bez pøistižení.  Och Bože, dostaò mì odsud...\n
+LogText9:"Nevím, co ti zatracení èervi chtìjí s tìmi èluny, ale strašnì rád bych jim udìlal škrt pøez rozpoèet.  Jestli se dokážu dostat do øídící místnosti nad doky, budu moct vypnout štíty, které mají èervi a jejich pøisluhovaèi kolem èlunù.  A až budou vyplé, mùžu do tìch TriOptimáckých plechovek nadìlat díry mou pistolí. Teï se tam jen dostat bez pøistižení.  Och Bože, dostaò mì odsud...\n
 "
 
 

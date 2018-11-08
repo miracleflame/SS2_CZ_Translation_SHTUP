@@ -53,12 +53,12 @@ SUB1
 		{ time 15800 length 1000 text "Vojáku,\nVaše žádost připojit se" }
 		{ time 16800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker" }
 		{ time 17800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste" }
-		{ time 18800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu" }
-		{ time 19800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu\n Francisco ve 4:00" }
-		{ time 20800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se" }
-		{ time 21800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se\nstát součástí historie, vojáku." }
-		{ time 22800 length 5000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se\nstát součástí historie, vojáku.\nWBD" }
-		{ time 32200 length 5500 text "Raketoplán 8138, máte povolení přistát na Von Braun, raketoplánový dok 2." }
+		{ time 18800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na člunu Mayfair v Přístavu" }
+		{ time 19800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na člunu Mayfair v Přístavu\n Francisco ve 4:00" }
+		{ time 20800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na člunu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se" }
+		{ time 21800 length 1000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na člunu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se\nstát součástí historie, vojáku." }
+		{ time 22800 length 5000 text "Vojáku,\nVaše žádost připojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na člunu Mayfair v Přístavu\n Francisco ve 4:00\n9.1.2114. A připravte se\nstát součástí historie, vojáku.\nWBD" }
+		{ time 32200 length 5500 text "Člun 8138, máte povolení přistát na Von Braun, člunový dok 2." }
 		{ time 37500 length 2500 text "Vítejte na palubě, vojáku." }
 		{ time 41500 length 5400 text "O 5 měsíců později. UNN Von Braun. Poblíž Tau Ceti V. 107 trilionů kilometrů od Země." }
 //		{ time 69800 length 1000 text "[řev]" }

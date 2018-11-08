@@ -53,12 +53,12 @@ SUB1
 		{ time 15800 length 1000 text "Vojáku,\nVaše žádost pøipojit se" }
 		{ time 16800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker" }
 		{ time 17800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste" }
-		{ time 18800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Pøístavu" }
-		{ time 19800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Pøístavu\n Francisco ve 4:00" }
-		{ time 20800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Pøístavu\n Francisco ve 4:00\n9.1.2114. A pøipravte se" }
-		{ time 21800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Pøístavu\n Francisco ve 4:00\n9.1.2114. A pøipravte se\nstát souèástí historie, vojáku." }
-		{ time 22800 length 5000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na raketoplánu Mayfair v Pøístavu\n Francisco ve 4:00\n9.1.2114. A pøipravte se\nstát souèástí historie, vojáku.\nWBD" }
-		{ time 32200 length 5500 text "Raketoplán 8138, máte povolení pøistát na Von Braun, raketoplánový dok 2." }
+		{ time 18800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na èlunu Mayfair v Pøístavu" }
+		{ time 19800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na èlunu Mayfair v Pøístavu\n Francisco ve 4:00" }
+		{ time 20800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na èlunu Mayfair v Pøístavu\n Francisco ve 4:00\n9.1.2114. A pøipravte se" }
+		{ time 21800 length 1000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na èlunu Mayfair v Pøístavu\n Francisco ve 4:00\n9.1.2114. A pøipravte se\nstát souèástí historie, vojáku." }
+		{ time 22800 length 5000 text "Vojáku,\nVaše žádost pøipojit se\nk posádce Rickenbacker\nbyla schválena. Hlaste\nse na èlunu Mayfair v Pøístavu\n Francisco ve 4:00\n9.1.2114. A pøipravte se\nstát souèástí historie, vojáku.\nWBD" }
+		{ time 32200 length 5500 text "Èlun 8138, máte povolení pøistát na Von Braun, èlunový dok 2." }
 		{ time 37500 length 2500 text "Vítejte na palubì, vojáku." }
 		{ time 41500 length 5400 text "O 5 mìsícù pozdìji. UNN Von Braun. Poblíž Tau Ceti V. 107 trilionù kilometrù od Zemì." }
 //		{ time 69800 length 1000 text "[øev]" }

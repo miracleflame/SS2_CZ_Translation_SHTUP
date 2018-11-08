@@ -37,7 +37,7 @@ SUB1
 		{ time 00 length 2000 text "Toto je místo volby, vojáku." }
 		{ time 2000 length 3000 text "Tady se pøihlásíte do jednoho ze tøí odvìtví armády." }
 		{ time 5000 length 3700 text "Jakmile se rozhodnete pro svou kariéru, už není cesty zpìt." }
-		{ time 8700 length 6100 text "Raketoplán vás vyveze na orbitální vesmírnou stanici UNN, kde dostanete brífink k vaší roèní stáži." }
+		{ time 8700 length 6100 text "Èlun vás vyveze na orbitální vesmírnou stanici UNN, kde dostanete brífink k vaší roèní stáži." }
 		{ time 15000 length 1000 text "Hodnì štìstí." }
 	}
 
@@ -276,7 +276,7 @@ SUB1
 		{ time 12600 length 3800 text "Tvùj rozpis služby bude sestaven ze ètyø stáží po dobu ètyø let." }
 		{ time 16900 length 3300 text "Korporáti od vás žabaøù èekají hodnì, ale také jsou štìdøí." }
 		{ time 20500 length 1900 text "Mùžeš si vybrat stáže podle sebe." }
-		{ time 23100 length 4200 text "Vydej se k raketoplánovým dokùm v centru Wake Island a dostaneš brífink co dál." }
+		{ time 23100 length 4200 text "Vydej se k èlunovým dokùm v centru Wake Island a dostaneš brífink co dál." }
 		{ time 27900 length 4000 text "Až si vybereš stáž šitou na tebe, pøiøazení pøijmeš když se vydáš vpøed do doku." }
 		{ time 32300 length 1000 text "Zlom vaz, mariòáku!" }
 	}
@@ -288,7 +288,7 @@ SUB1
 		{ time 9600 length 2900 text "Tvùj rozpis služby bude sestaven ze ètyø stáží po dobu ètyø let." }
 		{ time 12800 length 3200 text "V námoønictvu dostaneš každý rok na výbìr z tøí rùzných stáží." }
 		{ time 16400 length 3500 text "Je na tobì zvolit si, jaký druh kariéry budeš mít, tak se rozhodni moudøe." }
-		{ time 20400 length 2700 text "Jenom se pøibliž ke vchodu k raketoplánovým dokùm a dostaneš krátký brífink." }
+		{ time 20400 length 2700 text "Jenom se pøibliž ke vchodu k èlunovým dokùm a dostaneš krátký brífink." }
 		{ time 23600 length 4000 text "Pokud si myslíš, že to je správná stáž pro tebe, vydej se vpøed do doku, èímž pøijmeš pøiøazení." }
 	}
 
@@ -296,8 +296,8 @@ SUB1
 		{ time 00 length 4000 text "OSA tì vítá na orbitální stanici Chun Lo." }
 		{ time 4200 length 4000 text "Pøiprav se pøekroèit limitace své mysli." }
 		{ time 8700 length 3200 text "Po následující ètyøi roky povedeme tvou cestu." }
-		{ time 12200 length 4600 text "Raketoplánové doky v centru stanice tì odvezou do dalšího stádia tvého rùstu." }
-		{ time 17300 length 3500 text "Pokud sis vybral, vstup do konkrétního raketoplánového doku." }
+		{ time 12200 length 4600 text "Èlunové doky v centru stanice tì odvezou do dalšího stádia tvého rùstu." }
+		{ time 17300 length 3500 text "Pokud sis vybral, vstup do konkrétního èlunového doku." }
 		{ time 21100 length 3200 text "Buï pøipraven nauèit se vìci, o kterých se ti ani nezdálo." }
 	}
 

@@ -8,11 +8,11 @@ EmailText1:"Má stvoření přešla do útoku.  Chci jejich úplně vyhlazení. 
 
 
 EmailName4:"SHODAN 12.7.2114\n
-re: Raketoplány\n
+re: Čluny\n
 "
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
-EmailText4:"Dávej pozor insekte, situace se změnila.  Oni vycítili naše záměry a nyní nakládají své potomstvo do raketoplánu.  Nesmějí utéci mému hněvu.  Musíš jít do Doku Raketoplánu na této palubě, a zničit všechny raketoplány.  Ted už žízní po tvé krvi.\n
+EmailText4:"Dávej pozor insekte, situace se změnila.  Oni vycítili naše záměry a nyní nakládají své potomstvo do člunů.  Nesmějí utéci mému hněvu.  Musíš jít do Doku Člunů na této palubě, a zničit všechny čluny.  Ted už žízní po tvé krvi.\n
 "
 
 
@@ -21,7 +21,7 @@ re: Řešení\n
 "
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
-EmailText2:"Má stvoření jsou zase o krok před tebou.  Podařilo se jim zničit počítač ovládající štít kolem raketoplánu.  Ale jejich duchaplnost je jenom závistlivým stínem v porovnání s tou mou.  V prostorech Řízení Raketoplánu najdeš replikátor.  Nahrála jsem do něj molekulární matrici harmonického rezonátoru.  Aby ti to zařízení vygeneroval, musíš replikátor hacknout.  Až získáš rezonátor, přípoj ho ke generátoru štítů.  Je v doku, poblíž samotného raketoplánu.  Zařízení generuje rezonanční vlny, které velice rychle naruší strukturu palivových nádrží raketoplánu a zničí ho.  Snaž se být co nejdál, až se to stane.  Ještě stále tě potřebuju.\n
+EmailText2:"Má stvoření jsou zase o krok před tebou.  Podařilo se jim zničit počítač ovládající štít kolem člunu.  Ale jejich duchaplnost je jenom závistlivým stínem v porovnání s tou mou.  V prostorech Řízení Člunů najdeš replikátor.  Nahrála jsem do něj molekulární matrici harmonického rezonátoru.  Aby ti to zařízení vygeneroval, musíš replikátor hacknout.  Až získáš rezonátor, přípoj ho ke generátoru štítů.  Je v doku, poblíž samotného člunu.  Zařízení generuje rezonanční vlny, které velice rychle naruší strukturu palivových nádrží člunu a zničí ho.  Snaž se být co nejdál, až se to stane.  Ještě stále tě potřebuju.\n
 "
 
 
@@ -91,11 +91,11 @@ Tento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o
 
 
 LogName11:"NORRIS 6.7.2114\n
-re: Řízení Raketoplánu\n
+re: Řízení Člunů\n
 "
 LogPortrait11:"Norris"
 LogIcon11:"ComIcon"
-LogText11:"Paranoia plně udeřila.  Kdosi změnil vstupní kód do mistosti Ostrahy v důstojnickém oddělení.  Teď se nemůžeme dostat ke vstupní kartě k ovládání raketoplánu.  Myslím, že nejvíc podezřelý je Myers.  Chlapi jako on dokážou přemýšlet akorát o konspiračních teoriích a nahých ženských.\n
+LogText11:"Paranoia plně udeřila.  Kdosi změnil vstupní kód do mistosti Ostrahy v důstojnickém oddělení.  Teď se nemůžeme dostat ke vstupní kartě k ovládání člunů.  Myslím, že nejvíc podezřelý je Myers.  Chlapi jako on dokážou přemýšlet akorát o konspiračních teoriích a nahých ženských.\n
 "
 
 
@@ -203,7 +203,7 @@ re: Oni utíkají!\n
 LogPortrait8:"McKay"
 LogIcon8:"ComIcon"
 LogText8:"Pro: Delacroix, Dr. Marie\n
-Doufám, že jste stále ještě naživu, doktorko Delacroix.  Opravdu by se nám tu hodila nějaká rada.  Mají tu ty ženské kyborgy a nakládají do raketoplánu ty vejce...  Nevím, co mají za lubem...  ale vypadá to, jako by měli strach...  Slyšel jsem zvěst o někom dalším, kromě vás, kdo tu bojuje...  Že bych měl přece naději se odsud dostat... ? Zatím se budu držet zpátky...  dokud nezjistím co mám do pekla dělat...\n"
+Doufám, že jste stále ještě naživu, doktorko Delacroix.  Opravdu by se nám tu hodila nějaká rada.  Mají tu ty ženské kyborgy a nakládají do člunů ty vejce...  Nevím, co mají za lubem...  ale vypadá to, jako by měli strach...  Slyšel jsem zvěst o někom dalším, kromě vás, kdo tu bojuje...  Že bych měl přece naději se odsud dostat... ? Zatím se budu držet zpátky...  dokud nezjistím co mám do pekla dělat...\n"
 
 
 LogName9:"MCKAY 12.7.2114\n
@@ -211,7 +211,7 @@ re: Škrt přez rozpočet\n
 "
 LogPortrait9:"McKay"
 LogIcon9:"ComIcon"
-LogText9:"Nevím, co ti zatracení červi chtějí s těmi raketoplány, ale strašně rád bych jim udělal škrt přez rozpočet.  Jestli se dokážu dostat do řídící místnosti nad doky, budu moct vypnout štíty, které mají červi a jejich přisluhovači kolem raketoplánu.  A až budou vyplé, můžu do těch TriOptimáckých plechovek nadělat díry mou pistolí. Teď se tam jen dostat bez přistižení.  Och Bože, dostaň mě odsud...\n
+LogText9:"Nevím, co ti zatracení červi chtějí s těmi čluny, ale strašně rád bych jim udělal škrt přez rozpočet.  Jestli se dokážu dostat do řídící místnosti nad doky, budu moct vypnout štíty, které mají červi a jejich přisluhovači kolem člunů.  A až budou vyplé, můžu do těch TriOptimáckých plechovek nadělat díry mou pistolí. Teď se tam jen dostat bez přistižení.  Och Bože, dostaň mě odsud...\n
 "
 
 

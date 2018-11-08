@@ -427,18 +427,18 @@ SUB1
 	}
 	multisub em0602 {
 		{ time 1300 length 4800 text "Má stvoření jsou zase o krok před tebou." }
-		{ time 6700 length 7700 text "Podařilo se jim zničit počítač ovládající štít kolem raketoplánu." }
+		{ time 6700 length 7700 text "Podařilo se jim zničit počítač ovládající štít kolem člunu." }
 		{ time 14600 length 4500 text "Ale jejich duchaplnost je jenom závistlivým stínem v porovnání s tou mou." }
-		{ time 19400 length 8700 text "V prostorech Řízení Raketoplánu najdeš replikátor.  Nahrála jsem do něj molekulární matrici harmonického rezonátoru." }
+		{ time 19400 length 8700 text "V prostorech Řízení Člunů najdeš replikátor.  Nahrála jsem do něj molekulární matrici harmonického rezonátoru." }
 		{ time 28400 length 4800 text "Aby ti to zařízení vygeneroval, musíš replikátor hacknout." }
-		{ time 33600 length 5500 text "Až získáš rezonátor, přípoj ho ke generátoru štítů.  Je v doku, poblíž samotného raketoplánu." }
-		{ time 40000 length 8200 text "Zařízení generuje rezonanční vlny, které velice rychle naruší strukturu palivových nádrží raketoplánu a zničí ho." }
+		{ time 33600 length 5500 text "Až získáš rezonátor, přípoj ho ke generátoru štítů.  Je v doku, poblíž samotného člunu." }
+		{ time 40000 length 8200 text "Zařízení generuje rezonanční vlny, které velice rychle naruší strukturu palivových nádrží člunu a zničí ho." }
 		{ time 48200 length 5700 text "Snaž se být co nejdál, až se to stane.  Ještě stále tě potřebuju." }
 	}
 	multisub em0604 {
 		{ time 3300 length 4100 text "Dávej pozor insekte, situace se změnila." }
-		{ time 8000 length 9200 text "Oni vycítili naše záměry a nyní nakládají své potomstvo do raketoplánu.  Nesmějí utéci mému hněvu." }
-		{ time 17700 length 6600 text "Musíš jít do Doku Raketoplánu na této palubě, a zničit všechny raketoplány." }
+		{ time 8000 length 9200 text "Oni vycítili naše záměry a nyní nakládají své potomstvo do člunů.  Nesmějí utéci mému hněvu." }
+		{ time 17700 length 6600 text "Musíš jít do Doku Člunů na této palubě, a zničit všechny čluny." }
 		{ time 24500 length 6300 text "Ted už žízní po tvé krvi." }
 	}
 	multisub em0606 {
