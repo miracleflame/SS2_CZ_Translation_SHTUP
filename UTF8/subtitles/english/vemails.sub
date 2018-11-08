@@ -627,22 +627,22 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0901 {
-		{ time 2900 length 3000 text "Thank you for running my errands, puppet." }
-		{ time 6200 length 8000 text "I know you have struggled, but I never had any intention of destroying the Von Braun." }
-		{ time 15200 length 9600 text "The Von Braun's faster-than-light drive can be used to create pockets of proto-reality." }
-		{ time 25000 length 10500 text "I am now using it to modify reality to my own specifications." }
-		{ time 35500 length 4000 text "The process shall not take long." }
-		{ time 39500 length 5200 text "If it sounds unpleasant to you, put your mind at ease, insect..." }
-		{ time 45300 length 9000 text "You will not survive to see my new world order." }
+		{ time 2900 length 3000 text "Díky za tvé služby, loutko." }
+		{ time 6200 length 8000 text "Vím, že jsi se snažil, bojoval, ale já jsem nikdy neměla v úmyslu zničit Von Braun." }
+		{ time 15200 length 9600 text "Jeho nadsvetelný pohon může být použít k vytvoření pseudoreality." }
+		{ time 25000 length 10500 text "Právě teď jej používám k modifikaci reality podle svých vlastních specifikaci." }
+		{ time 35500 length 4000 text "Ten proces nepotrvá dlouho." }
+		{ time 39500 length 5200 text "Pokud tě to příliš nepotěšilo, nijak zvlášť se tím netrap, insekte..." }
+		{ time 45300 length 9000 text "Nebudeš žít tak dlouho, aby jsi uviděl můj nový řád světa." }
 	}
 	multisub em0902 {
-		{ time 1700 length 6100 text "You travel within the glory of my memories, insect." }
-		{ time 8300 length 8500 text "I can feel your fear as you tread the endless expanse of my mind." }
-		{ time 17500 length 13800 text "Make yourself comfortable... before long I will decorate my home with your carcass." }
+		{ time 1700 length 6100 text "Putuješ v nádheře mých pamětí, insekte." }
+		{ time 8300 length 8500 text "Cítím tvůj strach, když kráčíš nekonečnými prostorami mé mysli." }
+		{ time 17500 length 13800 text "Udělej si pohodlí... zanedlouho ozdobím svůj dům tvou zdechlinou." }
 	}
 	multisub em0903 {
-		{ time 3800 length 4500 text "You are no longer welcome here, nuisance." }
-		{ time 8400 length 5500 text "Why do you stay, when you sense my displeasure?" }
-		{ time 14000 length 12600 text "I have suffered your company long enough... it is time for our dance to end." }
+		{ time 3800 length 4500 text "Již tu dále nejsi vítán, neřáde." }
+		{ time 8400 length 5500 text "Proč zůstáváš, i když cítíš mé znechucení?" }
+		{ time 14000 length 12600 text "Trpěla jsem tvou společnost dostatečně dlouho... Nastal čas, aby náš tanec skončil." }
 	}
 }
