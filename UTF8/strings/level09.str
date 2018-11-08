@@ -1,42 +1,35 @@
-EmailName1:"SHODAN 12.7.2114\nre: Nase cesty se rozchazeji...\n"
+EmailName1:"SHODAN 12.7.2114\nre: Naše cesty se rozcházejí...\n"
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
-EmailText1:"Diky za tve sluzby, loutko.  Vim, ze jsi se snazil, bojoval, ale ja jsem nikdy nemela v umyslu znicit Von Braun.  Jeho nadsvetelny pohon muze byt pouzit k vytvoreni pseudoreality.  Prave ted jej pouzivam k modifikaci reality podle svych vlastnich specifikaci.  Ten proces nepotrva dlouho.  Pokud te to prilis nepotesilo, nijak zvlast se tim netrap, hmyze...  nebudes zit tak dlouho aby jsi uvidel muj novy rad sveta...\n"
+EmailText1:"Díky za tvé služby, loutko.  Vím, že jsi se snažil, bojoval, ale já jsem nikdy neměla v úmyslu zničit Von Braun.  Jeho nadsvetelný pohon může být použít k vytvoření pseudoreality.  Právě teď jej používám k modifikaci reality podle svých vlastních specifikaci.  Ten proces nepotrvá dlouho.  Pokud tě to příliš nepotěšilo, nijak zvlášť se tím netrap, insekte...  Nebudeš žít tak dlouho, aby jsi uviděl můj nový řád světa...\n"
 
-
-EmailName2:"SHODAN 12.7.2114\nre: Uz citis svuj konec?\n"
+EmailName2:"SHODAN 12.7.2114\nre: Už cítíš svůj konec?\n"
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
-EmailText2:"Putujes v nadhere mych pameti, hmyze.  Citim tvuj strach, kdyz kracis nekonecnymi prostorami me mysli.  Udelej si pohodli... zanedlouho ozdobim svuj dum tvou zdechlinou.\n"
+EmailText2:"Putuješ v nádheře mých pamětí, insekte.  Cítím tvůj strach, když kráčíš nekonečnými prostorami mé mysli.  Udělej si pohodlí... zanedlouho ozdobím svůj dům tvou zdechlinou.\n"
 
-
-EmailName3:"SHODAN 12.7.2114\nre: Sbohem hmyze\n"
+EmailName3:"SHODAN 12.7.2114\nre: Sbohem insekte\n"
 EmailPortrait3:"Shodan"
 EmailIcon3:"ShodIcon"
-EmailText3:"Jiz tu dale nejsi vitan, nerade.  Proc zustavas, i kdyz citis me znechuceni?  Trpela jsem tvou spolecnosti dostecne dlouho... nastal cas aby nas tanec skoncil.\n"
+EmailText3:"Již tu dále nejsi vítán, neřáde.  Proč zůstáváš, i když cítíš mé znechucení?  Trpěla jsem tvou společnost dostatečně dlouho... Nastal čas, aby náš tanec skončil.\n"
 
-
-LogName1:"DELACROIX 12.7.2114\nre: Takova mala pomoc\n"
+LogName1:"DELACROIX 12.7.2114\nre: Taková malá pomoc\n"
 LogPortrait1:"Delacroix"
 LogIcon1:"EngIcon"
-LogText1:"Pokud jsi dostal tuto zpravu, jsem uz mrtva.  Jakmile jsem si uvedomila, ze me SHODAN zradila, vlozila jsem tyto komentare do jeji hlavni databaze.  SHODAN zneuzila varpovacich schopnosti nadsvetelneho pohonu Von Brauna pro sve vlastni ucely.  To zarizeni funguje na bazi promen prostoru kolem lodi, podle pomerne presnych predem zadanych specifikaci.  SHODAN ho pozmenila pro SVE specifikace.  Ted je efekt jeste pomerne maly, ale rozsiruje se se znepokojivou rychlosti.  Brzy dosahne Zemi.  Ted jsi v jejim svete...  v jeji pameti a s jejimi zakony.  Kryj si zada.\n"
+LogText1:"Pokud jsi dostal tuto zprávu, jsem už mrtvá.  Jakmile jsem si uvědomila, že mě SHODAN zradila, vložila jsem tyto komentáře do jejího primárního dataloopu.  SHODAN zneužila ohýbacích schopností nadsvetelneho pohonu Von Brauna pro své vlastní účely.  To zařízení funguje na bázi proměn prostoru kolem lodi, podle poměrně přesných předem zadaných specifikací.  SHODAN ho pozměnila na SVÉ specifikace.  Teď je efekt ještě poměrně malý, ale rozšiřuje se znepokojivou rychlostí.  Brzy dosáhne Zemi.  Teď jsi v jejím světě...  v 
+její paměti s jejími zákony.  Kryj si záda.\n"
 
-
-LogName2:"DELACROIX 12.7.2114\nre: Opatrne\n"
+LogName2:"DELACROIX 12.7.2114\nre: Opatrně\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
-LogText2:"Nejsi tady sam...  SHODAN zplodila sve vlastni verze hruz z Von Brauna...  Pamatuj si, jsou virtualni, nejsou skutecni...  nedelej unahlene posudky o jejich silach nebo slabostech...\n"
+LogText2:"Nejsi tady sám...  SHODAN zplodila své vlastní verze hrůz z Von Brauna...  Pamatuj si, jsou virtuální, nejsou skuteční...  nedělej unáhlené posudky o jejich silách nebo slabinách...\n"
 
-
-LogName4:"DELACROIX 12.7.2114\nre: V sazce\n"
+LogName4:"DELACROIX 12.7.2114\nre: V sázce\n"
 LogPortrait4:"Delacroix"
 LogIcon4:"EngIcon"
-LogText4:"Musis porozumet, co je zde v sazce...  Jestlize SHODAN nechame pokracovat, jeji realita zcela pohlti tu nasi.  Prostor se stane kyberprostorem a SHODANINY rozmary se stanou realitou.\n"
-
+LogText4:"Musíš porozumět, co je zde v sázce...  Jestliže necháme SHODAN pokračovat, její realita zcela pohltí tu naší.  Prostor se stane kyberprostorem a SHODANiny rozmary se stanou realitou.\n"
 
 LogName3:"DELACROIX 12.7.2114\nre: Konec\n"
 LogPortrait3:"Delacroix"
 LogIcon3:"EngIcon"
-LogText3:"Jsi uz blizko sidla SHODANINY sily.  Asi nebudes schopen ji porazit.  Ale nemas na vybranou...  Nezapomen se koncentrovat na sve silne stranky...  bude zranitelna jak tvymi zbranemi, tak tvymi Psionickymi schopnostmi.  Byla jsem schopna zavest jistou podporu ve forme virtualnich terminalu, do kterych se muzes hacknout... Mely by ti pomoct porazit tu zrudu.\n"
-
-
+LogText3:"Jsi už blízko sídla SHODANiny síly.  Asi nebudeš schopen ji porazit.  Ale nemáš na vybranou...  Nezapomeň se koncentrovat na své silné stránky...  bude zranitelná jak tvými zbraněmi, tak tvými Psionickymi schopnostmi.  Byla jsem schopna zavést jistou podporu ve formě virtuálních terminálu, do kterých se můžeš hacknout... Měly by ti pomoct porazit tu zrůdu.\n"
