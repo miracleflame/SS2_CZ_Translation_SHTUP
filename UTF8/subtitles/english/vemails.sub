@@ -1,4 +1,4 @@
-SUB1
+﻿SUB1
 
 // Engineering =================================================================
 {
@@ -232,7 +232,7 @@ SUB1
 	}
 	multisub em0307 {
 		{ time 1300 length 3100 text "Už vědí kde jsi.  Najdi nějaký způsob, jak uvolnit šachtu." }
-		{ time 4800 length 2700 text "Já tady udělám vše, co půjde.  Teď běž! }
+		{ time 4800 length 2700 text "Já tady udělám vše, co půjde.  Teď běž!" }
 		{ time 8100 length 1500 text "Na neúspěch není čas." }
 	}
 }
