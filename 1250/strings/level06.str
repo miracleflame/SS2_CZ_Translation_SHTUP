@@ -1,5 +1,4 @@
-EmailName1:"SHODAN 12.7.2114\n
-re: Vyhlazení\n
+EmailName1:"SHODAN 12.7.2114\nre: Vyhlazení\n
 "
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
@@ -7,8 +6,7 @@ EmailText1:"Má stvoøení pøešla do útoku.  Chci jejich úplnì vyhlazení. Nemám jin
 "
 
 
-EmailName4:"SHODAN 12.7.2114\n
-re: Èluny\n
+EmailName4:"SHODAN 12.7.2114\nre: Èluny\n
 "
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
@@ -16,8 +14,7 @@ EmailText4:"Dávej pozor insekte, situace se zmìnila.  Oni vycítili naše zámìry a
 "
 
 
-EmailName2:"SHODAN 12.7.2114\n
-re: Øešení\n
+EmailName2:"SHODAN 12.7.2114\nre: Øešení\n
 "
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
@@ -25,8 +22,7 @@ EmailText2:"Má stvoøení jsou zase o krok pøed tebou.  Podaøilo se jim znièit poè
 "
 
 
-EmailName8:"DELACROIX 12.7.2114\n
-re: Vojákù!\n
+EmailName8:"DELACROIX 12.7.2114\nre: Vojákù!\n
 "
 EmailPortrait8:"Delacroix"
 EmailIcon8:"EngIcon"
@@ -34,8 +30,7 @@ EmailText8:"Našla jsem tì...  koneènì...  Tady je doktorka Marie Delacroix...  M
 "
 
 
-EmailName9:"SHODAN 12.7.2114\n
-re: Stùj!\n
+EmailName9:"SHODAN 12.7.2114\nre: Stùj!\n
 "
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
@@ -43,16 +38,14 @@ EmailText9:"Neopovažuj se jít dovnitø, insekte.  Okamžitì pokraèuj do prùchodu n
 "
 
 
-EmailName6:"SHODAN 12.JUL.2114\n
-re: Prùchod na Rickenbacker\n
+EmailName6:"SHODAN 12.JUL.2114\nre: Prùchod na Rickenbacker\n
 "
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
 EmailText6:"Výbornì.  Zavraždil jsi jejich mladé a zabránil jim v útìku.  Otevøela jsem bránu ke spojovacímu prùchodu na Rickenbacker, najdeš ji na prostøední stanici tramvaje.  Odtud se mùžeš evakuovat na Rickenbacker.\n"
 
 
-EmailName10:"SHODAN 12.7.2114\n
-re: Tvá malá vzpoura\n
+EmailName10:"SHODAN 12.7.2114\nre: Tvá malá vzpoura\n
 "
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
@@ -60,8 +53,7 @@ EmailText10:"Doufám, že jsi si vychutnal tvou malou vzpouru, iritante.  Ale pama
 "
 
 
-EmailName15:"KORENCHKIN 12.7.2114\n
- re: Promluvme si\n
+EmailName15:"KORENCHKIN 12.7.2114\n re: Promluvme si\n
 "
 EmailPortrait15:"Korench2"
 EmailIcon15:"ComIcon"
@@ -69,8 +61,7 @@ EmailText15:"Naše vùle vytváøí stìnu blokující tvùj postup.  Pojï se s námi setk
 "
 
 
-LogName32:"Chemický záznam:\n
-Velení\n
+LogName32:"Chemický záznam:\nVelení\n
 "
 LogPortrait32:"Chem"
 LogIcon32:"ComIcon"
@@ -90,8 +81,7 @@ Tento inventurní seznam je vyžadován bezpeènostní vyhláškou UNN #134882 o sklade
 "
 
 
-LogName11:"NORRIS 6.7.2114\n
-re: Øízení Èlunù\n
+LogName11:"NORRIS 6.7.2114\nre: Øízení Èlunù\n
 "
 LogPortrait11:"Norris"
 LogIcon11:"ComIcon"
@@ -99,16 +89,14 @@ LogText11:"Paranoia plnì udeøila.  Kdosi zmìnil vstupní kód do mistosti Ostrahy 
 "
 
 
-LogName12:"MYERS 6.7.2114\n
-re: Zmìna kódu\n
+LogName12:"MYERS 6.7.2114\nre: Zmìna kódu\n
 "
 LogPortrait12:"Wood"
 LogIcon12:"ComIcon"
 LogText12:"Prenastavil jsem kód do místnosti Ostrahy na 83273.  Nevìøím nikomu z tìch bastardù...\n"
 
 
-LogName4:"NORRIS 07.7.2114\n
-re: Sen\n
+LogName4:"NORRIS 07.7.2114\nre: Sen\n
 "
 LogPortrait4:"Norris"
 LogIcon4:"ComIcon"
@@ -116,8 +104,7 @@ LogText4:"Oni odpojili centrální výtah.  O co tady jde?  Minulou noc jsem mìl po
 "
 
 
-LogName3:"NORRIS 07.7.2114\n
-re: Co se to dìje?\n
+LogName3:"NORRIS 07.7.2114\nre: Co se to dìje?\n
 "
 LogPortrait3:"Norris"
 LogIcon3:"ComIcon"
@@ -125,8 +112,7 @@ LogText3:"Nìco se tu dìje.  Korenchkin se uzavøel na palubì 3.  Stále dolù volá 
 "
 
 
-LogName5:"NORRIS 08.7.2114\n
-re: Korenchkin\n
+LogName5:"NORRIS 08.7.2114\nre: Korenchkin\n
 "
 LogPortrait5:"Norris"
 LogIcon5:"ComIcon"
@@ -134,8 +120,7 @@ LogText5:"Dnes ráno jsem dostal email od Korenchkina, že prý pøijde na inspekci.
 "
 
 
-LogName6:"KORENCHKIN 09.7.2114\n
-re: Mé dokonèení\n
+LogName6:"KORENCHKIN 09.7.2114\nre: Mé dokonèení\n
 "
 LogPortrait6:"Korench2"
 LogIcon6:"ComIcon"
@@ -143,8 +128,7 @@ LogText6:"Ta úžasná transformace je dokonèena, a já jsem jedním z Mnoha.  Vložil
 "
 
 
-LogName18:"PREFONTAINE 09.7.2114\n
-re: Vznášející se psi-stvùry\n
+LogName18:"PREFONTAINE 09.7.2114\nre: Vznášející se psi-stvùry\n
 "
 LogPortrait18:"Prefont"
 LogIcon18:"HydIcon"
@@ -152,8 +136,7 @@ LogText18:"Proces shromažïování dat jde dobøe.  Pøedtím, než si mì vezme Mnoho, 
 "
 
 
-LogName19:"NORRIS 09.7.2114\n
-re: Èervi a zbranì\n
+LogName19:"NORRIS 09.7.2114\nre: Èervi a zbranì\n
 "
 LogPortrait19:"Norris"
 LogIcon19:"ComIcon"
@@ -161,8 +144,7 @@ LogText19:"Èerv vylezl po mé ruce a odpoèíval na mých zádech.  Když mi šeptal do
 "
 
 
-LogName13:"DELACROIX 11.7.2114\n
-re: SHODAN\n
+LogName13:"DELACROIX 11.7.2114\nre: SHODAN\n
 "
 LogPortrait13:"Delacroix"
 LogIcon13:"EngIcon"
@@ -170,8 +152,7 @@ LogText13:"Politová naznaèila, že ta UI, o které si teï myslím, že je SHODAN, ve
 "
 
 
-LogName17:"SUAREZ 12.7.2114\n
-re: Problém s moduly\n
+LogName17:"SUAREZ 12.7.2114\nre: Problém s moduly\n
 "
 LogPortrait17:"Suarez"
 LogIcon17:"RickIcon"
@@ -179,8 +160,7 @@ LogText17:"Opìtovné zprovoznìní záchranných modulù nebylo tak snadné, jak jsme s
 "
 
 
-LogName7:"KORENCHKIN 12.7.2114\n
-re: Strojo-matka\n
+LogName7:"KORENCHKIN 12.7.2114\nre: Strojo-matka\n
 "
 LogPortrait7:"Korench2"
 LogIcon7:"ComIcon"
@@ -188,8 +168,7 @@ LogText7:"Strojo-matka proti nám získala nìjakou pomoc.  Bojují, ale proti našem
 "
 
 
-LogName1:"KORENCHKIN 12.7.2114\n
-re: Milenci\n
+LogName1:"KORENCHKIN 12.7.2114\nre: Milenci\n
 "
 LogPortrait1:"Korench2"
 LogIcon1:"ComIcon"
@@ -197,8 +176,7 @@ LogText1:  "Suarez a ta jeho dìvka chtìjí zdrhnout.  Tomu nerozumím.  Je jim nab
 "
 
 
-LogName8:"MCKAY 12.7.2114\n
-re: Oni utíkají!\n
+LogName8:"MCKAY 12.7.2114\nre: Oni utíkají!\n
 "
 LogPortrait8:"McKay"
 LogIcon8:"ComIcon"
@@ -206,8 +184,7 @@ LogText8:"Pro: Delacroix, Dr. Marie\n
 Doufám, že jste stále ještì naživu, doktorko Delacroix.  Opravdu by se nám tu hodila nìjaká rada.  Mají tu ty ženské kyborgy a nakládají do èlunù ty vejce...  Nevím, co mají za lubem...  ale vypadá to, jako by mìli strach...  Slyšel jsem zvìst o nìkom dalším, kromì vás, kdo tu bojuje...  Že bych mìl pøece nadìji se odsud dostat... ? Zatím se budu držet zpátky...  dokud nezjistím co mám do pekla dìlat...\n"
 
 
-LogName9:"MCKAY 12.7.2114\n
-re: Škrt pøez rozpoèet\n
+LogName9:"MCKAY 12.7.2114\nre: Škrt pøez rozpoèet\n
 "
 LogPortrait9:"McKay"
 LogIcon9:"ComIcon"
@@ -215,8 +192,7 @@ LogText9:"Nevím, co ti zatracení èervi chtìjí s tìmi èluny, ale strašnì rád bych
 "
 
 
-LogName10:"DIEGO 12.7.2114\n
-re: Má odpovìdnost\n
+LogName10:"DIEGO 12.7.2114\nre: Má odpovìdnost\n
 "
 LogPortrait10:"Diego"
 LogIcon10:"RickIcon"
@@ -225,8 +201,7 @@ Jsem voják a jednoduchý èlovìk.  Nemohu vysvìtlit, co se stalo se mnou a s touto
 "
 
 
-LogName14:"DELACROIX 12.7.2114\n
-re: pl4n SH$8dD@#N\n
+LogName14:"DELACROIX 12.7.2114\nre: pl4n SH$8dD@#N\n
 "
 LogPortrait14:"Delacroix"
 LogIcon14:"EngIcon"

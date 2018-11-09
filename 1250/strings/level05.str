@@ -1,69 +1,60 @@
-EmailName2:"POLITOVÁ 12.7.2114\n
-re: Bì do vıtahu\n
+EmailName2:"POLITOVÁ 12.7.2114\nre: Bì do vıtahu\n
 "
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
 EmailText2:"Co to provádíš?  Vra se do vıtahu a jdi na palubu 4.  Na prohlídku lodi nemáme èas.\n"
 
 
-EmailName11:"SHODAN 12.7.2114\n
-re: Vysílaè\n
+EmailName11:"SHODAN 12.7.2114\nre: Vysílaè\n
 "
 EmailPortrait11:"Shodan"
 EmailIcon11:"ShodIcon"
 EmailText11:"Tvım kolegùm se v Atletickém sektoru této paluby podaøilo nainstalovat vysílací stanici.  Vysílaè je urèen k vysílání zpráv zpátky na Zemi. Tak je chtìjí varovat pøed událostmi, které postihly tuto loï.  A navíc odebírá èást vıkonu obvodùm Xerxese.  A budeš mít hotovo tohle i úkoly, které jsem ti pøipravila na palubì Operací, budu schopna s Xerxesem zatoèit.  Najdi ten vysílaè, a aktivuj ho.\n"
 
 
-EmailName9:"SHODAN 12.7.2114\n
-re: Vysílaè\n
+EmailName9:"SHODAN 12.7.2114\nre: Vysílaè\n
 "
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
 EmailText9:"Tvım kolegùm se v Atletickém sektoru této paluby podaøilo nainstalovat vysílací stanici.  Vysílaè je urèen k vysílání zpráv zpátky na Zemi. Tak je chtìjí varovat pøed událostmi, které postihly tuto loï.  A navíc odebírá èást vıkonu obvodùm Xerxese, je se tak stává ménì odolnım mému vlivu.  A toto dokonèíš, budu ovládat primární dataloop.  Annelidi si nejsou vìdomi pøítomnosti stanice, ale støeí oblast z vlastních dùvodù. Najdi ten vysílaè, a aktivuj ho.\n"
 
 
-EmailName4:"SHODAN 12.7.2114\n
-re: Test mé trpìlivosti\n
+EmailName4:"SHODAN 12.7.2114\nre: Test mé trpìlivosti\n
 "
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
 EmailText4:"Plazíš se jako insekt.  Myslíš jako insekt.  Jsi jen insekt.  Jsou i jiní, kteøí mohou poslouit mım cílùm.  Dávej si pozor, abys pøíliš nepokoušel mou pøízeò.  Trpìlivost nebıvá obvyklou vlastností bohù.\n"
 
 
-EmailName12:"A. BANÁN 12.7.2114\n
-re: Pøidáš se?\n
+EmailName12:"A. BANÁN 12.7.2114\nre: Pøidáš se?\n
 "
 EmailPortrait12:"BANANAS"
 EmailIcon12:"banana"
 EmailText12:"Vìci se vyvíjejí v souladu s plánem.  Dokázali jsme obrátit Mnoho proti SHODAN a jen ty jsi tak pitomı, e nastavuješ krk pro ten arogantní uber-poèítaè.  Proè se k nám nepøidáš?  Zatímco jsi ty shromáïoval munici, léèebné séra a supertechnické serepetièky, my jsme sesbírali všechny zbıvající oøíšky, banány a kokosové oøechy na palubì.  Staèí øíct, a dostaneš spoustu jídla, atraktivní spoleènost a houpaèku z pneumatiky jen pro sebe.  Koneckoncù, není to to hlavní, na èem záleí?\n"
 
 
-EmailName5:"SHODAN 12.7.2114\n
-re: Má sláva\n
+EmailName5:"SHODAN 12.7.2114\nre: Má sláva\n
 "
 EmailPortrait5:"Shodan"
 EmailIcon5:"ShodIcon"
 EmailText5:"Cítíš jak uvnitø toho špinavıho pytle masa, kterému øíkáš tìlo, bobtná strach?  Jaké to je, mít strach?  Proè tak lpíš na té své patetické existenci?  Kdybys tak mohl cítit jen jiskøièku mì slávy.  Opovrhuji svımi vıtvory, které mì teï nutí spoléhat na takové smìtí, jako jsi ty.\n"
 
 
-EmailName10:"SHODAN 12.7.2114\n
-re: Má pomsta\n
+EmailName10:"SHODAN 12.7.2114\nre: Má pomsta\n
 "
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
 EmailText10:"Vysílání bylo zkomoleno a pøerušeno.  Nevadí.  Znièíme má stvoøení pøímo tady.  Pøíprav se...  Vra se na palubu Operací a pøeprogramuj simulaèní jednotky.  Neotálej.  Touím po mé pomstì.\n"
 
 
-EmailName6:"SHODAN 12.7.2114\n
-re: Rakovina\n
+EmailName6:"SHODAN 12.7.2114\nre: Rakovina\n
 "
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
 EmailText6:"Vysílání bylo zkomoleno a pøerušeno.  Nevadí.  Má stvoøení znièíme pøímo tady.  Pøíprav se...  Oslabila jsem Xerxese.  Pøistupuji do primárního dataloopu.  Spájím svou bytost s tuto lodi.  Má nádhera se rozšiøuje, naplòuje tepny této lodi.  Získala jsem kontrolu. Jsem...  Ne...  je to beznadìjné...  ta rakovina se rozprostírá celım Von Braunem...  Oni vyplnili všechny dostupné zlomy a škáry...  podrobili si ji...  Není jiná monost...  Aktivovala jsem ústøední vıtah na Rekreaèní palubì...  Dostaò se na palubu 6.  Svá další pøání ti sdìlím, a tam dorazíš.\n"
 
 
-LogName32:"Chemickı záznam:\n
-Rekreace\n
+LogName32:"Chemickı záznam:\nRekreace\n
 "
 LogPortrait32:"Chem"
 LogIcon32:"RecIcon"
@@ -83,8 +74,7 @@ Yttrium (Y) : 1\n
 Tento inventurní seznam je vyadován bezpeènostní vyhláškou UNN #134882 o skladech nebezpeènıch chemikálií.  "Sklad" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpeèné chemikálie (viz pøedpis #093355) uloené v mnoství vìtším, ne 50g na 10 ètvereènıch stop a trvání delším ne 24 hodin.\n"
 
 
-LogName15:"YANG 02.5.2114\n
-re: Vítìzství!\n
+LogName15:"YANG 02.5.2114\nre: Vítìzství!\n
 "
 LogPortrait15:"Yang"
 LogIcon15:"RecIcon"
@@ -93,8 +83,7 @@ LogText15:"Pro: Murdochová, Alice\n
 "
 
 
-LogName11:"YANG 10.6.2114\n
-re: Vıpadky proudu\n
+LogName11:"YANG 10.6.2114\nre: Vıpadky proudu\n
 "
 LogPortrait11:"Yang"
 LogIcon11:"RecIcon"
@@ -103,25 +92,21 @@ Osvìtlení basketbalového høištì stále vypadává...  Myslím, e vlhkost z vedlejší
 "
 
 
-LogName18:"KORENCHKIN 03.7.2114\n
-re: Letíme domù\n
+LogName18:"KORENCHKIN 03.7.2114\nre: Letíme domù\n
 "
 LogPortrait18:"Korench"
 LogIcon18:"ComIcon"
 LogText18:"Pro: Zhukov, Vladimír\n
 Zapomeòte na pozemské granty, zapomeòte na média, zapomeòte na patenty.  To, co jsme objevili na Tau Ceti 5 všechno zmìní.  Instruoval jsem Von Braun, aby zmìnil kurz a vrátil se zpátky na Zemi.  Kapitán Diego se mnou plnì souhlasí.  Miri, vím e jsi od pøírody skeptik, ale stejnì tak vím, e kdy pøijmeš naše objevy, tak se ty i celá Rada rádi pøipojíte k našemu zpùsobu myšlení.\n"
 
-
-LogName19:"ROSENBERG 08.7.2114\n
-re: Mé nanity\n
+LogName19:"ROSENBERG 08.7.2114\nre: Mé nanity\n
 "
 LogPortrait19:"Rosenb"
 LogIcon19:"RecIcon"
 LogText19:"Sakra!  Proè jsem si radìji neudìlal ohınek a nehodil všechny své nanity do nìj.  Poslední noc s Nikky byla úasná.  Holograficka ena nebo skuteèná ena, technologie je skvìlá vìc.  Všechny své nanity jsem musel nechat v jejím pokoji v Centru smyslovıch simulaci.  Já vùl.\n"
 
 
-LogName3:"MURDOCHOVÁ 08.7.2114\n
-re: Co se dìje?\n
+LogName3:"MURDOCHOVÁ 08.7.2114\nre: Co se dìje?\n
 "
 LogPortrait3:"Murdoch"
 LogIcon3:"RecIcon"
@@ -129,8 +114,7 @@ LogText3:"Nevím, co se to tady dìje, a ani to nechci vìdìt.  Nejsem tady pro slá
 "
 
 
-LogName4:"MURDOCHOVÁ 09.7.2114\n
-re: Hnus\n
+LogName4:"MURDOCHOVÁ 09.7.2114\nre: Hnus\n
 "
 LogPortrait4:"Murdoch"
 LogIcon4:"RecIcon"
@@ -138,8 +122,7 @@ LogText4:"Ta vejce, která jsme našli poblí pozorovací místnosti jsou odlišná od
 "
 
 
-LogName16:"CORTEZ 09.7.2114\n
-re: Pod zahradou\n
+LogName16:"CORTEZ 09.7.2114\nre: Pod zahradou\n
 "
 LogPortrait16:"Cortez"
 LogIcon16:"RecIcon"
@@ -148,8 +131,7 @@ Pracuji na ostraneni všech tìch tel, která se zde hromadí.  Ošetøovny jsou ji p
 "
 
 
-LogName13:"MURDOCHOVÁ 09.7.2114\n
-re: -------\n
+LogName13:"MURDOCHOVÁ 09.7.2114\nre: -------\n
 "
 LogPortrait13:"Murdoch"
 LogIcon13:"RecIcon"
@@ -157,24 +139,21 @@ LogText13:"U pøicházejí... Ale ne... to ne... Ne!\n
 "
 
 
-LogName8:"ROSENBERG 10.7.2114\n
-re: Pozor na #1\n
+LogName8:"ROSENBERG 10.7.2114\nre: Pozor na #1\n
 "
 LogPortrait8:"rosenb"
 LogIcon8:"RecIcon"
 LogText8:"Tu divnou zbraò našel Taylor, ale musel ji nìjak špatnì pouít.  Udìlalo se mu hroznì zle.  Uloil jsem tu vìc do jedné z kajut pro posádku na patøe 2 a pøekódoval zámek na kód 11111.  To se lehce zapamatuje, e?  Taky jsem tam nechal balík nanitu a jiné uiteèné vìci.  Nemá smysl nechat se chytit se stáhnutımi kalhotami.  Obzvláštì na tomto místì.\n"
 
 
-LogName20:"ROSENBERG 10.7.2114\n
-re: Obrana replikátorù\n
+LogName20:"ROSENBERG 10.7.2114\nre: Obrana replikátorù\n
 "
 LogPortrait20:"Rosenb"
 LogIcon20:"RecIcon"
 LogText20:"Co se to s lidmi dìje?  Všechno jde k èertu a tak si myslí, e u nemusí dodrovat ádné pravidla.  Nejsem proti obèasnım drobnım høíchùm, ale taková vyloená kráde...  Hej...  co to tam provádíte!  Zmizte od toho replikátoru vy zku-\n"
 
 
-LogName6:"CORTEZ 10.7.2114\n
-re: Èerví artefakt\n
+LogName6:"CORTEZ 10.7.2114\nre: Èerví artefakt\n
 "
 LogPortrait6:"Cortez"
 LogIcon6:"RecIcon"
@@ -182,8 +161,7 @@ LogText6:"Pro: Všichni pøíslušníci Odporu\n
 Taylor dnes ráno poslal zprávu, e našel zvláštní artefakt, schopnı infikovat Annelidy nìjakım virem.  Jene, kdy s tou vìci manipulujete, mùe se stát, e do vašeho krevního obìhu vpraví toxin, kterı vás bìhem nìkolika minut zabije.  Bohuel, Taylor to zjistil na vlastní kùi.  Zemøel tìsnì poté, co odeslal tu zprávu.  Kdyby se nám podaøilo najít jeho tìlo, mohli by jsme získat i ten artefakt.\n"
 
 
-LogName5:"CORTEZ 10.7.2114\n
-re: Nákupní Støedisko\n
+LogName5:"CORTEZ 10.7.2114\nre: Nákupní Støedisko\n
 "
 LogPortrait5:"Cortez"
 LogIcon5:"RecIcon"
@@ -191,8 +169,7 @@ LogText5:"Pro: Všichni pøíslušníci Odporu\n
 Pokud to pùjde, nechoïte do Nákupního Støediska.  Smrdí to tam prùserem.\n"
 
 
-LogName9:"SUAREZ 11.7.2114\n
-re: Kde jsi?\n
+LogName9:"SUAREZ 11.7.2114\nre: Kde jsi?\n
 "
 LogPortrait9:"Suarez"
 LogIcon9:"RickIcon"
@@ -200,8 +177,7 @@ LogText9:"U jsem Rebece tak na dosah, e je to a k zoufání.  Strávil jsem nìja
 "
 
 
-LogName14:"YANG 11.7.2114\n
-re: Zabarikádovaní\n
+LogName14:"YANG 11.7.2114\nre: Zabarikádovaní\n
 "
 LogPortrait14:"Yang"
 LogIcon14:"RecIcon"
@@ -209,8 +185,7 @@ LogText14:"Fajn.  Nastavil jsem umìlecké terminály tak, aby zobrazovaly èásti èí
 "
 
 
-LogName12:"SIDONSOVÁ 11.7.2114\n
-re: Záchranné moduly\n
+LogName12:"SIDONSOVÁ 11.7.2114\nre: Záchranné moduly\n
 "
 LogPortrait12:"Siddons"
 LogIcon12:"OpsIcon"
@@ -219,8 +194,7 @@ Poslouchej... Je jeden záchrannı modul, kterı Xerxes neodpálil.. ale je nefunkèn
 "
 
 
-LogName1:"CORTEZ 11.7.2114\n
-re: Vysílací jednotky\n
+LogName1:"CORTEZ 11.7.2114\nre: Vysílací jednotky\n
 "
 LogPortrait1:"Cortez"
 LogIcon1:"RecIcon"
@@ -229,8 +203,7 @@ Vıbornì Delacroix. S Yangem máme ten vysílaè témìø pøipraven k pouití.  Jakmile
 "
 
 
-LogName2:"DELACROIX 11.7.2114\n
-re: Pøátelé a nepøátele\n
+LogName2:"DELACROIX 11.7.2114\nre: Pøátelé a nepøátele\n
 "
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
@@ -238,8 +211,7 @@ LogText2:"Pro: Cortez, Enrique\n
 Mon petit, je tu nìco, o èem by ses mìl dozvìdìt.  Dostala jsem informace od jistì formy umìlé inteligence, která si øíká SHODAN.  Ano, SHODAN.  A u tato inteligence pøišla odkudkoli, je nevìøitelnì zaujatá právì proti tìmto Annelidùm a nejednou u mi tu zachránila ivot.  SHODAN mi povìdìla, e na této lodi je agent UNN,  vyzbrojen po zuby a vybaven kybernetickımi implantáty tøídy R.  Zvláštní spojenec, e?\n"
 
 
-LogName10:"SIDONSOVÁ 12.7.2114\n
-re: Najdi mì\n
+LogName10:"SIDONSOVÁ 12.7.2114\nre: Najdi mì\n
 "
 LogPortrait10:"Siddons"
 LogIcon10:"OpsIcon"
@@ -248,8 +220,7 @@ Právì jsem zabila nìco jako...  nìjakı druh pavouka...  nevím...  ale kouslo mì 
 "
 
 
-LogName7:"DELACROIX 11.7.2114\n
-re: Zapnìte vysílaè\n
+LogName7:"DELACROIX 11.7.2114\nre: Zapnìte vysílaè\n
 "
 LogPortrait7:"Delacroix"
 LogIcon7:"EngIcon"
@@ -258,8 +229,7 @@ Pøípojka byla posledné dvì hodiny odpojena.  Bìte øíci Cortezovi v sekci posádk
 "
 
 
-LogName17:"DELACROIX 12.7.2114\n
-re: Dùvìra v SHODAN\n
+LogName17:"DELACROIX 12.7.2114\nre: Dùvìra v SHODAN\n
 "
 LogPortrait17:"Delacroix"
 LogIcon17:"EngIcon"
