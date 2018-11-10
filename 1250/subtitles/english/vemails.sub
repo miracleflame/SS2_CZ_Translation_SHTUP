@@ -324,7 +324,7 @@ SUB1
 // Recreation =======================================================================
 {
 	type "convo"
-	descr "Politov8"
+	descr "Politov·"
 	multisub em0502 {
 		{ time 500 length 1000 text "Co to prov·dÌö?" }
 		{ time 2000 length 2700 text "Vraù se do v˝tahu a jdi na palubu 4." }

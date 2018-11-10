@@ -265,7 +265,7 @@
 		{ time 10300 length 14000 text "Používají jejich výkon k vývoji mutagenu, kterým pak transformují těla tvých mrtvých kamarádů na zabijácké hybridy." }
 		{ time 24700 length 10500 text "To nedovolím.  Musíš najít nějaký způsob, jak přeprogramovat simulační jednotky." }
 		{ time 35400 length 5300 text "Tvou pozornost si ale zaslouží i dění na palubě 5." }
-		{ time 40800 length 5400 text "Pusti se do toho, jak uznáš za vhodné...  ale dokonči to, člověku..." }
+		{ time 40800 length 5400 text "Pusti se do toho, jak uznáš za vhodné...  ale dokonči to, člověče..." }
 		{ time 46800 length 8200 text "Zklamání bych takovému ubožákovi jako ty rozhodně neprominula." }
 	}
 	multisub em0403 {
@@ -324,7 +324,7 @@
 // Recreation =======================================================================
 {
 	type "convo"
-	descr "Politov8"
+	descr "Politová"
 	multisub em0502 {
 		{ time 500 length 1000 text "Co to provádíš?" }
 		{ time 2000 length 2700 text "Vrať se do výtahu a jdi na palubu 4." }
