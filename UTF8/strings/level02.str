@@ -106,19 +106,19 @@ EmailText6:"Neztrácej čas samochválou.  Slez šachtou dolů do Techniky a zno
 LogName32:"Chem záznam: Medi/Věda\n"
 LogPortrait32:"Chem"
 LogIcon32:"MedIcon"
-LogText32:"Inventář laboratorního skladu: Medi/Věda místnost 143\n
-\n
-Antimon (Sb) : 2\n
-Barium (Ba) : 1\n
-Kalifornium (Cf) : 2\n
-Fermium (Fm) : 2\n
-Gallium (Ga) : 1\n
-Iridium (Ir) : 2\n
-Osmium (Os) : 1\n
-Technicium (Tc) : 1\n
-Tellur (Té) : 2\n
-Yttrium (Y) : 2\n
-\n
+LogText32:"Inventář laboratorního skladu: Medi/Věda místnost 143
+
+Antimon (Sb) : 2
+Barium (Ba) : 1
+Kalifornium (Cf) : 2
+Fermium (Fm) : 2
+Gallium (Ga) : 1
+Iridium (Ir) : 2
+Osmium (Os) : 1
+Technicium (Tc) : 1
+Tellur (Té) : 2
+Yttrium (Y) : 2
+
 Tento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  "Sklad" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
 
 

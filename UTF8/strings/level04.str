@@ -52,19 +52,19 @@ LogName32:"Chemický záznam:\nOperace\n
 "
 LogPortrait32:"Chem"
 LogIcon32:"OpsIcon"
-LogText32:"Inventář laboratorního skladu: Operace-skladová komora 089\n
-\n
-Arzén (Aš) : 2\n
-Barium (Ba) : 2\n
-Cesium (Cs) : 2\n
-Méd   (Cu) : 2\n
-Fermium (Fm) : 1\n
-Hassium (Hs) : 1\n
-Iridium (Ir) : 2\n
-Radium (Ra) : 1\n
-Sodík (Na) : 2\n
-Yttrium (Y) : 1\n
-\n
+LogText32:"Inventář laboratorního skladu: Operace-skladová komora 089
+
+Arzén (Aš) : 2
+Barium (Ba) : 2
+Cesium (Cs) : 2
+Méd   (Cu) : 2
+Fermium (Fm) : 1
+Hassium (Hs) : 1
+Iridium (Ir) : 2
+Radium (Ra) : 1
+Sodík (Na) : 2
+Yttrium (Y) : 1
+
 Tento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  "Sklad" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
 
 

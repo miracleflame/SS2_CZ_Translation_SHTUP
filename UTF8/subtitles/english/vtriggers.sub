@@ -207,7 +207,7 @@ SUB1
 		{ time 1000 length 2000 text "Bezpečnostní systém online." }
 	}
 	multisub xxhaksec {
-		{ time 1000 length 2000 text "Bezpečnostní systém ofline." }
+		{ time 1000 length 2000 text "Bezpečnostní systém offline." }
 	}
 	sub xxpdie01 { text "Omlouváme se za vzniklé nepříjemnosti." }
 	sub xxpdie02 { text "Bezpečnostní poplach ukončen." }
