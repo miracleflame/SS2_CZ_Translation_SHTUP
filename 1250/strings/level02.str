@@ -184,7 +184,7 @@ Angelo, i kdy se vám mùe zdát, e laboratorní opice komunikují jedna s druhou,
 LogName9:"WATTS 01.6.2114\nre: Pacient Watson\n"
 LogPortrait9:"Watts"
 LogIcon9:"MedIcon"
-LogText9:"Od té doby, co se vrátil z povrchu Tau Ceti 5, prochází pacient mnostvím neobvyklıch zmìn. Dokazují to zanícené vırùstky na uzlinách a pøítomnost velkého èervovitého parazita.  Dnes ráno tento parazit prorazil pacientovu hruï...  pøímo zevnitø...  a jedním svım koncem se pøichytil k pacientovu èelu.  Kdybych ho odstranil, mohl bych ho zabít.  Kdy ho ale nechám...  Koneèná diagnóza: Nemám tušení.  Rád bych to probral s Madorskym z CDC, ale ten je bohuel 67 triliónù mil odsud.\n"
+LogText9:"Od té doby, co se vrátil z povrchu Tau Ceti 5, prochází pacient mnostvím neobvyklıch zmìn. Dokazují to zanícené vırùstky na uzlinách a pøítomnost velkého èervovitého parazita.  Dnes ráno tento parazit prorazil pacientovu hruï...  pøímo zevnitø...  a jedním svım koncem se pøichytil k pacientovu èelu.  Kdybych ho odstranil, mohl bych ho zabít.  Kdy ho ale nechám...  Koneèná diagnóza: Nemám tušení.  Rád bych to probral s Madorskym z CDC, ale ten je bohuel 107 triliónù kilometrù odsud.\n"
 
 
 LogName15:"CURTIZ 02.7.2114\nre: Antiradiaèné séra\n"
@@ -228,20 +228,20 @@ LogText5:"Nebyl jsem schopen kontaktovat Delacroix...  Tohle místo se rozpadává.
 LogName8:"CURTIZ 07.7.2114\nre: Nefunkèní vıtahy\n"
 LogPortrait8:"Curtiz"
 LogIcon8:"EngIcon"
-LogText8:"Nedaøí se mi kontaktovat nikoho z Techniky.  Bez funkèních vıtahu se tam budu muset dostat nouzovım prùlezem ve vìdeckém køídle.  Myslím, e vstupní kód je ve Wattsove laboratoøi.\n"
+LogText8:"Nedaøí se mi kontaktovat nikoho z Techniky.  Bez funkèních vıtahù se tam budu muset dostat nouzovım prùlezem ve vìdeckém køídle.  Myslím, e vstupní kód je ve Wattsonovì laboratoøi.\n"
 
 
 LogName14:"WATTS 07.7.2114\nre: Údrbáøsky prùlez\n"
 LogPortrait14:"Watts"
 LogIcon14:"MedIcon"
 LogText14:"Pro: Curtiz, Juan
-V poøádku, jen klid...  Vstupní kód do prùlezù je 12451.  V 16:30 dìlám pitvu, ale hned potom si zajdem na pivo do Rekreaèní paluby.  Dohoda?\n"
+V poøádku, jen klid...  Vstupní kód do prùlezù je 12451.  V 16:30 dìlám pitvu, ale hned potom si zajdem na pivo do Rekreaèní paluby.  Dohodnuto?\n"
 
 
 LogName16:"TURNBULOVÁ 07.7.2114\nre: Procedúry\n"
 LogPortrait16:"Turnbull"
 LogIcon16:"OpsIcon"
-LogText16:"Šéfka Bronsonová a její stupidní procedúry.  Zase zmìnila kód od pøíruèní zbrojnice v na palubì Medi/Vìda.  Ted abych se trmácela na palubu 4 a zjišovala novou kombinaci...  Nìkdo ji to raz vytmaví...\n"
+LogText16:"Šéfka Bronsonová a její stupidní procedúry.  Zase zmìnila kód od pøíruèní zbrojnice v na palubì Medi/Vìda.  Teï abych se trmácela na palubu 4 a zjišovala novou kombinaci...  Nìkdo jí to jednou vytmaví...\n"
 
 
 LogName11:"WATTS 07.7.2114\nre: Watsonova pitva\n"
