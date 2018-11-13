@@ -261,12 +261,12 @@
 	type "convo"
 	descr "SHODAN"
 	multisub em0401 {
-		{ time 1400 length 8400 text "Mě děti si přivlastnily tři simulační jednotky na této palubě." }
+		{ time 1400 length 8400 text "Mé děti si přivlastnily tři simulační jednotky na této palubě." }
 		{ time 10300 length 14000 text "Používají jejich výkon k vývoji mutagenu, kterým pak transformují těla tvých mrtvých kamarádů na zabijácké hybridy." }
 		{ time 24700 length 10500 text "To nedovolím.  Musíš najít nějaký způsob, jak přeprogramovat simulační jednotky." }
 		{ time 35400 length 5300 text "Tvou pozornost si ale zaslouží i dění na palubě 5." }
-		{ time 40800 length 5400 text "Pusti se do toho, jak uznáš za vhodné...  ale dokonči to, člověče..." }
-		{ time 46800 length 8200 text "Zklamání bych takovému ubožákovi jako ty rozhodně neprominula." }
+		{ time 40800 length 5400 text "Pusť se do toho, jak uznáš za vhodné...  ale dokonči to, člověče..." }
+		{ time 46800 length 8200 text "Zklamání bych takovému ubožákovi jako jsi ty rozhodně neprominula." }
 	}
 	multisub em0403 {
 		{ time 2600 length 11000 text "Má stvoření se vyvíjejí...  Jejich sjednocená mysl se vzbouřila proti vlastní stvořitelce." }
