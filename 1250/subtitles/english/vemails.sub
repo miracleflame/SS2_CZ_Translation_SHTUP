@@ -261,12 +261,12 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0401 {
-		{ time 1400 length 8400 text "Mì dìti si pøivlastnily tøi simulaèní jednotky na této palubì." }
+		{ time 1400 length 8400 text "Mé dìti si pøivlastnily tøi simulaèní jednotky na této palubì." }
 		{ time 10300 length 14000 text "Pouívají jejich vıkon k vıvoji mutagenu, kterım pak transformují tìla tvıch mrtvıch kamarádù na zabijácké hybridy." }
 		{ time 24700 length 10500 text "To nedovolím.  Musíš najít nìjakı zpùsob, jak pøeprogramovat simulaèní jednotky." }
 		{ time 35400 length 5300 text "Tvou pozornost si ale zaslouí i dìní na palubì 5." }
-		{ time 40800 length 5400 text "Pusti se do toho, jak uznáš za vhodné...  ale dokonèi to, èlovìèe..." }
-		{ time 46800 length 8200 text "Zklamání bych takovému uboákovi jako ty rozhodnì neprominula." }
+		{ time 40800 length 5400 text "Pus se do toho, jak uznáš za vhodné...  ale dokonèi to, èlovìèe..." }
+		{ time 46800 length 8200 text "Zklamání bych takovému uboákovi jako jsi ty rozhodnì neprominula." }
 	}
 	multisub em0403 {
 		{ time 2600 length 11000 text "Má stvoøení se vyvíjejí...  Jejich sjednocená mysl se vzbouøila proti vlastní stvoøitelce." }

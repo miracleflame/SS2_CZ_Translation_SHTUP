@@ -13,7 +13,7 @@ EmailText1:"Musíš si pospíšit. Ještì si neuvìdomuješ, co všechno je v sázce. Dej
 EmailName3:"POLITOVÁ 12.7.2114\nre: Ochranné zámky\n"
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
-EmailText3:"Radiace musela aktivovat ochranné zámky pøístupu k Reaktoru. Musíš najít nìjakı zpùsob, jak odstranit radiací z potrubí chladícího okruhu. Xerxes blokuje mùj pøístup do primární databáze, take nemohu získat ádné informace, které by mohli pomoci. Xerxes pracuje teï pro nì.\n"
+EmailText3:"Radiace musela aktivovat ochranné zámky pøístupu k Reaktoru. Musíš najít nìjakı zpùsob, jak odstranit radiaci z potrubí chladícího okruhu. Xerxes blokuje mùj pøístup do primární databáze, take nemohu získat ádné informace, které by mohli pomoci. Xerxes teï pracuje pro nì.\n"
 
 
 EmailName4:"POLITOVÁ 12.7.2114\nre: Vyèištìní trubek\n"
@@ -55,20 +55,20 @@ EmailText9:"Teï jsem schopná znièit tu nákazu, kdykoli budu chtít. Mnoho se bude
 LogName24:"TRÉNER 02.06.11\nre: Zkušební zpráva\n"
 LogPortrait24:"Bayliss"
 LogIcon24:"RickIcon"
-LogText24:"Tato zpráva pøichází z audiologu, kterı jsi právì zvedl. Svùj PDA mùeš kdykoliv pouít k pøehrání audiologù, nebo e-mailù které dostaneš. Kromì toho se PDA pouívá k poznamenávání úkolù tvé aktuální mise a získávání pomocnıch informací.\n"
+LogText24:"Tato zpráva pøichází z audiologu, kterı jsi právì zvedl. Svùj PDA mùeš kdykoliv pouít k pøehrání audiologù, nebo e-mailù které dostaneš. Kromì toho se PDA pouívá k zaznamenání úkolù tvé aktuální mise a získávání pomocnıch informací.\n"
 
 
 LogName32:"Chemickı záznam:\nTechnika\n"
 LogPortrait32:"Chem"
 LogIcon32:"EngIcon"
-LogText32:"Inventáø laboratorního skladu: Technická-zásobárna 192\n\nAntimon (Sb) : 2\nBaryum (Ba) : 2\nKalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnecium (Tc) : 1\nTellur (Te) : 1\nVanad (V) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyadován bezpeènostní vyhláškou UNN #134882 o skladech nebezpeènıch chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpeèné chemikálie (viz pøedpis #093355) uloené v mnoství vìtším, ne 50g na 10 ètvereènıch stop a trvání delším ne 24 hodin.\n"
+LogText32:"Inventáø laboratorního skladu: Technika-zásobárna 192\n\nAntimon (Sb) : 2\nBaryum (Ba) : 2\nKalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnecium (Tc) : 1\nTellur (Te) : 1\nVanad (V) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyadován bezpeènostní vyhláškou UNN #134882 o skladech nebezpeènıch chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpeèné chemikálie (viz pøedpis #093355) uloené v mnoství vìtším, ne 50g na 10 ètvereènıch stop a trvání delším ne 24 hodin.\n"
 
 
 LogName6:"SIDONSOVÁ 02.6.2114\nre: Není to ono\n"
 LogPortrait6:"Siddons"
 LogIcon6:"OpsIcon"
 LogText6:"Pro: Suarez, Tommy\n
-Moc nám to nezjednošují, co? Chybíš mi... Vím, e to zní hloupì, ale je to tak. Myslím, e se budu asi hodinu litovat a pak ti zase napíšu. Absurdní, musela jsem uletìt 107 trilionù kilometrù, abych potkala Toho Pravého. A budeš pøevelen na Von Brauna, všechno bude lepší. I já budu lepší, slibuji. Sakra, nìkdo sem jde. Poèítám vteøiny...\n"
+Moc nám to neulehèují, co? Chybíš mi... Vím, e to zní hloupì, ale je to tak. Myslím, e se budu asi hodinu litovat a pak ti zase napíšu. Absurdní, musela jsem uletìt 107 trilionù kilometrù, abych potkala Toho Pravého. A budeš pøevelen na Von Brauna, všechno bude lepší. I já budu lepší, slibuji. Sakra, nìkdo sem jde. Poèítám vteøiny...\n"
 
 
 LogName16:"DELACROIX 30.6.2114\nre: Tau Ceti 5\n"
@@ -130,10 +130,10 @@ LogText18:"Pro: Mak Pao správa vızkumu\n
 S maximální opatrností jsem pøistoupil k dalším experimentùm. Jakmile jsme dosáhli Tau Ceti 5, zvíøata se stala chytøejšími, a nìkterá získala omezené psionické schopnosti. Další objekt jsem testoval na cyklus beta 5, a cítil jsem spoustu vìcí, ale nejvíc neuvìøitelnou empatii. Opice jsou schopné uvìdomit si svou minulost, všechny vivisekce a experimenty, které na nich byly provádìny na palubì Von Brauna. Cítí hnìv a jsou pøipravené ho dát najevo. Nepochybnì jsou fascinujícími vìdeckımi zdroji, ale i neuvìøitelnım bezpeènostním rizikem. Mé doporuèení... Buï všechny zmrazit v kryobuòkách do konce naší mise, nebo je okamitì zlikvidovat. Kdopak ví, jaké další schopnosti ještì získají??\n"
 
 
-LogName23:"BRONSONOVÁ 06.7.2114\nre: Hackování støeleckıch vìí\n"
+LogName23:"BRONSONOVÁ 06.7.2114\nre: Hackování vìí\n"
 LogPortrait23:"Bronson"
 LogIcon23:"OpsIcon"
-LogText23:"Nejen e nedokáeme odpojit haprující støelecké vìe, ale teï s námi pøestal komunikovat i Xerxes. Pollard vymyslel øešení - pøemostìním centrálního øízení jsme schopni hacknout vìe lokálnì, a tak je ovládnout. Jene - to znamená pøijít a k tomu zatracenımu krámu a doufat, e se neaktivuje. Jednou vìcí jsem si ovšem jista... Zjistím, co do pekla se tady vlastnì dìje.\n"
+LogText23:"Nejen e nedokáeme odpojit haprující støelecké vìe, ale teï s námi pøestal komunikovat i Xerxes. Pollard vymyslel øešení - pøemostìním centrálního øízení jsme schopni hacknout vìe lokálnì, a tak je ovládnout. Jene - to znamená pøijít a k tomu zatracenımu krámu a doufat, e se neaktivuje. Jednou vìcí jsem si ovšem jista... Zjistím, co se to do pekla tady vlastnì dìje.\n"
 
 
 LogName4:"CURTIZ 07.7.2114\nre: Zase to prosakuje\n"
@@ -163,7 +163,7 @@ LogText5:"Malone je mrtvı. Právì jsem s ním mluvila, kdy... se za ním vynoøil k
 LogName8:"MARTIN 10.7.2114\nre: Útok\n"
 LogPortrait8:"Martin"
 LogIcon8:"EngIcon"
-LogText8:"Udeøily na nás pøed šesti hodinami. Malone, ten strašák z OSA se snail vyøadit jednu z tìch vìcí pyrokinetickym útokem, ale bez úèinku. Pak mu ta vìc vypálila obì hlavnì rovnou do aludku... Falzone øíká, e v jedné z motorovıch gondol je skrıš se zbranìmi. Moná, e bych ho i s ostatními našel právì tam.\n"
+LogText8:"Udeøily na nás pøed šesti hodinami. Malone, ten strašák z OSA se snail vyøadit jednu z tìch vìcí pyrokinetickım útokem, ale bez úèinku. Pak mu ta vìc vypálila obì hlavnì rovnou do aludku... Falzone øíká, e v jedné z motorovıch gondol je skrıš se zbranìmi. Moná, e bych ho i s ostatními našel právì tam.\n"
 
 
 LogName1:"CURTIZ 10.7.2114\nre: Jenom my\n"
@@ -172,10 +172,10 @@ LogIcon1:"EngIcon"
 LogText1:"U nás tu zùstalo jen pár. Po smrti Valdeze mì na chvíli úplnì pøeskoèilo a zaèal jsem trhat vìci kolem sebe... a copak se nestalo, našel jsem další dvì antiradiaèní séra. Doufám, e mì udrí dostateènì dlouho, abych zjistil jak se dostat kolem té zatracené støelecké vìe... Kdo je to? Delacroix? Sangerová?\n"
 
 
-LogName11:"DELACROIX 11.7.2114\nre: Novı pøàtel?\n"
+LogName11:"DELACROIX 11.7.2114\nre: Novı pøítel?\n"
 LogPortrait11:"Delacroix"
 LogIcon11:"EngIcon"
-LogText11:"Byla jsem kontaktována nìjakım druhem Umìlé Inteligence, která by mi chtìla pomoci znovu získat kontrolu nad Von Braunem, a u ho ovládl kdokoli... èi cokoli. Nevím odkud se vzala, ale musím pøiznat, e jsem ráda, e tu je.\n"
+LogText11:"Byla jsem kontaktována nìjakım druhem Umìlé Inteligence, která by mi chtìla pomoci znovu získat kontrolu nad Von Braunem, a u ho ovládl kdokoli... èi cokoliv. Nevím odkud se vzala, ale musím pøiznat, e jsem ráda, e tu je.\n"
 
 
 LogName12:"SUAREZ 11.7.2114\nre: Èekej\n"
@@ -194,6 +194,6 @@ LogText19:"Mám povinnost vùèi UNN a vùèi této lodi. Ale dokáu se vzpírat volání
 LogName20:"DIEGO 11.7.2114\nre: Je to tak zlé?\n"
 LogPortrait20:"Diego"
 LogIcon20:"RickIcon"
-LogText20:"Svım zpùsobem je Mnoho velmi podobné UNN. Je tady radost ze spoleèné práce a schopnosti dát stranou vìci které nás rozdìlují. Proè se tak bojíme ztráty individuality? Èlovìk mùe snít, ale Mnoho dokáe uskuteènit.\n"
+LogText20:"Svım zpùsobem je Mnoho velmi podobné UNN. Je tady radost ze spoleèné práce a schopnosti dát stranou vìci které nás rozdìlují. Proè se tak bojíme ztráty individuality? Èlovìk mùe snít, ale Mnoho to dokáe uskuteènit.\n"
 
 
