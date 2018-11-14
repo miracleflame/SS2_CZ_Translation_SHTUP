@@ -87,7 +87,7 @@
 		{ time 4700 length 4600 text "V blízkosti reaktoru, na palubě 1, bys mohl zapojit nouzové napájení, které by je všechny zase zprovoznilo." }
 		{ time 9800 length 3200 text "Jenže výtahem se tam teď nedostaneš. Počkat..." }
 		{ time 14400 length 3100 text "Je tady nějaký druh údržbářského přístupu, právě z této chodby." }
-		{ time 18300 length 6000 text "Tudy bys se mohl dostat na palubu 1. Jenže vstup je zamčen a Xerxes mi nechce prozradit vstupní kód." }
+		{ time 18300 length 6000 text "Tudy by ses mohl dostat na palubu 1. Jenže vstup je zamčen a Xerxes mi nechce prozradit vstupní kód." }
 		{ time 25000 length 3300 text "Měl by ho ale mít i Dr. Watts. Bude nejspíš někde v sektoru Kajut pro posádku." }
 		{ time 28900 length 5900 text "Vstupní kartu tam má Grassi, ale ten je zase někde v lékařských prostorech, zřejmě poblíž pitevny." }
 		{ time 35300 length 2700 text "Běž co nejdřív do prostorů Kliniky a najdi Grassiho." }
@@ -99,17 +99,17 @@
 	}
 	multisub em0205 {
 		{ time 1100 length 3300 text "Můžeš hackovat i replikátory, čímž získáš nadstandardní nabídku." }
-		{ time 4900 length 3200 text "Využij to. Využij jakoukoliv možnost, abys se dostal na palubu 4." }
+		{ time 4900 length 3200 text "Využij to. Využij jakoukoliv možnost, aby ses dostal na palubu 4." }
 		{ time 8500 length 1500 text "Tohle není hra." }
 	}
 	multisub em0206 {
 		{ time 1000 length 2500 text "Neztrácej čas samochválou." }
 		{ time 3900 length 3800 text "Slez šachtou dolů do Techniky a znovu spusť hlavní Reaktor." }
-		{ time 8100 length 3400 text "Obnovíš tím napájení výtahu a budeš konečně schopen se dostat na palubu 4." }
+		{ time 8100 length 3400 text "Obnovíš tím napájení výtahů a budeš konečně schopen se dostat na palubu 4." }
 		{ time 11900 length 700 text "Do toho!" }
 	}
 	multisub em0207 {
-		{ time 900 length 4500 text "Dobře, dokázal jsi se dostat do sektoru posádky. Nyní najdi kajutu Dr. Wattse." }
+		{ time 900 length 4500 text "Fajn. Už jsi v sektoru Kajut posádky. Ted najdi kajutu Dr. Wattse..." }
 	}
 	multisub em0208 {
 		{ time 500 length 3200 text "Tvé nové kybernetické rozhraní může být dezorientující." }
@@ -120,13 +120,13 @@
 	multisub em0209 {
 		{ time 1000 length 3700 text "Ten článek je vybitý. Někde poblíž by měla být dobíjecí stanice." }
 		{ time 5000 length 3900 text "Použij ji a ona dobije všechny energetické zařízení, které máš u sebe." }
-		{ time 9400 length 6000 text "Až článek nabiješ, vlož ho do záložního napájení u dveří. Tím by se měl otevřít hermeticky uzávěr." }
+		{ time 9400 length 6000 text "Až článek nabiješ, vlož ho do záložního napájení u dveří. Tím by se měl otevřít hermetický uzávěr." }
 		{ time 15700 length 3600 text "Pospěš si s tím, vakuová těsnění už to déle nevydrží." }
 	}
 	multisub em0210 {
 		{ time 900 length 5800 text "Xerxes ovládá bezpečnostní systémy. Vyhýbej se kamerám, nebo je znič." }
 		{ time 7300 length 4500 text "Pokud na to stačíš, můžeš hackovat bezpečnostní počítače, čímž se kamery na čas vypnou." }
-		{ time 11900 length 3000 text "Ale pozor, pokud to spackáš, spustí se poplach." }
+		{ time 11900 length 3000 text "Ale pozor, pokud to zpackáš, spustí se poplach." }
 		{ time 15400 length 2100 text "A jako mrtvola mi nejsi k ničemu." }
 	}
 	multisub em0211 {
