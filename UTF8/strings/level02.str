@@ -45,10 +45,12 @@ EmailPortrait17:"Polito"
 EmailIcon17:"OpsIcon"
 EmailText17:"Sakra! Výpadek napájení vyřadil i dveře této přepážky. Je jen jeden způsob, jak se dostat do lékařského oddělení. Vezmi článek ležící na podlaze a najdi dobíjecí stanici. Obávám se že ta, kterou jsi použil předtím je už ve vakuu, ale na této palubě by měla být ještě jedna. Až ten článek nabiješ, vlož ho do záložního napájení.\n"
 
+
 EmailName19:"POLITOVÁ 12.7.2114\nre: Biorekonstruce\n"
 EmailPortrait19:"Polito"
 EmailIcon19:"OpsIcon"
 EmailText19:"Na většině palub můžeš najít biorekonstrukční zařízení. Xerxes je všechny odpojil, ale já jsem je zase potají zapojila. Zařízení musíš aktivovat, abys mu poskytl soubor tkáňových vzorků. Až to uděláš, bude toto zařízení schopno restaurovat tvé tělo i z nepatrného zbytku. Není to sice nic příjemného, ale stále lepší, než pomalý rozklad.\n"
+
 
 EmailName10:"POLITOVÁ 12.7.2114\nre: Bezpečnostní systém\n"
 EmailPortrait10:"Polito"
@@ -66,6 +68,7 @@ EmailName4:"POLITOVÁ 12.7.2114\nre: Wattsova karta\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
 EmailText4:"Výborně. Dostal jsi se na Kliniku. Najdi Grassiho a získej vstupní kartu do sektoru Kajut posádky. Grassi se staral o tvůj kryogenický spánek, tak se možná bude chtít k tobě přidat... pokud ovšem není na kousky.\n"
+
 
 EmailName7:"POLITOVÁ 12.7.2114\nre: Karta do R&D\n"
 EmailPortrait7:"Polito"
@@ -103,10 +106,10 @@ EmailIcon6:"OpsIcon"
 EmailText6:"Neztrácej čas samochválou.  Slez šachtou dolů do Techniky a znovu spusť hlavní Reaktor.  Obnovíš tím napájení výtahů a budeš konečně schopen se dostat na palubu 4.  Do toho!\n"
 
 
-LogName32:"Chem záznam: Medi/Věda\n"
+LogName32:"Chem záznam:\nMedi/Věda\n"
 LogPortrait32:"Chem"
 LogIcon32:"MedIcon"
-LogText32:"Inventář laboratorního skladu: Medi/Věda místnost 143\n\nAntimon (Sb) : 2\nBarium (Ba) : 1\nKalifornium (Cf) : 2\nFermium (Fm) : 2\nGallium (Ga) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnicium (Tc) : 1\nTellur (Té) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  "Sklad" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
+LogText32:"Inventář laboratorního skladu: Medi/Věda místnost 143\n\nAntimon (Sb) : 2\nBarium (Ba) : 1\nKalifornium (Cf) : 2\nFermium (Fm) : 2\nGallium (Ga) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnicium (Tc) : 1\nTellur (Té) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
 
 
 LogName18:"DIEGO 17.3.2114\nre: Mám toho dost\n"
