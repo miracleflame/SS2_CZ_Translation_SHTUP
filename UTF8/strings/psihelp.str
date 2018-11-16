@@ -3,7 +3,7 @@ BuyText2:"Zde se zobrazuje, kolik kyber modulů máte k dispozici."
 BuyText3:"Tato tlačítka přepínají mezi různými zobrazeními MFD."
 AmpText0:"Tato tlačítka přepínají mezi úrovněmi psionickych disciplín."
 
-Psi0:"První úroveň neurální kapacity\n
+Psi0:"1. úroveň neurální kapacity\n
 Je nezbytná pro použití PSI disciplín první úrovně.  Zvyšuje maximální počet psi bodů o 2.  Každé použití disciplín první úrovně odebere 1 psi bod."
 
 Psi1:"Psycho-reflexní Clona\n
@@ -33,8 +33,8 @@ Psi7:"Dálková Manipulace Elektronů\n
 Způsobí zkrácení doby poplachu.\n
 Redukce času: 5 s. + 5 s. za PSI"
 
-Psi8:"Druhá úroveň neurální kapacity\n
-Je nezbytná pro použití PSI disciplín druhé úrovně.  Zvyšuje maximální počet psi bodů o 4.  Každé použití disciplín druhé úrovně odebere 2 psi body."
+Psi8:"2. úroveň neurální kapacity\n
+Je nezbytná pro použití PSI disciplín 2. úrovně. Zvyšuje maximální počet psi bodů o 4.  Každé použití disciplín 2. úrovně odebere 2 psi body."
 
 Psi9:"Anti-entropické Pole\n
 Pokud je tato schopnost aktivní, vaše střelné zbraně se nezaseknou a ani se neopotřebovávají.\n
@@ -64,8 +64,8 @@ Psi15:"Lokalizovaná Pyrokineze\n
 Zraňuje všechny tvory v okolí 5 stop.  Vyšší PSI zvyšuje účinnost vůči protivníkům.\n
 Trvání: 15 s. + 8 s. za PSI"
 
-Psi16:"Třetí úroveň neurální kapacity\n
-Je nezbytná pro použití PSI disciplín třetí úrovně.  Zvyšuje maximální počet psi bodů o 6.  Každé použití disciplín třetí úrovně odebere 3 psi body."
+Psi16:"3. úroveň neurální kapacity\n
+Je nezbytná pro použití PSI disciplín 3. úrovně.  Zvyšuje maximální počet psi bodů o 6.  Každé použití disciplín 3. úrovně odebere 3 psi body."
 
 Psi17:"Molekulární Duplikace\n
 Použije nanity k duplikaci zásobníků munice nebo séra.\n
@@ -94,8 +94,8 @@ Psi23:"Psionická Hypnogeneze\n
 Působí na ne-robotické cíle.  Zasažený tvor zůstane nehybný, dokud není napaden.\n
 Trvání: 20 s. za PSI."
 
-Psi24:"Čtvrtá úroveň neuralní kapacity\n
-Je nezbytná pro použití PSI disciplín čtvrté úrovně.  Zvyšuje maximální počet psi bodů o 8.  Každé použití disciplín čtvrté úrovně odebere 4 psi body."
+Psi24:"4. úroveň neuralní kapacity\n
+Je nezbytná pro použití PSI disciplín 4. úrovně.  Zvyšuje maximální počet psi bodů o 8.  Každé použití disciplín 4. úrovně odebere 4 psi body."
 
 Psi25:"Přesměrování fotonů\n
 Zneviditelní vás všem nestvůrám.  Výstřelem ze zbraně se tento efekt zruší.\n
@@ -123,8 +123,8 @@ Psi31:"Cerebro-energetické Rozšíření\n
 Změní váš Psi-Amp v účinnou zbraň pro boj zblízka.\n
 Trvání: 10 s. za PSI"
 
-Psi32:"Pátá úroveň neurální kapacity\n
-Je nezbytná pro použití PSI disciplín páté úrovně.  Zvyšuje maximální počet psi bodů o 10.  Každé použití disciplín páté úrovně odebere 5 psi bodů."
+Psi32:"5. úroveň neurální kapacity\n
+Je nezbytná pro použití PSI disciplín 5. úrovně.  Zvyšuje maximální počet psi bodů o 10.  Každé použití disciplín 5. úrovně odebere 5 psi bodů."
 
 Psi33:"Pokročilá Mozkově-stimulovaná Regenerace\n
 Obnoví ztracené body zdraví.\n
@@ -134,15 +134,15 @@ Psi34:"Soma-přenos\n
 Vysaje z každého živého tvora jeho body zdraví a přidá je vám."
 
 Psi35:"Okamžitá Kvantová Relokace\n
-Teleportuje vás do označeného prostoru.  Není-li žádný prostor označen, označí se vaše současná pozice. Teleportační značku můžete smazat stisknutím Alt-T."
+Teleportuje vás do označeného prostoru. Není-li žádný prostor označen, označí se současná pozice. Teleportační značku můžete smazat zkratkou Alt-T."
 
 Psi36:"Vynucená Neurální Restrukturalizace\n
-Zasažený ne-robotický cíl se začne chovat nepřátelsky vůči všem nelidským tvorům.\n
+Zasažený ne-robotický cíl se začne chovat nepřátelsky vůči všem nelidským tvorům.
 Trvání: 10 s. za PSI, nebo dokud ho nezraní člověk."
 
 Psi37:"Metakreativní Bariéra\n
 Vytvoří přímo před vámi psionickou stěnu.\n
-Odolnost zdi: 150 + 50 za každou úroveň PSI nad 5\n
+Odolnost zdi: 150 + 50 za každou úroveň PSI nad 5.
 Trvání: 4 min."
 
 Psi38:"Externí Psionická Detonace\n

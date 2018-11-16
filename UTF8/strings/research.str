@@ -4,11 +4,11 @@ ReportName1:"Orgán Hybrida"
 ReportName10:"Orgán Rumblera"
 ReportName11:"Implantát ČervoMysl"
 ReportName13:"Orgán Arachnida"
-ReportName14:"Orgán Psi Reavera"
+ReportName14:"Orgán Psi Plenitela"
 ReportName15:"Implantát ČervoJednota"
 ReportName16:"Virální Proliferátor"
 ReportName17:"Zbroj Červo Kůže"
-ReportName19:"Velký orgán Psi Reavera"
+ReportName19:"Velký orgán Psi Plenitela"
 ReportName20:"Implantát ČervoSrdce"
 ReportName21:"Vrhač červů"
 ReportName22:"Opičí mozek"
@@ -86,7 +86,7 @@ ResRepText13:"Souhrn:  Naučil jsi se, jak nejúčinněji zasáhnout Arachnida. 
 Analýza:  Vnitřní systémy tohoto tvora jsou zdvojené, což by mohlo ukazovat buď na záměr, anebo na vývoj a utváření ve velmi nebezpečném okolním prostředí.  To co slouží jako nervová soustava přenáší mnohem vyšší množství energie než u lidí, díky čemuž jsou tkáně tohoto tvora úměrně více energeticky odolnější.  Metabolismus tohoto tvora mu umožňuje silnou hyperkinetickou aktivitu, stejně jako ho v případě potřeby dokáže uvést do stavu letargie. To mu pravděpodobně umožňuje přežít dlouhá období bez jakékoliv potravy. 
 
 Závěr:  Proti tomuto tvoru se nedoporučují používat energetické zbraně." 
-ResRepText14:"Naučil jsi se, jak nejúčinněji zasáhnout Psi Reavera a jeho projekce.  Všechna zranění, která mu, či jeho projekcím způsobíš, budou o 25% vyšší.  Projekce se průběžně samostatně regenerují, dokud nezničíš mozkovou strukturu, která je vytváří. 
+ResRepText14:"Naučil jsi se, jak nejúčinněji zasáhnout Psi Plenitela a jeho projekce.  Všechna zranění, která mu, či jeho projekcím způsobíš, budou o 25% vyšší.  Projekce se průběžně samostatně regenerují, dokud nezničíš mozkovou strukturu, která je vytváří. 
 
 Analýza:  Tohle je neustále se nabíjející vzorek psychokreativní tkáně.  Je to nesmírně složitý finální produkt soustředěné psionické projekce.  Tato tkáň může být dočasně poškozena, ale ne úplně zničena, neboť psionická projekce může být svým tvůrčím organismem snadno vytvořena znovu. 
 
@@ -106,9 +106,9 @@ ResRepText17:"Souhrn:  Tato zbroj poskytuje částečnou ochranu před zranění
 Analýza:  Tato červí kůže byla nahrubo vytvarována tak aby byla vhodná k nošení člověkem.  Tato kůže je mnohem odolnější než by se z její struktury mohlo zdát, a další zkoumání odhaluje jemný odpuzující efekt, který se zda být psionicky generován.  Skutečnost, že je tento efekt stále aktivní, ve spojení s pomalými metabolickými procesy v kůži ukazuje, že tato kůže zůstává v jistém smyslu stále živá. 
 
 Závěr:  Nošení červí kůže jako zbroje poskytne jistou ochranu jak proti fyzickému poškození, tak i proti radiaci a toxinům. Kůže také zvyšuje hodnotu nositelovy PSI, ale na oplátku neustále pomalu psionicky vyčerpává svého nositele." 
-ResRepText19:"Souhrn:  Naučil jsi se, jak nejúčinněji zasáhnout velkého Psi Reavera a jeho projekce.  Všechna zranění, která jemu, nebo jeho projekcím způsobíš, budou o 25% vyšší.  Projekce se průběžně samostatně regenerují, dokud nezničíte mozkovou strukturu, která je vytváří. 
+ResRepText19:"Souhrn:  Naučil jsi se, jak nejúčinněji zasáhnout velkého Psi Plenitela a jeho projekce.  Všechna zranění, která jemu, nebo jeho projekcím způsobíš, budou o 25% vyšší.  Projekce se průběžně samostatně regenerují, dokud nezničíš mozkovou strukturu, která je vytváří. 
 
-Analýza:  Tohle je neustále se nabíjející vzorek psychokreativní tkáně.  Je to nesmírně složitý finální produkt soustředěné psionické projekce.  Tato tkáň může být dočasně poškozena, ale ne úplně zničena, neboť psionická projekce může být svým tvůrčím organismem snadno vytvořena znovu.  Tato verze Psi Reavera se zdá být mnohem silnější, než ty, se kterými jsi se setkal předtím. 
+Analýza:  Tohle je neustále se nabíjející vzorek psychokreativní tkáně.  Je to nesmírně složitý finální produkt soustředěné psionické projekce.  Tato tkáň může být dočasně poškozena, ale ne úplně zničena, neboť psionická projekce může být svým tvůrčím organismem snadno vytvořena znovu.  Tato verze Psi Plenitela se zdá být mnohem silnější, než ty, se kterými jsi se setkal předtím. 
 
 Závěr:  Ačkoli lze tuto projekci rozbít nejrůznějšími konvenčními způsoby, je to pouze krátkodobé řešení.  Neplýtvejte zbytečně materiálem v boji proti tomuto fenoménu, pokud to není životně nezbytné.  Jestliže už musí být zničen, vyhledejte a zničte nejdříve jeho řidiči nervovou strukturu."
 ResRepText20:"Souhrn:  Jakmile je tento implantát aplikován, uživatel se stává odolným proti annelidským toxinům, a regeneruje jeden bod zdraví každých třicet sekund.  Bohužel, když se tento implantát vybije, nebo je vyjmut, vpraví do krevního oběhu mohutnou dávku toxinů.  Mějte pro tento případ po ruce dostatečnou zásobu antitoxin séra! 
