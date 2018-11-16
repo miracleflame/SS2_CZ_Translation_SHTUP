@@ -214,7 +214,7 @@ SUB1
 	multisub em0303 {
 		{ time 1200 length 5000 text "Fajn, Nádoby s Toxinem-A je tøeba umístit pøímo do klimatizaèních jednotek." }
 		{ time 6700 length 4500 text "Na této palubì jsou celkem ètyøi.  Pokud se ti podaøí nádoby umístit do všech jednotek," }
-		{ time 11200 length 4600 text "mìlo by to znaènì ovlivnit rùst tìhle odporných kreatùr." }
+		{ time 11200 length 4600 text "mìlo by to znaènì ovlivnit rùst tìhle odporných kreatur." }
 		{ time 16400 length 3000 text "Rovnìž by to mìlo odstranit i biomateriál ve výtahové šachtì." }
 	}
 	multisub em0304 {
@@ -228,7 +228,7 @@ SUB1
 	}
 	multisub em0306 {
 		{ time 1700 length 8000 text "Výbornì!  Je zjevné, že biomateriál na zdech a ve výtahové šachtì je napadán rozptylovaným biotoxinem." }
-		{ time 10300 length 3200 text "Teï to samé udìlej u dalších tøi klimatizaèních jednotek." }
+		{ time 10300 length 3200 text "Teï to samé udìlej u dalších tøí klimatizaèních jednotek." }
 	}
 	multisub em0307 {
 		{ time 1300 length 3100 text "Už vìdí kde jsi.  Najdi nìjaký zpùsob, jak uvolnit šachtu." }
