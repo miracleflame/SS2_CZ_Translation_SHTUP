@@ -61,7 +61,7 @@ LogText24:"Tato zpráva přichází z audiologu, který jsi právě zvedl. Svůj
 LogName32:"Chemický záznam:\nTechnika\n"
 LogPortrait32:"Chem"
 LogIcon32:"EngIcon"
-LogText32:"Inventář laboratorního skladu: Technika místnost 192\n\nAntimon (Sb) : 2\nBaryum (Ba) : 2\nKalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnecium (Tc) : 1\nTellur (Te) : 1\nVanad (V) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečných stop a trvání delším než 24 hodin.\n"
+LogText32:"Inventář laboratorního skladu: Technika skladiště 192\n\nAntimon (Sb) : 2\nBaryum (Ba) : 2\nKalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnecium (Tc) : 1\nTellur (Te) : 1\nVanad (V) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečních stop a trvání delším než 24 hodin.\n"
 
 
 LogName6:"SIDONSOVÁ 02.6.2114\nre: Není to ono\n"
