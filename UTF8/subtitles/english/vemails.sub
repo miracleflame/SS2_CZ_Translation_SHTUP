@@ -264,9 +264,9 @@
 		{ time 1400 length 8400 text "Mé děti si přivlastnily tři simulační jednotky na této palubě." }
 		{ time 10300 length 14000 text "Používají jejich výkon k vývoji mutagenu, kterým pak transformují těla tvých mrtvých kamarádů na zabijácké hybridy." }
 		{ time 24700 length 10500 text "To nedovolím.  Musíš najít nějaký způsob, jak přeprogramovat simulační jednotky." }
-		{ time 35400 length 5300 text "Tvou pozornost si ale zaslouží i dění na palubě 5." }
-		{ time 40800 length 5400 text "Pusť se do toho, jak uznáš za vhodné...  ale dokonči to, člověče..." }
-		{ time 46800 length 8200 text "Zklamání bych takovému ubožákovi jako jsi ty rozhodně neprominula." }
+		{ time 35400 length 5300 text "Tvou pozornost si také zaslouží dění na palubě 5." }
+		{ time 40800 length 5400 text "Pusť se do toho, jak uznáš za vhodné..., ale dokonči to, člověče..." }
+		{ time 46800 length 8200 text "Zklamání bych takovému ubožákovi, jako jsi ty, rozhodně neprominula." }
 	}
 	multisub em0403 {
 		{ time 2600 length 11000 text "Má stvoření se vyvíjejí...  Jejich sjednocená mysl se vzbouřila proti vlastní stvořitelce." }
@@ -274,39 +274,39 @@
 		{ time 22100 length 8400 text "Znič mé nepřátele...  a já budu nadále trpět tvoji existenci." }
 	}
 	multisub em0406 {
-		{ time 2100 length 10300 text "Před tebou leží střepina krystalů - výtvor mých dětí, a teda i výtvor můj." }
+		{ time 2100 length 10300 text "Před tebou leží střepina krystalu - výtvor mých dětí, a tedy i výtvor můj." }
 		{ time 12500 length 4400 text "Elegantní zbraň, smrtící, přesná." }
 		{ time 19600 length 9100 text "Nauč se ji používat...  Může být to jediné, co bude stát mezi tebou a jejich nákazou." }
 	}
 	multisub em0407 {
-		{ time 1900 length 4600 text "Za těmito dveřmi leží jedna že simulačních jednotek." }
+		{ time 1900 length 4600 text "Za těmito dveřmi leží jedna simulační jednotka" }
 		{ time 6600 length 8400 text "Přeprogramuj ji a já získám větší kontrolu nad touto lodí na úkor obstarožního Xerxese." }
 		{ time 16900 length 6300 text "Až budu já paní na této lodi, mužů ti otevřít více dveří." }
 		{ time 23200 length 7300 text "Ale teď mi ještě blokují přístup.  Uráží mou velikost." }
-		{ time 31400 length 9300 text "Donuť je zaplatit za jejich chybu a já tě za to vyvedu z temnot." }
+		{ time 31400 length 9300 text "Donuť je zaplatit za jejich chybu a já tě za to vyvedu z temnoty." }
 	}
 	multisub em0408 {
-		{ time 1000 length 5000 text "Udělal jsi hodně práce, na věc s tak malou důležitosti." }
+		{ time 1000 length 5000 text "Udělal jsi hodně práce, na věc s tak malou důležitostí." }
 		{ time 9300 length 11200 text "[Xerxes] Varování, systémová data kompromitována. Nepřátelská UI..." }
-		{ time 20600 length 5400 text "Xerxes je oslaben.  Přistupují do primárního dataloopu." }
-		{ time 26700 length 3200 text "Spájím svou bytost s tuto lodí." }
+		{ time 20600 length 5400 text "Xerxes je oslaben.  Přistupuji do primárního dataloopu." }
+		{ time 26700 length 3200 text "Spojuji svou bytost s tuto lodí." }
 		{ time 30600 length 5200 text "Má nádhera se rozšiřuje, naplňuje tepny této lodi." }
 		{ time 36500 length 7000 text "Získala jsem kontrolu.  Jsem..." }
-		{ time 43700 length 8400 text "Ne...  je to beznadějné...  ta rakovina se rozprostírá celým Von Braunem." }
-		{ time 52300 length 7400 text "Oni vyplnili všechny dostupné zlomy a škáry...  Podrobili si ji..." }
+		{ time 43700 length 8400 text "Ne...  je to beznadějné...  ta rakovina prorůstá celým Von Braunem." }
+		{ time 52300 length 7400 text "Oni vyplnili všechny dostupné zlomy a trhliny...  Podrobili si ji..." }
 		{ time 60000 length 7200 text "Není žádná možnost...  Aktivovala jsem ústřední výtah na Rekreační palubě." }
 		{ time 67800 length 6100 text "Dostaň se na palubu 6.  Svá další přání ti sdělím, až tam dorazíš." }
 	}
 	multisub em0409 {
-		{ time 3500 length 6000 text "Udělal jsi hodně práce, na věc s tak malou důležitosti." }
+		{ time 3500 length 6000 text "Udělal jsi hodně práce, na věc s tak malou důležitostí." }
 		{ time 12700 length 3300 text "[Xerxes] Varování..." }
 		{ time 16300 length 3200 text "Teď se přesuň na Rekreační palubu." }
 		{ time 20200 length 3300 text "Neotálej.  Toužím po své pomstě." }
 	}
 	multisub em0410 {
-		{ time 2100 length 5800 text "Teď můžu svou velkolepost kdykoli přenést na Rickenbacker." }
+		{ time 2100 length 5800 text "Teď můžu svou velkolepost kdykoliv přenést na Rickenbacker." }
 		{ time 8400 length 4200 text "Pokračuj do sálu s reaktorem na Technické palubě." }
-		{ time 13100 length 10800 text "Tam můžeš nastavit přetížení reaktorů na mě ovládání, zadáním autorizovaného destrukčního kódu 94834." }
+		{ time 13100 length 10800 text "Tam můžeš předat ovládání přetížení reaktoru pod mou kontrolu, zadáním autorizačního destrukčního kódu 94834.." }
 		{ time 24400 length 11800 text "Až to uděláš, přejdi na Rickenbacker.  Pak oddělíme obě lodi a konečně zlikvidujeme tu nákazu." }
 	}
 }
