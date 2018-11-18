@@ -306,7 +306,7 @@ SUB1
 	multisub em0410 {
 		{ time 2100 length 5800 text "Teï mùžu svou velkolepost kdykoliv pøenést na Rickenbacker." }
 		{ time 8400 length 4200 text "Pokraèuj do sálu s reaktorem na Technické palubì." }
-		{ time 13100 length 10800 text "Tam mùžeš pøedat ovládání pøetížení reaktoru pod mou kontrolu, zadáním autorizaèního destrukèního kódu 94834.." }
+		{ time 13100 length 10800 text "Tam mùžeš pøedat ovládání pøetížení reaktoru pod mou kontrolu, zadáním autorizaèního destrukèního kódu 94834." }
 		{ time 24400 length 11800 text "Až to udìláš, pøejdi na Rickenbacker.  Pak oddìlíme obì lodi a koneènì zlikvidujeme tu nákazu." }
 	}
 }
