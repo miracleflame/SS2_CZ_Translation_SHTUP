@@ -68,7 +68,7 @@ SUB1
 		{ time 84100 length 4100 text "Obnovuji pamì... obnovuji pamì..." }
 		{ time 88700 length 3000 text "CHYBA... CHYBA... CHYBA..." }
 		{ time 100700 length 3100 text "Dej se do kupy, vojáku." }
-		{ time 103700 length 4500 text "Tady je doktorka Janice Politová z personálu vıpoèetních operací Von Braun." }
+		{ time 103700 length 4500 text "Tady je doktorka Janice Politová z personálu vıpoèetní správy Von Braun." }
 		{ time 108000 length 2200 text "Prozatím jsi v bezpeèí." }
 		{ time 110100 length 6000 text "Zotavuješ se z úèinkù operace a nebudeš schopen si vzpomenout na ádné události posledních tıdnù." }
 		{ time 116000 length 5100 text "Jsi na palubì vesmírné lodi Von Braun a nìco se hodnì, hodnì podìlalo.." }

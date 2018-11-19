@@ -373,14 +373,14 @@ SUB1
 		{ time 1600 length 4600 text "Vysílání bylo zkomoleno a pøerušeno.  Nevadí." }
 		{ time 6300 length 4700 text "Znièíme má stvoøení pøímo tady.  Pøíprav se..." }
 		{ time 13800 length 3300 text "[Xerxes] Varování..." }
-		{ time 18400 length 5600 text "Vra se na palubu Operací a pøeprogramuj simulaèní jednotky." }
+		{ time 18400 length 5600 text "Vra se na palubu Správy a pøeprogramuj simulaèní jednotky." }
 		{ time 24700 length 6600 text "Neotálej.  Touím po mé pomstì." }
 	}
 	multisub em0511 {
 		{ time 1300 length 9000 text "Tvım kolegùm se v Atletickém sektoru této paluby podaøilo nainstalovat vysílací stanici." }
 		{ time 10700 length 10400 text "Vysílaè je urèen k vysílání zpráv zpátky na Zemi. Tak je chtìjí varovat pøed událostmi, které postihly tuto loï." }
 		{ time 21600 length 5200 text "A navíc odebírá èást vıkonu obvodùm Xerxese." }
-		{ time 27100 length 8900 text "A budeš mít hotovo tohle i úkoly, které jsem ti pøipravila na palubì Operací, budu schopna s Xerxesem zatoèit." }
+		{ time 27100 length 8900 text "A budeš mít hotovo tohle i úkoly, které jsem ti pøipravila na palubì Správy, budu schopna s Xerxesem zatoèit." }
 		{ time 37300 length 4000 text "Najdi ten vysílaè, a aktivuj ho." }
 	}
 }
@@ -421,7 +421,7 @@ SUB1
 		{ time 8300 length 3600 text "Nemám jinou monost, ne znièit tuto vesmírnou loï." }
 		{ time 12800 length 10300 text "My mùem uniknout na Rickenbacker, ale pøedtím tam musíš pøenést mou osobnost." }
 		{ time 23500 length 3300 text "Jdi na velitelskı mùstek Von Brauna - je na této palubì." }
-		{ time 27300 length 8000 text "Tam najdeš vstupní kartu do øídícího centra na palubì Operací.  Najdi tu kartu a bì tam." }
+		{ time 27300 length 8000 text "Tam najdeš vstupní kartu do øídícího centra na palubì Správy.  Najdi tu kartu a bì tam." }
 		{ time 35900 length 6400 text "Ale dìj si pozor...  Annelidští hybridi jsou s kadou minutou inteligentnìjší a nebezpeènìjší..." }
 		{ time 43100 length 1000 text "...ty ne." }
 	}
