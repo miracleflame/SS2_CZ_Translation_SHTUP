@@ -2,7 +2,7 @@ SUB1
 
 {
 	type "nonverbal"
-	descr "Rumbler"
+	descr "Rachorach"
 	sub rm1at0_1 { text "[v klidu]" } // AI_AT0, AI_BAK
 	sub rm1at0_2 { text "[v klidu]" } // AI_AT0, AI_BAK
 	sub rm1at0_3 { text "[v klidu]" } // AI_AT0
