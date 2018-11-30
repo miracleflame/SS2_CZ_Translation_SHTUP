@@ -46,28 +46,32 @@ LogIcon32:"OpsIcon"
 LogText32:"Inventář laboratorního skladu: Správa-skladová komora 089\n\nArsen (As) : 2\nBarium (Ba) : 2\nCesium (Cs) : 2\nMěď  (Cu) : 2\nFermium (Fm) : 1\nHassium (Hs) : 1\nIridium (Ir) : 2\nRadium (Ra) : 1\nSodík (Na) : 2\nYttrium (Y) : 1\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším než 50g na 10 čtverečních stop a trvání delším než 24 hodin.\n"
 
 
-LogName15:"KORENCHKIN 02.3.2114\nre: Všechno staré...\n"
+LogName15:"KORENCHKIN 02.3.2114\nre: Všechno staré..."
 LogPortrait15:"Korench"
 LogIcon15:"ComIcon"
-LogText15:"Pro: Zhukov, Vladimír\nMiri, naše práce na posledním modelu kyber zabijáka má zatím vynikající výsledky.  Doufám, že záležitost s tím zkurvysynem Diegem nedojde tak daleko, ale je uklidňující vědět, že nejsme tak úplně bezbranní, jak by si útočné jednotky UNN mohly myslet.  Jediný problém, na který jsme narazili, je vylepšený laserový rapír...  Ty ubohé věci stále odsekávají kousky sebe sama.  Snažíme se chyby odstranit, ale vím že nás ten...  byrokrat...  pozoruje.  Je smutné vidět chlapa, kterého tak straší duch vlastního otce...  Jeho nenávist ke všemu, co představuje TriOptimum, je pozoruhodná.\n"
+LogText15:"Pro: Zhukov, Vladimír\n
+Miri, naše práce na posledním modelu kyber zabijáka má zatím vynikající výsledky.  Doufám, že záležitost s tím zkurvysynem Diegem nedojde tak daleko, ale je uklidňující vědět, že nejsme tak úplně bezbranní, jak by si útočné jednotky UNN mohly myslet.  Jediný problém, na který jsme narazili, je vylepšený laserový rapír...  Ty ubohé věci stále odsekávají kousky sebe sama.  Snažíme se chyby odstranit, ale vím že nás ten...  byrokrat...  pozoruje.  Je smutné vidět chlapa, kterého tak straší duch vlastního otce...  Jeho nenávist ke všemu, co představuje TriOptimum, je pozoruhodná.\n"
 
 
-LogName18:"SIDONSOVÁ 02.7.2114\nre: Špatný pocit...\n"
+LogName18:"SIDONSOVÁ 02.7.2114\nre: Špatný pocit..."
 LogPortrait18:"Siddons"
 LogIcon18:"OpsIcon"
-LogText18:"Pro: Suarez, Tommy\nTommy...  Nevím, co se tu děje.  Jak jsme dostali rozkaz vyklidit palubu 3,  lidé se začali ztrácet.  Na všech leží nějaká špatná předtucha, ale nikomu se o tom nechce mluvit.  Nelíbí se mi to.  Přijď za mnou na Rekreační palubu v 09:00.  Mám takový nápad...  takovou malou pojistku pro nás dva.\n"
+LogText18:"Pro: Suarez, Tommy\n
+Tommy...  Nevím, co se tu děje.  Jak jsme dostali rozkaz vyklidit palubu 3,  lidé se začali ztrácet.  Na všech leží nějaká špatná předtucha, ale nikomu se o tom nechce mluvit.  Nelíbí se mi to.  Přijď za mnou na Rekreační palubu v 09:00.  Mám takový nápad...  takovou malou pojistku pro nás dva.\n"
 
 
-LogName19:"SUAREZ 03.7.2114\nre: Jdu do toho\n"
+LogName19:"SUAREZ 03.7.2114\nre: Jdu do toho"
 LogPortrait19:"Suarez"
 LogIcon19:"RickIcon"
-LogText19:"To: Sidonsová, Rebeka\nBeko - myslím, že tvůj nápad s tou pojistkou nás přivede do maléru, ale věřím ti...  Půjdeme do toho.  Získal jsem vstupní kódy k záchranným modulům na palubě Velení.  Teď už se jen potřebujeme dostat do bezpečnostního subsystému Xerxese, překonat ICE uzly a snažit se nepotkat bezpečnostní oddíl Bronsonové.  Levou zadní, že?\n"
+LogText19:"Pro: Sidonsová, Rebeka\n
+Beko - myslím, že tvůj nápad s tou pojistkou nás přivede do maléru, ale věřím ti...  Půjdeme do toho.  Získal jsem vstupní kódy k záchranným modulům na palubě Velení.  Teď už se jen potřebujeme dostat do bezpečnostního subsystému Xerxese, překonat ICE uzly a snažit se nepotkat bezpečnostní oddíl Bronsonové.  Levou zadní, že?\n"
 
 
-LogName20:"BAYLISS 06.7.2114\nre: O co jde?\n"
+LogName20:"BAYLISS 06.7.2114\nre: O co jde?"
 LogPortrait20:"Bayliss"
 LogIcon20:"RickIcon"
-LogText20:"Pro: Politová, Dr. Janice\nNemám z toho dobrý pocit.  Stále nechápu, proč jste chtěli, abych se hrabal v paměťové rekonstrukci u toho vojáka.  Proč nechcete, aby si pamatoval, že je dobrovolník?  Nechal si doufám ty implantáty instalovat dobrovolně, že?  Každý váš e-mail je divnější a divnější...  Vypadá to, jako byste už ani nebyla sama sebou.\n"
+LogText20:"Pro: Politová, Dr. Janice\n
+Nemám z toho dobrý pocit.  Stále nechápu, proč jste chtěli, abych se hrabal v paměťové rekonstrukci u toho vojáka.  Proč nechcete, aby si pamatoval, že je dobrovolník?  Nechal si doufám ty implantáty instalovat dobrovolně, že?  Každý váš e-mail je divnější a divnější...  Vypadá to, jako byste už ani nebyla sama sebou.\n"
 
 
 LogName2:"MALICK 07.7.2114\nre: Bronsonová\n"
@@ -82,7 +86,7 @@ LogIcon3:"OpsIcon"
 LogText3:"Něco přebírá vládu nad touto lodí.  Simulační jednotky na této palubě byly z neznámých důvodů přeprogramovány.  Vím, že to nějak zapadá do většího obrazu, a toho co se tu děje, od té doby co jsme přistáli na Tau Ceti 5...  Mí muži se na mě dívají jako na blázna, ale já mám odpovědnost za bezpečnost lodi a její posádky.  K čertu s Anatolyem, k čertu s Diegem a k čertu s čímkoli, co svým jedovatým vlivem znesvěcuje tuto loď.  Neopustím své místo ani své povinnosti...\n"
 
 
-LogName1:"YOUNT 07.7.2114\nre: Simulační jednotky"\n
+LogName1:"YOUNT 07.7.2114\nre: Simulační jednotky"
 LogPortrait1:"Yount"
 LogIcon1:"OpsIcon"
 LogText1:"Pro: Delacroix, Dr. Marie\n
@@ -107,16 +111,18 @@ LogIcon6:"OpsIcon"
 LogText6:"Mmm...  Bronsonová už ví...  Nemůžu ji nechat zmařit naší práci...  Mmm... Je pro ní připravené malé překvapení...  Kdokoliv se přiblíží k simulační jednotce 3...  Bude litovat...  Hořce litovat...\n"
 
 
-LogName4:"BRONSONOVÁ 08.7.2114\nre: Stanné právo\n"
+LogName4:"BRONSONOVÁ 08.7.2114\nre: Stanné právo"
 LogPortrait4:"Bronson"
 LogIcon4:"OpsIcon"
-LogText4:"Pro: Celá Posádka Von Braun\nOde dneška vyhlašuji na lodi Von Braun Stanné právo.  Všechny primární sub-sektory lodi budou uzamčeny a přístupné budou pouze prostřednictvím bezpečnostních vstupních karet.  Kdokoliv bude přistižen, že zasahuje do normálního lodního provozu, nebo bude klást odpor bezpečnostním složkám, bude na místě zastřelen.\n"
+LogText4:"Pro: Celá Posádka Von Braun\n
+Ode dneška vyhlašuji na lodi Von Braun Stanné právo.  Všechny primární sub-sektory lodi budou uzamčeny a přístupné budou pouze prostřednictvím bezpečnostních vstupních karet.  Kdokoliv bude přistižen, že zasahuje do normálního lodního provozu, nebo bude klást odpor bezpečnostním složkám, bude na místě zastřelen.\n"
 
 
-LogName7:"BRONSONOVÁ 08.7.2114\nre: Žádné flákání\n"
+LogName7:"BRONSONOVÁ 08.7.2114\nre: Žádné flákání"
 LogPortrait7:"Bronson"
 LogIcon7:"OpsIcon"
-LogText7:"Pro: Ostraha VB\nJe mi jasné, že nejste této misi oddáni tak, jak by bylo třeba.  Ale je nutné, aby jste si splnili svou povinnost.  Zrádci z OPS zatím nebyli schopni znovu nahodit simulační jednotky.  Jestli se situace nespraví do 06:00, naběhneme tam v plné síle a zjednáme pořádek.  Změnila jsem kód od skladiště zbraní na 13433.  Seřadíme se v 05:00.  Cokoliv se nám postaví, ať člověk, nebo něco jiného, zabijeme okamžitě a bez lítosti.\n"
+LogText7:"Pro: Ostraha VB\n
+Je mi jasné, že nejste této misi oddáni tak, jak by bylo třeba.  Ale je nutné, aby jste si splnili svou povinnost.  Zrádci z OPS zatím nebyli schopni znovu nahodit simulační jednotky.  Jestli se situace nespraví do 06:00, naběhneme tam v plné síle a zjednáme pořádek.  Změnila jsem kód od skladiště zbraní na 13433.  Seřadíme se v 05:00.  Cokoliv se nám postaví, ať člověk, nebo něco jiného, zabijeme okamžitě a bez lítosti.\n"
 
 
 LogName5:"MALICK 08.7.2114\nre: Sbohem\n"
@@ -125,16 +131,18 @@ LogIcon5:"OpsIcon"
 LogText5:"Dnes jsem shodil poslední simulační jednotku...  Jsem plný slávy Mnoha...  Už přichází Bronsonová.  Jsem v klidu...  Dobrý večer, Bronsonová.  Snad nejdete k...\n"
 
 
-LogName8:"DIEGO 08.7.2114\nre: Přestaňte s tím\n"
+LogName8:"DIEGO 08.7.2114\nre: Přestaňte s tím"
 LogPortrait8:"Diego"
 LogIcon8:"RickIcon"
-LogText8:"Pro: Bronsonová, Melánie\nPoslouchej mě, ty malá děvko.  Buď rozpustíš tu svou armádu cínových vojáčků, nebo k vám přijde SKUTEČNÁ armáda a rozdupe ty tvé rádoby vojáčky.  Ani omylem nedokážeš pochopit, co je tady naším úkolem, ani nádheru našeho cíle.  Když uděláš, co jsme řekli, dáme ti šanci poznat slávu Mnoha.  Podrob se, nebo zemři, sestro.  Je to tak jednoduché.\n"
+LogText8:"Pro: Bronsonová, Melánie\n
+Poslouchej mě, ty malá děvko.  Buď rozpustíš tu svou armádu cínových vojáčků, nebo k vám přijde SKUTEČNÁ armáda a rozdupe ty tvé rádoby vojáčky.  Ani omylem nedokážeš pochopit, co je tady naším úkolem, ani nádheru našeho cíle.  Když uděláš, co jsme řekli, dáme ti šanci poznat slávu Mnoha.  Podrob se, nebo zemři, sestro.  Je to tak jednoduché.\n"
 
 
-LogName9:"WOOD 09.7.2114\nre: krystalové dary\n"
+LogName9:"WOOD 09.7.2114\nre: krystalové dary"
 LogPortrait9:"Wood"
 LogIcon9:"OpsIcon"
-LogText9:"Pro: Ostraha VB\nDali mi dva dary...  Není to úžasné... ? Dvě malé střepiny krystalů...  Jsou velmi, velmi ostré a když s nimi udeřím, tak mi zpívají...  Chtějí zazpívat seržantce Bronsonové...  Teď za ní půjdu a podělím se s ní o svůj dar...  Jsou sice křehké, ale velice ostré!\n"
+LogText9:"Pro: Ostraha VB\n
+Dali mi dva dary...  Není to úžasné... ? Dvě malé střepiny krystalů...  Jsou velmi, velmi ostré a když s nimi udeřím, tak mi zpívají...  Chtějí zazpívat seržantce Bronsonové...  Teď za ní půjdu a podělím se s ní o svůj dar...  Jsou sice křehké, ale velice ostré!\n"
 
 
 LogName12:"BRONSONOVÁ 10.7.2114\nre: Vzdorujte\n"
@@ -143,18 +151,21 @@ LogIcon12:"OpsIcon"
 LogText12:  "Zabili mé muže a teď zabili i mě.  Oběma rukama si držím své vnitřnosti uvnitř.  Už je skoro po mně... Vzdorujte!  Jde o víc než můj nepatrný život, o víc než životy mých mužů a životy lidí, které jsem byla nucena zabít.  Vzdorujte!  Lidstvo to potřebuje!  Vzdorujte!\n"
 
 
-LogName10:"SIDONSOVÁ 11.7.2114\nre: Občanská válka\n"
+LogName10:"SIDONSOVÁ 11.7.2114\nre: Občanská válka"
 LogPortrait10:"Siddons"
 LogIcon10:"OpsIcon"
-LogText10:"Pro: Suarez, Tommy\nSnažím se tě najít, ale nedaří se mi to.  Uvízla jsem na palubě 4.  Probíhá tu něco jako občanská válka...  Přišli sem bezpečnostní síly a...  Teď se nelekej, ale jsem zraněna...  i když nijak vážně, podařilo se mi dát do kupy několik Medkitů a pár dalších užitečných věcí...  Některé z nich vypadají důležitě, ale nejsem si jistá, co to je.  Možná nějaký druh vojenského implantátu.  Nechala jsem věci, co teď nepotřebuji, ležet v rohu databanky, pro případ, že bych je potřebovala později.  Jsem na cestě.  Slibuju, že neumřu.  Já neumřu!  Udělej to taky tak, má lásko...  Tvoje Beka.\n"
+LogText10:"Pro: Suarez, Tommy\n
+Snažím se tě najít, ale nedaří se mi to.  Uvízla jsem na palubě 4.  Probíhá tu něco jako občanská válka...  Přišli sem bezpečnostní síly a...  Teď se nelekej, ale jsem zraněna...  i když nijak vážně, podařilo se mi dát do kupy několik Medkitů a pár dalších užitečných věcí...  Některé z nich vypadají důležitě, ale nejsem si jistá, co to je.  Možná nějaký druh vojenského implantátu.  Nechala jsem věci, co teď nepotřebuji, ležet v rohu databanky, pro případ, že bych je potřebovala později.  Jsem na cestě.  Slibuju, že neumřu.  Já neumřu!  Udělej to taky tak, má lásko...  Tvoje Beka.\n"
 
 
 LogName13:"DELACROIX 11.7.2114\nre: Hlavní výtah\n"
 LogPortrait13:"Delacroix"
-LogIcon13:"EngIcon"LogText13:"Pokud se nám podaří přeprogramovat simulační jednotky a odklonit napájení pro vysílač na palubě 5, má nová přítelkyně bude schopna získat přístup do primárního dataloopu Xerxese.  Ona...  Ono to říká, že nám umožní použít výtah na můstek a získat kontrolu nad lodí.\n"
+LogIcon13:"EngIcon"
+LogText13:"Pokud se nám podaří přeprogramovat simulační jednotky a odklonit napájení pro vysílač na palubě 5, má nová přítelkyně bude schopna získat přístup do primárního dataloopu Xerxese.  Ona...  Ono to říká, že nám umožní použít výtah na můstek a získat kontrolu nad lodí.\n"
 
 
-LogName14:"SUAREZ 12.7.2114\nre: Nezastavuj se\n"
+LogName14:"SUAREZ 12.7.2114\nre: Nezastavuj se"
 LogPortrait14:"Suarez"
 LogIcon14:"RickIcon"
-LogText14:"Pro: Sidonsová, Rebeka\nNezastavuj se Rebeko.  Buď neustále v pohybu.  Dostaň se k záchranným modulům na palubě Velení.  Vlezeme dovnitř, nastavíme budík, aby nás vzbudil za 30 let a budeme zpátky na Zemi, ani si toho nevšimneme.  Modul pro dva, to bude naše nejbližší zastávka.  Zní to slibně, že?  Tak do toho.  Nechci žádné výmluvy.\n"
+LogText14:"Pro: Sidonsová, Rebeka\n
+Nezastavuj se Rebeko.  Buď neustále v pohybu.  Dostaň se k záchranným modulům na palubě Velení.  Vlezeme dovnitř, nastavíme budík, aby nás vzbudil za 30 let a budeme zpátky na Zemi, ani si toho nevšimneme.  Modul pro dva, to bude naše nejbližší zastávka.  Zní to slibně, že?  Tak do toho.  Nechci žádné výmluvy.\n"

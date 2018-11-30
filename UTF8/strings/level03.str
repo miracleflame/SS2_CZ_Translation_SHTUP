@@ -46,7 +46,7 @@ LogIcon32:"HydIcon"
 LogText32:"Inventář laboratorního skladu: Hydroponická laboratoř 008\n\nAntimon (Sb) : 2\nArsen (As) : 1\nBarium (Ba) : 1\nCesium (Cs) : 2\n Měď (Cu) : 1\nFermium (Fm) : 1\nGalium (Ga) : 2\nHassium (Hs) : 1\nIridium (Ir) : 2\nRadium (Ra) : 1\nTechnecium (Tc) : 2\nTelur (Te) : 2\nVanad (V) : 1\n\nTento inventární seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečních stop a trvání delším než 24 hodin.\n"
 
 
-LogName3:"MILLER 27.6.2114\nre: Naše práce\n"
+LogName3:"MILLER 27.6.2114\nre: Naše práce"
 LogPortrait3:"Miller"
 LogIcon3:"HydIcon"
 LogText3:"Pro: Renfro, Richard : Oxford University\n
@@ -83,28 +83,28 @@ LogIcon5:"HydIcon"
 LogText5: "Ta schémata jsem našla na stole Dr. Millera...  jsou to plány pro typ kybernetického vylepšení, které je už čtyřicet let zakázáno...  to přece není jeho styl...  Šla jsem si s ním o tom promluvit, ale pak jsem si všimla...  DNA sekvence použité v jeho prototypu...  jsou moje...\n"
 
 
-LogName6:"DELACROIX 03.7.2114\nre: Probíhají změny\n"
+LogName6:"DELACROIX 03.7.2114\nre: Probíhají změny"
 LogPortrait6:"Delacroix"
 LogIcon6:"EngIcon"
 LogText6:"Pro:  Polito, Dr. Janice\n
 Dostala jsem e-mail od Anatolyho.  Není v pořádku.  Předpisy společnosti připouštějí odvolání výkonného důstojníka, pokud není schopen služby...  Ale co jeho spojenec kapitán Diego?  Má u sebe na Rickenbackeru 120 opičáků, kteří ho poslouchají na slovo...  Říkám si, co když ta nekompletní UI, kterou jsme objevili na Tau Ceti 5, s tím nějak souvisí...\n"
 
 
-LogName7:"POLITOVÁ 04.7.2114\nre: Hlasový fragment UI\n"
+LogName7:"POLITOVÁ 04.7.2114\nre: Hlasový fragment UI"
 LogPortrait7:"Polito"
 LogIcon7:"OpsIcon"
 LogText7:"Pro: Delacroix, Dr. Marie\n
 Marie, tohle spěchá...  Vypadá to, že se UI z Tau Ceti 5 integrovala do palubního počítače...  Dnes jsem získala tenhle fragment... A to není vše, o něco později jsem našla svou laboratoř vyloupenou.  Musím tě vidět... Jsi jediná které teď věřím.  Mám ohledně té UI jistou teorii.  Snažím se hledat informace o všech těch různých pověstech, týkajících se událostí na stanici Citadela.  Myslím, že jsem na něco přišla... <<ZPRÁVA PŘERUŠENA>>\n"
 
 
-LogName1:"KORENCHKIN 05.7.2114\nre: Nový záměr\n"
+LogName1:"KORENCHKIN 05.7.2114\nre: Nový záměr"
 LogPortrait1:"Korench"
 LogIcon1:"ComIcon"
-LogText1:"Pro: Delacroix, Dr. Marie  \n
+LogText1:"Pro: Delacroix, Dr. Marie\n
 Nemůžete pochopit mou radost Marie a já vás nebudu nutit.  Cítím se jako nový člověk...  Mám cíl...  Mnohem důležitější než tahle mise, dokonce důležitější než TriOptimum...  Budu je chránit...  Ať se děje, co se děje...  Budu je chránit...\n"
 
 
-LogName10:"LOESSEROVÁ 05.7.2114\nre: Kde jsou?\n"
+LogName10:"LOESSEROVÁ 05.7.2114\nre: Kde jsou?"
 LogPortrait10:"Loesser"
 LogIcon10:"MedIcon"
 LogText10:"Pro: Miller, Marc\n
@@ -123,7 +123,7 @@ LogIcon12:"ComIcon"
 LogText12:  "Sláva... sláva Mnoha...  Jsem hlasem v jejich chóru.\n"
 
 
-LogName13:"DIEGO 09.7.2114\nre: Naše spojenectví\n"
+LogName13:"DIEGO 09.7.2114\nre: Naše spojenectví"
 LogPortrait13:"Diego"
 LogIcon13:"RickIcon"
 LogText13:"Pro: Korenchkin, Anatoly\n

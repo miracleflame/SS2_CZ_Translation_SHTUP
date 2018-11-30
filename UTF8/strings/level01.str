@@ -64,28 +64,28 @@ LogIcon32:"EngIcon"
 LogText32:"Inventář laboratorního skladu: Technika skladiště 192\n\nAntimon (Sb) : 2\nBaryum (Ba) : 2\nKalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnecium (Tc) : 1\nTellur (Te) : 1\nVanad (V) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečních stop a trvání delším než 24 hodin.\n"
 
 
-LogName6:"SIDONSOVÁ 02.6.2114\nre: Není to ono\n"
+LogName6:"SIDONSOVÁ 02.6.2114\nre: Není to ono"
 LogPortrait6:"Siddons"
 LogIcon6:"OpsIcon"
 LogText6:"Pro: Suarez, Tommy\n
 Moc nám to neulehčují, co? Chybíš mi... Vím, že to zní hloupě, ale je to tak. Myslím, že se budu asi hodinu litovat a pak ti zase napíšu. Absurdní, musela jsem uletět 107 trilionů kilometrů, abych potkala Toho Pravého. Až budeš převelen na Von Brauna, všechno bude lepší. I já budu lepší, slibuji. Sakra, někdo sem jde. Počítám vteřiny...\n"
 
 
-LogName16:"DELACROIX 30.6.2114\nre: Tau Ceti 5\n"
+LogName16:"DELACROIX 30.6.2114\nre: Tau Ceti 5"
 LogPortrait16:"Delacroix"
 LogIcon16:"EngIcon"
 LogText16:"Pro: Korenchkin, Anatoly\n
 Anatolyi, tuto planetu MUSÍTE uvolnit pro výzkumný personál této lodi. Pokud tam dole něco je, je to důležitější než TriOptimum, důležitější než UNN a důležitější než vy. Proč jste s Diegem zablokovali palubu 3? Co se to děje?\n"
 
 
-LogName21:"MALONE 03.JUL.2114\nre: Psionické opice!\n"
+LogName21:"MALONE 03.JUL.2114\nre: Psionické opice!"
 LogPortrait21:"testport"
 LogIcon21:"RickIcon"
 LogText21:"Pro: Mak Pao správa výzkumu\n
 Laborant mě včera zavolal do operačního sálu. Měl pocit že laboratorní opice vykazuje neobyčejnou inteligenci. Seděl jsem u ní čtyři hodiny a zkoušel jsem pomocí psi-ampu cyklus beta 4. Žádná odezva. Samozřejmě jsem usoudil, že je to přirozená neschopnost reakce na pokročilý cyklus beta 4. Ale pak jsem si uvědomil, že ona blokuje sondu úmyslně! Jakmile jsem pozvedl psi-amp abych na ní zaútočil, ten tvor zamával rukama a vrhnul proti mě kryokinetické pole, které mi ochromilo ruku. Okamžitě jsem tu opici psionicky utlumil a omráčil elektrickým obuškem.\n"
 
 
-LogName17:"DELACROIX 04.7.2114\nre: Patřičné kroky\n"
+LogName17:"DELACROIX 04.7.2114\nre: Patřičné kroky"
 LogPortrait17:"Delacroix"
 LogIcon17:"EngIcon"
 LogText17:"Pro: Korenchkin, Anatoly\n
@@ -98,7 +98,7 @@ LogIcon9:"EngIcon"
 LogText9:"Nevím, kde bychom byli bez Delacroix. Celá loď se rozpadá a ona je jediná, která ví co a jak. Viděl jsem ji hádat se s tím šmejdem Anatolym Koretzkinem, či jak se to jmenuje, a dávala mu co proto. Ale ten pitomec na ni jen tak čuměl a pak začal točit něco o tom, že ona vůbec nemá představu o potěšení ze slastné jednotnosti nebo tak něco. Mamma mia, klauni šéfují cirkusu...\n"
 
 
-LogName2:"DELACROIX 05.7.2114\nre: Nedejte se\n"
+LogName2:"DELACROIX 05.7.2114\nre: Nedejte se"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
 LogText2:"Pro: Sangerovou, Constance\n
@@ -123,7 +123,7 @@ LogIcon22:"OpsIcon"
 LogText22:"Z důvodu momentální nejasné situace jsem nařídila instalovat na všechna klíčová místa obranné střelecké věže. Jenže včera se jedna náhodou aktivovala a smrtelně zranila člena posádky Wellse. A někdo musel upravit Xerxesovy bezpečnostní subsystémy, protože mí technici teď nejsou schopni je odpojit. Nařídila jsem všechny bezpečnostní střelecké věže vrátit zpět do skladu, dokud nezjistím co se děje... Jenže teď se nemohu spojit se svým týmem, který jsem to poslala provést.\n"  
 
 
-LogName18:"MALONE 06.7.2114\nre: Další experimenty\n"
+LogName18:"MALONE 06.7.2114\nre: Další experimenty"
 LogPortrait18:"testport"
 LogIcon18:"RickIcon"
 LogText18:"Pro: Mak Pao správa výzkumu\n
@@ -178,7 +178,7 @@ LogIcon11:"EngIcon"
 LogText11:"Byla jsem kontaktována nějakým druhem Umělé Inteligence, která by mi chtěla pomoci znovu získat kontrolu nad Von Braunem, ať už ho ovládl kdokoli... či cokoliv. Nevím odkud se vzala, ale musím přiznat, že jsem ráda, že tu je.\n"
 
 
-LogName12:"SUAREZ 11.7.2114\nre: Čekej\n"
+LogName12:"SUAREZ 11.7.2114\nre: Čekej"
 LogPortrait12:"Suarez"
 LogIcon12:"RickIcon"
 LogText12:"Pro: Sidonsová, Rebeka\n

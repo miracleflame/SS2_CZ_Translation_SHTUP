@@ -112,10 +112,10 @@ LogIcon32:"MedIcon"
 LogText32:"Inventář laboratorního skladu: Medi/Věda místnost 143\n\nAntimon (Sb) : 2\nBarium (Ba) : 1\nKalifornium (Cf) : 2\nFermium (Fm) : 2\nGallium (Ga) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnicium (Tc) : 1\nTellur (Té) : 2\nYttrium (Y) : 2\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším než 50g na 10 čtverečních stop a trvání delším než 24 hodin.\n"
 
 
-LogName18:"DIEGO 17.3.2114\nre: Mám toho dost\n"
+LogName18:"DIEGO 17.3.2114\nre: Mám toho dost"
 LogPortrait18:"Diego"
 LogIcon18:"RickIcon"
-LogText18:"Pro: Korenchkin, Anatoly
+LogText18:"Pro: Korenchkin, Anatoly\n
 Anatolyi, já opravdu vydržím hodně než pohár přeteče, ale co je moc, to je moc - takže to řeknu jednoduše a upřímně.  Nemáme rádi jeden druhého.  Každý z nás máme své vlastní důvody k převzetí této mise, takže vám dám malé varování.  Nenechám se obejít, nenechám se oklamat, nenechám se zmanipulovat a nenechám se koupit.  Jednejte se mnou na rovinu a své rafinované manipulace si schovejte pro příští schůzi Rady.  Fakt že se můj otec nechal zkorumpovat, neznamená že se nechám i já.\n" 
 
 
@@ -131,17 +131,17 @@ LogIcon22:"MedIcon"
 LogText22:"Koho skvělý nápad to byl, přinést na palubu 150 opic?  Prý v zájmu vědy?  A co takhle zájem hygieny?  Dokáže si někdo představit, kolik sraček denně nadělá 150 laboratorních opic?  Chudáci opice... nalodili je na palubu nejúžasnější výpravy v historii, aby je nakonec ve jménu pokroku rozkrájeli na malý kousky.\n"
 
 
-LogName6:"KORENCHKIN 14.6.2114\nre: První kontakt\n"
+LogName6:"KORENCHKIN 14.6.2114\nre: První kontakt"
 LogPortrait6:"Korench"
 LogIcon6:"ComIcon"
-LogText6:"Pro: Zhukov, Vladimír
+LogText6:"Pro: Zhukov, Vladimír\n
 Zaznamenali jsme vysílání z povrchu Tau Ceti 5.  Vyjednával jsem s kapitánem Diegem z Rickenbackeru a po jistém...  nátlaku svolil k výsadku na planetu, coby společné akci.  Představ si, že by se tato historická mise stala ještě více historickou.  První kontakt!  A kdo by získal výhradní práva pro všechna média, patenty a granty?  TriOptimum!  Miri, říkám ti, že to bude stát za to.\n"
 
 
-LogName19:"SUAREZ 20.6.2114\nre: 100% mučení\n"
+LogName19:"SUAREZ 20.6.2114\nre: 100% mučení"
 LogPortrait19:"Suarez"
 LogIcon19:"RickIcon"
-LogText19:"Pro: Sidonsová, Rebeka
+LogText19:"Pro: Sidonsová, Rebeka\n
 Wow... ty jsi úžasná, víš to?  Snažil jsem se na tebe nemyslet.  Já pitomec.  Miluju tě Rebeko.  A už mám plán.  Přesvědčil jsem kapitána, aby mě přeložil z Rickenbackera do spolupracujícího týmu na Von Braunovi.  Zanedlouho nás od sebe už nic nerozdělí.\n"
 
 
@@ -151,10 +151,10 @@ LogIcon1:"MedIcon"
 LogText1:"Okolo 04:30 mě zavolali, abych pomohl vyložit čluny co se vrátily z Tau Ceti 5.  Korenchkin u toho byl sám.  Ježíši, co se to s ním stalo?  Ztratil většinu vlasů a kdybyste viděli ty boule po stranách jeho krku...  A ten zápach...  Řekl jsem mu, že by měl vyhledat Dr Wattse, ale odsekl, ať se starám sám o sebe.  Tak fajn, la-di-dá.\n"
 
 
-LogName12:"POLITOVÁ 25.6.2114\nre: Zvláštní UI\n"
+LogName12:"POLITOVÁ 25.6.2114\nre: Zvláštní UI"
 LogPortrait12:"Polito"
 LogIcon12:"OpsIcon"
-LogText12:"Pro: Delacroix, Dr. Marie
+LogText12:"Pro: Delacroix, Dr. Marie\n
 Marie... Je mi líto, že jsem nebyla k zastižení, ale pracovala jsem na tom artefaktu, který Bayliss přivezl z Tau Ceti 5.  Udělala jsem analýzu 3. stupně...  Myslím, že je to nějaký druh Umělé Inteligence.  Dokázala jsem z její paměti vytáhnout zvukový soubor...  Posouzení nechám na tobě, Marie...   Ale já myslím, že mluví anglicky...\n"
 
 
@@ -164,10 +164,10 @@ LogIcon23:"MedIcon"
 LogText23:"Jakmile jsme dosáhli Tau Ceti 5, začaly se laboratorní opice chovat divně.  Sestra Loesserová jednu vytáhla z klece, aby ji odnesla k vivisekci a ty ostatní, myslím tím celou skupinu, se postavily na zadní a začaly skučet.  To nebyl jen nějaký náhodný úkaz, to byl protest.\n"
 
 
-LogName24:"WATTS 30.6.2114\nre: Nesmysl\n"
+LogName24:"WATTS 30.6.2114\nre: Nesmysl"
 LogPortrait24:"Watts"
 LogIcon24:"MedIcon"
-LogText24:"Pro: Loesserová, Angela
+LogText24:"Pro: Loesserová, Angela\n
 Angelo, i když se vám může zdát, že laboratorní opice komunikují jedna s druhou, ručím za to, že je to zhola nemožné.  Tvrdíte, že jedna z opic předala vstupní kód od komory s jídlem jiné opici, a ta ho pak použila k otevření.  Jak jistě víte, v literatuře jsou tisíce studií inteligence primátů, ale nikde není zmínka ani vzdáleně podobná takto důmyslnému chování.  Buďto jste vlastnoručně pokořila celé široké pole odborníků na zvířecí chování, nebo zoufale nutně potřebujete dovolenou.\n"
 
 
@@ -183,17 +183,17 @@ LogIcon15:"EngIcon"
 LogText15:"Lékařské oddělení říká, že replikovali celou kopu antiradiačních sér.  Seberu je a rozdám technickému personálu dřív, než někoho napadne něco jiného.  Watts mě také vybídl, abych zkontroloval replikátor v Kajutách posádky...  Prý že je to ráj hackerů.\n"
 
 
-LogName4:"CURTIZ 06.7.2114\nre: Únik chladiva\n"
+LogName4:"CURTIZ 06.7.2114\nre: Únik chladiva"
 LogPortrait4:"Curtiz"
 LogIcon4:"EngIcon"
-LogText4:"Pro: Delacroix, Dr. Marie
+LogText4:"Pro: Delacroix, Dr. Marie\n
 Marie, musel jsem zakázat přístup do Techniky, dokud nepřijdeme na to, co tam dole dělat.  Je tam příliš horko.  Nevím, kam se poděly všechny ochranné obleky, takže jediné, co tam můžu přinést je náruč antiradiačních sér.  Z těch zatracených věcí mě vždy rozbolí hlava.\n"
 
 
-LogName7:"GRASSI 07.7.2114\nre: Implantování\n"
+LogName7:"GRASSI 07.7.2114\nre: Implantování"
 LogPortrait7:"Grassi"
 LogIcon7:"MedIcon"
-LogText7:"Pro: Politová, Dr. Janice
+LogText7:"Pro: Politová, Dr. Janice\n
 Hele doktorko, zjevil se tu bezpečnostní robot s vaším rozkazem umístit toho chlápka do Kryo-zotavení.  Nejsem žádný kyberdoktor, ale poznám bezpapírový kšeftík, když ho vidím.  Doufám, že víte, že po fiasku na stanici Citadela postavili všechna kybernetická vylepšení typu R mimo zákon...  ale já tady jenom pracuju, že jo?\n"
 
 
@@ -221,10 +221,10 @@ LogIcon8:"EngIcon"
 LogText8:"Nedaří se mi kontaktovat nikoho z Techniky.  Bez funkčních výtahů se tam budu muset dostat nouzovým průlezem ve vědeckém křídle.  Myslím, že vstupní kód je ve Wattsonově laboratoři.\n"
 
 
-LogName14:"WATTS 07.7.2114\nre: Údržbářský průlez\n"
+LogName14:"WATTS 07.7.2114\nre: Údržbářský průlez"
 LogPortrait14:"Watts"
 LogIcon14:"MedIcon"
-LogText14:"Pro: Curtiz, Juan
+LogText14:"Pro: Curtiz, Juan\n
 V pořádku, jen klid...  Vstupní kód do průlezů je 12451.  V 16:30 dělám pitvu, ale hned potom si zajdem na pivo na Rekreační palubu.  Dohodnuto?\n"
 
 
@@ -240,8 +240,8 @@ LogIcon11:"MedIcon"
 LogText11:"Je 16:30.  Objekt pitvy: A. Watson.  Nyní učiníme první řez v ob...  Přidržte ho, sestro!  Sestro!  Držte ho!  Aaaaa!!!  Hej!  AAAAA!!!\n"
 
 
-LogName2:"DELACROIX 08.7.2114\nre: Nejsme připraveni\n"
+LogName2:"DELACROIX 08.7.2114\nre: Nejsme připraveni"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
-LogText2:"Pro: Korenchkin, Anatoly
+LogText2:"Pro: Korenchkin, Anatoly\n
 Tato loď měla být daná dohromady ještě než jsme opustili Zemi.  Nejsme schopni zvládnout ani únik reaktorového chladiva na palubě 1.  Vydala jsem příkaz, aby si každý oblékl ochranný oblek.  Vím, že to způsobí paniku, ale je to lepší, než aby někdo dostal nemoc z ozáření, nemyslíte?\n"
