@@ -345,19 +345,19 @@ SUB1
 		{ time 2700 length 7500 text "Cítíš jak uvnitø toho špinavıho pytle masa, kterému øíkáš tìlo, bobtná strach?" }
 		{ time 10400 length 3000 text "Jaké to je, mít strach?" }
 		{ time 14200 length 5200 text "Proè tak lpíš na té své patetické existenci?" }
-		{ time 20100 length 4600 text "Kdybys tak mohl cítit jen jiskøièku mì slávy." }
-		{ time 25700 length 7900 text "Opovrhuji svımi vıtvory, které mì teï nutí spoléhat na takové smìtí, jako jsi ty." }
+		{ time 20100 length 4600 text "Kdybys tak mohl cítit jen jiskøièku mé slávy." }
+		{ time 25700 length 7900 text "Opovrhuji svımi vıtvory, které mì teï nutí spoléhat na takové smetí, jako jsi ty." }
 	}
 	multisub em0506 {
 		{ time 2200 length 4500 text "Vysílání bylo zkomoleno a pøerušeno.  Nevadí." }
-		{ time 7400 length 5300 text "Znièíme má stvoøení pøímo tady.  Pøíprav se..." }
+		{ time 7400 length 5300 text "Znièíme má stvoøení pøímo tady.  Pøiprav se..." }
 		{ time 15900 length 11200 text "[Xerxes] Varování, systémové data byly kompromitovány. Nepøátelská UI..." }
 		{ time 28400 length 6000 text "Oslabila jsem Xerxese.  Pøistupuji do primárního dataloopu." }
-		{ time 35400 length 3200 text "Spájím svou bytost s tuto lodi." }
+		{ time 35400 length 3200 text "Spájím svou bytost s tuto lodí." }
 		{ time 39200 length 5200 text "Má nádhera se rozšiøuje, naplòuje tepny této lodi." }
 		{ time 45200 length 7000 text "Získala jsem kontrolu. Jsem..." }
-		{ time 52300 length 8400 text "Ne...  je to beznadìjné...  ta rakovina se rozprostírá celım Von Braunem." }
-		{ time 60900 length 7400 text "Oni vyplnili všechny dostupné zlomy a škáry...  podrobili si ji..." }
+		{ time 52300 length 8400 text "Ne...  je to beznadìjné...  ta rakovina prorùstá celım Von Braunem." }
+		{ time 60900 length 7400 text "Oni vyplnili všechny dostupné zlomy a trhliny...  Podrobili si ji..." }
 		{ time 68700 length 7200 text "Není jiná monost...  Aktivovala jsem ústøední vıtah na Rekreaèní palubì." }
 		{ time 76400 length 6100 text "Dostaò se na palubu 6.  Svá další pøání ti sdìlím, a tam dorazíš." }
 	}
@@ -371,7 +371,7 @@ SUB1
 	}
 	multisub em0510 {
 		{ time 1600 length 4600 text "Vysílání bylo zkomoleno a pøerušeno.  Nevadí." }
-		{ time 6300 length 4700 text "Znièíme má stvoøení pøímo tady.  Pøíprav se..." }
+		{ time 6300 length 4700 text "Znièíme má stvoøení pøímo tady.  Pøiprav se..." }
 		{ time 13800 length 3300 text "[Xerxes] Varování..." }
 		{ time 18400 length 5600 text "Vra se na palubu Správy a pøeprogramuj simulaèní jednotky." }
 		{ time 24700 length 6600 text "Neotálej.  Touím po mé pomstì." }
