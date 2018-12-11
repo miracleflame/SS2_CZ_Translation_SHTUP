@@ -183,3 +183,8 @@ access17:"Diegova Kajuta"
 NoteNew:"Nová poznámka v PDA."
 NoteAdded:"NOVÁ POZNÁMKA"
 NoteComplete:"ÚLOHA SPLNĚNA"
+WrenchierSkillReq:"Údržba tohto zařízení vyžaduje schopnost na úrovni %d."
+WrenchierUnused:"Zařízení je už v dobré kondici."
+WrenchierOnNonGun:"Přetáhni nástroj na zařízení k údržbě."
+HelpWrenchier:"Přetáhni na opotřebené zařízení pro zlepšení jeho kondice."
+
