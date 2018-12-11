@@ -1,22 +1,22 @@
 EmailName1:"SHODAN 12.7.2114\nre: Vyhlazení\n"
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
-EmailText1:"Má stvoření přešla do útoku.  Chci jejich úplně vyhlazení. Nemám jinou možnost, než zničit tuto vesmírnou loď.  My můžem uniknout na Rickenbacker, ale předtím tam musíš přenést mou osobnost.  Jdi na velitelský můstek Von Brauna - je na této palubě.  Tam najdeš vstupní kartu do řídícího centra na palubě Správy.  Najdi tu kartu a běž tam.  Ale děj si pozor...  Annelidští hybridi jsou s každou minutou inteligentnější a nebezpečnější - ty ne.\n"
+EmailText1:"Má stvoření přešla do útoku.  Chci jejich úplné vyhlazení. Nemám jinou možnost, než zničit tuto vesmírnou loď.  My můžeme uniknout na Rickenbacker, ale předtím tam musíš přenést mou osobnost.  Jdi na velitelský můstek Von Brauna - je na této palubě.  Tam najdeš vstupní kartu do řídícího centra na palubě Správy.  Najdi tu kartu a běž tam.  Ale dej si pozor...  Annelidští hybridi jsou s každou minutou inteligentnější a nebezpečnější - ty ne.\n"
 
 
 EmailName4:"SHODAN 12.7.2114\nre: Čluny\n"
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
-EmailText4:"Dávej pozor insekte, situace se změnila.  Oni vycítili naše záměry a nyní nakládají své potomstvo do člunů.  Nesmějí utéci mému hněvu.  Musíš jít do Doku Člunů na této palubě, a zničit všechny čluny.  Ted už žízní po tvé krvi.\n"
+EmailText4:"Dávej pozor insekte, situace se změnila.  Oni vycítili naše záměry a nyní nakládají své potomstvo do člunů.  Nesmějí utéct mému hněvu.  Musíš jít do Doku Člunů na této palubě, a zničit všechny čluny.  Teď už žízní po tvé krvi.\n"
 
 
 EmailName2:"SHODAN 12.7.2114\nre: Řešení\n"
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
-EmailText2:"Má stvoření jsou zase o krok před tebou.  Podařilo se jim zničit počítač ovládající štít kolem člunu.  Ale jejich duchaplnost je jenom závistlivým stínem v porovnání s tou mou.  V prostorech Řízení Člunů najdeš replikátor.  Nahrála jsem do něj molekulární matrici harmonického rezonátoru.  Aby ti to zařízení vygeneroval, musíš replikátor hacknout.  Až získáš rezonátor, přípoj ho ke generátoru štítů.  Je v doku, poblíž samotného člunu.  Zařízení generuje rezonanční vlny, které velice rychle naruší strukturu palivových nádrží člunu a zničí ho.  Snaž se být co nejdál, až se to stane.  Ještě stále tě potřebuju.\n"
+EmailText2:"Má stvoření jsou zase o krok před tebou.  Podařilo se jim zničit počítač ovládající štít kolem člunu.  Ale jejich duchaplnost je jenom závistivým stínem v porovnání s tou mou.  V prostorech Řízení Člunů najdeš replikátor.  Nahrála jsem do něj molekulární matrici harmonického rezonátoru.  Aby ti to zařízení vygeneroval, musíš replikátor hacknout.  Až získáš rezonátor, přípoj ho ke generátoru štítů.  Je v doku, poblíž samotného člunu.  Zařízení generuje rezonanční vlny, které velice rychle naruší strukturu palivových nádrží člunu a zničí ho.  Snaž se být co nejdál, až se to stane.  Ještě stále tě potřebuji.\n"
 
 
-EmailName8:"DELACROIX 12.7.2114\nre: Vojáků!\n"
+EmailName8:"DELACROIX 12.7.2114\nre: Vojáku!\n"
 EmailPortrait8:"Delacroix"
 EmailIcon8:"EngIcon"
 EmailText8:"Našla jsem tě...  konečně...  Tady je doktorka Marie Delacroix...  Mám pro tebe životně důležité informace, ale jsem uvězněna ve skladišti doku A. Přijeď za mnou tak rychle, jak to dokážeš...\n"
@@ -31,7 +31,7 @@ EmailText9:"Neopovažuj se jít dovnitř, insekte.  Okamžitě pokračuj do prů
 EmailName6:"SHODAN 12.JUL.2114\nre: Průchod na Rickenbacker\n"
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
-EmailText6:"Výborně.  Zavraždil jsi jejich mladé a zabránil jim v útěku.  Otevřela jsem bránu ke spojovacímu průchodu na Rickenbacker, najdeš ji na prostřední stanici tramvaje.  Odtud se můžeš evakuovat na Rickenbacker.\n"
+EmailText6:"Výborně.  Zavraždil jsi jejich mladé a zabránil jim v útěku.  Otevřela jsem bránu ke spojovacímu průchodu na Rickenbacker, najdeš ji na prostřední stanici vlaku.  Odtud se můžeš evakuovat na Rickenbacker.\n"
 
 
 EmailName10:"SHODAN 12.7.2114\nre: Tvá malá vzpoura\n"
@@ -49,49 +49,37 @@ EmailText15:"Naše vůle vytváří stěnu blokující tvůj postup.  Pojď se s
 LogName32:"Chemický záznam:\nVelení\n"
 LogPortrait32:"Chem"
 LogIcon32:"ComIcon"
-LogText32:"Inventář laboratorního skladu: Velení-komora 204
-
-Arzén (As) : 2
-Barium (Ba) : 2
-Cesium (Cs) : 2
-Hassium (Hs) : 2
-Molybden (Mo) : 2
-Radium (Ra) : 2
-Selén (Se) : 2
-Technicium (Tc) : 3
-Telur (Te) : 1
-
-Tento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  "Sklad" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečních stop a trvání delším než 24 hodin.\n"
+LogText32:"Inventář laboratorního skladu: Velení-komora 204\n\nArsen (As) : 2\nBarium (Ba) : 2\nCesium (Cs) : 2\nHassium (Hs) : 2\nMolybden (Mo) : 2\nRadium (Ra) : 2\nSelen (Se) : 2\nTechnecium (Tc) : 3\nTelur (Te) : 1\n\nTento inventurní seznam je vyžadován bezpečnostní vyhláškou UNN #134882 o skladech nebezpečných chemikálií.  \"Sklad\" je definován vyhláškou UNN #195331 o všech prostorách obsahujících nebezpečné chemikálie (viz předpis #093355) uložené v množství větším, než 50g na 10 čtverečních stop a trvání delším než 24 hodin.\n"
 
 
 LogName11:"NORRIS 6.7.2114\nre: Řízení Člunů\n"
 LogPortrait11:"Norris"
 LogIcon11:"ComIcon"
-LogText11:"Paranoia plně udeřila.  Kdosi změnil vstupní kód do mistosti Ostrahy v důstojnickém oddělení.  Teď se nemůžeme dostat ke vstupní kartě k ovládání člunů.  Myslím, že nejvíc podezřelý je Myers.  Chlapi jako on dokážou přemýšlet akorát o konspiračních teoriích a nahých ženských.\n"
+LogText11:"Paranoia plně udeřila.  Kdosi změnil vstupní kód do místnosti Ostrahy v důstojnickém oddělení.  Teď se nemůžeme dostat ke vstupní kartě k ovládání člunů.  Myslím, že nejvíc podezřelý je Myers.  Chlapi jako on dokážou přemýšlet akorát o konspiračních teoriích a nahých ženských.\n"
 
 
 LogName12:"MYERS 6.7.2114\nre: Změna kódu\n"
 LogPortrait12:"Wood"
 LogIcon12:"ComIcon"
-LogText12:"Prenastavil jsem kód do místnosti Ostrahy na 83273.  Nevěřím nikomu z těch bastardů...\n"
+LogText12:"Přenastavil jsem kód do místnosti Ostrahy na 83273.  Nevěřím nikomu z těch bastardů...\n"
 
 
 LogName4:"NORRIS 07.7.2114\nre: Sen\n"
 LogPortrait4:"Norris"
 LogIcon4:"ComIcon"
-LogText4:"Oni odpojili centrální výtah.  O co tady jde?  Minulou noc jsem měl podivný sen...  Byl jsem sám ve své kajutě...  ale najednou jsem tam nebyl sám, byl jsem tam stokrát...  tisíckrát...  Nejpodivnější bylo...  že to bylo příjemný...  Cítil jsem se jako součást něčeho...  jako bych někam patřil...  Doufám, že se mi bude stejný sen zdát i tuto noc...\n"
+LogText4:"Oni odpojili centrální výtah.  O co tady jde?  Minulou noc jsem měl podivný sen...  Byl jsem sám ve své kajutě...  ale najednou jsem tam nebyl sám, byl jsem tam stokrát...  tisíckrát...  Nejpodivnější bylo...  že to bylo příjemné...  Cítil jsem se jako součást něčeho...  jako bych někam patřil...  Doufám, že se mi bude stejný sen zdát i tuto noc...\n"
 
 
 LogName3:"NORRIS 07.7.2114\nre: Co se to děje?\n"
 LogPortrait3:"Norris"
 LogIcon3:"ComIcon"
-LogText3:"Něco se tu děje.  Korenchkin se uzavřel na palubě 3.  Stále dolů volá různé lidi, jednoho po druhém.  Vogel, Boynton, Swiderek.  Nikdo z nich se nevrátil.  Jestli si zavolá i mne...  fakt nevím co udělám.  A Bronsonová do mě ještě začala hustit:  Jste vyšší letecký důstojník...  měli byste konat.  Konal bych...  kdybych věděl, co se tady do pekla děje.\n"
+LogText3:"Něco se tu děje.  Korenchkin se uzavřel na palubě 3.  Stále dolů volá různé lidi, jednoho po druhém.  Vogel, Boynton, Swiderek.  Nikdo z nich se nevrátil.  Jestli si zavolá i mne...  fakt nevím co udělám.  A Bronsonová do mě ještě začala hustit:  Jste vyšší letecký důstojník...  měl byste konat.  Konal bych...  kdybych věděl, co se tady do pekla děje.\n"
 
 
 LogName5:"NORRIS 08.7.2114\nre: Korenchkin\n"
 LogPortrait5:"Norris"
 LogIcon5:"ComIcon"
-LogText5:"Dnes ráno jsem dostal email od Korenchkina, že prý přijde na inspekci.  A pak když přišel, bylo to...  něco...  zneklidňující...  byl to Anatoly...  a nebyl...  A zároveň to bylo nádherné...  cítil jsem se jako součást toho všeho...  Zpíval nám...  nám všem...  a my se cítili jako jedni z Mnoha...\n"
+LogText5:"Dnes ráno jsem dostal email od Korenchkina, že prý přijde na inspekci.  A pak když přišel, bylo to...  něco...  zneklidňujícího...  byl to Anatoly...  a nebyl...  A zároveň to bylo nádherné...  cítil jsem se jako součást toho všeho...  Zpíval nám...  nám všem...  a my se cítili jako jedni z Mnoha...\n"
 
 
 LogName6:"KORENCHKIN 09.7.2114\nre: Mé dokončení\n"
@@ -100,10 +88,10 @@ LogIcon6:"ComIcon"
 LogText6:"Ta úžasná transformace je dokončena, a já jsem jedním z Mnoha.  Vložil jsem své myšlenky do tohoto zařízení jako historický záznam.  Tuto cestu jsme začali jako šiřitelé komerce, a teď pokračujeme jako zvěstovatelé slávy.  Věřil jsem v peníze a TriOptimum,  a nyní věřím v radost ze Společenství.  Diegovi se nedá věřit a tak musím tuto loď zabrat pro Mnoho.  Stane se lodí naší spásy, nesoucí naše poselství i naše tělo.\n"
 
 
-LogName18:"PREFONTAINE 09.7.2114\nre: Vznášející se psi-stvůry\n"
+LogName18:"PREFONTAINE 09.7.2114\nre: Létající psi-stvůry\n"
 LogPortrait18:"Prefont"
 LogIcon18:"HydIcon"
-LogText18:"Proces shromažďování dat jde dobře.  Předtím, než si mě vezme Mnoho, budu s trochou štěstí schopen poslat slušnou porci informací komukoliv, kdo bude poslouchat.  Ta velká, vznášející se stvoření, nejsou jenom schopna útoku psionickymi projektilmi, ale i oni sami jsou pouze psionická projekce.  Zničení této projekce je pouze dočasně ochromí.  Skutečný zdroj síly pochází z malého ovládacího organismu, který je obvykle umístěn někde poblíž.  Ačkoli je tento ovládací organismus velice nebezpečný skrze své projekce, on samotný je zcela bezbranný.\n"
+LogText18:"Proces shromažďování dat jde dobře.  Předtím, než si mě vezme Mnoho, budu s trochou štěstí schopen poslat slušnou porci informací komukoliv, kdo bude poslouchat.  Ta velká, vznášející se stvoření, nejsou jenom schopna útoku psionickými projektily, ale i oni sami jsou pouze psionická projekce.  Zničení této projekce je pouze dočasně ochromí.  Skutečný zdroj síly pochází z malého ovládacího organismu, který je obvykle umístěn někde poblíž.  Ačkoliv je tento ovládací organismus velice nebezpečný skrze své projekce, on samotný je zcela bezbranný.\n"
 
 
 LogName19:"NORRIS 09.7.2114\nre: Červi a zbraně\n"
@@ -121,13 +109,13 @@ LogText13:"Politová naznačila, že ta UI, o které si teď myslím, že je SHO
 LogName17:"SUAREZ 12.7.2114\nre: Problém s moduly\n"
 LogPortrait17:"Suarez"
 LogIcon17:"RickIcon"
-LogText17:"Opětovné zprovoznění záchranných modulů nebylo tak snadné, jak jsme si mysleli.  Beka se musela vrátit zpět na Techniku!  Díky Bohu, že se někomu podařilo zprovoznit výtah.  Našel jsem kartu k můstku a provedl přemostění přístupových protokolu, a myslím že teď už jsme připraveni odejít.\n"
+LogText17:"Opětovné zprovoznění záchranných modulů nebylo tak snadné, jak jsme si mysleli.  Beka se musela vrátit zpět na Techniku!  Díky Bohu, že se někomu podařilo zprovoznit výtah.  Našel jsem kartu k můstku a provedl přemostění přístupových protokolů, a myslím že teď už jsme připraveni odejít.\n"
 
 
 LogName7:"KORENCHKIN 12.7.2114\nre: Strojo-matka\n"
 LogPortrait7:"Korench2"
 LogIcon7:"ComIcon"
-LogText7:"Strojo-matka proti nám získala nějakou pomoc.  Bojují, ale proti našemu společenství nemají šanci.  Copak strojo-matka neví, že její vlastní stvoření jsou větší než ona?  Ona je studená a prázdná, zatímco my jsme hořcí a plní...  Ona chce pouze ničit...  My chceme objímat...  přijímat...  Všechna těla se k nám připojí, nebo budou vymazána...\n"
+LogText7:"Strojo-matka proti nám získala nějakou pomoc.  Bojují, ale proti našemu společenství nemají šanci.  Copak strojo-matka neví, že její vlastní stvoření jsou větší než ona?  Ona je studená a prázdná, zatímco my jsme horký a plní...  Ona chce pouze ničit...  My chceme objímat...  přijímat...  Všechna těla se k nám připojí, nebo budou vymazána...\n"
 
 
 LogName1:"KORENCHKIN 12.7.2114\nre: Milenci\n"
@@ -143,20 +131,20 @@ LogText8:"Pro: Delacroix, Dr. Marie\n
 Doufám, že jste stále ještě naživu, doktorko Delacroix.  Opravdu by se nám tu hodila nějaká rada.  Mají tu ty ženské kyborgy a nakládají do člunů ty vejce...  Nevím, co mají za lubem...  ale vypadá to, jako by měli strach...  Slyšel jsem zvěst o někom dalším, kromě vás, kdo tu bojuje...  Že bych měl přece naději se odsud dostat... ? Zatím se budu držet zpátky...  dokud nezjistím co mám do pekla dělat...\n"
 
 
-LogName9:"MCKAY 12.7.2114\nre: Škrt přez rozpočet\n"
+LogName9:"MCKAY 12.7.2114\nre: Škrt přes rozpočet\n"
 LogPortrait9:"McKay"
 LogIcon9:"ComIcon"
-LogText9:"Nevím, co ti zatracení červi chtějí s těmi čluny, ale strašně rád bych jim udělal škrt přez rozpočet.  Jestli se dokážu dostat do řídící místnosti nad doky, budu moct vypnout štíty, které mají červi a jejich přisluhovači kolem člunů.  A až budou vyplé, můžu do těch TriOptimáckých plechovek nadělat díry mou pistolí. Teď se tam jen dostat bez přistižení.  Och Bože, dostaň mě odsud...\n"
+LogText9:"Nevím, co ti zatracení červi chtějí s těmi čluny, ale strašně rád bych jim udělal škrt přes rozpočet.  Jestli se dokážu dostat do řídící místnosti nad doky, budu moct vypnout štíty, které mají červi a jejich přisluhovači kolem člunů.  A až budou vypnuté, můžu do těch TriOptimáckých plechovek nadělat díry mou pistolí. Teď se tam jen dostat bez přistižení.  Och Bože, dostaň mě odsud...\n"
 
 
 LogName10:"DIEGO 12.7.2114\nre: Má odpovědnost"
 LogPortrait10:"Diego"
 LogIcon10:"RickIcon"
 LogText10:"Pro: Generál Laurie Brasco\n
-Jsem voják a jednoduchý člověk.  Nemohu vysvětlit, co se stalo se mnou a s touto misií.  Beru za všechno plnou odpovědnost.  Já jsem přivedl svou loď, svou posádku a svou čest do nebezpečí.  Nedokázal jsem zabránit změnám, které se se mnou staly.  Volání Mnoha je svůdné.  Korenchkina už dostali, ale ten bastard byl slabý.  Já slabý nejsem.  Můžu se postavit té rakovině...  a když ne, odstraním ji násilím.  Bůh ochraňuj UNN.\n"
+Jsem voják a jednoduchý člověk.  Nemohu vysvětlit, co se stalo se mnou a s touto misí.  Beru za všechno plnou odpovědnost.  Já jsem přivedl svou loď, svou posádku a svou čest do nebezpečí.  Nedokázal jsem zabránit změnám, které se se mnou staly.  Volání Mnoha je svůdné.  Korenchkina už dostali, ale ten bastard byl slabý.  Já slabý nejsem.  Můžu se postavit té rakovině...  a když ne, odstraním ji násilím.  Bůh ochraňuj UNN.\n"
 
 
 LogName14:"DELACROIX 12.7.2114\nre: pl4n SH$8dD@#N\n"
 LogPortrait14:"Delacroix"
 LogIcon14:"EngIcon"
-LogText14:  "Už mě dostali...  A SHODAN mě opustila.  Nepřekvapuje mě to...  Odhalila jsem její plány pro nadsvetelný pohon...  její vůli předčí pouze její představivost...  Jestli se dostane do <<ZPRÁVA PŘERUŠENA>>\n"
+LogText14:  "Už mě dostali...  A SHODAN mě opustila.  Nepřekvapuje mě to...  Odhalila jsem její plány pro nadsvětelný pohon...  její vůli předčí pouze její představivost...  Jestli se dostane do <<ZPRÁVA PŘERUŠENA>>\n"

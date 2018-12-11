@@ -417,33 +417,33 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0601 {
-		{ time 2100 length 6100 text "Má stvoøení pøešla do útoku.  Chci jejich úplnì vyhlazení." }
+		{ time 2100 length 6100 text "Má stvoøení pøešla do útoku.  Chci jejich úplné vyhlazení." }
 		{ time 8300 length 3600 text "Nemám jinou možnost, než znièit tuto vesmírnou loï." }
-		{ time 12800 length 10300 text "My mùžem uniknout na Rickenbacker, ale pøedtím tam musíš pøenést mou osobnost." }
+		{ time 12800 length 10300 text "My mùžeme uniknout na Rickenbacker, ale pøedtím tam musíš pøenést mou osobnost." }
 		{ time 23500 length 3300 text "Jdi na velitelský mùstek Von Brauna - je na této palubì." }
 		{ time 27300 length 8000 text "Tam najdeš vstupní kartu do øídícího centra na palubì Správy.  Najdi tu kartu a bìž tam." }
-		{ time 35900 length 6400 text "Ale dìj si pozor...  Annelidští hybridi jsou s každou minutou inteligentnìjší a nebezpeènìjší..." }
+		{ time 35900 length 6400 text "Ale dej si pozor...  Annelidští hybridi jsou s každou minutou inteligentnìjší a nebezpeènìjší..." }
 		{ time 43100 length 1000 text "...ty ne." }
 	}
 	multisub em0602 {
 		{ time 1300 length 4800 text "Má stvoøení jsou zase o krok pøed tebou." }
 		{ time 6700 length 7700 text "Podaøilo se jim znièit poèítaè ovládající štít kolem èlunu." }
-		{ time 14600 length 4500 text "Ale jejich duchaplnost je jenom závistlivým stínem v porovnání s tou mou." }
+		{ time 14600 length 4500 text "Ale jejich duchaplnost je jenom závistivým stínem v porovnání s tou mou." }
 		{ time 19400 length 8700 text "V prostorech Øízení Èlunù najdeš replikátor.  Nahrála jsem do nìj molekulární matrici harmonického rezonátoru." }
 		{ time 28400 length 4800 text "Aby ti to zaøízení vygeneroval, musíš replikátor hacknout." }
 		{ time 33600 length 5500 text "Až získáš rezonátor, pøípoj ho ke generátoru štítù.  Je v doku, poblíž samotného èlunu." }
 		{ time 40000 length 8200 text "Zaøízení generuje rezonanèní vlny, které velice rychle naruší strukturu palivových nádrží èlunu a znièí ho." }
-		{ time 48200 length 5700 text "Snaž se být co nejdál, až se to stane.  Ještì stále tì potøebuju." }
+		{ time 48200 length 5700 text "Snaž se být co nejdál, až se to stane.  Ještì stále tì potøebuji." }
 	}
 	multisub em0604 {
 		{ time 3300 length 4100 text "Dávej pozor insekte, situace se zmìnila." }
-		{ time 8000 length 9200 text "Oni vycítili naše zámìry a nyní nakládají své potomstvo do èlunù.  Nesmìjí utéci mému hnìvu." }
+		{ time 8000 length 9200 text "Oni vycítili naše zámìry a nyní nakládají své potomstvo do èlunù.  Nesmìjí utéct mému hnìvu." }
 		{ time 17700 length 6600 text "Musíš jít do Doku Èlunù na této palubì, a znièit všechny èluny." }
-		{ time 24500 length 6300 text "Ted už žízní po tvé krvi." }
+		{ time 24500 length 6300 text "Teï už žízní po tvé krvi." }
 	}
 	multisub em0606 {
 		{ time 1100 length 8100 text "Výbornì.  Zavraždil jsi jejich mladé a zabránil jim v útìku." }
-		{ time 9500 length 6900 text "Otevøela jsem bránu ke spojovacímu prùchodu na Rickenbacker, najdeš ji na prostøední stanici tramvaje." }
+		{ time 9500 length 6900 text "Otevøela jsem bránu ke spojovacímu prùchodu na Rickenbacker, najdeš ji na prostøední stanici vlaku." }
 		{ time 16600 length 3600 text "Odtud se mùžeš evakuovat na Rickenbacker." }
 	}
 	multisub em0609 {
