@@ -7,7 +7,7 @@ SUB1
 	multisub em0101 {
 		{ time 400 length 4300 text "Musíš si pospíšit. Ještì si neuvìdomuješ, co všechno je v sázce." }
 		{ time 5300 length 4700 text "Dej pozor na pøíruèní sklad è.4. Nechala jsem tam nìjaké vybavení." }
-		{ time 10000 length 6600 text "Vstupní kód je 59004. Musím jít na palubu..." }
+		{ time 10000 length 6600 text "Vstupní kód je 59004. Musíš se dostat na palubu..." }
 		{ time 18600 length 2700 text "[Xerxes] Mnoho požaduje ukonèení této komunikace." }
 		{ time 22000 length 2200 text "[Xerxes] Omlouváme sa za vzniklé potíže." }
 	}
