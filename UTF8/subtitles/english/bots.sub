@@ -64,7 +64,7 @@ SUB1
  sub md1to3_1 { text "Mobilní odpad v dosahu senzorů." }
  sub md1to3_2 { text "Aktivní rozdíl zacílen." }
  sub md1to3_3 { text "Organická anomálie detekována." }
- sub md1to3_4 { text "Rozdíl je Potrvrzen." }
+ sub md1to3_4 { text "Rozdíl je Potvrzen." }
  sub md1to3_5 { text "Nevhodný vstup lokalizován." }
  sub sd1amb_1 { text "Xerxes, nepřítel neviděn." }
  sub sd1amb_2 { text "Xerxes, neznáme nebezpečí v této lokaci." }

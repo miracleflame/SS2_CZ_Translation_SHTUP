@@ -229,7 +229,7 @@ SUB1
 		{ time 00 length 2400 text "Drahoušku, rozkoušu tě pokud tím zadkem nehejbneš." }
 	}
 	multisub cs2005 {
-		{ time 00 length 2800 text "Jdeme, Tommy. Pojeď, pojeď!" }
+		{ time 00 length 2800 text "Jdeme, Tommy. Honem, spěchej!" }
 	}
 }
 {
