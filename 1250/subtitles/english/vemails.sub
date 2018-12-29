@@ -479,13 +479,13 @@ SUB1
 	type "convo"
 	descr "Diego"
 	multisub em0701 {
-		{ time 800 length 5200 text "Vojákù... tady je kapitán William Diego...  nemáme moc èasu...  tak dobøe poslouchej." }
-		{ time 6600 length 5300 text "Mám mimoøádnou vıhodu, e muù celou situaci pozorovat e všech monıch úhlu pohledu." }
+		{ time 800 length 5200 text "Vojáku... tady je kapitán William Diego...  nemáme moc èasu...  tak dobøe poslouchej." }
+		{ time 6600 length 5300 text "Mám mimoøádnou vıhodu, e mùu celou situaci pozorovat ze všech monıch úhlù pohledu." }
 		{ time 12400 length 6900 text "A donedávna jsem byl jen figurkou tìch ohavnıch a odpornıch tvorù, tìch šiøitelù nákazy nièící mysl i tìlo." }
 		{ time 20100 length 5200 text "Dokázal jsem se sice oprostit od jejich hniloby... ale moje tìlo bylo bìhem toho procesu tìce poškozeno." }
 		{ time 26100 length 2500 text "Jsem teï v nemocnici na pøední palubì Rickenbackera." }
 		{ time 29100 length 4400 text "Kdybych mohl, pøišel bych za tebou, ale není to moné.  A se setkáme, tak to pochopíš." }
-		{ time 33700 length 3900 text "Tak do toho...  a vojákù...  zùstaò naivu." }
+		{ time 33700 length 3900 text "Tak do toho...  a vojáku...  zùstaò naivu." }
 	}
 }
 
@@ -495,19 +495,19 @@ SUB1
 	multisub em0702 {
 		{ time 1800 length 6100 text "Tohle zpùsobilo pøetíení cívky mezonového urychlovaèe." }
 		{ time 8400 length 7100 text "Další taková cívka je na palubì 2, kterou musíš projít, aby ses dostal na mùstek Rickenbackera." }
-		{ time 15900 length 7900 text "Kdy se k ní pøiblííš, vybuchne rovnì.  Jene já znám zpùsob, jak se tomu vyhnout." }
+		{ time 15900 length 7900 text "Kdy se k ní pøiblííš, rovnì vybuchne.  Jene já znám zpùsob, jak se tomu vyhnout." }
 		{ time 24200 length 8100 text "Pokraèuj do motorové gondoly B.  Tam ti poskytnu vıhody své vševìdoucnosti." }
 	}
 	multisub em0703 {
 		{ time 2400 length 5000 text "Toto zaøízení dokáe obrátit smìr gravitace na palubì 2." }
 		{ time 7500 length 8300 text "To tì ochrání pøed náhodnım narušením pøetíené cívky tamního mezonového akcelerátoru." }
-		{ time 16700 length 7600 text "Teï se vrat ke své práci, insekte.  Tato loï musí bıt vyèištìna a moje trpìlivost ubıvá." }
+		{ time 16700 length 7600 text "Teï se vra ke své práci, insekte.  Tato loï musí bıt vyèištìna a moje trpìlivost ubıvá." }
 	}
 	multisub em0704 {
 		{ time 2000 length 6600 text "Myslela jsem, e mım vykonavatelem bude Politová, ale byla pøíliš slabá." }
 		{ time 9600 length 8300 text "To já si tì vybrala a naøídila robotovi, aby tì uvedl do bezvìdomí." }
 		{ time 18500 length 9000 text "Já jsem tì poté doplnila kybernetickım pùvabem.  Tvé maso je slabé, ale máš...  potenciál." }
-		{ time 28000 length 10300 text "Kadı implantát tì povznáší.  Kazdy øádek programu v tvıch sybsystemech tì pozdvihuje z omezení tvého odporného masa." }
+		{ time 28000 length 10300 text "Kadı implantát tì povznáší.  Kadı øádek programu v tvıch subsystémech tì pozdvihuje z omezení tvého odporného masa." }
 		{ time 38300 length 2600 text "Moná máš...  potenciál." }
 		{ time 40800 length 18000 text "Moná jednou, a mé svéhlavé dìtièky sprovodíme ze svìta, budeme moci popøemıšlet nad moností skuteèného spojenectví." }
 	}
@@ -515,7 +515,7 @@ SUB1
 		{ time 2100 length 2900 text "Musíme znièit Von Braun." }
 		{ time 5500 length 11500 text "Ale ještì pøedtím, ne oddìlíme Rickenbackera, musíš odstranit ta hnusná èerná vejce, která Mnoho vyvrhlo na tuto palubu." }
 		{ time 17900 length 12700 text "Ta vejce jsou experimentem Mnoha, a za èas by se z nich vylíhla další generace Annelidù, které u bychom nemìli šanci znièit." }
-		{ time 31700 length 9500 text "Posbírej všechny své síly na tento zápas, èlovìèe.  Boji se tì, nebo jsi vykonavatelem mé vùle." }
+		{ time 31700 length 9500 text "Posbírej všechny své síly na tento zápas, èlovìèe.  Bojí se tì, nebo jsi vykonavatelem mé vùle." }
 	}
 	multisub em0707 {
 		{ time 2500 length 7900 text "Zùstaò kde jsi, provokatére.  To je naposled, co Annelidé pokoušejí mou trpìlivost." }
@@ -530,11 +530,11 @@ SUB1
 		{ time 10300 length 5500 text "Stojíš v úasu nad mımi stvoøeními, insekte?" }
 		{ time 15800 length 5500 text "Pøišel èas odstranit mùj omyl." }
 		{ time 21500 length 6100 text "Na zádi mùstku je záchrannı modul." }
-		{ time 27900 length 8500 text "Pouij ho.  Vıstøel se pøímo do vnitøností toho veleèerva." }
+		{ time 27900 length 8500 text "Pouij ho.  Vytøel se pøímo do vnitøností toho veleèerva." }
 	}
 	multisub em0710 {
 		{ time 2000 length 6600 text "Váháš?  Nebudu tì ádat podruhé." }
-		{ time 9500 length 8800 text "Vıstøel se do Mnoha.  Vyøvi jeho srdce a já za odmìnu prodlouím tvou existenci." }
+		{ time 9500 length 8800 text "Vystøel se do Mnoha.  Vyrvi jeho srdce a já za odmìnu prodlouím tvou existenci." }
 		{ time 18900 length 7300 text "Zklameš-li mì, ukonèím tu tvou odpornou a nevıkonnou biologii." }
 	}
 	multisub em0711 {
@@ -559,7 +559,7 @@ SUB1
 	}
 	multisub em0719 {
 		{ time 2900 length 5300 text "Tvoje nekompetentnost mì zaráí." }
-		{ time 8300 length 11900 text "Dokud neobrátíš smìr gravitaèního generátorù v gondole B, budeš mít pøístup na palubu 2 zablokován." }
+		{ time 8300 length 11900 text "Dokud neobrátíš smìr gravitaèního generátoru v gondole B, budeš mít pøístup na palubu 2 zablokován." }
 		{ time 20300 length 9200 text "Copak musím sledovat kadı tvùj krok?" }
 	}
 	multisub em0720 {
