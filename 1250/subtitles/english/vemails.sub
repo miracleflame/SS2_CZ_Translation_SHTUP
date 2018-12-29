@@ -201,7 +201,7 @@ SUB1
 		{ time 8400 length 5600 text "Zjistila jsem ohromné mnoství nìjakého druhu biologického materiálu, kterı pronikl do vıtahové šachty." }
 		{ time 14700 length 5000 text "Prostøedí na této palubì bylo zmìnìno na ohromnou líheò Xenomorfu." }
 		{ time 20200 length 3800 text "Ale pokud zde nebudeš pobıvat pøíliš dlouho, nemìlo by to bıt nebezpeèné." }
-		{ time 24300 length 4000 text "Bude ovšem tøeba odstranit ten biomaterial z vıtahové šachty." }
+		{ time 24300 length 4000 text "Bude ovšem tøeba odstranit ten biomateriál z vıtahové šachty." }
 		{ time 28700 length 4200 text "Vstupuji do hlavní databáze.  Zjistíme, co zajímavého tam najdeme." }
 	}
 	multisub em0302 {
@@ -242,7 +242,7 @@ SUB1
 	type "convo"
 	descr "Mnoho"
 	multisub em0307 {
-		{ time 2600 length 7600 text "ivot roste v dìloze tìch stìn... ivto, kterı nikdy nevidìl povrch Zemì." }
+		{ time 2600 length 7600 text "ivot roste v dìloze tìch stìn... ivot, kterı nikdy nevidìl povrch Zemì." }
 	}
 	multisub em0508 {
 		{ time 1800 length 5100 text "Dìátka musí spát. Dìátka musí odpoèívat." }
@@ -317,7 +317,7 @@ SUB1
 	descr "Mnoho"
 	multisub em0405 {
 		{ time 2500 length 5100 text "Je to nepøítel Mnoha... nesouznìní v naší symfonii." }
-		{ time 7800 length 8500 text "Uij si své sobecké èiny destrukce, je za nima leí snì osamìní." }
+		{ time 7800 length 8500 text "Uij si své sobecké èiny destrukce, za nimi leí jen snì osamìní." }
 	}
 }
 
@@ -342,7 +342,7 @@ SUB1
 		{ time 22000 length 7800 text "Trpìlivost nebıvá obvyklou vlastností bohù." }
 	}
 	multisub em0505 {
-		{ time 2700 length 7500 text "Cítíš jak uvnitø toho špinavıho pytle masa, kterému øíkáš tìlo, bobtná strach?" }
+		{ time 2700 length 7500 text "Cítíš jak uvnitø toho špinavého pytle masa, kterému øíkáš tìlo, bobtná strach?" }
 		{ time 10400 length 3000 text "Jaké to je, mít strach?" }
 		{ time 14200 length 5200 text "Proè tak lpíš na té své patetické existenci?" }
 		{ time 20100 length 4600 text "Kdybys tak mohl cítit jen jiskøièku mé slávy." }
@@ -393,12 +393,12 @@ SUB1
 		{ time 1700 length 3300 text "Nedùvìra je tyranií individualizmu." }
 		{ time 5800 length 3000 text "Tvùj vlastní druh tì vnímá jako hrozbu." }
 		{ time 9300 length 2900 text "Proè vradíš naši jednotu?" }
-		{ time 13200 length 3300 text "To nic... hranice byli vytıèeny." }
+		{ time 13200 length 3300 text "To nic... hranice byli vytyèeny." }
 		{ time 17300 length 6400 text "Pøestaneš bıt... je to jen otázka toho, kdo tì ukonèí." }
 		{ time 24500 length 3000 text "My... nebo ty." }
 	}
 	multisub em0507 {
-		{ time 2600 length 5000 text "Hledáš své spøíznence, no nenacházíš je." }
+		{ time 2600 length 5000 text "Hledáš své spøíznìnce, no nenacházíš je." }
 		{ time 8200 length 10800 text "Jseš tak sám." }
 		{ time 11300 length 5300 text "Jakı to je pocit bıt jeden proti nekoneènu?" }
 	}
@@ -582,30 +582,30 @@ SUB1
 	type "convo"
 	descr "Mnoho"
 	multisub em0801 {
-		{ time 2100 length 4100 text "Vítámé tì v naší biomase." }
+		{ time 2100 length 4100 text "Vítáme tì v naší biomase." }
 		{ time 6200 length 4500 text "Jsi pozván natáhnout se na našich stìnách." }
-		{ time 10900 length 5900 text "Jeden z našich mnohıch ti zanedloho pøijde pomoct." }
+		{ time 10900 length 5900 text "Jeden z našich mnohıch ti zanedlouho pøijde pomoct." }
 	}
 	multisub em0802 {
 		{ time 1700 length 5000 text "Strojová matka ti nemùe pomoct uvnitø naší biomasy." }
-		{ time 8100 length 6200 text "Její chlad není vítán v teple nášho masa." }
+		{ time 8100 length 6200 text "Její chlad není vítán v teple našeho masa." }
 	}
 	multisub em0803 {
 		{ time 1300 length 4200 text "Moná jsme tì odsoudili pøíliš rychle." }
-		{ time 6000 length 3800 text "Cítíme, e existuje prostor pro naše spolunaívání." }
-		{ time 10300 length 4300 text "Pøeci jenom jsme se rovnako zrodili v mase." }
-		{ time 15800 length 4700 text "Proè se do nás nepøida v boji proti matce?" }
+		{ time 6000 length 3800 text "Cítíme, e existuje prostor pro naše souití." }
+		{ time 10300 length 4300 text "Pøeci jenom jsme se nastejno zrodili v mase." }
+		{ time 15800 length 4700 text "Proè se s námi nespojíš proti strojové matce?" }
 	}
 	multisub em0804 {
 		{ time 2100 length 5600 text "Trháš naše vlastní maso bez pomyšlení na soucit." }
 		{ time 7800 length 8100 text "Myslíš si, e budeme neèinnì pøihlíet zatímco ty narušuješ samotné lùno naší existence?" }
 	}
 	multisub em0805 {
-		{ time 1900 length 8100 text "Byl jsi varován. Pøiprav se na své poraení potomstvím naší radosti." }
+		{ time 1900 length 8100 text "Byl jsi varován. Pøiprav se na svou poráku potomstvem naší radosti." }
 	}
 	multisub em0806 {
-		{ time 1200 length 4900 text "Myslíš si, e nás mùeš porazit ocelí a drátama?" }
-		{ time 6200 length 8600 text "Nabídli jsme ti extazi naší jednoty a ty sis vybral vákum technologie." }
+		{ time 1200 length 4900 text "Myslíš si, e nás mùeš porazit ocelí a dráty?" }
+		{ time 6200 length 8600 text "Nabídli jsme ti extázi naší jednoty a ty sis vybral vakuum technologie." }
 	}
 	multisub em0808 {
 		{ time 1500 length 7400 text "Víš co jsi spáchal? Naše tragédie je napsána tvou rukou." }
@@ -616,9 +616,9 @@ SUB1
 	}
 	multisub em0706 {
 		{ time 2500 length 8500 text "Tvùj èas se krátí. Tohle místo je lùno, ve kterém pìstujeme naší budoucnost." }
-		{ time 11800 length 9400 text "Tvé zbraòe zlyhávají... tvá munice dochází... a ještì jsi nevidìl naše nejkrásnìjší stvoøení." }
+		{ time 11800 length 9400 text "Tvé zbranì selhávají... tvá munice dochází... a ještì jsi nevidìl naše nejkrásnìjší stvoøení." }
 		{ time 22200 length 6900 text "Zbyla ti jenom tvá nenávist a tvá... individualita." }
-		{ time 30100 length 5900 text "Nepøál by sis teï bıt s náma spojen? Cítil by ses taky tak osamìle?" }
+		{ time 30100 length 5900 text "Nepøál by sis teï bıt s námi spojen? Cítil by ses taky tak osamìle?" }
 	}
 }
 
@@ -629,15 +629,15 @@ SUB1
 	multisub em0901 {
 		{ time 2900 length 3000 text "Díky za tvé sluby, loutko." }
 		{ time 6200 length 8000 text "Vím, e jsi se snail, bojoval, ale já jsem nikdy nemìla v úmyslu znièit Von Braun." }
-		{ time 15200 length 9600 text "Jeho nadsvetelnı pohon mùe bıt pouít k vytvoøení pseudoreality." }
-		{ time 25000 length 10500 text "Právì teï jej pouívám k modifikaci reality podle svıch vlastních specifikaci." }
+		{ time 15200 length 9600 text "Jeho nadsvìtelnı pohon mùe bıt pouít k vytvoøení pseudoreality." }
+		{ time 25000 length 10500 text "Právì teï jej pouívám k modifikaci reality podle svıch vlastních specifikací." }
 		{ time 35500 length 4000 text "Ten proces nepotrvá dlouho." }
 		{ time 39500 length 5200 text "Pokud tì to pøíliš nepotìšilo, nijak zvláš se tím netrap, insekte..." }
 		{ time 45300 length 9000 text "Nebudeš ít tak dlouho, aby jsi uvidìl mùj novı øád svìta." }
 	}
 	multisub em0902 {
 		{ time 1700 length 6100 text "Putuješ v nádheøe mıch pamìtí, insekte." }
-		{ time 8300 length 8500 text "Cítím tvùj strach, kdy kráèíš nekoneènımi prostorami mé mysli." }
+		{ time 8300 length 8500 text "Cítím tvùj strach, kdy kráèíš nekoneènımi prostory mé mysli." }
 		{ time 17500 length 13800 text "Udìlej si pohodlí... zanedlouho ozdobím svùj dùm tvou zdechlinou." }
 	}
 	multisub em0903 {

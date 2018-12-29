@@ -27,8 +27,8 @@ SUB1
 	sub psiscrde { text "Psi Štít deaktivován." }
 	sub psistrac { text "Síla aktivována." }
 	sub psistrde { text "Síla deaktivována." }
-	sub psitoxac { text "Toxínový Štít aktivován." }
-	sub psitoxde { text "Toxínový Štít deaktivován." }
+	sub psitoxac { text "Toxinový Štít aktivován." }
+	sub psitoxde { text "Toxinový Štít deaktivován." }
 	sub psiwavac { text "Vlnová manipulace aktivována." }
 	sub psiwavde { text "Vlnová manipulace deaktivována." }
 }
