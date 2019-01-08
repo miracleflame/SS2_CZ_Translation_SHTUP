@@ -12,7 +12,7 @@ SUB1
 		{ time 22000 length 2200 text "[Xerxes] Omlouváme sa za vzniklé potíže." }
 	}
 	multisub em0102 {
-		{ time 500 length 6200 text "Teď pozorně poslouchej. Xenomorfové, kteří si podrobili tuto loď, pocházejí pravděpodobně z povrchu Tau Ceti 5." }
+		{ time 500 length 6200 text "Teď pozorně poslouchej. Xenomorfové, kteří si podrobili tuto loď, pocházejí pravděpodobně z povrchu Tau Ceti V." }
 		{ time 7300 length 5300 text "Byli schopni infikovat většinu členů posádky, prostřednictvím mimořádné invazivní parazitní techniky." }
 		{ time 13100 length 6200 text "Také předvedli schopnost ovládat chování ostatních pomocí určité formy omezené telepatie." }
 		{ time 19900 length 4000 text "Najdi výzkumný software. Porozuměj jim... a pak je znič." }
