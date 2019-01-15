@@ -1,0 +1,13 @@
+Paluba C
+Paluba B
+Paluba A
+
+Řízení podp. systémů A
+Řízení podp. systémů B
+Raketové Řízení
+Raketový Sklad
+Chemický Sklad
+Márnice
+Motorová Gondola A
+Motorová Gondola B
+Přemostění k Von Braun
