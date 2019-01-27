@@ -279,7 +279,7 @@ SUB1
 		{ time 19600 length 9100 text "Nauč se ji používat...  Může být to jediné, co bude stát mezi tebou a jejich nákazou." }
 	}
 	multisub em0407 {
-		{ time 1900 length 4600 text "Za těmito dveřmi leží jedna simulační jednotka" }
+		{ time 1900 length 4600 text "Za těmito dveřmi leží jedna simulační jednotka." }
 		{ time 6600 length 8400 text "Přeprogramuj ji a já získám větší kontrolu nad touto lodí na úkor obstarožního Xerxese." }
 		{ time 16900 length 6300 text "Až budu já paní na této lodi, mužů ti otevřít více dveří." }
 		{ time 23200 length 7300 text "Ale teď mi ještě blokují přístup.  Uráží mou velikost." }
@@ -357,7 +357,7 @@ SUB1
 		{ time 39200 length 5200 text "Má nádhera se rozšiřuje, naplňuje tepny této lodi." }
 		{ time 45200 length 7000 text "Získala jsem kontrolu. Jsem..." }
 		{ time 52300 length 8400 text "Ne...  je to beznadějné...  ta rakovina prorůstá celým Von Braunem." }
-		{ time 60900 length 7400 text "Oni vyplnili všechny dostupné zlomy a trhliny...  Podrobili si ji..." }
+		{ time 60900 length 7400 text "Vyplnili všechny dostupné zlomy a trhliny...  Podrobili si ji..." }
 		{ time 68700 length 7200 text "Není jiná možnost...  Aktivovala jsem ústřední výtah na Rekreační palubě." }
 		{ time 76400 length 6100 text "Dostaň se na palubu 6.  Svá další přání ti sdělím, až tam dorazíš." }
 	}
@@ -629,7 +629,7 @@ SUB1
 	multisub em0901 {
 		{ time 2900 length 3000 text "Díky za tvé služby, loutko." }
 		{ time 6200 length 8000 text "Vím, že jsi se snažil, bojoval, ale já jsem nikdy neměla v úmyslu zničit Von Braun." }
-		{ time 15200 length 9600 text "Jeho nadsvětelný pohon může být použít k vytvoření pseudoreality." }
+		{ time 15200 length 9600 text "Jeho nadsvětelný pohon může být použít k vytvoření kapes protoreality." }
 		{ time 25000 length 10500 text "Právě teď jej používám k modifikaci reality podle svých vlastních specifikací." }
 		{ time 35500 length 4000 text "Ten proces nepotrvá dlouho." }
 		{ time 39500 length 5200 text "Pokud tě to příliš nepotěšilo, nijak zvlášť se tím netrap, insekte..." }

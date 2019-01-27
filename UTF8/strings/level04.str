@@ -37,7 +37,7 @@ EmailText9:"Udělal jsi hodně práce, na věc s tak malou důležitostí.\n\nTe
 EmailName10:"SHODAN 12.7.2114\nre: Výborně"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
-EmailText10:"Teď můžu svou velkolepost kdykoliv přenést na Rickenbacker.\n\nPokračuj do sálu s reaktorem na Technické palubě.\n\nTam můžeš předat ovládání přetížení reaktoru pod mou kontrolu, zadáním autorizačního destrukčního kódu 94834.\n\nAž to uděláš, přejdi na Rickenbacker.\n\nPak oddělíme obě lodi a konečně zlikvidujeme tu nákazu.\n"
+EmailText10:"Teď můžu svou velkolepost kdykoliv přenést na Rickenbacker.\n\nPokračuj do sálu s reaktorem na Technické palubě.\n\nTam můžeš předat ovládání přetížení reaktoru pod mou kontrolu, zadáním autorizačního destrukčního kódu\n94834.\n\nAž to uděláš, přejdi na Rickenbacker.\n\nPak oddělíme obě lodi a konečně zlikvidujeme tu nákazu.\n"
 
 	
 LogName32:"Chemický záznam:\nSpráva"
@@ -50,7 +50,7 @@ LogName15:"KORENCHKIN 02.3.2114\nre: Všechno staré..."
 LogPortrait15:"Korench"
 LogIcon15:"ComIcon"
 LogText15:"Pro: Zhukov, Vladimír\n
-Miri,\nnaše práce na posledním modelu kyber zabijáka má zatím vynikající výsledky.\n\nDoufám, že záležitost s tím zkurvysynem Diegem nedojde tak daleko, ale je uklidňující vědět, že nejsme tak úplně bezbranní, jak by si útočné jednotky UNN mohly myslet.\n\nJediný problém, na který jsme narazili, je vylepšený laserový rapír...\nTy ubohé věci stále odsekávají kousky sebe sama.\n\nSnažíme se chyby odstranit, ale vím že nás ten...  byrokrat...  pozoruje.\n\nJe smutné vidět chlapa, kterého tak straší duch vlastního otce...\n\nJeho nenávist ke všemu, co představuje TriOptimum, je pozoruhodná.\n"
+Míre,\nnaše práce na posledním modelu kyber zabijáka má zatím vynikající výsledky.\n\nDoufám, že záležitost s tím zkurvysynem Diegem nedojde tak daleko, ale je uklidňující vědět, že nejsme tak úplně bezbranní, jak by si útočné jednotky UNN mohly myslet.\n\nJediný problém, na který jsme narazili, je vylepšený laserový rapír...\nTy ubohé věci stále odsekávají kousky sebe sama.\n\nSnažíme se chyby odstranit, ale vím že nás ten...  byrokrat...  pozoruje.\n\nJe smutné vidět chlapa, kterého tak straší duch vlastního otce...\n\nJeho nenávist ke všemu, co představuje TriOptimum, je pozoruhodná.\n"
 
 
 LogName18:"SIDONSOVÁ 02.7.2114\nre: Špatný pocit..."
@@ -128,7 +128,7 @@ Je mi jasné, že nejste této misi oddáni tak, jak by bylo třeba.\nAle je nut
 LogName5:"MALICK 08.7.2114\nre: Sbohem\n"
 LogPortrait5:"Malick"
 LogIcon5:"OpsIcon"
-LogText5:"Dnes jsem shodil poslední simulační jednotku...\n\nJsem plný slávy Mnoha...\n\nUž přichází Bronsonová.\n\nJsem v klidu...\n\nDobrý večer, Bronsonová.\nSnad nejdete k...\n\n\n\n\nVypněte tu zatracenou věc!\n"
+LogText5:"Dnes jsem shodil poslední simulační jednotku...\nJsem plný slávy Mnoha...\n\nUž přichází Bronsonová.\nJsem v klidu...\n\nDobrý večer, Bronsonová.\nSnad nejdete k...\n\n\n\nVypněte tu zatracenou věc!\n"
 
 
 LogName8:"DIEGO 08.7.2114\nre: Přestaň s tím"

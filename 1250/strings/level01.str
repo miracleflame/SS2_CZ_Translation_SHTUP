@@ -7,7 +7,7 @@ EmailText10:"Teï jsi na Technické palubì.\n\nNajdi Reaktor a znovu ho nastartuj.
 EmailName1:"POLITOVÁ 12.7.2114\nre: Pøíruèní sklad 4"
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
-EmailText1:"Musíš si pospíšit. Ještì si neuvìdomuješ, co všechno je v sázce.\n\nDej pozor na pøíruèní sklad è.4.\nNechala jsem tam nìjaké vybavení.\n\nVstupní kód je 59004.\nMusíš se dostat na palubu... <<ZPRÁVA PØERUŠENA>>\n"
+EmailText1:"Musíš si pospíšit. Ještì si neuvìdomuješ, co všechno je v sázce.\n\nDej pozor na pøíruèní sklad è.4.\nNechala jsem tam nìjaké vybavení.\n\nVstupní kód je 59004.\nMusíš se dostat na palubu...\n<<ZPRÁVA PØERUŠENA>>\n"
 
 
 EmailName3:"POLITOVÁ 12.7.2114\nre: Ochranné zámky"
@@ -28,7 +28,7 @@ EmailIcon2:"OpsIcon"
 EmailText2:"Teï pozornì poslouchej.\nXenomorfové, kteøí si podrobili tuto loï, pocházejí pravdìpodobnì z povrchu Tau Ceti V.\n\nByli schopni infikovat vìtšinu èlenù posádky, prostøednictvím mimoøádné invazivní parazitní techniky.\n\nTaké pøedvedli schopnost ovládat chování ostatních pomocí urèité formy omezené telepatie.\n\nNajdi výzkumný software.\nPorozumìj jim...\na pak je zniè.\n"
 
 
-EmailName7:"POLITOVÁ 12.7.2114\nre: Kapalinové pøemostìní"
+EmailName7:"POLITOVÁ 12.7.2114\nre: Zablokovaný pøístup"
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
 EmailText7:"Xerxes je o krok pøed námi.\nVytvoøil pøemostìní na Poèítaèi Kapalinového Øízení a zablokoval pøístup.\n\nDávej pozor. Mìl bys být schopen najít nìjaké øešení.\n"
@@ -89,7 +89,7 @@ LogName17:"DELACROIX 04.7.2114\nre: Patøièné kroky"
 LogPortrait17:"Delacroix"
 LogIcon17:"EngIcon"
 LogText17:"Pro: Korenchkin, Anatoly\n
-Nejsem si jistá, co se svým novým nejlepším pøítelem kapitánem Diegem skrýváte na palubì 3, ale jsem rozhodnutá to zjistit.\n\nPokud budete stále odmítat setkání se mnou a s mým týmem, nebudu mít jinou volbu, než si stìžovat u spoleènosti.\nJestli mì nebudete brát vážnì vy, tak možná seržantka Bronsonová se svým oddílem ostrahy bude.\n"
+Nejsem si jistá, co se svým novým nejlepším pøítelem kapitánem Diegem skrýváte na palubì 3, ale jsem rozhodnutá to zjistit.\n\nPokud budete stále odmítat setkání se mnou a s mým týmem, nebudu mít jinou volbu, než si stìžovat u spoleènosti.\n\nJestli mì nebudete brát vážnì vy, tak možná seržantka Bronsonová se svým oddílem ostrahy bude.\n"
 
 
 LogName9:"SANGEROVÁ 04.7.2114\nre: Delacroix"
@@ -139,7 +139,7 @@ LogText23:"Nejen že nedokážeme odpojit haprující støelecké vìže, ale teï s námi 
 LogName4:"CURTIZ 07.7.2114\nre: Zase to prosakuje"
 LogPortrait4:"Curtiz"
 LogIcon4:"EngIcon"
-LogText4:"Delacroix mìla pravdu, Tahle loï nebyla pøipravena na první let.\n\nOK, z potrubí uniká radiace a automatické bezpeènostní zámky se aktivovali.\n\nPùjdu dolù na Technické Øízení...\n\nMyslím, že by se k vyèištìní trubek dal použít Poèítaè Kapalinového Øízení.\n"
+LogText4:"Delacroix mìla pravdu, Tahle loï nebyla pøipravena na první let.\n\nOK, z potrubí uniká radiace a automatické bezpeènostní zámky se aktivovali.\n\nPùjdu dolù na Technické Øízení...\nMyslím, že by se k vyèištìní trubek dal použít Poèítaè Kapalinového Øízení.\n"
 
 
 LogName13:"SANGEROVÁ 10.7.2114\nre: Zámek Tech. Øízení"
