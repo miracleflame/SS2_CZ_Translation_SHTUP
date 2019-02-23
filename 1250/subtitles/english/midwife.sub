@@ -20,7 +20,7 @@ SUB1
 	sub mw1at3_1 { text "Kam šel?" }
 	sub mw1at3_2 { text "Je to v poøádku, ukaž se." }
 	sub mw1at3_3 { text "Nepøibližuj se k dìtem." }
-	sub mw1at3_4 { text "Neublížíme ti...  , moc." }
+	sub mw1at3_4 { text "Neublížíme ti...  moc." }
 	sub mw1at3_5 { text "Pøicházíš o všechnu zábavu." }
 	sub mw1bak_1 { text "Není slyšet ani pípnutí." }
 	sub mw1bak_2 { text "Nic tady není. Máma je pøíliš starostlivá." }

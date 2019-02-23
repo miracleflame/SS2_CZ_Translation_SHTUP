@@ -230,7 +230,7 @@ SUB1
 		{ time 1700 length 8000 text "Výbornì!  Je zjevné, že biomateriál na zdech a ve výtahové šachtì je napadán rozptylovaným biotoxinem." }
 		{ time 10300 length 3200 text "Teï to samé udìlej u dalších tøí klimatizaèních jednotek." }
 	}
-	multisub em0307 {
+	multisub em0308 {
 		{ time 1300 length 3100 text "Už vìdí kde jsi.  Najdi nìjaký zpùsob, jak uvolnit šachtu." }
 		{ time 4800 length 2700 text "Já tady udìlám vše, co pùjde.  Teï bìž!" }
 		{ time 8100 length 1500 text "Na neúspìch není èas." }
