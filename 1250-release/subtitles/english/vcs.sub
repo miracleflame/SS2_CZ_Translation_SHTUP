@@ -26,7 +26,7 @@ SUB1
 	multisub cs2401 {
 		{ time 1500 length 1400 text "Mùe mì nìkdo pustit ven?" }
 		{ time 3500 length 1600 text "Nemùu najít svou kartu." }
-		{ time 5700 length 3500 text "Prosím, pustì mì odsud!" }
+		{ time 5700 length 3500 text "Prosím, puste mì odsud!" }
 	}
 }
 
