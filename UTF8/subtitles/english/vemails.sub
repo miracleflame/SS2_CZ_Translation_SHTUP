@@ -293,7 +293,7 @@ SUB1
 		{ time 30600 length 5200 text "Má nádhera se rozšiřuje, naplňuje tepny této lodi." }
 		{ time 36500 length 7000 text "Získala jsem kontrolu.  Jsem..." }
 		{ time 43700 length 8400 text "Ne...  je to beznadějné...  ta rakovina prorůstá celým Von Braunem." }
-		{ time 52300 length 7400 text "Oni vyplnili všechny dostupné zlomy a trhliny...  Podrobili si ji..." }
+		{ time 52300 length 7400 text "Oni vyplnili všechny dostupné zlomy a trhliny...  Protékají jimi..." }
 		{ time 60000 length 7200 text "Není žádná možnost...  Aktivovala jsem ústřední výtah na Rekreační palubě." }
 		{ time 67800 length 6100 text "Dostaň se na palubu 6.  Svá další přání ti sdělím, až tam dorazíš." }
 	}
@@ -364,7 +364,7 @@ SUB1
 	multisub em0509 {
 		{ time 1300 length 8600 text "Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici." }
 		{ time 10700 length 10300 text "Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď." }
-		{ time 21600 length 8000 text "A navíc odebírá část výkonu obvodům Xerxese, jež se tak stává méně odolným mému vlivu." }
+		{ time 21600 length 8000 text "A navíc odebere část výkonu obvodům Xerxese, jež se tak stane méně odolným mému vlivu." }
 		{ time 30200 length 6000 text "Až toto dokončíš, budu ovládat primární dataloop." }
 		{ time 36800 length 7000 text "Annelidi si nejsou vědomi přítomnosti stanice, ale střeží oblast z vlastních důvodů." }
 		{ time 44900 length 3900 text "Najdi ten vysílač, a aktivuj ho." }
