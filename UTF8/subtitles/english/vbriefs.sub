@@ -266,7 +266,7 @@ SUB1
 
 {
 	type "convo"
-	descr "Tréner"
+	descr "Trenér"
 
 	multisub init_0 {
 		{ time 00 length 2400 text "Vítej na vesmírné stanici Wake Island, mariňáků." }
