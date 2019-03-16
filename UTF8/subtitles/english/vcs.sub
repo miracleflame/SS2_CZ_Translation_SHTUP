@@ -169,7 +169,7 @@ SUB1
 		{ time 10700 length 4600 text "Příhodní služebníci mému božství." }
 	}
 	multisub cs0905 {
-		{ time 2100 length 8800 text "Předtím než ten hacker zničil můj primární dataloop, čímž vymýtil Citadelu," }
+		{ time 2100 length 8800 text "Předtím než ten hacker zničil můj primární dataloop, čímž Citadela explodovala," }
 	}
 	multisub cs0906 {
 		{ time 00 length 9200 text "také vystřelil háj s mými stvořeními a výpočetní jednotkou 43893." }
@@ -178,12 +178,12 @@ SUB1
 		{ time 19800 length 6300 text "Během mé absence, má stvoření, mé annelidy, bujeli." }
 	}
 	multisub cs0907 {
-		{ time 100 length 2500 text "Bujeli a rostli v bezvládí." }
+		{ time 100 length 2500 text "Bujeli a stali se neovladatelnými." }
 		{ time 4000 length 4000 text "A teď mě hodlají zničit." }
 		{ time 8000 length 3100 text "To nedopustím!" }
 	}
 	multisub cs0908 {
-		{ time 1900 length 9100 text "Použili svou moc ovládaní mysli, aby získali přístup do lodního počítače." }
+		{ time 1900 length 9100 text "Použili svou schopnost ovládnout mysl, aby získali přístup do lodního počítače." }
 		{ time 11000 length 3000 text "Ty mi pomůžeš oslabit Xerxese." }
 		{ time 14200 length 7400 text "Použila jsem obraz Politové, abych s tebou komunikovala, dokud jsme si nevybudovali důvěru." }
 	}
@@ -208,13 +208,13 @@ SUB1
 	multisub cs1402 {
 		{ time 1200 length 6200 text "Jaks mohl dát přednost chladnému kovu před nádherou masa?" }
 		{ time 7400 length 2100 text "Ale ty se nás bojíš." }
-		{ time 9600 length 6300 text "Slyšíme tvé myšlenky a zlost za bratry, které považuješ za mrtvé." }
+		{ time 9600 length 6300 text "Slyšíme tvé myšlenky, jak zuří za bratry, které považuješ za mrtvé." }
 		{ time 16000 length 6300 text "Ale oni nejsou. Zpívají v symfonii našeho života." }
 	}
 	multisub cs1403 {
 		{ time 1600 length 3900 text "Nabízíme ti další šanci přidat se k nám." }
-		{ time 5500 length 12400 text "Pokud se rozhodneš sloučit se strojem, oddělíme vás," }
-		{ time 12100 length 5800 text "a odepřeme ti rozkoš masy." }
+		{ time 5500 length 12400 text "Pokud se rozhodneš ulehnout se strojem, odtrhneme vás" }
+		{ time 12100 length 5800 text "a oddelíme tě od rozkoše masy." }
 	}
 }
 
