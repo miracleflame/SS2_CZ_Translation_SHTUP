@@ -359,7 +359,7 @@ SUB1
 
  	multisub brief10 {
 		{ time 800 length 5200 text "UNN Lucille hledá poručíka operačního výcviku, který si osvojí navigaci lodi a systémy datového ovládaní." }
-		{ time 6400 length 3700 text "Namočíš se do Hi-tech systémů, ale také počítej s těžkými břemeny." }
+		{ time 6400 length 3700 text "Vyzkoušíš si Hi-tech systémy, ale také počítej s těžkými břemeny." }
 	}
 
 	multisub brief11 {
