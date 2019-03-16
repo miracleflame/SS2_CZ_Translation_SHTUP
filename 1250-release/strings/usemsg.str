@@ -16,7 +16,7 @@ free4:""
 LIFTED:"Bezpeènostní zablokování vypnuto - pøístup umožnìn."
 LOCKDOWN:"Bezpeènostní zablokování - pøístup odepøen."
 Nac1OL:"Levá gondola zapojena."
-Nacomp2_OL:"Práva gondola zapojena."
+Nacomp2_OL:"Pravá gondola zapojena."
 NavMarkerCreate:"Navigaèní znaèka umístìna."
 NavMarkerFrob:"Navigaèní znaèka odstranìna."
 NeedOverride:"Nutné hardwarové pøemostìní."
@@ -45,13 +45,13 @@ Post15:"Zamìøení mise: Škola taktického výcviku
 Post16:"Zamìøení mise: Laboratorní asistent
 (pøidá: +1 Výzkum)"
 Post17:"Zamìøení mise: Výcvik pøežití
-(pøidá: +2 Vytrvalost)"
+(pøidá: +2 Výdrž)"
 Post18:"Zamìøení mise: Trénink v beztíži
 (pøidá: +2 Hbitost)"
 Post19:"Zamìøení mise: Nádrž Senz. Dep. 925/NP5: Kyber empatie
 (pøidá: 2. Vrstvu PSI schopností, Kryokinezi a Psychogenní Kyber-kompatibilitu)"
 Post2:"Zamìøení mise: Trénink pøežití
-(pøidá: +2 Vytrvalost)"
+(pøidá: +2 Výdrž)"
 Post20:"Zamìøení mise: Nádrž Senz. Dep. 437/WH1: Kinetická empatie
 (pøidá: 2. Vrstvu PSI schopností, Kryokinezi a Kinetické Pøitáhnutí)"
 Post21:"Zamìøení mise: Nádrž Senz. Dep. 003/MU5: Promìny hmoty
@@ -61,7 +61,7 @@ Post22:"Zamìøení mise: Telepatické vyšetøování/Engramanalýza
 Post23:"Zamìøení mise: Experimentální laboratoø TOS Ki Luan
 (pøidá: +1 Výzkum)"
 Post24:"Zamìøení mise: Taktický PSI výcvik/Krytí
-(pøidá: +2 Vytrvalost)"
+(pøidá: +2 Výdrž)"
 Post25:"Zamìøení mise: Polní operace, antiterorismus
 (pøidá: +1 Síla, +1 Hbitost, +1 Kyber-kompatibilita,
  a Psychogenní Hbitost)"
@@ -96,7 +96,7 @@ SCPExpert:"Expert techninja"
 seccrew1:"Nutný pøístup posádky."
 ShieldBroken:"Poèítaè štítù nefunkèní."
 ShieldOff:"Štít èlunu deaktivován."
-Slideshow1:"Protokol Vzdáleného Pøístupu ke Kybernetickému Rozhraní online..."
+Slideshow1:"Aktivován protokol Vzdáleného Pøístupu ke Kybernetickému Rozhraní..."
 Slideshow2:"Užívatel: BOHYNÌ"
 Slideshow3:"Heslo: ********************************"
 Slideshow4:"Vzdálený pøístup povolen."
