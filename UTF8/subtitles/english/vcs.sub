@@ -169,7 +169,7 @@ SUB1
 		{ time 10700 length 4600 text "Příhodní služebníci mému božství." }
 	}
 	multisub cs0905 {
-		{ time 2100 length 8800 text "Předtím než ten hacker zničil můj primární dataloop, čímž Citadela explodovala," }
+		{ time 2100 length 8800 text "Předtím než ten hacker zničil můj primární dataloop v explozi Citadely," }
 	}
 	multisub cs0906 {
 		{ time 00 length 9200 text "také vystřelil háj s mými stvořeními a výpočetní jednotkou 43893." }
