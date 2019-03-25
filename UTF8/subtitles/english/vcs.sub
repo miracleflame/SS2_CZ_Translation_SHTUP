@@ -242,7 +242,7 @@ SUB1
 		{ time 00 length 1400 text "Ale ne..." }
 	}
 	multisub cs2801 {
-		{ time 00 length 1700 text "Rebeko, jdeme pozdě!" }
+		{ time 00 length 1700 text "Rebeko, nezbývá čas!" }
 		{ time 1700 length 1400 text "Nastup si do modulu!" }
 	}
 }
