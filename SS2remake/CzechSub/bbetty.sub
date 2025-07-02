@@ -1,0 +1,22 @@
+SUB1
+
+{
+	type "player"
+	descr "Info"
+	sub bb01 { text "Úroveň PSI je nízká" }
+	sub bb02 { text "Přítomnost Radiace" }
+	sub bb03 { text "Úroveň Zdraví je nízká" }
+	sub bb04 { text "Zbraň se zasekla" }
+	sub bb05 { text "Vyžaduje se Chemikálie" }
+	sub bb06 { text "Výzkum hotov" }
+	sub bb07 { text "Energie vyčerpána" }
+	sub bb08 { text "Munice vyčerpána" }
+	sub bb10 { text "Nedostatek PSI" }
+	sub bb11 { text "Předmět upuštěn" }
+	sub bb12 { text "Přítomnost Toxicity" }
+	sub bb13 { text "Přístup nepovolen" }
+	sub bbcyba_a { text "Kyber-kompatibilita aktivována" }
+	sub bbcyba_d { text "Kyber-kompatibilita deaktivována" }
+	sub left { text "Vlevo" }
+	sub right { text "Vpravo" }
+}

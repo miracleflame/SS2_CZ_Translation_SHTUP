@@ -1,0 +1,34 @@
+SUB1
+
+{
+	type "player"
+	descr "Info"
+	sub psiadrac { text "Adrenalin aktivován." }
+	sub psiadrde { text "Adrenalin deaktivován." }
+	sub psiagiac { text "Hbitost aktivována." }
+	sub psiagide { text "Hbitost deaktivována." }
+	sub psiapsac { text "Štít aktivován." }
+	sub psiapsde { text "Štít deaktivován." }
+	sub psiaurac { text "Štít aktivován." }
+	sub psiaurde { text "Štít deaktivován." }
+	sub psiendac { text "Odolnost aktivována." }
+	sub psiendde { text "Odolnost deaktivována." }
+	sub psientac { text "Anti-Entropie aktivována." }
+	sub psientde { text "Anti-Entropie deaktivována." }
+	sub psiinvac { text "Neviditelnost aktivována." }
+	sub psiinvde { text "Neviditelnost deaktivován." }
+	sub psiradac { text "Radiační Štít aktivován." }
+	sub psiradde { text "Radiační Štít deaktivován." }
+	sub psirecac { text "Rekurzivní Psi aktivována." }
+	sub psirecde { text "Rekurzivní Psi deaktivována." }
+	sub psirefac { text "Reflex aktivován." }
+	sub psirefde { text "Reflex deaktivován." }
+	sub psiscrac { text "Psi Štít aktivován." }
+	sub psiscrde { text "Psi Štít deaktivován." }
+	sub psistrac { text "Síla aktivována." }
+	sub psistrde { text "Síla deaktivována." }
+	sub psitoxac { text "Toxinový Štít aktivován." }
+	sub psitoxde { text "Toxinový Štít deaktivován." }
+	sub psiwavac { text "Vlnová manipulace aktivována." }
+	sub psiwavde { text "Vlnová manipulace deaktivována." }
+}

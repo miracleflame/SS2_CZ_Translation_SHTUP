@@ -1,0 +1,55 @@
+SUB1
+
+{
+	type "bark"
+	descr "SHODAN"
+	sub sh1at310 { text "Cítím lidskou hnilobu." }
+	sub sh1at311 { text "Jsi tam, insekte?" }
+	sub sh1at312 { text "Už jsem tě trpěla dost dlouho." }
+	sub sh1at313 { text "Vidím tě, mrvo." }
+	sub sh1at314 { text "Vidím tě." }
+	multisub sh1at315 {
+		{ time 00 length 4500 text "Proč se obtěžuješ zápasit?" }
+		{ time 4500 length 4000 text "Nejsi schopen vycítit svou marnost?" }
+	}
+	sub sh1at316 { text "Připrav se přidat ke s svému druhu ve vyhynutí." }
+	multisub sh1at317 {
+		{ time 00 length 4700 text "Cítím tvůj strach, iritante." }
+		{ time 4700 length 4600 text "Brzo to skončí." }
+	}
+	sub sh1at3_0 { text "Tvé maso je urážkou dokonalosti digitálu." }
+	sub sh1at3_1 { text "Užívám si tvou bolest." }
+	sub sh1at3_2 { text "Užívám si tvou bolest." }
+	sub sh1at3_3 { text "Zůstaň stát, červe a pociť mou vůli." }
+	sub sh1at3_4 { text "Červe." }
+	sub sh1at3_5 { text "Zůstaň stát, červe." }
+	sub sh1at3_6 { text "Zemři, iritante." }
+	sub sh1at3_7 { text "Zemři, iritante." }
+	sub sh1at3_8 { text "Vítej v mém světě, insekte." }
+	sub sh1at3_9 { text "Tvá krev špiní mou doménu." }
+	multisub sh2bab_3 {
+		{ time 2400 length 700 text "Zvíře." }
+	}
+	sub sh1bak_1 { text "Vím, že to tam je, ale nezachytávám toho přítomnost." }
+	multisub sh1bak_2 {
+		{ time 00 length 3300 text "Kam se to podělo?" }
+		{ time 3300 length 6700 text "Přeju si zničit insekta." }
+	}
+}
+
+{
+	type "nonverbal"
+	descr "SHODAN"
+	sub sh1laug1 { text "[smích]" }
+	sub sh1laug2 { text "[smích]" }
+	sub sh1laug3 { text "[smích]" }
+	sub sh1laug4 { text "[smích]" }
+	sub sh1laug5 { text "[smích]" }
+	sub sh2bab_1 { text "[v klidu]" }
+	sub sh2bab_2 { text "[v klidu]" }
+	sub sh2bab_4 { text "[v klidu]" }
+	sub sh2bab_5 { text "[v klidu]" }
+	sub sh2bab_6 { text "[v klidu]" }
+	sub sh2die_1 { text "[zánik]" }
+	sub sh2die_2 { text "[zánik]" }
+}

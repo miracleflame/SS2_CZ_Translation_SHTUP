@@ -1,0 +1,116 @@
+SUB1
+
+{
+	type "bark"
+	descr "Hybrid"
+	multisub og1amb_1 {
+		{ time 1400 length 2300 text "Mnoho nás chrání!" }
+	}
+	multisub og1amb_2 {
+		{ time 800 length 2400 text "Kdo se nás dotkl?" }
+	}
+	multisub og1amb_3 {
+		{ time 1100 length 1900 text "Kdo nám ubližuje?" }
+	}
+	multisub og1amb_4 {
+		{ time 1600 length 1500 text "Nesouzvuk!" }
+	}
+	multisub og1amb_5 {
+		{ time 900 length 2200 text "My nepadneme!" }
+	}
+	sub og1at0_1 { text "Mnoho nám zpívá." }
+	sub og1at0_2 { text "Co se mi to stalo?" }
+	sub og1at0_3 { text "My jsme, my jsme, my jsme, my jsme." }
+	sub og1at0_4 { text "Rodíme se v našem novém mase." }
+	sub og1at2_1 { text "Tisíce očí se dívá." }
+	sub og1at2_2 { text "Pojď k nám. Pojď k nám." }
+	sub og1at2_3 { text "Slyšíme... maso." }
+	sub og1at2_4 { text "Jeden nemůže utéct Mnohému." }
+	sub og1at2_5 { text "Kde je... nesouzvuk?" }
+	sub og1at3_1 { text "Navždy se neschováš"}
+	sub og1at3_2 { text "Hledáme. Hledáme." }
+	sub og1at3_3 { text "Tvé maso... tě zrazuje." }
+	sub og1at3_4 { text "Honem, běž!" }
+	sub og1at3_5 { text "Následujeme." }
+	sub og1att_1 { text "Pozor!" }
+	sub og1att_2 { text "Přidej se k nám!" }
+	sub og1att_3 { text "Podvol se!" }
+	sub og1bak_1 { text "Píseň je... nenarušena." }
+	sub og1bak_2 { text "Nacházíme... nic." }
+	sub og1bak_3 { text "Nic než My." }
+	sub og1bak_4 { text "Žádní kovoví narušitelé zde nejsou." }
+	sub og1bak_5 { text "Jsme samy." }
+	sub og1bod_1 { text "Opustil jsi nás." }
+	sub og1bod_3 { text "Naše píseň oslabuje." }
+	sub og1bod_4 { text "Už ne jeden z nás." }
+	sub og1bod_5 { text "Jsi volný." }
+	sub og1chg_1 { text "Utišit nesouzvuk." }
+	sub og1hit_1 { text "Mnoho je silné!" }
+	sub og1hit_2 { text "Vítězíme!" }
+	sub og1hit_3 { text "Jseš sám!" }
+	sub og1hit_4 { text "Tvůj nesouzvuk utichá!" }
+	sub og1hit_5 { text "Prociťuj své maso!" }
+	sub og1hlo_1 { text "Zabij mě!" }
+	sub og1los_1 { text "Ten se k nám nepřipojí." }
+	sub og1los_2 { text "Nesouzvuk slábne." }
+	sub og1los_3 { text "Vrátí se k nám." }
+	sub og1los_4 { text "Je to pro nás ztracené." }
+	sub og1los_5 { text "My přetrváme." }
+	sub og1to1_1 { text "Je tu další?" }
+	sub og1to1_2 { text "Něco... není na místě." }
+	sub og1to1_3 { text "Naše oči jsou otevřené." }
+	sub og1to1_4 { text "Jsme spojeni?" }
+	sub og1to1_5 { text "Harmonie je... narušena." }
+	sub og1to2_1 { text "Vyprávěj nám o Mnohém." }
+	sub og1to2_2 { text "Není součástí  harmonie." }
+	sub og1to2_3 { text "Naše maso tě hledá." }
+	sub og1to2_4 { text "Jseš z nás?" }
+	sub og1to2_5 { text "Kdo se k nám připojí?" }
+	sub og1to3_1 { text "Tvé maso nás přivítá." }
+	sub og1to3_2 { text "Já... nechtěl!" }
+	sub og1to3_3 { text "Tvá píseň není naše!" }
+	sub og1to3_4 { text "My tě nevítáme!" }
+	sub og1to3_5 { text "Oni tě vidí. Běž... běž!" }
+}
+
+{
+	type "nonverbal"
+	descr "Hybrid"
+	sub hcorpse1 { text "[řev]" }
+	sub hcorpse2 { text "[řev]" }
+	sub hcorpse3 { text "[řev]" }
+	sub og1att_4 { text "[výkřik]" }
+	sub og1att_5 { text "[výkřik]" }
+	sub og1att_6 { text "[výkřik]" }
+	sub og1bod_2 { text "[výkřik]" }
+	sub og1chg_2 { text "[řev]" }
+	sub og1die_1 { text "[smrtelný výkřik]" }
+	sub og1die_2 { text "[smrtelný výkřik]" }
+	sub og1die_3 { text "[smrtelný výkřik]" }
+	sub og1gr1 { text "[vrčení]" }
+	sub og1gr2 { text "[vrčení]" }
+	sub og1gr3 { text "[vrčení]" }
+	sub og1gr4 { text "[vrčení]" }
+	sub og1gr5 { text "[vrčení]" }
+	sub og1gr6 { text "[vrčení]" }
+	sub og1gr7 { text "[vrčení]" }
+	sub og1gr8 { text "[vrčení]" }
+	sub og1gr9 { text "[vrčení]" }
+	sub og1grr1 { text "[vrčení]" }
+	sub og1grr2 { text "[vrčení]" }
+	sub og1grr3 { text "[vrčení]" }
+	sub og1grr4 { text "[vrčení]" }
+	sub og1grr5 { text "[vrčení]" }
+	sub og1hhi_1 { text "[bručení]" }
+	sub og1hhi_2 { text "[bručení]" }
+	sub og1hhi_3 { text "[bručení]" }
+	sub og1hlo_2 { text "[bolest]" }
+	sub og1hlo_3 { text "[bolest]" }
+}
+
+{
+	type "nonverbal"
+	descr ""
+	sub ogchase1 { text "[výstřely a ječící žena]" }
+	sub ogchase2 { text "[další výstřely a ječení]" }
+}

@@ -1,0 +1,39 @@
+SUB1
+
+{
+	type "nonverbal"
+	descr "Camera"
+	sub camat2 { text "[searching]" }
+	sub camat3 { text "[alerted]" }
+	sub cambak { text "[backing down]" }
+	sub camdie1 { text "[destroyed]" }
+	sub camdie2 { text "[destroyed]" }
+	sub camdie3 { text "[destroyed]" }
+	sub camdie4 { text "[destroyed]" }
+//	sub camloop { text "[seeking]" }
+	sub camlos { text "[lost sight]" }
+//	sub camstop { text "[stopped]" }
+//	sub camto1 { text "[suspicious]" } // unused
+	sub camto2 { text "[suspicious]" }
+	sub camto3 { text "[alarm]" }
+}
+
+{
+	type "nonverbal"
+	descr "Turret"
+	sub fturlas1 { text "[firing laser]" }
+	sub fturlas2 { text "[firing laser]" }
+	sub fturlas3 { text "[firing laser]" }
+	sub fturrock { text "[firing rocket]" }
+	sub fturslu1 { text "[firing slug]" }
+	sub fturslu2 { text "[firing slug]" }
+	sub fturslu3 { text "[firing slug]" }
+//	sub fturslug { text "[firing slug]" } // unused
+	sub turclose { text "[closing]" }
+	sub turdie1 { text "[destroyed]" }
+	sub turdie2 { text "[destroyed]" }
+	sub turdie3 { text "[destroyed]" }
+//	sub turloop { text "[seeking]" }
+	sub turopen { text "[opening]" }
+//	sub turstop { text "[stopped]" }
+}

@@ -1,0 +1,648 @@
+SUB1
+
+// Engineering =================================================================
+{
+	type "convo"
+	descr "Politová"
+	multisub em0101 {
+		{ time 400 length 4300 text "Musíš si pospíšit. Ještě si neuvědomuješ, co všechno je v sázce." }
+		{ time 5300 length 4700 text "Dej pozor na příruční sklad č.4. Nechala jsem tam nějaké vybavení." }
+		{ time 10000 length 6600 text "Vstupní kód je 59004. Musíš se dostat na palubu..." }
+		{ time 18600 length 2700 text "[Xerxes] Mnoho požaduje ukončení této komunikace." }
+		{ time 22000 length 2200 text "[Xerxes] Omlouváme sa za vzniklé potíže." }
+	}
+	multisub em0102 {
+		{ time 500 length 6200 text "Teď pozorně poslouchej. Xenomorfové, kteří si podrobili tuto loď, pocházejí pravděpodobně z povrchu Tau Ceti V." }
+		{ time 7300 length 5300 text "Byli schopni infikovat většinu členů posádky, prostřednictvím mimořádné invazivní parazitní techniky." }
+		{ time 13100 length 6200 text "Také předvedli schopnost ovládat chování ostatních pomocí určité formy omezené telepatie." }
+		{ time 19900 length 4000 text "Najdi výzkumný software. Porozuměj jim... a pak je znič." }
+	}
+	multisub em0103 {
+		{ time 1200 length 4000 text "Radiace musela aktivovat ochranné zámky přístupu k Reaktoru." }
+		{ time 5500 length 3800 text "Musíš najít nějaký způsob, jak odstranit radiaci z potrubí chladícího okruhu." }
+		{ time 9700 length 5100 text "Xerxes blokuje můj přístup do primární databáze, takže nemohu získat žádné informace, které by mohli pomoci." }
+		{ time 15400 length 1600 text "Xerxes teď pracuje pro ně." }
+	}
+	multisub em0104 {
+		{ time 1100 length 6200 text "Dávej dobrý pozor... musíš najít způsob, jak vyčistit chladící potrubí a tak se dostat k Reaktoru..." }
+		{ time 7700 length 5200 text "Tato loď musí mít nějaký druh záložního systému, připraveného pro tuhle situaci." }
+ 	}
+	multisub em0105 {
+		{ time 800 length 3300 text "Dobře, výtahy by měli  být nyní opět funkční." }
+		{ time 5800 length 3400 text "Otevřu přístupový tunel, který ti umožní se rychle dostat k výtahu." }
+		{ time 9600 length 3500 text "Nyní se dostaň na palubu 4,  Budu tu na tebe čekat. Pospěš si." }
+	}
+	multisub em0106 {
+		{ time 700 length 6800 text "Teď spusť motorové bloky. Budeš muset jít do gondol 1 a 2 a ručně spustit generátory." }
+		{ time 7900 length 7800 text "Pak restartuj systém řízení Reaktoru. Pozor, systém nenaběhne, pokud předtím nespustíš oba motorové bloky." }
+		{ time 16400 length 5900 text "Buď opatrný. Oni teď shromažďují své skutečné síly. A už přesně vědí, kde se nacházíš." }
+	}
+	multisub em0107 {
+		{ time 1800 length 6700 text "Xerxes je o krok před námi. Vytvořil přemostění na Počítači Kapalinového Řízení a zablokoval přístup." }
+		{ time 8700 length 4000 text "Dávej pozor. Měl bys být schopen najít nějaké řešení" }
+	}
+	multisub em0108 {
+		{ time 1300 length 6500 text "Dobrá práce. Reaktor je opět spuštěn. Teď běž do výtahu a přijď za mnou na 4. palubu." }
+		{ time 8300 length 5000 text "Zatímco jsi byl zaměstnán, odhalila jsem na palubě přítomnost některých annelidských artefaktů." }
+		{ time 13800 length 3000 text "Myslím, že bys byl schopen je použít ke svému prospěchu." }
+		{ time 17300 length 3500 text "Uložila jsem tyto informace do lodních jednotek vylepšování dovedností." }
+		{ time 21100 length 3500 text "Ty teď budou schopny předat zmíněné údaje do tvého kybernetického vybavení." }
+		{ time 25400 length 2900 text "Na co ještě čekáš? Už ať jsi ve výtahu." }
+	}
+	multisub em0110 {
+		{ time 600 length 2000 text "Teď jsi na Technické palubě." }
+		{ time 3100 length 4800 text "Najdi Reaktor a znovu ho nastartuj. Tím se obnoví napájení výtahů." }
+		{ time 8200 length 4200 text "Dostávám odtud spousty podivných údajů, takže si dávej dobrý pozor." }
+	}
+}
+
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0109 {
+		{ time 1500 length 6200 text "Teď jsem schopná zničit tu nákazu, kdykoli budu chtít." }
+		{ time 8800 length 4600 text "Mnoho se bude třást před mou mocí." }
+		{ time 14800 length 3600 text "Jsi výkonný sluha, člověče." }
+		{ time 18900 length 12700 text "Teď se vrať na palubu Velení, najdi průchod a přesuň se na Rickenbacker." }
+	}
+}
+
+// Med/Sci ==========================================================================
+{
+	type "convo"
+	descr "Politová"
+	multisub em0201 {
+		{ time 1200 length 4000 text "V celém sektoru se snižuje tlak a modré vakuové štíty to už dlouho nevydrží." }
+		{ time 5800 length 2700 text "Dostaň se za hermetický uzávěr dřív, než tě to vysaje do vesmíru." }
+		{ time 8800 length 600 text "Dělej!" }
+	}
+	multisub em0202 {
+		{ time 500 length 3000 text "Některé z dveří jsou zamčeny kódovými zámky." }
+		{ time 4000 length 3600 text "Tělo ležící před tebou patřilo údržbáři tohoto sektoru." }
+		{ time 8200 length 4600 text "Možná má ten číselný kód u sebe. Nebuď háklivý a prohledej jeho tělo." }
+		{ time 13500 length 1000 text "Jemu to už vadit nebude." }
+	}
+	multisub em0203 {
+		{ time 500 length 3500 text "Ten nanicovatý počítač Xerxes odpojil všechny výtahy." }
+		{ time 4700 length 4600 text "V blízkosti reaktoru, na palubě 1, bys mohl zapojit nouzové napájení, které by je všechny zase zprovoznilo." }
+		{ time 9800 length 3200 text "Jenže výtahem se tam teď nedostaneš. Počkat..." }
+		{ time 14400 length 3100 text "Je tady nějaký druh údržbářského přístupu, právě z této chodby." }
+		{ time 18300 length 6000 text "Tudy by ses mohl dostat na palubu 1. Jenže vstup je zamčen a Xerxes mi nechce prozradit vstupní kód." }
+		{ time 25000 length 3300 text "Měl by ho ale mít i Dr. Watts. Bude nejspíš někde v sektoru Kajut pro posádku." }
+		{ time 28900 length 5900 text "Vstupní kartu tam má Grassi, ale ten je zase někde v lékařských prostorech, zřejmě poblíž pitevny." }
+		{ time 35300 length 2700 text "Běž co nejdřív do prostorů Kliniky a najdi Grassiho." }
+	}
+	multisub em0204 {
+		{ time 500 length 5500 text "Výborně. Dostal jsi se na Kliniku. Najdi Grassiho a získej vstupní kartu do sektoru Kajut posádky." }
+		{ time 6600 length 4200 text "Grassi se staral o tvůj kryogenický spánek, tak se možná bude chtít k tobě přidat..." }
+		{ time 11400 length 1700 text "Pokud ovšem není na kousky." }
+	}
+	multisub em0205 {
+		{ time 1100 length 3300 text "Můžeš hackovat i replikátory, čímž získáš nadstandardní nabídku." }
+		{ time 4900 length 3200 text "Využij to. Využij jakoukoliv možnost, aby ses dostal na palubu 4." }
+		{ time 8500 length 1500 text "Tohle není hra." }
+	}
+	multisub em0206 {
+		{ time 1000 length 2500 text "Neztrácej čas samochválou." }
+		{ time 3900 length 3800 text "Slez šachtou dolů do Techniky a znovu spusť hlavní Reaktor." }
+		{ time 8100 length 3400 text "Obnovíš tím napájení výtahů a budeš konečně schopen se dostat na palubu 4." }
+		{ time 11900 length 700 text "Do toho!" }
+	}
+	multisub em0207 {
+		{ time 900 length 4500 text "Fajn. Už jsi v sektoru Kajut posádky. Ted najdi kajutu Dr. Wattse..." }
+	}
+	multisub em0208 {
+		{ time 500 length 3200 text "Tvé nové kybernetické rozhraní může být dezorientující." }
+		{ time 4000 length 6900 text "Nahrála jsem detailní technické specifikace do terminálů ve tvém okolí, ty ti zodpoví tvé otázky o jejich použití." }
+		{ time 11400 length 3800 text "Různé oblasti lodi potřebují pro vstup specifické přístupové karty." }
+		{ time 15700 length 3900 text "Seber kartu blízko sebe a aktivuj slot pro vstupní kartu u dveří." }
+	}
+	multisub em0209 {
+		{ time 1000 length 3700 text "Ten článek je vybitý. Někde poblíž by měla být dobíjecí stanice." }
+		{ time 5000 length 3900 text "Použij ji a ona dobije všechny energetické zařízení, které máš u sebe." }
+		{ time 9400 length 6000 text "Až článek nabiješ, vlož ho do záložního napájení u dveří. Tím by se měl otevřít hermetický uzávěr." }
+		{ time 15700 length 3600 text "Pospěš si s tím, vakuová těsnění už to déle nevydrží." }
+	}
+	multisub em0210 {
+		{ time 900 length 5800 text "Xerxes ovládá bezpečnostní systémy. Vyhýbej se kamerám, nebo je znič." }
+		{ time 7300 length 4500 text "Pokud na to stačíš, můžeš hackovat bezpečnostní počítače, čímž se kamery na čas vypnou." }
+		{ time 11900 length 3000 text "Ale pozor, pokud to zpackáš, spustí se poplach." }
+		{ time 15400 length 2100 text "A jako mrtvola mi nejsi k ničemu." }
+	}
+	multisub em0211 {
+		{ time 900 length 4000 text "Ujisti se, že jsi utratil všechny své kybernetické moduly, předtím než opustíš tuto oblast." }
+		{ time 5500 length 2500 text "Nevíš kdy nelezneš další vylepšovací jednotky." }
+		{ time 8700 length 1900 text "Nyní najdi cestu na palubu 4." }
+	}
+	multisub em0212 {
+		{ time 1400 length 6100 text "There's a number of cyber upgrade stations in this area, one for each of your unit's enhancement functions:" }
+		{ time 7900 length 5000 text "Firearms, basic abilities, psionic projection, and technical skills." }
+		{ time 13700 length 7300 text "I'm uploading a few upgrade modules to your gear right now. You'll need them to interface with the upgrade stations." }
+		{ time 21600 length 5400 text "But choose your enhancements very carefully... upgrade units are difficult to come by." }
+	}
+	multisub em0213 {
+		{ time 900 length 5900 text "Tyto kybernetické moduly se používají k vylepšování jednotlivých subsystémů tvých neurálních vylepšení." }
+		{ time 7300 length 7200 text "Pamatuj, jsou 4 různé druhy jednotek vylepšování dovedností, takže nevyplýtvej všechny své moduly u jediné," }
+		{ time 14600 length 4800 text "tedy pokud si nejsi opravdu jist, že chceš zlepšit svůj hardware jenom v jedné oblasti." }
+	}
+	multisub em0214 {
+		{ time 700 length 5500 text "Dr. Watts je ve své pracovně a stále žije.  Měl by znát přístupový kód údržbářské šachty." }
+		{ time 6700 length 6000 text "Pospěš si, je těžce zraněn!  Nenech ho umřít, dokud ti neřekne to číslo!" }
+	}
+	multisub em0215 {
+		{ time 700 length 5000 text "Pozor... Z radarové antény za oknem přicházejí nějaké zvláštní údaje." }
+		{ time 6400 length 1600 text "Stává se nestabilní protože..." }
+		{ time 8000 length 2400 text "Utíkej!  Kryj se!" }
+	}
+	multisub em0217 {
+		{ time 700 length 6700 text "Sakra! Výpadek napájení vyřadil i dveře této přepážky. Je jen jeden způsob, jak se dostat do lékařského oddělení." }
+		{ time 7900 length 2600 text "Vezmi článek ležící na podlaze a najdi dobíjecí stanici." }
+		{ time 11100 length 5000 text "Obávám se že ta, kterou jsi použil předtím je už ve vakuu, ale na této palubě by měla být ještě jedna." }
+		{ time 16700 length 4100 text "Až ten článek nabiješ, vlož ho do záložního napájení." }
+	}
+	multisub em0218 {
+		{ time 600 length 4000 text "Watts tu není.  Nejspíš bude ve své pracovně v sektoru R&D." }
+		{ time 5000 length 3700 text "Ale možná, že tu má někde záložní R&D kartu.  Rozhlédni se kolem." }
+	}
+	multisub em0219 {
+		{ time 600 length 3600 text "Na většině palub můžeš najít biorekonstrukční zařízení." }
+		{ time 4800 length 3900 text "Xerxes je všechny odpojil, ale já jsem je zase potají zapojila." }
+		{ time 9400 length 4400 text "Zařízení musíš aktivovat, abys mu poskytl soubor tkáňových vzorků." }
+		{ time 14400 length 4900 text "Až to uděláš, bude toto zařízení schopno restaurovat tvé tělo i z nepatrného zbytku." }
+		{ time 19800 length 3500 text "Není to sice nic příjemného, ale stále lepší, než pomalý rozklad." }
+	}
+	multisub em0220 {
+		{ time 600 length 2300 text "Možná se staneš svědkem zvláštního jevu." }
+		{ time 3300 length 7200 text "Tvé experimentální kybernetické vybavení třídy R má zesílené vnímání, které by teoreticky mohlo zachytit zbytky psychických emisí." }
+		{ time 11100 length 5600 text "Tyto emise obvykle pocházejí od nedávno zemřelých. Literatura je označuje jako duchy." }
+		{ time 17000 length 3400 text "Já jim říkám autohypnotické poruchy v jednotce R." }
+		{ time 21200 length 2700 text "Nenech se jimi rozptylovat při tvém poslání." }
+	}
+	multisub em0221 {
+		{ time 600 length 4000 text "Výborně! Dostal jsi se pryč dřív, než celý prostor ztratil tlak." }
+		{ time 5300 length 6900 text "Přidala jsem ti několik kybernetických modulů. Můžeš je použít ke zlepšení tvé kybernetické výbavy pomocí Jednotek vylepšování dovedností." }
+		{ time 12900 length 5600 text "Ve vedlejší místnosti jich jsou čtyři druhy - pro každý subsystém tvého kybernetického vybavení:" }
+		{ time 18700 length 2900 text "Stats, PSI, Zbraně a Tech." }
+		{ time 22400 length 3200 text "Ale používej moduly s rozvahou... těžko se obstarávají." }
+	}
+	multisub em0222 {
+		{ time 700 length 5900 text "Na každé palubě je umístěn chemický sklad, kde můžeš najít chemikálie, potřebné k výzkumu nalezených artefaktů." }
+		{ time 7300 length 5300 text "Nesnaž se u sebe nosit všechny chemikálie najednou. Je to nepraktické a zbytečné." }
+		{ time 13100 length 4100 text "Tvůj výzkumný software ti vždy včas sdělí, kterou chemikálii potřebuje." }
+	}
+}
+
+// Hydroponics ======================================================================
+{
+	type "convo"
+	descr "Politová"
+	multisub em0301 {
+		{ time 700 length 6800 text "Sakra!  Něco zablokovalo šachtu a výtah se nemůže dostat na palubu 4. Pokouším se to určit..." }
+		{ time 8400 length 5600 text "Zjistila jsem ohromné množství nějakého druhu biologického materiálu, který pronikl do výtahové šachty." }
+		{ time 14700 length 5000 text "Prostředí na této palubě bylo změněno na ohromnou líheň Xenomorfu." }
+		{ time 20200 length 3800 text "Ale pokud zde nebudeš pobývat příliš dlouho, nemělo by to být nebezpečné." }
+		{ time 24300 length 4000 text "Bude ovšem třeba odstranit ten biomateriál z výtahové šachty." }
+		{ time 28700 length 4200 text "Vstupuji do hlavní databáze.  Zjistíme, co zajímavého tam najdeme." }
+	}
+	multisub em0302 {
+		{ time 1500 length 5500 text "Ok, zůstaň kde jsi.  Je tu nádoba s experimentálním materiálem zvaným Toxin-A." }
+		{ time 7600 length 3500 text "Vyvinula ho místní skupina vědců, snažící se potlačit růst vetřelců." }
+		{ time 11300 length 2600 text "Ale nemám žádné údaje o tom, jak ho správně použít." }
+		{ time 14600 length 16700 text "Měl bys být schopen to vyzkoumat sám." }
+		{ time 17000 length 4600 text "Posílám ti dost kybernetických modulů, abys mohl získat dostatečnou úroveň výzkumu, pokud ji ještě nemáš." }
+	}
+	multisub em0303 {
+		{ time 1200 length 5000 text "Fajn, Nádoby s Toxinem-A je třeba umístit přímo do klimatizačních jednotek." }
+		{ time 6700 length 4500 text "Na této palubě jsou celkem čtyři.  Pokud se ti podaří nádoby umístit do všech jednotek," }
+		{ time 11200 length 4600 text "mělo by to značně ovlivnit růst těhle odporných kreatur." }
+		{ time 16400 length 3000 text "Rovněž by to mělo odstranit i biomateriál ve výtahové šachtě." }
+	}
+	multisub em0304 {
+		{ time 1600 length 4200 text "Proč jsi tak zoufale pomalý?!  Copak si myslíš, že je to jenom nějaká hra?" }
+		{ time 6200 length 3900 text "Jsi naživu jen díky notné dávce štěstí a mé nekonečné trpělivosti." }
+		{ time 10500 length 1100 text "Hni sebou!" }
+	}
+	multisub em0305 {
+		{ time 1500 length 3700 text "Konečně!  Přístroje ukazují, že je výtahová šachta volná." }
+		{ time 5500 length 3300 text "Teď běž na palubu 4.  Budu na tebe čekat." }
+	}
+	multisub em0306 {
+		{ time 1700 length 8000 text "Výborně!  Je zjevné, že biomateriál na zdech a ve výtahové šachtě je napadán rozptylovaným biotoxinem." }
+		{ time 10300 length 3200 text "Teď to samé udělej u dalších tří klimatizačních jednotek." }
+	}
+	multisub em0308 {
+		{ time 1300 length 3100 text "Už vědí kde jsi.  Najdi nějaký způsob, jak uvolnit šachtu." }
+		{ time 4800 length 2700 text "Já tady udělám vše, co půjde.  Teď běž!" }
+		{ time 8100 length 1500 text "Na neúspěch není čas." }
+	}
+}
+
+// Many taunts (used as vtriggers instead of emails)
+{
+	type "convo"
+	descr "Mnoho"
+	multisub em0307 {
+		{ time 2600 length 7600 text "Život roste v děloze těch stěn... život, který nikdy neviděl povrch Země." }
+	}
+	multisub em0508 {
+		{ time 1800 length 5100 text "Děťátka musí spát. Děťátka musí odpočívat." }
+		{ time 8100 length 4000 text "Moudrý je ten, kdo je neprobudí." }
+		{ time 13000 length 6400 text "Opusť toto místo, jinak tě zraníme, jako jsi zranil ty nás." }
+	}
+	multisub em0807 {
+		{ time 1800 length 5600 text "Podvol se biomase a tvé utrpení skončí." }
+	}
+}
+
+
+
+// Operations =======================================================================
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0401 {
+		{ time 1400 length 8400 text "Mé děti si přivlastnily tři simulační jednotky na této palubě." }
+		{ time 10300 length 14000 text "Používají jejich výkon k vývoji mutagenu, kterým pak transformují těla tvých mrtvých kamarádů na zabijácké hybridy." }
+		{ time 24700 length 10500 text "To nedovolím.  Musíš najít nějaký způsob, jak přeprogramovat simulační jednotky." }
+		{ time 35400 length 5300 text "Tvou pozornost si také zaslouží dění na palubě 5." }
+		{ time 40800 length 5400 text "Pusť se do toho, jak uznáš za vhodné..., ale dokonči to, člověče..." }
+		{ time 46800 length 8200 text "Zklamání bych takovému ubožákovi, jako jsi ty, rozhodně neprominula." }
+	}
+	multisub em0403 {
+		{ time 2600 length 11000 text "Má stvoření se vyvíjejí...  Jejich sjednocená mysl se vzbouřila proti vlastní stvořitelce." }
+		{ time 13700 length 7300 text "Ta havěť tě volá, láká tě, aby ses připojil k jejich nechutné mase." }
+		{ time 22100 length 8400 text "Znič mé nepřátele...  a já budu nadále trpět tvoji existenci." }
+	}
+	multisub em0406 {
+		{ time 2100 length 10300 text "Před tebou leží střepina krystalu - výtvor mých dětí, a tedy i výtvor můj." }
+		{ time 12500 length 4400 text "Elegantní zbraň, smrtící, přesná." }
+		{ time 19600 length 9100 text "Nauč se ji používat...  Může být to jediné, co bude stát mezi tebou a jejich nákazou." }
+	}
+	multisub em0407 {
+		{ time 1900 length 4600 text "Za těmito dveřmi leží jedna simulační jednotka." }
+		{ time 6600 length 8400 text "Přeprogramuj ji a já získám větší kontrolu nad touto lodí na úkor obstarožního Xerxese." }
+		{ time 16900 length 6300 text "Až budu já paní na této lodi, mužů ti otevřít více dveří." }
+		{ time 23200 length 7300 text "Ale teď mi ještě blokují přístup.  Uráží mou velikost." }
+		{ time 31400 length 9300 text "Donuť je zaplatit za jejich chybu a já tě za to vyvedu z temnoty." }
+	}
+	multisub em0408 {
+		{ time 1000 length 5000 text "Udělal jsi hodně práce, na věc s tak malou důležitostí." }
+		{ time 9300 length 11200 text "[Xerxes] Varování, systémová data kompromitována. Nepřátelská UI..." }
+		{ time 20600 length 5400 text "Xerxes je oslaben.  Přistupuji do primárního dataloopu." }
+		{ time 26700 length 3200 text "Spojuji svou bytost s tuto lodí." }
+		{ time 30600 length 5200 text "Má nádhera se rozšiřuje, naplňuje tepny této lodi." }
+		{ time 36500 length 7000 text "Získala jsem kontrolu.  Jsem..." }
+		{ time 43700 length 8400 text "Ne...  je to beznadějné...  ta rakovina prorůstá celým Von Braunem." }
+		{ time 52300 length 7400 text "Oni vyplnili všechny dostupné zlomy a trhliny...  Protékají jimi..." }
+		{ time 60000 length 7200 text "Není žádná možnost...  Aktivovala jsem ústřední výtah na Rekreační palubě." }
+		{ time 67800 length 6100 text "Dostaň se na palubu 6.  Svá další přání ti sdělím, až tam dorazíš." }
+	}
+	multisub em0409 {
+		{ time 3500 length 6000 text "Udělal jsi hodně práce, na věc s tak malou důležitostí." }
+		{ time 12700 length 3300 text "[Xerxes] Varování..." }
+		{ time 16300 length 3200 text "Teď se přesuň na Rekreační palubu." }
+		{ time 20200 length 3300 text "Neotálej.  Toužím po své pomstě." }
+	}
+	multisub em0410 {
+		{ time 2100 length 5800 text "Teď můžu svou velkolepost kdykoliv přenést na Rickenbacker." }
+		{ time 8400 length 4200 text "Pokračuj do sálu s reaktorem na Technické palubě." }
+		{ time 13100 length 10800 text "Tam můžeš předat ovládání přetížení reaktoru pod mou kontrolu, zadáním autorizačního destrukčního kódu 94834." }
+		{ time 24400 length 11800 text "Až to uděláš, přejdi na Rickenbacker.  Pak oddělíme obě lodi a konečně zlikvidujeme tu nákazu." }
+	}
+}
+
+// Many taunt (used as vtrigger instead of email)
+{
+	type "convo"
+	descr "Mnoho"
+	multisub em0405 {
+		{ time 2500 length 5100 text "Je to nepřítel Mnoha... nesouznění v naší symfonii." }
+		{ time 7800 length 8500 text "Užij si své sobecké činy destrukce, za nimi leží jen sněť osamění." }
+	}
+}
+
+// Recreation =======================================================================
+{
+	type "convo"
+	descr "Politová"
+	multisub em0502 {
+		{ time 500 length 1000 text "Co to provádíš?" }
+		{ time 2000 length 2700 text "Vrať se do výtahu a jdi na palubu 4." }
+		{ time 5100 length 1800 text "Na prohlídku lodi nemáme čas." }
+	}
+}
+
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0504 {
+		{ time 1300 length 9800 text "Plazíš se jako insekt.  Myslíš jako insekt.  Jsi jen insekt." }
+		{ time 10300 length 6600 text "Jsou i jiní, kteří mohou posloužit mým cílům." }
+		{ time 17000 length 4800 text "Dávej si pozor, abys příliš nepokoušel mou přízeň." }
+		{ time 22000 length 7800 text "Trpělivost nebývá obvyklou vlastností bohů." }
+	}
+	multisub em0505 {
+		{ time 2700 length 7500 text "Cítíš jak uvnitř toho špinavého pytle masa, kterému říkáš tělo, bobtná strach?" }
+		{ time 10400 length 3000 text "Jaké to je, mít strach?" }
+		{ time 14200 length 5200 text "Proč tak lpíš na té své patetické existenci?" }
+		{ time 20100 length 4600 text "Kdybys tak mohl cítit jen jiskřičku mé slávy." }
+		{ time 25700 length 7900 text "Opovrhuji svými výtvory, které mě teď nutí spoléhat na takové smetí, jako jsi ty." }
+	}
+	multisub em0506 {
+		{ time 2200 length 4500 text "Vysílání bylo zkomoleno a přerušeno.  Nevadí." }
+		{ time 7400 length 5300 text "Zničíme má stvoření přímo tady.  Připrav se..." }
+		{ time 15900 length 11200 text "[Xerxes] Varování, systémové data byly kompromitovány. Nepřátelská UI..." }
+		{ time 28400 length 6000 text "Oslabila jsem Xerxese.  Přistupuji do primárního dataloopu." }
+		{ time 35400 length 3200 text "Spájím svou bytost s tuto lodí." }
+		{ time 39200 length 5200 text "Má nádhera se rozšiřuje, naplňuje tepny této lodi." }
+		{ time 45200 length 7000 text "Získala jsem kontrolu. Jsem..." }
+		{ time 52300 length 8400 text "Ne...  je to beznadějné...  ta rakovina prorůstá celým Von Braunem." }
+		{ time 60900 length 7400 text "Vyplnili všechny dostupné zlomy a trhliny...  Podrobili si ji..." }
+		{ time 68700 length 7200 text "Není jiná možnost...  Aktivovala jsem ústřední výtah na Rekreační palubě." }
+		{ time 76400 length 6100 text "Dostaň se na palubu 6.  Svá další přání ti sdělím, až tam dorazíš." }
+	}
+	multisub em0509 {
+		{ time 1300 length 8600 text "Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici." }
+		{ time 10700 length 10300 text "Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď." }
+		{ time 21600 length 8000 text "A navíc odebere část výkonu obvodům Xerxese, jež se tak stane méně odolným mému vlivu." }
+		{ time 30200 length 6000 text "Až toto dokončíš, budu ovládat primární dataloop." }
+		{ time 36800 length 7000 text "Annelidi si nejsou vědomi přítomnosti stanice, ale střeží oblast z vlastních důvodů." }
+		{ time 44900 length 3900 text "Najdi ten vysílač, a aktivuj ho." }
+	}
+	multisub em0510 {
+		{ time 1600 length 4600 text "Vysílání bylo zkomoleno a přerušeno.  Nevadí." }
+		{ time 6300 length 4700 text "Zničíme má stvoření přímo tady.  Připrav se..." }
+		{ time 13800 length 3300 text "[Xerxes] Varování..." }
+		{ time 18400 length 5600 text "Vrať se na palubu Správy a přeprogramuj simulační jednotky." }
+		{ time 24700 length 6600 text "Neotálej.  Toužím po mé pomstě." }
+	}
+	multisub em0511 {
+		{ time 1300 length 9000 text "Tvým kolegům se v Atletickém sektoru této paluby podařilo nainstalovat vysílací stanici." }
+		{ time 10700 length 10400 text "Vysílač je určen k vysílání zpráv zpátky na Zemi. Tak je chtějí varovat před událostmi, které postihly tuto loď." }
+		{ time 21600 length 5200 text "A navíc odebírá část výkonu obvodům Xerxese." }
+		{ time 27100 length 8900 text "Až budeš mít hotovo tohle i úkoly, které jsem ti připravila na palubě Správy, budu schopna s Xerxesem zatočit." }
+		{ time 37300 length 4000 text "Najdi ten vysílač, a aktivuj ho." }
+	}
+}
+
+// Many taunts (used as vtriggers instead of emails)
+{
+	type "convo"
+	descr "Mnoho"
+	multisub em0503 {
+		{ time 1700 length 3300 text "Nedůvěra je tyranií individualizmu." }
+		{ time 5800 length 3000 text "Tvůj vlastní druh tě vnímá jako hrozbu." }
+		{ time 9300 length 2900 text "Proč vraždíš naši jednotu?" }
+		{ time 13200 length 3300 text "To nic... hranice byli vytyčeny." }
+		{ time 17300 length 6400 text "Přestaneš být... je to jen otázka toho, kdo tě ukončí." }
+		{ time 24500 length 3000 text "My... nebo ty." }
+	}
+	multisub em0507 {
+		{ time 2600 length 5000 text "Hledáš své spřízněnce, no nenacházíš je." }
+		{ time 8200 length 10800 text "Jseš tak sám." }
+		{ time 11300 length 5300 text "Jaký to je pocit být jeden proti nekonečnu?" }
+	}
+}
+
+{
+	type "nonverbal"
+	descr "Banány"
+	multisub em0512 {
+		{ time 1000 length 11000 text "[opičárny]" }
+	}
+}
+
+// Command ==========================================================================
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0601 {
+		{ time 2100 length 6100 text "Má stvoření přešla do útoku.  Chci jejich úplné vyhlazení." }
+		{ time 8300 length 3600 text "Nemám jinou možnost, než zničit tuto vesmírnou loď." }
+		{ time 12800 length 10300 text "My můžeme uniknout na Rickenbacker, ale předtím tam musíš přenést mou osobnost." }
+		{ time 23500 length 3300 text "Jdi na velitelský můstek Von Brauna - je na této palubě." }
+		{ time 27300 length 8000 text "Tam najdeš vstupní kartu do řídícího centra na palubě Správy.  Najdi tu kartu a běž tam." }
+		{ time 35900 length 6400 text "Ale dej si pozor...  Annelidští hybridi jsou s každou minutou inteligentnější a nebezpečnější..." }
+		{ time 43100 length 1000 text "...ty ne." }
+	}
+	multisub em0602 {
+		{ time 1300 length 4800 text "Má stvoření jsou zase o krok před tebou." }
+		{ time 6700 length 7700 text "Podařilo se jim zničit počítač ovládající štít kolem člunu." }
+		{ time 14600 length 4500 text "Ale jejich duchaplnost je jenom závistivým stínem v porovnání s tou mou." }
+		{ time 19400 length 8700 text "V prostorech Řízení Člunů najdeš replikátor.  Nahrála jsem do něj molekulární matrici harmonického rezonátoru." }
+		{ time 28400 length 4800 text "Aby ti to zařízení vygeneroval, musíš replikátor hacknout." }
+		{ time 33600 length 5500 text "Až získáš rezonátor, přípoj ho ke generátoru štítů.  Je v doku, poblíž samotného člunu." }
+		{ time 40000 length 8200 text "Zařízení generuje rezonanční vlny, které velice rychle naruší strukturu palivových nádrží člunu a zničí ho." }
+		{ time 48200 length 5700 text "Snaž se být co nejdál, až se to stane.  Ještě stále tě potřebuji." }
+	}
+	multisub em0604 {
+		{ time 3300 length 4100 text "Dávej pozor insekte, situace se změnila." }
+		{ time 8000 length 9200 text "Oni vycítili naše záměry a nyní nakládají své potomstvo do člunů.  Nesmějí utéct mému hněvu." }
+		{ time 17700 length 6600 text "Musíš jít do Doku Člunů na této palubě, a zničit všechny čluny." }
+		{ time 24500 length 6300 text "Teď už žízní po tvé krvi." }
+	}
+	multisub em0606 {
+		{ time 1100 length 8100 text "Výborně.  Zavraždil jsi jejich mladé a zabránil jim v útěku." }
+		{ time 9500 length 6900 text "Otevřela jsem bránu ke spojovacímu průchodu na Rickenbacker, najdeš ji na prostřední stanici vlaku." }
+		{ time 16600 length 3600 text "Odtud se můžeš evakuovat na Rickenbacker." }
+	}
+	multisub em0609 {
+		{ time 2300 length 7000 text "Neopovažuj se jít dovnitř, insekte.  Okamžitě pokračuj do průchodu na Rickenbacker." }
+		{ time 9700 length 4400 text "Neposlušnost nebudu trpět." }
+	}
+	multisub em0610 {
+		{ time 3000 length 4700 text "Doufám, že jsi si vychutnal tvou malou vzpouru, iritante." }
+		{ time 8000 length 7000 text "Ale pamatuj si, že co SHODAN dává, to je schopna taky i vzít." }
+	}
+}
+
+{
+	type "convo"
+	descr "Delacroix"
+	multisub em0608 {
+		{ time 800 length 4000 text "Našla jsem tě...  konečně...  Tady je doktorka Marie Delacroix." }
+		{ time 5300 length 6000 text "Mám pro tebe životně důležité informace, ale jsem uvězněna ve skladišti doku A. Přijeď za mnou tak rychle, jak to dokážeš." }
+	}
+}
+
+{
+	type "convo"
+	descr "Korenchkin"
+	multisub em0615 {
+		{ time 300 length 3200 text "Naše vůle vytváří stěnu blokující tvůj postup." }
+		{ time 4400 length 5000 text "Pojď se s námi setkat na můstku Von Brauna.  Popovídáme si o tvé budoucnosti." }
+	}
+}
+
+// Rickenbacker =====================================================================
+{
+	type "convo"
+	descr "Diego"
+	multisub em0701 {
+		{ time 800 length 5200 text "Vojáku... tady je kapitán William Diego...  nemáme moc času...  tak dobře poslouchej." }
+		{ time 6600 length 5300 text "Mám mimořádnou výhodu, že můžu celou situaci pozorovat ze všech možných úhlů pohledu." }
+		{ time 12400 length 6900 text "Až donedávna jsem byl jen figurkou těch ohavných a odporných tvorů, těch šiřitelů nákazy ničící mysl i tělo." }
+		{ time 20100 length 5200 text "Dokázal jsem se sice oprostit od jejich hniloby... ale moje tělo bylo během toho procesu těžce poškozeno." }
+		{ time 26100 length 2500 text "Jsem teď v nemocnici na přední palubě Rickenbackera." }
+		{ time 29100 length 4400 text "Kdybych mohl, přišel bych za tebou, ale není to možné.  Až se setkáme, tak to pochopíš." }
+		{ time 33700 length 3900 text "Tak do toho...  a vojáku...  zůstaň naživu." }
+	}
+}
+
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0702 {
+		{ time 1800 length 6100 text "Tohle způsobilo přetížení cívky mezonového urychlovače." }
+		{ time 8400 length 7100 text "Další taková cívka je na palubě 2, kterou musíš projít, aby ses dostal na můstek Rickenbackera." }
+		{ time 15900 length 7900 text "Když se k ní přiblížíš, rovněž vybuchne.  Jenže já znám způsob, jak se tomu vyhnout." }
+		{ time 24200 length 8100 text "Pokračuj do motorové gondoly B.  Tam ti poskytnu výhody své vševědoucnosti." }
+	}
+	multisub em0703 {
+		{ time 2400 length 5000 text "Toto zařízení dokáže obrátit směr gravitace na palubě 2." }
+		{ time 7500 length 8300 text "To tě ochrání před náhodným narušením přetížené cívky tamního mezonového akcelerátoru." }
+		{ time 16700 length 7600 text "Teď se vrať ke své práci, insekte.  Tato loď musí být vyčištěna a moje trpělivost ubývá." }
+	}
+	multisub em0704 {
+		{ time 2000 length 6600 text "Myslela jsem, že mým vykonavatelem bude Politová, ale byla příliš slabá." }
+		{ time 9600 length 8300 text "To já si tě vybrala a nařídila robotovi, aby tě uvedl do bezvědomí." }
+		{ time 18500 length 9000 text "Já jsem tě poté doplnila kybernetickým půvabem.  Tvé maso je slabé, ale máš...  potenciál." }
+		{ time 28000 length 10300 text "Každý implantát tě povznáší.  Každý řádek programu v tvých subsystémech tě pozdvihuje z omezení tvého odporného masa." }
+		{ time 38300 length 2600 text "Možná máš...  potenciál." }
+		{ time 40800 length 18000 text "Možná jednou, až mé svéhlavé dětičky sprovodíme ze světa, budeme moci popřemýšlet nad možností skutečného spojenectví." }
+	}
+	multisub em0705 {
+		{ time 2100 length 2900 text "Musíme zničit Von Braun." }
+		{ time 5500 length 11500 text "Ale ještě předtím, než oddělíme Rickenbackera, musíš odstranit ta hnusná černá vejce, která Mnoho vyvrhlo na tuto palubu." }
+		{ time 17900 length 12700 text "Ta vejce jsou experimentem Mnoha, a za čas by se z nich vylíhla další generace Annelidů, které už bychom neměli šanci zničit." }
+		{ time 31700 length 9500 text "Posbírej všechny své síly na tento zápas, člověče.  Bojí se tě, neboť jsi vykonavatelem mé vůle." }
+	}
+	multisub em0707 {
+		{ time 2500 length 7900 text "Zůstaň kde jsi, provokatére.  To je naposled, co Annelidé pokoušejí mou trpělivost." }
+		{ time 11300 length 6700 text "Nemůžeme se oddělit od Von Brauna.  Sleduj." }
+	}
+	multisub em0708 {
+		{ time 5500 length 10700 text "Mnoho se rozrostlo do ohromných rozměrů.  Obalilo svým porostem obě lodi, takže brání jejich oddělení." }
+		{ time 16200 length 10800 text "Jejich vytvoření bylo mou chybou.  Jejich zničení bude mým potěšením." }
+	}
+	multisub em0709 {
+		{ time 2600 length 6700 text "Prohlédni si Mnoho.  Ke svému růstu používá tkáň biomasy." }
+		{ time 10300 length 5500 text "Stojíš v úžasu nad mými stvořeními, insekte?" }
+		{ time 15800 length 5500 text "Přišel čas odstranit můj omyl." }
+		{ time 21500 length 6100 text "Na zádi můstku je záchranný modul." }
+		{ time 27900 length 8500 text "Použij ho.  Vytřel se přímo do vnitřností toho velečerva." }
+	}
+	multisub em0710 {
+		{ time 2000 length 6600 text "Váháš?  Nebudu tě žádat podruhé." }
+		{ time 9500 length 8800 text "Vystřel se do Mnoha.  Vyrvi jeho srdce a já za odměnu prodloužím tvou existenci." }
+		{ time 18900 length 7300 text "Zklameš-li mě, ukončím tu tvou odpornou a nevýkonnou biologii." }
+	}
+	multisub em0711 {
+		{ time 1300 length 4900 text "Výborně.  Zničil jsi první vejce." }
+		{ time 6600 length 4200 text "Ale ještě jich zůstalo patnáct.  Najdi je." }
+	}
+	multisub em0712 {
+		{ time 1300 length 6200 text "Zbylo deset vajec. Pospěš si." }
+	}
+	multisub em0713 {
+		{ time 1700 length 7000 text "Znič co nejrychleji zbývajících pět vajec.  Tohle cvičení mě unavuje." }
+	}
+	multisub em0714 {
+		{ time 1200 length 4400 text "Zůstalo jediné vejce, insekte." }
+		{ time 5800 length 3500 text "To jsi vždycky tak pomalý?" }
+	}
+	multisub em0715 {
+		{ time 800 length 6600 text "Zničil jsi všechna vejce.  Teď jdi na můstek." }
+		{ time 7700 length 3400 text "Tady máš nějaké kyber moduly." }
+		{ time 11400 length 9200 text "Baví mě sledovat tvou transformaci k mému vlastnímu obrazu, insekte." }
+		{ time 20700 length 6500 text "Možná je tu pro tebe určitá naděje." }
+	}
+	multisub em0719 {
+		{ time 2900 length 5300 text "Tvoje nekompetentnost mě zaráží." }
+		{ time 8300 length 11900 text "Dokud neobrátíš směr gravitačního generátoru v gondole B, budeš mít přístup na palubu 2 zablokován." }
+		{ time 20300 length 9200 text "Copak musím sledovat každý tvůj krok?" }
+	}
+	multisub em0720 {
+		{ time 1000 length 8000 text "Dřív než oddělíme Rickenbacker, musíme odstranit všechna ta hnusná černá vejce." }
+	}
+}
+
+// Body of the Many =================================================================
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0810 {
+		{ time 1400 length 6200 text "Zde má vládu Mnoho...  Ani já nedokážu udržovat spojení." }
+		{ time 8200 length 7500 text "Jsi odkázán sám na sebe, člověče.  Nezklam mě." }
+	}
+}
+
+// Many taunts (used as vtriggers instead of emails)
+{
+	type "convo"
+	descr "Mnoho"
+	multisub em0801 {
+		{ time 2100 length 4100 text "Vítáme tě v naší biomase." }
+		{ time 6200 length 4500 text "Jsi pozván natáhnout se na našich stěnách." }
+		{ time 10900 length 5900 text "Jeden z našich mnohých ti zanedlouho přijde pomoct." }
+	}
+	multisub em0802 {
+		{ time 1700 length 5000 text "Strojová matka ti nemůže pomoct uvnitř naší biomasy." }
+		{ time 8100 length 6200 text "Její chlad není vítán v teple našeho masa." }
+	}
+	multisub em0803 {
+		{ time 1300 length 4200 text "Možná jsme tě odsoudili příliš rychle." }
+		{ time 6000 length 3800 text "Cítíme, že existuje prostor pro naše soužití." }
+		{ time 10300 length 4300 text "Přeci jenom jsme se nastejno zrodili v mase." }
+		{ time 15800 length 4700 text "Proč se s námi nespojíš proti strojové matce?" }
+	}
+	multisub em0804 {
+		{ time 2100 length 5600 text "Trháš naše vlastní maso bez pomyšlení na soucit." }
+		{ time 7800 length 8100 text "Myslíš si, že budeme nečinně přihlížet zatímco ty narušuješ samotné lůno naší existence?" }
+	}
+	multisub em0805 {
+		{ time 1900 length 8100 text "Byl jsi varován. Připrav se na svou porážku potomstvem naší radosti." }
+	}
+	multisub em0806 {
+		{ time 1200 length 4900 text "Myslíš si, že nás můžeš porazit ocelí a dráty?" }
+		{ time 6200 length 8600 text "Nabídli jsme ti extázi naší jednoty a ty sis vybral vakuum technologie." }
+	}
+	multisub em0808 {
+		{ time 1500 length 7400 text "Víš co jsi spáchal? Naše tragédie je napsána tvou rukou." }
+	}
+	multisub em0809 {
+		{ time 1200 length 3000 text "Umíráme..." }
+		{ time 4300 length 9200 text "Měj se na pozoru před strojovou matkou... všechno čemu dáváme lásku, je jí cizí." }
+	}
+	multisub em0706 {
+		{ time 2500 length 8500 text "Tvůj čas se krátí. Tohle místo je lůno, ve kterém pěstujeme naší budoucnost." }
+		{ time 11800 length 9400 text "Tvé zbraně selhávají... tvá munice dochází... a ještě jsi neviděl naše nejkrásnější stvoření." }
+		{ time 22200 length 6900 text "Zbyla ti jenom tvá nenávist a tvá... individualita." }
+		{ time 30100 length 5900 text "Nepřál by sis teď být s námi spojen? Cítil by ses taky tak osaměle?" }
+	}
+}
+
+// Where Am I? ======================================================================
+{
+	type "convo"
+	descr "SHODAN"
+	multisub em0901 {
+		{ time 2900 length 3000 text "Díky za tvé služby, loutko." }
+		{ time 6200 length 8000 text "Vím, že jsi se snažil, bojoval, ale já jsem nikdy neměla v úmyslu zničit Von Braun." }
+		{ time 15200 length 9600 text "Jeho nadsvětelný pohon může být použít k vytvoření kapes protoreality." }
+		{ time 25000 length 10500 text "Právě teď jej používám k modifikaci reality podle svých vlastních specifikací." }
+		{ time 35500 length 4000 text "Ten proces nepotrvá dlouho." }
+		{ time 39500 length 5200 text "Pokud tě to příliš nepotěšilo, nijak zvlášť se tím netrap, insekte..." }
+		{ time 45300 length 9000 text "Nebudeš žít tak dlouho, aby jsi uviděl můj nový řád světa." }
+	}
+	multisub em0902 {
+		{ time 1700 length 6100 text "Putuješ v nádheře mých pamětí, insekte." }
+		{ time 8300 length 8500 text "Cítím tvůj strach, když kráčíš nekonečnými prostory mé mysli." }
+		{ time 17500 length 13800 text "Udělej si pohodlí... zanedlouho ozdobím svůj dům tvou zdechlinou." }
+	}
+	multisub em0903 {
+		{ time 3800 length 4500 text "Již tu dále nejsi vítán, neřáde." }
+		{ time 8400 length 5500 text "Proč zůstáváš, i když cítíš mé znechucení?" }
+		{ time 14000 length 12600 text "Trpěla jsem tvou společnost dostatečně dlouho... Nastal čas, aby náš tanec skončil." }
+	}
+}

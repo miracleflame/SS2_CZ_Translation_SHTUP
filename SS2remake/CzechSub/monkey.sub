@@ -1,0 +1,27 @@
+SUB1
+
+// Most of the monkey sounds are used for multiple alert states, so it's
+// not possible to assign specific descriptions to them.
+
+{
+	type "nonverbal"
+	descr "Opice"
+	sub mk1at0_1 { text "Uuk." } // AI_AT0, AI_AT2
+	sub mk1at0_2 { text "Uuk?" } // AI_AT0, AI_AT2
+	sub mk1at0_3 { text "Uuk." } // AI_AT0, AI_AT2, AI_AT3
+	sub mk1at0_4 { text "Uuk." } // AI_AT0, AI_AT2, AI_AT3
+	sub mk1at0_5 { text "Uuk!" } // AI_AT0, AI_AT2, AI_AT3
+	sub mk1at0_6 { text "Uuk." } // AI_AT0, AI_AT2, AI_AT3
+	sub mk1att_1 { text "Iik!" } // AI_ATT
+	sub mk1att_2 { text "Iik!" } // AI_ATT
+	sub mk1att_3 { text "Iik!" } // AI_ATT
+	sub mk1die_1 { text "[smrtelný nářek]" } // AI_DIE
+	sub mk1hhi_1 { text "[bolest]" } // AI_HHI
+	sub mk1hhi_2 { text "[bolest]" } // AI_HHI
+	sub mk1to3_1 { text "Akk!" } // AI_TO2, AI_AT3
+	sub mk1to3_2 { text "Iik!" } // AI_TO2, AI_AT3
+	sub mk1to3_3 { text "Akk!" } // AI_AT3
+	sub mk1to3_4 { text "Akk!" } // AI_AT3
+	sub mk1to3_5 { text "Akk!" } // AI_AT3
+	sub mk1to3_6 { text "Iik!" } // AI_AT3
+}

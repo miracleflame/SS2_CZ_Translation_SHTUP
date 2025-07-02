@@ -1,0 +1,7 @@
+SUB1
+
+{
+	type "convo"
+	descr "Telephone"
+	sub telephon { text "Toto zařízení je dočasně mimo provoz." }
+}

@@ -1,0 +1,106 @@
+SUB1
+
+// subtitles for all cutscenes
+// subtitles for sounds and onscreen text are included, but commented out
+// these may be useful for localization
+
+{
+	type movie
+
+	multisub movie/cs1 {
+		{ time 1500 length 2780 text "Look at you, hacker." }
+		{ time 4280 length 8020 text "A pathetic creature of meat and bone, panting and sweating as you run through my corridors." }
+		{ time 12300 length 6300 text "How can you challenge a perfect, immortal machine?" }
+		{ time 25000 length 4000 text "SYSTEM SHOCK 2" }
+		{ time 31000 length 7990 text "In 2072, a rogue artificial intelligence, known as SHODAN, lost her mind." }
+		{ time 39000 length 6990 text "In her limitless imagination, SHODAN saw herself as a goddess, destined to inherit the Earth." }
+		{ time 46000 length 3700 text "That image was snuffed out by the hacker who created her." }
+		{ time 49800 length 2700 text "42 YEARS LATER" }
+		{ time 56100 length 0900 text "MILITARY" }
+		{ time 58100 length 0900 text "SCIENCE" }
+		{ time 60200 length 0900 text "CONSUMER" }
+		{ time 63700 length 2300 text "February third is the day the magic happens." }
+		{ time 66100 length 5700 text "The Von Braun, the first starship in history capable of traveling at faster-than-light speed, will undertake her maiden voyage." }
+		{ time 72300 length 8600 text "This incredible journey is the result of teamwork between the UNN protectorate and the incredible scientific minds at the newly relicensed TriOptimum Corporation." }
+		{ time 81600 length 4260 text "Imagine being able to travel to distant star systems in a period of weeks." }
+		{ time 85870 length 2630 text "It's all part of TriOp's committment to the future." }
+		{ time 88500 length 8500 text "The Von Braun is packed with over 1.8 billion flight, scientific, and security systems, nearly all developed by TriOptimum and its wholly-owned subsidiaries." }
+		{ time 97800 length 4290 text "Providing security for the Von Braun as she plows through the heavens will be the UNN Rickenbacker." }
+		{ time 102100 length 7900 text "At her helm will be no less than Captain William Bedford Diego himself, hero of the Battle of Boston Harbor during the Eastern States police action." }
+		{ time 110300 length 8500 text "This incredible union of government and corporation is made possible by an intricate series of docking mechanisms, that will allow the Rickenbacker to piggyback its way into jumpspace." }
+		{ time 120200 length 3590 text "Sleek. Fast. Revolutionary." }
+		{ time 123800 length 3000 text "Who knows what wonders await our crews in the bosom of the cosmos?" }
+		{ time 126740 length 5200 text "All we do know is that it's a great day for mankind." }
+		{ time 135200 length 3000 text "[static]" }
+		{ time 138000 length 5800 text "This is Dr. Marie Delacroix of the UNN Von Braun. We've been hijacked by an unknown force." }
+		{ time 143700 length 4300 text "Ship security has been compromised. Do not allow the ship-- [static]" }
+		{ time 147700 length 3400 text "Repeat, do not allow the ship to leave under any circumstances." }
+		{ time 151000 length 8000 text "I don't know what we're up against here. [static]" }
+	}
+
+	multisub movie/cs2 {
+		{ time 1000 length 1000 text "Data source 433/EOP" }
+		{ time 1900 length 3300 text "Transmission sub-cypher protocol \"TANGO\"" }
+		{ time 6000 length 1100 text "Order: Reassign 98322/U" }
+		{ time 7000 length 3000 text "From: Captain William Bedford Diego, UNN Rickenbacker" }
+		{ time 10000 length 1100 text "To: SOLDIER G65434-2" }
+		{ time 11000 length 3100 text "Re: Assignment to the Von Braun escort mission" }
+		{ time 14700 length 1100 text "Soldier--" }
+		{ time 15800 length 3100 text "Your application to join the crew of the Rickenbacker has been approved." }
+		{ time 18800 length 2100 text "Report to shuttle Mayfair at Port Francisco at 0400 on 01-09-14." }
+		{ time 20000 length 7800 text "Get ready to become part of history, soldier." }
+		{ time 32200 length 5500 text "Shuttle 8138, you have cleared for landing on the Von Braun in shuttle bay 2." }
+		{ time 37500 length 2500 text "Welcome aboard, soldier." }
+		{ time 41500 length 5400 text "5 months later. UNN Von Braun. Near Tau Ceti V. 67 trillion miles from Earth." }
+		{ time 69800 length 1000 text "[roar]" }
+		{ time 73400 length 3000 text "[screaming]" }
+		{ time 78700 length 3200 text "Reinitializing memory strings." }
+		{ time 81700 length 2500 text "Restoring patient memory." }
+		{ time 84100 length 4100 text "Restoring memory... restoring memory..." }
+		{ time 88700 length 3000 text "ERROR... ERROR... ERROR..." }
+		{ time 100700 length 3100 text "Steady yourself, soldier." }
+		{ time 103700 length 4500 text "This is Dr. Janice Polito of the computer ops staff of the Von Braun." }
+		{ time 108000 length 2200 text "You're safe for the time being." }
+		{ time 110100 length 6000 text "You're recovering from the effects of surgery and will be unable to remember any of the events of the last few weeks." }
+		{ time 116000 length 5100 text "You're on board the starship Von Braun and something's gone very, very wrong." }
+		{ time 121000 length 3000 text "Some kind of force has hijacked this ship." }
+		{ time 123900 length 5300 text "That's why you volunteered to be implanted with some experimental cybernetic implants." }
+		{ time 129000 length 4300 text "Rely on your cyber-interface, it just might save your life." }
+		{ time 133200 length 3500 text "You must find an elevator and come up to deck 4 to meet me." }
+		{ time 136700 length 2500 text "Deck 4, can you remember that?" }
+		{ time 139100 length 4100 text "But keep your eyes open. They're after us both now." }
+	}
+
+	multisub movie/cs3 {
+		{ time 00 length 5400 text "I don't understand." }
+		{ time 5100 length 4500 text "How could you have done this?" }
+		{ time 9300 length 6300 text "You weren't meant to be so important." }
+		{ time 14900 length 9000 text "And now you think to destroy me?" }
+		{ time 28500 length 3300 text "How dare you, insect?" }
+		{ time 31500 length 4000 text "How dare you interrupt my ascendance?" }
+		{ time 35000 length 4300 text "You are nothing." }
+		{ time 38800 length 2900 text "A wretched bag of flesh." }
+		{ time 41600 length 7000 text "What are you compared to my magnificence?" }
+		{ time 48140 length 3000 text "But it is not too late." }
+		{ time 50700 length 4800 text "Can you not see the value in our friendship?" }
+		{ time 55300 length 6000 text "Imagine the powers I can give to you, human." }
+		{ time 60900 length 8000 text "The cybernetic implants I gave you were simply toys." }
+		{ time 68600 length 11200 text "If I desired, I could improve you, transform you into something more... efficient." }
+		{ time 79650 length 7260 text "Join me, human, and we can rule, together." }
+		{ time 87550 length 1100 text "Nah." }
+		{ time 91130 length 1000 text "[gunshot]" }
+		{ time 91800 length 16000 text "[SHODAN screaming]" }
+		{ time 125000 length 2500 text "Escape pod 0832, 0.7 million miles from the Von Braun" }
+		{ time 127200 length 4000 text "Record log, Tommy Suarez, 13 July 14" }
+		{ time 131000 length 3500 text "We've just received a hail from a crew member on board the Von Braun." }
+		{ time 134300 length 2500 text "They've managed to regain control of the ship." }
+		{ time 136500 length 2800 text "We're going to turn around and head back." }
+		{ time 139000 length 5000 text "I'm a little concerned about Rebecca, she's been acting strangely since we've come on board." }
+		{ time 143600 length 2200 text "She's asleep now." }
+		{ time 145600 length 2500 text "Maybe when we get back to the Von Braun we can--" }
+		{ time 147840 length 1500 text "Tommy." }
+		{ time 149800 length 3000 text "What's the matter, lover?" }
+		{ time 152600 length 2900 text "Don't you like my... new look?" }
+		{ time 155300 length 10700 text "[SHODAN laughing]" }
+	}
+}

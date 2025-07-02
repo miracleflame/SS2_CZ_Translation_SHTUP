@@ -1,0 +1,53 @@
+SUB1
+
+{
+	type "convo"
+	descr "ValueRep"
+	sub replic1e { text "Ahoj! Prosím, vyberte si z nabídky." }
+	sub replic2e { text "Děkujeme vám, že používáte ValueRep." }
+	multisub replic3e {
+		{ time 00 length 2200 text "Doufáme, že jste si replikaci s námi užili." }
+		{ time 2400 length 3000 text "Pamatujte, v Úterý je dvojitý-rep den." }
+	}
+}
+
+{
+	type "convo"
+	descr ""
+	multisub comp_mal {
+		{ time 4900 length 1600 text "Selhání počítače." }
+	}
+}
+
+{
+	type "bark"
+	descr "SHODAN"
+	sub shodoor1 { text "Člověk." }
+	sub shodoor7 { text "Človek." }
+	sub shodoor9 { text "Insekt." }
+}
+
+{
+	type "bark"
+	descr "Grunt"
+	sub grhelp1 { text "Pomozte mi." }
+	sub grhelp2 { text "Někdo mi pomozte." }
+	sub grhelp3 { text "Pomozte mi." }
+}
+
+{
+	type "nonverbal"
+	descr ""
+	sub baby1 { text "[dětský pláč]" }
+	sub baby2 { text "[dětský pláč]" }
+	sub classic { text "[klasická hudba]" }
+	sub screamf1 { text "[ženský výkřik]" }
+	sub screamf2 { text "[ženský výkřik]" }
+	sub screamf3 { text "[ženský výkřik]" }
+	sub screamg1 { text "[ženský výkřik]" }
+	sub screamm1 { text "[mužský výkřik]" }
+	sub screamm2 { text "[mužský výkřik]" }
+	sub screamm3 { text "[mužský výkřik]" }
+	sub toilet { text "[spláchnutí toalety]" }
+}
+
