@@ -1,0 +1,1 @@
+needs thieffon -c blueaa.bmp blueaa.fon when converting.

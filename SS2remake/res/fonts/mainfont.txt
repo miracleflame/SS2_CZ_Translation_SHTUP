@@ -1,0 +1,1 @@
+needs thieffon -c -m mainfont.bmp mainfont.fon when converting.
