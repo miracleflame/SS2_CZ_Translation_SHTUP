@@ -1,0 +1,49 @@
+<rml>
+
+    <head>
+        <title>Language></title>
+        <link type="text/rcss" href="rml.rcss" />
+        <link type="text/rcss" href="sprites.rcss" />
+        <link type="text/rcss" href="shock2.rcss" />
+        <link type="text/template" href="tmpl/gamepad_disconnected.rml" />
+
+        <style>
+            .dialog_contents {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+        </style>
+    </head>
+
+    <body class="transparent modal">
+        <div class="dialog" data-model="shock2_options">
+            <div class="dialog_light"></div>
+            <div class="dialog_title">$options:language</div>
+            <div class="dialog_contents">
+                <input type="radio" class="nav_auto" name="g_language" data-checked="g_language" value="en"
+                    onclick="ev_dialog_close" autofocus>$options:languageEnglish</input>
+                <input type="radio" class="nav_auto" name="g_language" data-checked="g_language" value="cz"
+                    onclick="ev_dialog_close">$options:languageCzech</input>
+                <input type="radio" class="nav_auto" name="g_language" data-checked="g_language" value="fr"
+                    onclick="ev_dialog_close">$options:languageFrench</input>
+                <input type="radio" class="nav_auto" name="g_language" data-checked="g_language" value="de"
+                    onclick="ev_dialog_close">$options:languageGerman</input>
+                <input type="radio" class="nav_auto" name="g_language" data-checked="g_language" value="it"
+                    onclick="ev_dialog_close">$options:languageItalian</input>
+                <input type="radio" class="nav_auto" name="g_language" data-checked="g_language" value="es"
+                    onclick="ev_dialog_close">$options:languageSpanish</input>
+            </div>
+            <div class="dialog_buttons">
+                <div class="dialog_help">
+                    <kex_cicon value="kscan_escape" />
+                    <kex_cicon value="ijsb_cancel" />$back
+                </div>
+                <div class="dialog_help">
+                    <kex_cicon value="imsb_left" />
+                    <kex_cicon value="ijsb_confirm" />$select
+                </div>
+            </div>
+        </div>
+    </body>
+</rml>

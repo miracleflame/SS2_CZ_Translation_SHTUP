@@ -1,0 +1,42 @@
+{
+    "$schema": "../../../../kexEngine/tools/loc/languageSchema.json",
+    "languagesVersion": 1,
+    "languages": [
+        {
+            "id": "en",
+            "name": "English",
+            "filename": "localization/loc_english.txt",
+            "weight": 100
+        },
+        {
+            "id": "fr",
+            "name": "Français",
+            "filename": "localization/loc_french.txt",
+            "weight": 200
+        },
+        {
+            "id": "de",
+            "name": "Deutsch",
+            "filename": "localization/loc_german.txt",
+            "weight": 300
+        },
+        {
+            "id": "it",
+            "name": "Italiano",
+            "filename": "localization/loc_italian.txt",
+            "weight": 400
+        },
+        {
+            "id": "es",
+            "name": "Español",
+            "filename": "localization/loc_spanish.txt",
+            "weight": 500
+        },
+        {
+            "id": "cz",
+            "name": "Česky",
+            "filename": "localization/loc_czech.txt",
+            "weight": 600
+        }
+    ]
+}
