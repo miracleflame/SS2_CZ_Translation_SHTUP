@@ -1448,7 +1448,8 @@ LogText4 = "Ta vejce, která jsme našli poblíž pozorovací místnosti jsou od
 LogName16 = "CORTEZ 09.7.2114\nre: Pod zahradou"
 LogPortrait16 = "Cortez"
 LogIcon16 = "RecIcon"
-Pracuji na odstranění všech těch těl, která se zde hromadí.\n\nOšetřovny jsou již plné, a všechny záchranné moduly i katapultovací roury jsou záhadně zablokované - a něco s nimi udělat musíme.\n\nZa hřbitov jsem si vybral údržbářský tunel pod Zahradou.\n\nVstupní kód je 34093.\n\nŘíkám všem, aby byli opatrní...\nJá mrtvým nevěřím.\n"LogText16 = "Pro: Delacroix, Dr. Marie\n
+LogText16 = "Pro: Delacroix, Dr. Marie\n
+Pracuji na odstranění všech těch těl, která se zde hromadí.\n\nOšetřovny jsou již plné, a všechny záchranné moduly i katapultovací roury jsou záhadně zablokované - a něco s nimi udělat musíme.\n\nZa hřbitov jsem si vybral údržbářský tunel pod Zahradou.\n\nVstupní kód je 34093.\n\nŘíkám všem, aby byli opatrní...\nJá mrtvým nevěřím.\n"
 
 
 LogName13 = "MURDOCHOVÁ 09.7.2114\nre: -------"
