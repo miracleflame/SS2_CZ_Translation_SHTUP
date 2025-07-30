@@ -2209,32 +2209,32 @@
 					"sound": "vault/Sounds_Music/Soundtrack/04 - Josh Randall - Engineering.flac"
 				},
 				{
-					"title": "Ops 1",
-					"description": "Ops 1 – Skladatel: Ramin Djawadi.",
+					"title": "Operace 1",
+					"description": "Operace 1 – Skladatel: Ramin Djawadi.",
 					"type": "music",
 					"sound": "vault/Sounds_Music/Soundtrack/05 - Ramin Djawadi - Ops 1.flac"
 				},
 				{
-					"title": "Hydro 1",
-					"description": "Hydro 1 – Skladatel: Josh Randall.",
+					"title": "Hydroponika 1",
+					"description": "Hydroponika 1 – Skladatel: Josh Randall.",
 					"type": "music",
 					"sound": "vault/Sounds_Music/Soundtrack/06 - Josh Randall - Hydro 1.flac"
 				},
 				{
-					"title": "Hydro 2",
-					"description": "Hydro 2 – Skladatel: Ramin Djawadi.",
+					"title": "Hydroponika 2",
+					"description": "Hydroponika 2 – Skladatel: Ramin Djawadi.",
 					"type": "music",
 					"sound": "vault/Sounds_Music/Soundtrack/07 - Ramin Djawadi - Hydro 2.flac"
 				},
 				{
-					"title": "Ops 2",
-					"description": "Ops 2 – Skladatel: Josh Randall.",
+					"title": "Operace 2",
+					"description": "Operace 2 – Skladatel: Josh Randall.",
 					"type": "music",
 					"sound": "vault/Sounds_Music/Soundtrack/08 - Josh Randall - Ops 2.flac"
 				},
 				{
-					"title": "Ops 3",
-					"description": "Ops 3 – Skladatel: Ramin Djawadi.",
+					"title": "Operace 3",
+					"description": "Operace 3 – Skladatel: Ramin Djawadi.",
 					"type": "music",
 					"sound": "vault/Sounds_Music/Soundtrack/09 - Ramin Djawadi - Ops 3.flac"
 				},
@@ -2257,14 +2257,14 @@
 					"sound": "vault/Sounds_Music/Soundtrack/12 - Ramin Djawadi - Command 3.flac"
 				},
 				{
-					"title": "Recreation",
-					"description": "Recreation – Skladatel: Ramin Djawadi.",
+					"title": "Rekreace",
+					"description": "Rekreace – Skladatel: Ramin Djawadi.",
 					"type": "music",
 					"sound": "vault/Sounds_Music/Soundtrack/13 - Ramin Djawadi - Rec.flac"
 				},
 				{
-					"title": "Titulky",
-					"description": "Titulky – Skladatelé: Eric Brosius a Josh Randall.",
+					"title": "Autoři",
+					"description": "Autoři – Skladatelé: Eric Brosius a Josh Randall.",
 					"type": "music",
 					"sound": "vault/Sounds_Music/Soundtrack/14 - Josh Randall, Eric Brosius - Credits.flac"
 				},
@@ -2326,21 +2326,21 @@
 					"movie": "cutscenes/vault/videos/may1999/ss2_beta-starport.mp4"
 				},
 				{
-					"title": "Raný Cutscene1",
+					"title": "Raný Filmeček 1",
 					"description": "Nalezeno ve verzi ze dne 20. května 1999.\nMírně odlišná verze „úvodního“ videa s drobnými rozdíly.",
 					"type": "movie",
 					"preview": "Videos/May1999/ss2_beta-cs1.png",
 					"movie": "cutscenes/vault/videos/may1999/ss2_beta-cs1.mp4"
 				},
 				{
-					"title": "Raný Cutscene2",
+					"title": "Raný Filmeček 2",
 					"description": "Nalezeno ve verzi ze dne 20. května 1999.\nMírně odlišná verze videa „nalodění na von Braun“ s menšími rozdíly a bez úvodního textu.",
 					"type": "movie",
 					"preview": "Videos/May1999/ss2_beta-cs2.png",
 					"movie": "cutscenes/vault/videos/may1999/ss2_beta-cs2.mp4"
 				},
 				{
-					"title": "Raný Cutscene3",
+					"title": "Raný Filmeček 3",
 					"description": "Nalezeno ve verzi ze dne 20. května 1999.\nFinální závěrečný filmeček v této fázi vývoje ještě neexistoval, ale video použité jako zástupce potěší některé Taffery.",
 					"type": "movie",
 					"preview": "Videos/May1999/ss2_beta-cs3.png",
@@ -2349,7 +2349,7 @@
 			]
 		},
 		{
-			"title": "Originální filmečky",
+			"title": "Původní filmečky",
 			"type": "folder",
 			"description": "TATO SEKCE OBSAHUJE SPOILERY!\nSbírka filmečků z různých fází vývoje.",
 			"items": [
@@ -2361,57 +2361,57 @@
 					"movie": "cutscenes/vault/videos/original_cutscenes/intro.mp4"
 				},
 				{
-					"title": "Finální Cutscene1",
+					"title": "Finální Filmeček 1",
 					"description": "Finální verze videa Cutscene1.",
 					"type": "movie",
 					"preview": "Videos/cs1.png",
 					"movie": "cutscenes/vault/videos/original_cutscenes/cs1.mp4"
 				},
 				{
-					"title": "Finální Cutscene2",
+					"title": "Finální Filmeček 2",
 					"description": "Finální verze videa Cutscene2.",
 					"type": "movie",
 					"preview": "Videos/cs2.png",
 					"movie": "cutscenes/vault/videos/original_cutscenes/cs2.mp4"
 				},
 				{
-					"title": "Finální Cutscene3",
+					"title": "Finální Filmeček 3",
 					"description": "Finální verze videa Cutscene3.",
 					"type": "movie",
 					"preview": "Videos/cs3.png",
 					"movie": "cutscenes/vault/videos/original_cutscenes/cs3.mp4"
 				},
 				{
-					"title": "Finální Shuttle1",
+					"title": "Finální Člun 1",
 					"description": "Finální verze videa Shuttle1.",
 					"type": "movie",
 					"preview": "Videos/shuttle1.png",
 					"movie": "cutscenes/vault/videos/original_cutscenes/shuttle1.mp4"
 				},
 				{
-					"title": "Finální Shuttle2",
+					"title": "Finální Člun 2",
 					"description": "Finální verze videa Shuttle2.",
 					"type": "movie",
 					"preview": "Videos/shuttle2.png",
 					"movie": "cutscenes/vault/videos/original_cutscenes/shuttle2.mp4"
 				},
 				{
-					"title": "Finální Shuttle3",
+					"title": "Finální Člun 3",
 					"description": "Finální verze videa Shuttle3.",
 					"type": "movie",
 					"preview": "Videos/shuttle3.png",
 					"movie": "cutscenes/vault/videos/original_cutscenes/shuttle3.mp4"
 				},
 				{
-					"title": "Finální Starport",
+					"title": "Finální Přístav",
 					"description": "Finální verze videa Starport.",
 					"type": "movie",
 					"preview": "Videos/starport.png",
 					"movie": "cutscenes/vault/videos/original_cutscenes/starport.mp4"
 				},
 				{
-					"title": "Originální titulky",
-					"description": "Originální video s titulky ke hře System Shock 2 (vylepšené o lepší zvuk).",
+					"title": "Původní Autoři",
+					"description": "Původní video s autory hry System Shock 2 (vylepšený zvuk).",
 					"type": "movie",
 					"preview": "Videos/credits_original.jpg",
 					"movie": "cutscenes/vault/videos/credits_original.mp4"
@@ -3183,8 +3183,8 @@
 					"sound": "vault/Sounds_Music/Unused_Beta_Voice_Clips/Janice_Polito/EM0202.WAV"
 				},
 				{
-					"title": "Tato energetická buňka je vybitá...",
-					"description": "Alternativní replika o první energetické buňce. Zmiňuje vakuové štíty jiným způsobem.",
+					"title": "Tato energetický článek je vybitá...",
+					"description": "Alternativní replika o první energetickém článku. Zmiňuje vakuové štíty jiným způsobem.",
 					"type": "sound",
 					"image": "",
 					"sound": "vault/Sounds_Music/Unused_Beta_Voice_Clips/Janice_Polito/EM0209.WAV"
