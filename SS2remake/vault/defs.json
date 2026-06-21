@@ -297,6 +297,69 @@
 						"Documents_Manuals_Scans/Reference_Card_UK/preview/SS2_Reference_Card_UK_14_15_preview.jpg",
 						"Documents_Manuals_Scans/Reference_Card_UK/preview/SS2_Reference_Card_UK_16_preview.jpg"
 					]
+				},
+				{
+					"title": "Polish Manual",
+					"type": "images",
+					"description": "Původní polský manuál.",
+					"images": [
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_00_Cover.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_01.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_02_03.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_04_05.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_06_07.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_08_09.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_10_11.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_12_13.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_14_15.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_16_17.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_18_19.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_20_21.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_22_23.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_24_25.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_26_27.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_28_29.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_30_31.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_32_33.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_34_35.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_36_37.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_38_39.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_40_41.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_42_43.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_44_45.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_46_47.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_48.jpg",
+						"Documents_Manuals_Scans/Manual_PL/SS2_Manual_PL_49_Back.jpg"
+					],
+					"previews": [
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_00_Cover_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_01_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_02_03_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_04_05_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_06_07_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_08_09_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_10_11_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_12_13_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_14_15_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_16_17_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_18_19_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_20_21_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_22_23_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_24_25_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_26_27_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_28_29_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_30_31_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_32_33_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_34_35_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_36_37_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_38_39_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_40_41_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_42_43_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_44_45_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_46_47_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_48_preview.jpg",
+						"Documents_Manuals_Scans/Manual_PL/preview/SS2_Manual_PL_49_Back_preview.jpg"
+					]
 				}
 			]
 		},
@@ -1092,21 +1155,87 @@
 			"image": "Documents_Manuals_Scans/Game_Developer_Nov_1999/preview/game_developer_nov_1999_cover_preview.jpg",
 			"description": "Sbírka článků, skenů a reklam na hru z různých tištěných magazínů.",
 			"items": [
-								{
-			"title": "Tisková reklama",
-			"type": "image",
-			"description": "Dvoustánková tisková reklama na hru.",
-			"preview": "Documents_Manuals_Scans/Advertisements/preview/PC_Accelerator_Advert_preview.png",
-			"image": "Documents_Manuals_Scans/Advertisements/PC_Accelerator_Advert.png"
+				{
+					"title": "Tisková reklama",
+					"type": "image",
+					"description": "Dvoustánková tisková reklama na hru.",
+					"preview": "Documents_Manuals_Scans/Advertisements/preview/PC_Accelerator_Advert_preview.png",
+					"image": "Documents_Manuals_Scans/Advertisements/PC_Accelerator_Advert.png"
 				},
 				{
-			"title": "Reklama v PC Format",
-			"type": "image",
-			"description": "Reklama v britském vydání časopisu PC Format z listopadu 1999.",
-			"preview": "Documents_Manuals_Scans/Advertisements/preview/PC_Format_Nov_1999_preview.jpg",
-			"image": "Documents_Manuals_Scans/Advertisements/PC_Format_Nov_1999.png"
+					"title": "Y2K reklama",
+					"type": "image",
+					"description": "Jednostánková tisková reklama na hru.",
+					"preview": "Documents_Manuals_Scans/Advertisements/preview/Y2K_Ad_preview.jpg",
+					"image": "Documents_Manuals_Scans/Advertisements/Y2K_Ad.png"
 				},
-				
+				{
+					"title": "CVG Ukázka",
+					"type": "image",
+					"description": "Ukázka hry v časopisu CVG.",
+					"preview": "Documents_Manuals_Scans/Previews/preview/CVG_Preview_Oct_1999_01_preview.png",
+					"image": "Documents_Manuals_Scans/Previews/CVG_Preview_Oct_1999_01.png"
+				},
+				{
+					"title": "Reklama v PC Format",
+					"type": "image",
+					"description": "Reklama v britském vydání časopisu PC Format z listopadu 1999.",
+					"preview": "Documents_Manuals_Scans/Advertisements/preview/PC_Format_Nov_1999_preview.jpg",
+					"image": "Documents_Manuals_Scans/Advertisements/PC_Format_Nov_1999.png"
+				},
+				{
+					"title": "Arcade Recenze",
+					"type": "image",
+					"description": "Jednostránková recenze hry z prosincového čísla časopisu Arcade z roku 1999.",
+					"preview": "Documents_Manuals_Scans/Reviews/preview/Arcade_Dec_1999_preview.png",
+					"image": "Documents_Manuals_Scans/Reviews/Arcade_Dec_1999.png"
+				},
+				{
+					"title": "Recenze v CVG",
+					"type": "images",
+					"description": "Dvoustránková recenze hry z listopadového čísla časopisu CVG z roku 1999.",
+					"images": [
+						"Documents_Manuals_Scans/Reviews/CVG_Nov_1999_01.png",
+						"Documents_Manuals_Scans/Reviews/CVG_Nov_1999_02.png"
+					],
+					"previews": [
+						"Documents_Manuals_Scans/Reviews/preview/CVG_Nov_1999_01_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/CVG_Nov_1999_02_preview.png"
+					]
+				},
+				{
+					"title": "Recenze v Edge",
+					"type": "image",
+					"description": "Jednostránková recenze hry z časopisu Edge.",
+					"preview": "Documents_Manuals_Scans/Reviews/preview/EDGE_Nov_1999_preview.png",
+					"image": "Documents_Manuals_Scans/Reviews/EDGE_Nov_1999.png"
+				},
+				{
+					"title": "Recenze v GamesMasteru",
+					"type": "images",
+					"description": "Recenze hry z listopadového čísla časopisu GamesMaster z roku 1999.",
+					"images": [
+						"Documents_Manuals_Scans/Reviews/GamesMaster_Nov_1999_01.png",
+						"Documents_Manuals_Scans/Reviews/GamesMaster_Nov_1999_02.png"
+					],
+					"previews": [
+						"Documents_Manuals_Scans/Reviews/preview/GamesMaster_Nov_1999_01_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/GamesMaster_Nov_1999_02_preview.png"
+					]
+				},
+				{
+					"title": "Recenze v Hyperu",
+					"type": "images",
+					"description": "Recenze hry z listopadového čísla časopisu Hyper z roku 1999.",
+					"images": [
+						"Documents_Manuals_Scans/Reviews/Hyper_Nov_1999_01.png",
+						"Documents_Manuals_Scans/Reviews/Hyper_Nov_1999_02.png"
+					],
+					"previews": [
+						"Documents_Manuals_Scans/Reviews/preview/Hyper_Nov_1999_01_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/Hyper_Nov_1999_02_preview.png"
+					]
+				},
 				{
 					"title": "PC Accelerator – říjen 1999",
 					"type": "images",
@@ -1118,6 +1247,70 @@
 					"previews": [
 						"Documents_Manuals_Scans/Reviews/preview/PC_Accelerator_Oct_1999_01_preview.png",
 						"Documents_Manuals_Scans/Reviews/preview/PC_Accelerator_Oct_1999_02_preview.png"
+					]
+				},
+				{
+					"title": "Recenze v PC Format – prosinec 1999",
+					"type": "images",
+					"description": "Recenze hry z prosincového vydání časopisu PC Format (1999).",
+					"images": [
+						"Documents_Manuals_Scans/Reviews/PC_Format_Dec_1999_01.jpg",
+						"Documents_Manuals_Scans/Reviews/PC_Format_Dec_1999_02.jpg",
+						"Documents_Manuals_Scans/Reviews/PC_Format_Dec_1999_03.jpg"
+					],
+					"previews": [
+						"Documents_Manuals_Scans/Reviews/preview/PC_Format_Dec_1999_01_preview.jpg",
+						"Documents_Manuals_Scans/Reviews/preview/PC_Format_Dec_1999_02_preview.jpg",
+						"Documents_Manuals_Scans/Reviews/preview/PC_Format_Dec_1999_03_preview.jpg"
+					]
+				},
+				{
+					"title": "Recenze v PC Gamer UK",
+					"type": "images",
+					"description": "Recenze hry z listopadového čísla časopisu PC Gamer UK z roku 1999.",
+					"images": [
+						"Documents_Manuals_Scans/Reviews/PC_Gamer_UK_Nov_1999_01.png",
+						"Documents_Manuals_Scans/Reviews/PC_Gamer_UK_Nov_1999_02.png",
+						"Documents_Manuals_Scans/Reviews/PC_Gamer_UK_Nov_1999_03.png"
+					],
+					"previews": [
+						"Documents_Manuals_Scans/Reviews/preview/PC_Gamer_UK_Nov_1999_01_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/PC_Gamer_UK_Nov_1999_02_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/PC_Gamer_UK_Nov_1999_03_preview.png"
+					]
+				},
+				{
+					"title": "Recenze v PC Gamer US",
+					"type": "images",
+					"description": "Recenze hry z říjnového čísla časopisu PC Gamer US z roku 1999.",
+					"images": [
+						"Documents_Manuals_Scans/Reviews/PC_Gamer_US_Oct_1999_01.png",
+						"Documents_Manuals_Scans/Reviews/PC_Gamer_US_Oct_1999_02.png",
+						"Documents_Manuals_Scans/Reviews/PC_Gamer_US_Oct_1999_03.png",
+						"Documents_Manuals_Scans/Reviews/PC_Gamer_US_Oct_1999_04.png"
+					],
+					"previews": [
+						"Documents_Manuals_Scans/Reviews/preview/PC_Gamer_US_Oct_1999_01_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/PC_Gamer_US_Oct_1999_02_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/PC_Gamer_US_Oct_1999_03_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/PC_Gamer_US_Oct_1999_04_preview.png"
+					]
+				},
+				{
+					"title": "Recenze v PC PowerPlay",
+					"type": "images",
+					"description": "Recenze hry z listopadového čísla časopisu PC PowerPlay z roku 1999.",
+					"images": [
+						"Documents_Manuals_Scans/Reviews/PC_PowerPlay_Nov_1999_01.png",
+						"Documents_Manuals_Scans/Reviews/PC_PowerPlay_Nov_1999_02.png",
+						"Documents_Manuals_Scans/Reviews/PC_PowerPlay_Nov_1999_03.png",
+						"Documents_Manuals_Scans/Reviews/PC_PowerPlay_Nov_1999_04.png"
+					],
+					"previews": [
+						"Documents_Manuals_Scans/Reviews/preview/PC_PowerPlay_Nov_1999_01_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/PC_PowerPlay_Nov_1999_02_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/PC_PowerPlay_Nov_1999_03_preview.png",
+						"Documents_Manuals_Scans/Reviews/preview/PC_PowerPlay_Nov_1999_04_preview.png"
 					]
 				},
 				{
@@ -1146,21 +1339,6 @@
 						"Documents_Manuals_Scans/Game_Developer_Nov_1999/preview/game_developer_nov_1999_07_preview.png",
 						"Documents_Manuals_Scans/Game_Developer_Nov_1999/preview/game_developer_nov_1999_08_preview.png"
 					]
-				},
-				{
-					"title": "Recenze v PC Format – prosinec 1999",
-					"type": "images",
-					"description": "Recenze hry z prosincového vydání časopisu PC Format (1999).",
-					"images": [
-						"Documents_Manuals_Scans/Reviews/PC_Format_Dec_1999_01.jpg",
-						"Documents_Manuals_Scans/Reviews/PC_Format_Dec_1999_02.jpg",
-						"Documents_Manuals_Scans/Reviews/PC_Format_Dec_1999_03.jpg"
-					],
-					"previews": [
-						"Documents_Manuals_Scans/Reviews/preview/PC_Format_Dec_1999_01_preview.jpg",
-						"Documents_Manuals_Scans/Reviews/preview/PC_Format_Dec_1999_02_preview.jpg",
-						"Documents_Manuals_Scans/Reviews/preview/PC_Format_Dec_1999_03_preview.jpg"
-					]
 				}
 			]
 		},
@@ -1185,6 +1363,12 @@
 					"type": "image",
 					"image": "Enemies/Hybrid/ss2_007.jpg",
 					"description": "Konceptuální ilustrace hybridů, někdy označovaných jako 'Pěchota' nebo 'KdysiPěchota'. "
+				},
+				{
+					"title": "Textura z roku 98",
+					"type": "image",
+					"image": "Enemies/Hybrid/ONCETEX4.PNG",
+					"description": "Starší verze hybrida z roku 98. Název souboru: ONCETEX4.GIF, datum: 10. července 1998."
 				}
 			]
 		},
@@ -1192,20 +1376,32 @@
 			"title": "Asistentka Kyberchůvy",
 			"type": "folder",
 			"image": "Enemies/Cyborg_Midwife/midwife.jpg",
-			"description": "Konceptuální ilustrace asistentky kyberchůvy.",
+			"description": "Konceptuální ilustrace kyberchůvy.",
 			"items": [
 				{
 					"title": "Koncept Kyberchůvy 1",
 					"type": "image",
 					"image": "Enemies/Cyborg_Midwife/midwife.jpg",
-					"description": "Konceptuální ilustrace asistentky kyberchůvy"
+					"description": "Konceptuální ilustrace kyberchůvy"
 				},
 				{
 					"title": "Koncept Kyberchůvy 2",
 					"type": "image",
 					"image": "Enemies/Cyborg_Midwife/midwife2.jpg",
-					"description": "Konceptuální ilustrace asistentky kyberchůvy"
-				}
+					"description": "Konceptuální ilustrace kyberchůvy"
+				},
+				{
+					"title": "Textura z roku 98",
+					"type": "image",
+					"image": "Enemies/Cyborg_Midwife/femtex20b.PNG",
+					"description": "Starší verze kyberchůvy z roku 98. Název souboru: femtex20b.GIF, datum: 11. listopadu 1998."
+				},
+				{
+					"title": "Verze s obnoveným obličejem",
+					"type": "image",
+					"image": "Enemies/Cyborg_Midwife/FEMTEX21.PNG",
+					"description": "Verze Porodní báby bez obličeje staženého z masa. Tento soubor byl nalezen jako .BAK a finální verze textury pro tuto postavu mohla být dokončena o 9 dní později. Název souboru: FEMTEX21.GIF, datum: 1. března 1999."
+				},
 			]
 		},
 		{
@@ -1269,6 +1465,32 @@
 					"type": "image",
 					"image": "Enemies/Rumbler/ss2_012.jpg",
 					"description": "Konceptuální ilustrace Rachoracha."
+				},
+				{
+					"title": "Textura z roku 98 1",
+					"type": "image",
+					"image": "Enemies/Rumbler/rumbletex17.png",
+					"description": "Starší verze Rachoracha z roku 98. Název souboru: rumbletex17.gif, datum: 1. září 1998."
+				},
+				{
+					"title": "Textura z roku 98 2",
+					"type": "image",
+					"image": "Enemies/Rumbler/rumbletex31.png",
+					"description": "Starší verze Rachoracha z roku 98. Název souboru: rumbletex31.gif, datum: 8. září 1998."
+				}
+			]
+		},
+		{
+			"title": "SHODAN",
+			"type": "folder",
+			"image": "",
+			"description": "Koncepty a různé verze SHODAN z průběhu vývoje.",
+			"items": [
+				{
+					"title": "Textura z roku 98",
+					"type": "image",
+					"image": "Enemies/SHODAN/SHODAN.PNG",
+					"description": "Starší verze SHODAN v červeném kimonu. Název souboru: SHODAN.GIF, datum: 11. listopadu 1998."
 				}
 			]
 		},

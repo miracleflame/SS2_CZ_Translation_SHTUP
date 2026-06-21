@@ -32,11 +32,17 @@
             "filename": "localization/loc_spanish.txt",
             "weight": 500
         },
+		{
+            "id": "pt-br",
+            "name": "Português (Brasil)",
+            "filename": "localization/loc_portuguese.txt",
+            "weight": 600
+        },
         {
             "id": "cz",
             "name": "Česky",
             "filename": "localization/loc_czech.txt",
-            "weight": 600
+            "weight": 700
         }
     ]
 }

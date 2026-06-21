@@ -33,6 +33,8 @@
                     onclick="ev_dialog_close">$options:languageItalian</input>
                 <input type="radio" class="nav_auto" name="g_language" data-checked="g_language" value="es"
                     onclick="ev_dialog_close">$options:languageSpanish</input>
+				<input type="radio" class="nav_auto" name="g_language" data-checked="g_language" value="pt-br"
+                    onclick="ev_dialog_close">$options:languagePortuguese</input>
             </div>
             <div class="dialog_buttons">
                 <div class="dialog_help">
